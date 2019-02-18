@@ -1,21 +1,21 @@
 <!DOCTYPE html><html class="no-js" lang=""><head>
-        <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit_main.js?0.7021933717187494"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script src="//connect.getflowbox.com/1.8.18/embed.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PVTRNVJ"></script><script data-cfasync="false" type="text/javascript">
+        <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit_main.js?0.14285483583807945"></script><script src="//connect.getflowbox.com/1.8.18/embed.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PVTRNVJ"></script><script data-cfasync="false" type="text/javascript">
             var dataLayer = dataLayer || [];
         </script>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <base href="https://loods5.nl/product/905/nyaman-slaapbank/2433">
+        <base href="https://loods5.nl/product/4026/stoel-yi-shell/10515">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="generator" content="Joomla! - Open Source Content Management">
-	<title>Nyaman slaapbank - Artikelen - Loods 5</title>
+	<title>Stoel YI Shell - Artikelen - Loods 5</title>
 	<link href="/templates/loods5/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 	<script type="text/javascript">
 
 dataLayer = [{
     'pageCategory': 'Productpagina',
-    'product': 'Nyaman slaapbank',
-    'productId': '2433',
-    'startPrice': '427.15'
+    'product': 'Stoel YI Shell',
+    'productId': '10516',
+    'startPrice': '129.00'
 }];
 
 	</script>
@@ -48,7 +48,7 @@ dataLayer = [{
             })(window,document,'script','dataLayer','GTM-PVTRNVJ');</script>
         <!-- End Google Tag Manager -->
 
-    <style type="text/css"> span.PIN_1550433498217_embed_grid { 
+    <style type="text/css"> span.PIN_1550439001787_embed_grid { 
   width: 100%;
   max-width: 257px;
   min-width: 140px;
@@ -63,7 +63,7 @@ dataLayer = [{
   cursor: pointer;
   -webkit-font-smoothing: antialiased;
 }
- span.PIN_1550433498217_embed_grid * { 
+ span.PIN_1550439001787_embed_grid * { 
   display: block;
   position: relative;
   font: inherit;
@@ -74,10 +74,10 @@ dataLayer = [{
   padding: 0;
   text-align: left;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_hd { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_hd { 
   height: 55px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_hd .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_hd .PIN_1550439001787_img { 
   position: absolute;
   top: 10px;
   left: 10px;
@@ -87,7 +87,7 @@ dataLayer = [{
   background: transparent url () 0 0 no-repeat;
   background-size: cover;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_hd .PIN_1550433498217_pinner { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_hd .PIN_1550439001787_pinner { 
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -98,25 +98,25 @@ dataLayer = [{
   font-size: 14px;
   font-weight: bold;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_bd { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_bd { 
   padding: 0 10px;
   -moz-scrollbars: none;
   -ms-overflow-style: none;
   overflow-x: hidden;
   overflow-y: auto;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_bd .PIN_1550433498217_ct { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_bd .PIN_1550439001787_ct { 
   width: 100%;
   height: auto;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   display: inline-block;
   width: 100%;
   padding: 1px;
   vertical-align: top;
   min-width: 60px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col .PIN_1550439001787_img { 
   margin: 0;
   display: inline-block;
   width: 100%;
@@ -125,10 +125,10 @@ dataLayer = [{
   box-shadow: inset 0 0 1px #000;
   border-radius: 2px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft { 
   padding: 11px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button { 
   border-radius: 3px;
   text-align: center;
   box-shadow: inset 0 0 1px #888;
@@ -141,19 +141,19 @@ dataLayer = [{
   min-width: 70px;
   padding: 0 3px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button .PIN_1550433498217_label { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button .PIN_1550439001787_label { 
   position: absolute;
   left: 0;
   width: 100%;
   text-align: center;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button .PIN_1550433498217_label.PIN_1550433498217_top { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button .PIN_1550439001787_label.PIN_1550439001787_top { 
   top: 0;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button .PIN_1550433498217_label.PIN_1550433498217_bottom { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button .PIN_1550439001787_label.PIN_1550439001787_bottom { 
   bottom: 0;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button .PIN_1550433498217_label .PIN_1550433498217_string { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button .PIN_1550439001787_label .PIN_1550439001787_string { 
   white-space: pre;
   color: #746d6a;
   font-size: 13px;
@@ -163,7 +163,7 @@ dataLayer = [{
   height: 33px;
   line-height: 33px;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button .PIN_1550433498217_label .PIN_1550433498217_logo { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button .PIN_1550439001787_label .PIN_1550439001787_logo { 
   display: inline-block;
   vertical-align: bottom;
   height: 32px;
@@ -171,16 +171,16 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTJweCIgd2lkdGg9IjUwcHgiIHZpZXdCb3g9IjAgMCA1MCAxMiI+PGc+PHBhdGggZD0iTTE5LjY5LDkuMjggTDE5LjY5LDQuMjggTDIxLjI3LDQuMjggTDIxLjI3LDkuMjggTDE5LjY5LDkuMjggWiBNNS45NywwLjAwIEM5LjI3LDAuMDAgMTEuOTUsMi42OSAxMS45NSw2LjAwIEMxMS45NSw5LjMxIDkuMjcsMTIuMDAgNS45NywxMi4wMCBDNS4zOCwxMi4wMCA0LjgwLDExLjkxIDQuMjYsMTEuNzUgQzQuMjYsMTEuNzUgNC4yNiwxMS43NSA0LjI2LDExLjc1IEM0LjI1LDExLjc1IDQuMjQsMTEuNzQgNC4yMywxMS43NCBMNC4yMSwxMS43MyBDNC4yMSwxMS43MyA0LjIxLDExLjczIDQuMjEsMTEuNzMgQzQuNDUsMTEuMzMgNC44MSwxMC42OCA0Ljk1LDEwLjE2IEM1LjAyLDkuODggNS4zMiw4LjczIDUuMzIsOC43MyBDNS41Miw5LjExIDYuMDgsOS40MiA2LjY5LDkuNDIgQzguNDksOS40MiA5Ljc5LDcuNzYgOS43OSw1LjY5IEM5Ljc5LDMuNzEgOC4xOCwyLjIzIDYuMTEsMi4yMyBDMy41MywyLjIzIDIuMTYsMy45NiAyLjE2LDUuODYgQzIuMTYsNi43NCAyLjYzLDcuODMgMy4zNyw4LjE4IEMzLjQ5LDguMjMgMy41NSw4LjIxIDMuNTcsOC4xMCBDMy41OSw4LjAyIDMuNjksNy42MSAzLjc0LDcuNDIgQzMuNzUsNy4zNiAzLjc1LDcuMzEgMy43MCw3LjI1IEMzLjQ1LDYuOTUgMy4yNSw2LjM5IDMuMjUsNS44OCBDMy4yNSw0LjU1IDQuMjUsMy4yNyA1Ljk1LDMuMjcgQzcuNDIsMy4yNyA4LjQ1LDQuMjggOC40NSw1LjcxIEM4LjQ1LDcuMzQgNy42Myw4LjQ2IDYuNTcsOC40NiBDNS45OCw4LjQ2IDUuNTQsNy45OCA1LjY4LDcuMzggQzUuODUsNi42NyA2LjE4LDUuOTAgNi4xOCw1LjM4IEM2LjE4LDQuOTIgNS45Myw0LjU0IDUuNDIsNC41NCBDNC44Miw0LjU0IDQuMzQsNS4xNiA0LjM0LDUuOTkgQzQuMzQsNi41MiA0LjUyLDYuODggNC41Miw2Ljg4IEM0LjUyLDYuODggMy45Myw5LjQwIDMuODIsOS44NyBDMy43MCwxMC4zOCAzLjc1LDExLjExIDMuODAsMTEuNTkgTDMuODAsMTEuNTkgQzMuNzksMTEuNTkgMy43OCwxMS41OCAzLjc4LDExLjU4IEMzLjc3LDExLjU4IDMuNzYsMTEuNTggMy43NiwxMS41NyBDMy43NiwxMS41NyAzLjc2LDExLjU3IDMuNzYsMTEuNTcgQzEuNTYsMTAuNjkgMC4wMCw4LjUzIDAuMDAsNi4wMCBDMC4wMCwyLjY5IDIuNjcsMC4wMCA1Ljk3LDAuMDAgWiBNMTYuODcsMi4zMSBDMTcuNzEsMi4zMSAxOC4zNCwyLjU0IDE4Ljc2LDIuOTUgQzE5LjIxLDMuMzcgMTkuNDYsMy45NiAxOS40Niw0LjY2IEMxOS40Niw2LjAwIDE4LjU0LDYuOTUgMTcuMTEsNi45NSBMMTUuNzIsNi45NSBMMTUuNzIsOS4yOCBMMTQuMTIsOS4yOCBMMTQuMTIsMi4zMSBMMTYuODcsMi4zMSBaIE0xNi45NCw1LjU4IEMxNy41Niw1LjU4IDE3LjkxLDUuMjEgMTcuOTEsNC42NSBDMTcuOTEsNC4xMCAxNy41NSwzLjc2IDE2Ljk0LDMuNzYgTDE1LjcyLDMuNzYgTDE1LjcyLDUuNTggTDE2Ljk0LDUuNTggWiBNNTAuMDAsNS4yOCBMNDkuMTksNS4yOCBMNDkuMTksNy42MiBDNDkuMTksOC4wMSA0OS40MCw4LjExIDQ5Ljc0LDguMTEgQzQ5LjgzLDguMTEgNDkuOTMsOC4xMCA1MC4wMCw4LjEwIEw1MC4wMCw5LjI4IEM0OS44NCw5LjMxIDQ5LjU4LDkuMzMgNDkuMjIsOS4zMyBDNDguMzAsOS4zMyA0Ny42NCw5LjAzIDQ3LjY0LDcuOTYgTDQ3LjY0LDUuMjggTDQ3LjE2LDUuMjggTDQ3LjE2LDQuMjggTDQ3LjY0LDQuMjggTDQ3LjY0LDIuNzAgTDQ5LjE5LDIuNzAgTDQ5LjE5LDQuMjggTDUwLjAwLDQuMjggTDUwLjAwLDUuMjggWiBNNDUuMzEsNi4xMyBDNDYuMTgsNi4yNyA0Ny4yMSw2LjUwIDQ3LjIxLDcuNzcgQzQ3LjIxLDguODcgNDYuMjUsOS40MyA0NC45NSw5LjQzIEM0My41NSw5LjQzIDQyLjY1LDguODEgNDIuNTQsNy43OCBMNDQuMDUsNy43OCBDNDQuMTUsOC4yMCA0NC40Niw4LjQwIDQ0Ljk0LDguNDAgQzQ1LjQyLDguNDAgNDUuNzIsOC4yMiA0NS43Miw3LjkwIEM0NS43Miw3LjQ1IDQ1LjEyLDcuNDAgNDQuNDYsNy4yOSBDNDMuNTksNy4xNCA0Mi42Nyw2LjkxIDQyLjY3LDUuNzQgQzQyLjY3LDQuNjggNDMuNjQsNC4xNCA0NC44Miw0LjE0IEM0Ni4yMiw0LjE0IDQ2Ljk4LDQuNzUgNDcuMDYsNS43NCBMNDUuNjAsNS43NCBDNDUuNTQsNS4yOSA0NS4yNCw1LjE1IDQ0LjgwLDUuMTUgQzQ0LjQyLDUuMTUgNDQuMTIsNS4zMCA0NC4xMiw1LjYxIEM0NC4xMiw1Ljk2IDQ0LjY4LDYuMDEgNDUuMzEsNi4xMyBaIE0yMC40OCwyLjAwIEMyMS4wMCwyLjAwIDIxLjQzLDIuNDIgMjEuNDMsMi45NSBDMjEuNDMsMy40OCAyMS4wMCwzLjkwIDIwLjQ4LDMuOTAgQzE5Ljk1LDMuOTAgMTkuNTMsMy40OCAxOS41MywyLjk1IEMxOS41MywyLjQyIDE5Ljk1LDIuMDAgMjAuNDgsMi4wMCBaIE0yOC40OCw3LjYyIEMyOC40OCw4LjAxIDI4LjcwLDguMTEgMjkuMDQsOC4xMSBDMjkuMTAsOC4xMSAyOS4xOCw4LjEwIDI5LjI0LDguMTAgTDI5LjI0LDkuMjkgQzI5LjA4LDkuMzEgMjguODMsOS4zMyAyOC41Miw5LjMzIEMyNy42MCw5LjMzIDI2Ljk0LDkuMDMgMjYuOTQsNy45NiBMMjYuOTQsNS4yOCBMMjYuNDIsNS4yOCBMMjYuNDIsNC4yOCBMMjYuOTQsNC4yOCBMMjYuOTQsMi43MCBMMjguNDgsMi43MCBMMjguNDgsNC4yOCBMMjkuMjQsNC4yOCBMMjkuMjQsNS4yOCBMMjguNDgsNS4yOCBMMjguNDgsNy42MiBaIE0yNC42OSw0LjE0IEMyNS43Nyw0LjE0IDI2LjQxLDQuOTIgMjYuNDEsNi4wMyBMMjYuNDEsOS4yOCBMMjQuODMsOS4yOCBMMjQuODMsNi4zNSBDMjQuODMsNS44MiAyNC41Nyw1LjQ2IDI0LjA1LDUuNDYgQzIzLjUzLDUuNDYgMjMuMTgsNS45MCAyMy4xOCw2LjUyIEwyMy4xOCw5LjI4IEwyMS42MCw5LjI4IEwyMS42MCw0LjI4IEwyMy4xMiw0LjI4IEwyMy4xMiw0Ljk3IEwyMy4xNSw0Ljk3IEMyMy41Miw0LjQzIDI0LjAwLDQuMTQgMjQuNjksNC4xNCBaIE0zMy40Miw0Ljc2IEMzMi45OSw0LjM3IDMyLjQzLDQuMTQgMzEuNzIsNC4xNCBDMzAuMjAsNC4xNCAyOS4xNiw1LjI4IDI5LjE2LDYuNzcgQzI5LjE2LDguMjggMzAuMTcsOS40MiAzMS44MSw5LjQyIEMzMi40NCw5LjQyIDMyLjk1LDkuMjYgMzMuMzcsOC45NiBDMzMuODAsOC42NiAzNC4xMCw4LjIzIDM0LjIwLDcuNzggTDMyLjY2LDcuNzggQzMyLjUyLDguMTAgMzIuMjUsOC4yOCAzMS44Myw4LjI4IEMzMS4xOCw4LjI4IDMwLjgxLDcuODYgMzAuNzIsNy4xOSBMMzQuMjksNy4xOSBDMzQuMzAsNi4xOCAzNC4wMSw1LjMxIDMzLjQyLDQuNzYgTDMzLjQyLDQuNzYgWiBNNDEuNjYsNC43NiBDNDIuMjYsNS4zMSA0Mi41NSw2LjE4IDQyLjU0LDcuMTkgTDM4Ljk3LDcuMTkgQzM5LjA2LDcuODYgMzkuNDMsOC4yOCA0MC4wOCw4LjI4IEM0MC41MCw4LjI4IDQwLjc3LDguMTAgNDAuOTEsNy43OCBMNDIuNDUsNy43OCBDNDIuMzQsOC4yMyA0Mi4wNSw4LjY2IDQxLjYyLDguOTYgQzQxLjIwLDkuMjYgNDAuNjksOS40MiA0MC4wNiw5LjQyIEMzOC40Miw5LjQyIDM3LjQxLDguMjggMzcuNDEsNi43NyBDMzcuNDEsNS4yOCAzOC40NSw0LjE0IDM5Ljk3LDQuMTQgQzQwLjY3LDQuMTQgNDEuMjQsNC4zNyA0MS42Niw0Ljc2IFogTTMwLjczLDYuMjQgQzMwLjgzLDUuNjUgMzEuMTQsNS4yNyAzMS43NSw1LjI3IEMzMi4yNiw1LjI3IDMyLjYzLDUuNjUgMzIuNjksNi4yNCBMMzAuNzMsNi4yNCBaIE0zOC45OCw2LjI0IEw0MC45NCw2LjI0IEM0MC44OCw1LjY1IDQwLjUxLDUuMjcgNDAuMDAsNS4yNyBDMzkuMzksNS4yNyAzOS4wOCw1LjY1IDM4Ljk4LDYuMjQgWiBNMzcuNTQsNC4yMSBMMzcuNTQsNS42MCBDMzYuNjQsNS41MSAzNi4wNyw1Ljk5IDM2LjA3LDcuMDMgTDM2LjA3LDkuMjggTDM0LjQ4LDkuMjggTDM0LjQ4LDQuMjggTDM2LjAwLDQuMjggTDM2LjAwLDUuMDYgTDM2LjAzLDUuMDYgQzM2LjM4LDQuNDcgMzYuNzgsNC4yMSAzNy4zOSw0LjIxIEMzNy40NSw0LjIxIDM3LjUwLDQuMjEgMzcuNTQsNC4yMSBaIiBmaWxsPSIjZTYwMDIzIj48L3BhdGg+PC9nPjwvc3ZnPg==) 50% 50% no-repeat;
   background-size: contain;
 }
- span.PIN_1550433498217_embed_grid .PIN_1550433498217_ft .PIN_1550433498217_button:hover { 
+ span.PIN_1550439001787_embed_grid .PIN_1550439001787_ft .PIN_1550439001787_button:hover { 
   box-shadow: inset 0 0 1px #000;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_noscroll .PIN_1550433498217_bd { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_noscroll .PIN_1550439001787_bd { 
   overflow: hidden;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_board .PIN_1550433498217_hd .PIN_1550433498217_pinner { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_board .PIN_1550439001787_hd .PIN_1550439001787_pinner { 
   top: 10px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_board .PIN_1550433498217_hd .PIN_1550433498217_board { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_board .PIN_1550439001787_hd .PIN_1550439001787_board { 
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -191,70 +191,70 @@ dataLayer = [{
   color: #363636;
   font-size: 12px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c2 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c2 { 
   max-width: 494px;
   min-width: 140px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c2 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c2 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 50%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c3 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c3 { 
   max-width: 731px;
   min-width: 200px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c3 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c3 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 33.33%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c4 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c4 { 
   max-width: 968px;
   min-width: 260px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c4 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c4 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 25%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c5 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c5 { 
   max-width: 1205px;
   min-width: 320px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c5 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c5 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 20%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c6 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c6 { 
   max-width: 1442px;
   min-width: 380px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c6 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c6 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 16.66%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c7 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c7 { 
   max-width: 1679px;
   min-width: 440px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c7 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c7 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 14.28%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c8 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c8 { 
   max-width: 1916px;
   min-width: 500px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c8 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c8 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 12.5%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c9 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c9 { 
   max-width: 2153px;
   min-width: 560px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c9 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c9 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 11.11%;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c10 { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c10 { 
   max-width: 2390px;
   min-width: 620px;
 }
- span.PIN_1550433498217_embed_grid.PIN_1550433498217_c10 .PIN_1550433498217_bd .PIN_1550433498217_ct .PIN_1550433498217_col { 
+ span.PIN_1550439001787_embed_grid.PIN_1550439001787_c10 .PIN_1550439001787_bd .PIN_1550439001787_ct .PIN_1550439001787_col { 
   width: 10%;
 }
- span.PIN_1550433498217_embed_pin { 
+ span.PIN_1550439001787_embed_pin { 
   width: 100%;
   min-width: 160px;
   max-width: 236px;
@@ -269,7 +269,7 @@ dataLayer = [{
   cursor: pointer;
   -webkit-font-smoothing: antialiased;
 }
- span.PIN_1550433498217_embed_pin * { 
+ span.PIN_1550439001787_embed_pin * { 
   display: block;
   position: relative;
   font: inherit;
@@ -280,16 +280,16 @@ dataLayer = [{
   padding: 0;
   text-align: left;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd { 
   border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd { 
   border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container { 
   width: 100%;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_img,  span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_iframe,  span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_video { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_img,  span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_iframe,  span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_video { 
   width: 100%;
   height: 100%;
   position: absolute;
@@ -298,7 +298,7 @@ dataLayer = [{
   background-size: cover;
   border: none;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_native { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_native { 
   height: 64px;
   width: 64px;
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNjNweCIgd2lkdGg9IjYzcHgiIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGc+PHBhdGggZD0iTSAzMiAzMiBtIC0zMiwgMCBhIDMxLCAzMSAwIDEsIDAgNjMsIDAgYSAzMSwgMzEgMCAxLDAgLTYzLCAwIHoiIGZpbGw9IiMwMDAiPjwvcGF0aD48cGF0aCBkPSJNIDI1IDE5IEwgNDggMzIgIEwgMjUgNDUgWiIgZmlsbD0iI2ZmZiI+PC9wYXRoPjwvZz48L3N2Zz4=) 0 0 no-repeat;
@@ -309,7 +309,7 @@ dataLayer = [{
   margin-left: -32px;
   opacity: .75;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_control { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_control { 
   width: 50px;
   height: 24px;
   position: absolute;
@@ -321,7 +321,7 @@ dataLayer = [{
   border: 2px solid rgba(255, 255, 255, .68);
   border-radius: 13px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_control.PIN_1550433498217_paused::after,  span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_control.PIN_1550433498217_playing::after { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_control.PIN_1550439001787_paused::after,  span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_control.PIN_1550439001787_playing::after { 
   position: absolute;
   top: 0;
   left: 0;
@@ -334,13 +334,13 @@ dataLayer = [{
   font-style: normal;
   text-align: center;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_control.PIN_1550433498217_paused::after { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_control.PIN_1550439001787_paused::after { 
   content: "▶ GIF";
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_control.PIN_1550433498217_playing::after { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_control.PIN_1550439001787_playing::after { 
   content: "❙ ❙ GIF";
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_repin { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_repin { 
   position: absolute;
   top: 10px;
   left: 10px;
@@ -355,15 +355,15 @@ dataLayer = [{
   border-radius: 4px;
   padding: 0 6px 0 0;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_repin:hover { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_repin:hover { 
   background-color: #e60023;
   box-shadow: none;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source { 
   height: 38px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_img { 
   position: absolute;
   top: 50%;
   margin-top: -8px;
@@ -373,7 +373,7 @@ dataLayer = [{
   background: transparent url() 0 0 no-repeat;
   background-size: 16px 16px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_domain { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_domain { 
   line-height: 38px;
   max-width: 75%;
   white-space: nowrap;
@@ -385,17 +385,17 @@ dataLayer = [{
   top: 0px;
   left: 35px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source.PIN_1550433498217_nofav .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source.PIN_1550439001787_nofav .PIN_1550439001787_img { 
   display: none;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source.PIN_1550433498217_nofav .PIN_1550433498217_domain { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source.PIN_1550439001787_nofav .PIN_1550439001787_domain { 
   max-width: 85%;
   left: 10px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_menu { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_menu { 
   height: inherit;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_menu .PIN_1550433498217_toggle { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_menu .PIN_1550439001787_toggle { 
   position: absolute;
   top: 0;
   right: 5px;
@@ -405,7 +405,7 @@ dataLayer = [{
   background: #fff url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNXB4IiB3aWR0aD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDUiPjxnPjxwYXRoIGQ9Ik0xNy41LDUgQzE4Ljg4MSw1IDIwLDMuODgxIDIwLDIuNSBDMjAsMS4xMTkgMTguODgxLDAgMTcuNSwwIEMxNi4xMTksMCAxNSwxLjExOSAxNSwyLjUgQzE1LDMuODgxIDE2LjExOSw1IDE3LjUsNSBaIE0xMCw1IEMxMS4zOCw1IDEyLjUsMy44ODEgMTIuNSwyLjUgQzEyLjUsMS4xMTkgMTEuMzgsMCAxMCwwIEM4LjYyLDAgNy41LDEuMTE5IDcuNSwyLjUgQzcuNSwzLjg4MSA4LjYyLDUgMTAsNSBNMi41LDUgQzMuODgxLDUgNSwzLjg4MSA1LDIuNSBDNSwxLjExOSAzLjg4MSwwIDIuNSwwIEMxLjEyLDAgMCwxLjExOSAwLDIuNSBDMCwzLjg4MSAxLjEyIDUsMi41LDUgWiIgZmlsbD0iI2I1YjViNSI+PC9wYXRoPjwvZz48L3N2Zz4=) 50% 50% no-repeat;
   background-size: fill;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_menu .PIN_1550433498217_dropdown { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_menu .PIN_1550439001787_dropdown { 
   display: none;
   border-radius: 5px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, .33);
@@ -420,7 +420,7 @@ dataLayer = [{
   top: 39px;
   z-index: 1;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_menu .PIN_1550433498217_dropdown::after { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_menu .PIN_1550439001787_dropdown::after { 
   content: "";
   position: absolute;
   top: -6px;
@@ -429,7 +429,7 @@ dataLayer = [{
   border-right: 8px solid transparent;
   border-left: 8px solid transparent;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_menu .PIN_1550433498217_dropdown::before { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_menu .PIN_1550439001787_dropdown::before { 
   content: "";
   position: absolute;
   top: -7px;
@@ -438,16 +438,16 @@ dataLayer = [{
   border-right: 7px solid transparent;
   border-left: 7px solid transparent;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_description { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_description { 
   font-size: 14px;
   line-height: 17px;
   margin: 8px 12px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_attribution { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_attribution { 
   height: 22px;
   margin-top: 5px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_attribution .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_attribution .PIN_1550439001787_img { 
   position: absolute;
   top: 50%;
   margin-top: -8px;
@@ -457,7 +457,7 @@ dataLayer = [{
   background: transparent url() 0 0 no-repeat;
   background-size: 16px 16px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_attribution .PIN_1550433498217_by { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_attribution .PIN_1550439001787_by { 
   line-height: 22px;
   max-width: 75%;
   white-space: nowrap;
@@ -470,12 +470,12 @@ dataLayer = [{
   top: 0px;
   left: 35px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_stats { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_stats { 
   height: 24px;
   line-height: 24px;
   margin: 0 0 0 10px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_stats .PIN_1550433498217_repins { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_stats .PIN_1550439001787_repins { 
   padding-left: 17px;
   padding-right: 10px;
   color: #a8a8a8;
@@ -484,7 +484,7 @@ dataLayer = [{
   display: inline-block;
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTRweCIgd2lkdGg9IjE0cHgiIHZpZXdCb3g9IjAgMCAxNCAxNCI+PGc+PHBhdGggZD0iTTExLjk3OSw2Ljg1OSBMMTMuOTksNS4wMTEgTDExLjI0MSw1LjAxMSBMMTAuNDg2LDAgTDkuNzM5LDUuMDExIEw3LDUuMDExIEw4Ljk4Niw2Ljg1OCBMOC45ODYsMTEuMDE3IEM4LjUwNSwxMC45ODUgOC4xNDMsMTEuMDEyIDguMTQzLDExLjIxMyBDOC4xNDMsMTEuNjg3IDguNTAzLDEyLjAwMSA4Ljk4NiwxMi4wMDEgTDExLjk4MiwxMiBDMTIuNDY1LDEyIDEyLjg4OCwxMS42ODYgMTIuODg4LDExLjIxMyBDMTIuODg4LDExLjAxMSAxMi40NjUsMTAuOTg1IDExLjk4MiwxMS4wMTcgTDExLjk3OSw2Ljg1OSBaIE00Ljk3OSw3LjE0MiBMNi45OSw4Ljk5IEw0LjI0MSw4Ljk5IEwzLjQ4NiwxNC4wMDEgTDIuNzM5LDguOTkgTDAsOC45OSBMMS45ODYsNy4xNDMgTDEuOTg2LDIuOTg0IEMxLjUwNSwzLjAxNiAxLjE0MywyLjk4OSAxLjE0MywyLjc4OCBDMS4xNDMsMi4zMTUgMS41MDMsMiAxLjk4NiwyIEw0Ljk4MiwyLjAwMSBDNS40NjUsMi4wMDEgNS44ODgsMi4zMTUgNS44ODgsMi43ODkgQzUuODg4LDIuOTkgNS40NjUsMy4wMTcgNC45ODIsMi45ODQgTDQuOTc5LDcuMTQyIFoiIGZpbGw9IiNiNWI1YjUiPjwvcGF0aD48L2c+PC9zdmc+) 0 50% no-repeat;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_bd .PIN_1550433498217_stats .PIN_1550433498217_done { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_bd .PIN_1550439001787_stats .PIN_1550439001787_done { 
   padding-left: 15px;
   padding-right: 10px;
   color: #a8a8a8;
@@ -493,19 +493,19 @@ dataLayer = [{
   display: inline-block;
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTJweCIgd2lkdGg9IjEycHgiIHZpZXdCb3g9IjAgMCAxMiAxMiI+PGc+PHBhdGggZD0iTTAsNiBMMiw0IEw1LDcgTDEwLDEgTDEyLDMgTDUsMTEgWiIgZmlsbD0iI2I1YjViNSI+PC9wYXRoPjwvZz48L3N2Zz4=) 0 50% no-repeat;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft { 
   height: 50px;
   margin-right: 10px;
   overflow: hidden;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft:after { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft:after { 
   content: '-------------------------------------------------------------------------------------';
   display: block;
   height: 1px;
   line-height: 1px;
   color: #fff;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft .PIN_1550439001787_img { 
   position: absolute;
   left: 10px;
   top: 10px;
@@ -515,7 +515,7 @@ dataLayer = [{
   background: transparent url() 0 0 no-repeat;
   background-size: 30px 30px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft .PIN_1550433498217_pinner,  span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft  .PIN_1550433498217_board { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft .PIN_1550439001787_pinner,  span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft  .PIN_1550439001787_board { 
   position: absolute;
   left: 50px;
   white-space: nowrap;
@@ -523,82 +523,82 @@ dataLayer = [{
   text-overflow: ellipsis;
   width: 75%;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft .PIN_1550433498217_pinner { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft .PIN_1550439001787_pinner { 
   font-weight: bold;
   top: 10px;
 }
- span.PIN_1550433498217_embed_pin .PIN_1550433498217_ft .PIN_1550433498217_board { 
+ span.PIN_1550439001787_embed_pin .PIN_1550439001787_ft .PIN_1550439001787_board { 
   bottom: 10px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_ja .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_repin { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_ja .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_repin { 
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMThweCIgd2lkdGg9IjQxcHgiIHZpZXdCb3g9IjAgMCA0MSAxOCI+PGc+PHBhdGggZD0iTTE5LjgyMiw3LjE3MyBDMTkuODIyLDYuNTEgMTkuODM1LDYuMjc2IDE5Ljg4Nyw1Ljk2NCBMMTguMTQ1LDUuOTY0IEMxOC4xOTcsNi4yODkgMTguMTk3LDYuNDk3IDE4LjE5Nyw3LjE2IEwxOC4yMSwxMy4xOTIgQzE4LjIxLDEzLjk0NiAxOC4yMjMsMTQuMTY3IDE4LjI0OSwxNC4zODggQzE4LjMyNywxNS4wMjUgMTguNTIyLDE1LjQ0MSAxOC44ODYsMTUuNzE0IEMxOS4zOTMsMTYuMTA0IDIwLjI5LDE2LjI3MyAyMS45MjgsMTYuMjczIEMyMi43MjEsMTYuMjczIDI0LjM1OSwxNi4xOTUgMjUuMTI2LDE2LjExNyBDMjYuNTA0LDE1Ljk4NyAyNi41NjksMTUuOTc0IDI2Ljg0MiwxNS45NzQgTDI2Ljc2NCwxNC4yNDUgQzI2LjE5MiwxNC40MTQgMjUuOTA2LDE0LjQ3OSAyNS4yODIsMTQuNTU3IEMyNC4zMzMsMTQuNjg3IDIzLjEzNywxNC43NjUgMjIuMjY2LDE0Ljc2NSBDMjEuMDA1LDE0Ljc2NSAyMC4yNjQsMTQuNjQ4IDIwLjA0MywxNC40MjcgQzE5Ljg2MSwxNC4yNDUgMTkuODA5LDEzLjk1OSAxOS44MDksMTMuMjMxIEMxOS44MDksMTMuMTc5IDE5LjgwOSwxMy4xMDEgMTkuODIyLDEzLjAyMyBMMTkuODIyLDExLjMwNyBDMjEuOTkzLDEwLjkwNCAyNC4wMDgsMTAuMjI4IDI1LjkzMiw5LjI0IEwyNi4yNyw5LjA3MSBDMjYuMzc0LDkuMDE5IDI2LjQsOS4wMDYgMjYuNTQzLDguOTU0IEwyNS41MDMsNy40ODUgQzI0LjY1OCw4LjI3OCAyMS43ODUsOS40MzUgMTkuODIyLDkuNzk5IEwxOS44MjIsNy4xNzMgWiBNMjcuMzEsNC44NzIgQzI2LjQ5MSw0Ljg3MiAyNS44MTUsNS41NDggMjUuODE1LDYuMzY3IEMyNS44MTUsNy4xOTkgMjYuNDkxLDcuODc1IDI3LjMxLDcuODc1IEMyOC4xNDIsNy44NzUgMjguODE4LDcuMTk5IDI4LjgxOCw2LjM2NyBDMjguODE4LDUuNTQ4IDI4LjE0Miw0Ljg3MiAyNy4zMSw0Ljg3MiBMMjcuMzEsNC44NzIgWiBNMjcuMzEsNS41MjIgQzI3Ljc5MSw1LjUyMiAyOC4xNjgsNS44OTkgMjguMTY4LDYuMzY3IEMyOC4xNjgsNi44MzUgMjcuNzkxLDcuMjI1IDI3LjMxLDcuMjI1IEMyNi44NDIsNy4yMjUgMjYuNDY1LDYuODM1IDI2LjQ2NSw2LjM2NyBDMjYuNDY1LDUuODk5IDI2Ljg0Miw1LjUyMiAyNy4zMSw1LjUyMiBMMjcuMzEsNS41MjIgWiBNMzAuNTg2LDcuNjU0IEMzMS43OTUsOC4zMyAzMi44NjEsOS4xODggMzMuOTAxLDEwLjI5MyBMMzUuMDE5LDguODc2IEMzNC4wMTgsNy45MjcgMzMuMjEyLDcuMzI5IDMxLjY2NSw2LjM2NyBMMzAuNTg2LDcuNjU0IFogTTMxLjA0MSwxNi4yMzQgQzMxLjM0LDE2LjEzIDMxLjM3OSwxNi4xMTcgMzEuODk5LDE2LjAxMyBDMzMuOTE0LDE1LjU4NCAzNS41MjYsMTQuOTQ3IDM2Ljg1MiwxNC4wNjMgQzM4LjYzMywxMi44OCAzOS44NjgsMTEuMzQ2IDQwLjk3Myw4Ljk2NyBDNDAuMzEsOC40OTkgNDAuMTAyLDguMzA0IDM5LjU5NSw3LjY5MyBDMzkuMjA1LDguNzQ2IDM4Ljg0MSw5LjQ2MSAzOC4yNjksMTAuMjkzIEMzNy4yNDIsMTEuNzc1IDM2LjAzMywxMi43NzYgMzQuNDA4LDEzLjQ3OCBDMzMuMjI1LDEzLjk5OCAzMS42NzgsMTQuMzc1IDMwLjU2LDE0LjQ0IEwzMS4wNDEsMTYuMjM0IFogTTcuNDU4LDAgQzIuNSwwIDAsMy41MjIgMCw2LjQ1OSBDMCw4LjIzNyAwLjY4LDkuODE5IDIuMTM3LDEwLjQwOSBDMi4zNzYsMTAuNTA1IDIuNTksMTAuNDEyIDIuNjYsMTAuMTUgQzIuNzA4LDkuOTY5IDIuODIyLDkuNTExIDIuODczLDkuMzIgQzIuOTQzLDkuMDYxIDIuOTE2LDguOTcgMi43MjMsOC43NDQgQzIuMzAyLDguMjUzIDIuMDM0LDcuNjE3IDIuMDM0LDYuNzE2IEMyLjAzNCw0LjEwNCA0LjAwNywxLjc2NSA3LjE3MiwxLjc2NSBDOS45NzUsMS43NjUgMTEuNTE0LDMuNDYxIDExLjUxNCw1LjcyNiBDMTEuNTE0LDguNzA4IDEwLjE4MywxMS4xOCA4LjIwNiwxMS4xOCBDNy4xMTQsMTEuMTggNi4yOTcsMTAuMzI5IDYuNTU5LDkuMjMzIEM2Ljg3Miw3LjkyMiA3LjQ4LDYuNTA5IDcuNDgsNS41NjQgQzcuNDgsNC43MTcgNy4wMjIsNC4wMTEgNi4wNzIsNC4wMTEgQzQuOTU2LDQuMDExIDQuMDYsNS4xNTUgNC4wNiw2LjY4NyBDNC4wNiw3LjY2MyA0LjM5Myw4LjMyMyA0LjM5Myw4LjMyMyBDNC4zOTMsOC4zMjMgMy4yNTEsMTMuMTE3IDMuMDUxLDEzLjk1NyBDMi42NTIsMTUuNjI5IDIuOTkxLDE3LjY3OSAzLjAxOSwxNy44ODYgQzMuMDM2LDE4LjAwOSAzLjE5NSwxOC4wMzggMy4yNjcsMTcuOTQ2IEMzLjM3LDE3LjgxMiA0LjcsMTYuMTg3IDUuMTUxLDE0LjU2MiBDNS4yNzksMTQuMTAyIDUuODg1LDExLjcyIDUuODg1LDExLjcyIEM2LjI0OCwxMi40MDYgNy4zMDgsMTMuMDA5IDguNDM1LDEzLjAwOSBDMTEuNzksMTMuMDA5IDE0LjA2Niw5Ljk3OSAxNC4wNjYsNS45MjMgQzE0LjA2NiwyLjg1NyAxMS40NDQsMCA3LjQ1OCwwIFoiIGZpbGw9IiNmZmYiPjwvcGF0aD48L2c+PC9zdmc+);
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_ja .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_repin.PIN_1550433498217_save { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_ja .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_repin.PIN_1550439001787_save { 
   background: #e60023 url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjZTYwMDIzIj48L3BhdGg+PC9nPjwvc3ZnPg==) 5px 50% no-repeat;
   background-size: 16px 16px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_medium { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_medium { 
   min-width: 237px;
   max-width: 345px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large { 
   min-width: 345px;
   max-width: 600px;
   padding: 30px 34px 10px;
   font-size: 14px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd { 
   border-bottom: none;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_hd { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_hd { 
   padding-top: 50px;
   border-bottom: none;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_img,  span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_container .PIN_1550433498217_video { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_img,  span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_container .PIN_1550439001787_video { 
   border-radius: 8px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_hd .PIN_1550433498217_repin { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_hd .PIN_1550439001787_repin { 
   top: 0px;
   left: 0px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_source { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_source { 
   height: 50px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_source .PIN_1550433498217_domain { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_source .PIN_1550439001787_domain { 
   line-height: 50px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_stats { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_stats { 
   position: absolute;
   top: 0;
   right: 0;
   text-align: right;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_description { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_description { 
   font-size: 16px;
   line-height: 20px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_menu { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_menu { 
   height: inherit;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_bd .PIN_1550433498217_menu .PIN_1550433498217_dropdown { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_bd .PIN_1550439001787_menu .PIN_1550439001787_dropdown { 
   top: 50px;
   font-size: 14px;
   padding: 10px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_ft { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_ft { 
   height: 60px;
   font-size: 16px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_ft .PIN_1550433498217_board,  span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_ft .PIN_1550433498217_pinner { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_ft .PIN_1550439001787_board,  span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_ft .PIN_1550439001787_pinner { 
   left: 60px;
 }
- span.PIN_1550433498217_embed_pin.PIN_1550433498217_large .PIN_1550433498217_ft .PIN_1550433498217_img { 
+ span.PIN_1550439001787_embed_pin.PIN_1550439001787_large .PIN_1550439001787_ft .PIN_1550439001787_img { 
   height: 40px;
   width: 40px;
   background-size: 40px 40px;
   border-radius: 20px;
 }
- .PIN_1550433498217_button_follow { 
+ .PIN_1550439001787_button_follow { 
   display: inline-block;
   color: #363636;
   box-sizing: border-box;
@@ -614,10 +614,10 @@ dataLayer = [{
   white-space: nowrap;
   vertical-align: baseline;
 }
- .PIN_1550433498217_button_follow:hover { 
+ .PIN_1550439001787_button_follow:hover { 
   box-shadow: inset 0 0 1px #000;
 }
- .PIN_1550433498217_button_follow::after { 
+ .PIN_1550439001787_button_follow::after { 
   content: "";
   position: absolute;
   height: 14px;
@@ -627,21 +627,21 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjZTYwMDIzIj48L3BhdGg+PC9nPjwvc3ZnPg==) 0 0 no-repeat;
   background-size: 14px 14px;
 }
- .PIN_1550433498217_button_follow.PIN_1550433498217_tall { 
+ .PIN_1550439001787_button_follow.PIN_1550439001787_tall { 
   height: 26px;
   line-height: 26px;
   font-size: 13px;
   padding: 0 6px 0 25px;
   border-radius: 3px;
 }
- .PIN_1550433498217_button_follow.PIN_1550433498217_tall::after { 
+ .PIN_1550439001787_button_follow.PIN_1550439001787_tall::after { 
   height: 18px;
   width: 18px;
   top: 4px;
   left: 4px;
   background-size: 18px 18px;
 }
- .PIN_1550433498217_button_pin { 
+ .PIN_1550439001787_button_pin { 
   cursor: pointer;
   display: inline-block;
   box-sizing: border-box;
@@ -658,10 +658,10 @@ dataLayer = [{
   text-align: center;
   vertical-align: baseline;
 }
- .PIN_1550433498217_button_pin:hover { 
+ .PIN_1550439001787_button_pin:hover { 
   box-shadow: inset 0 0 1px #000;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_above .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_above .PIN_1550439001787_count { 
   position: absolute;
   top: -28px;
   left: 0;
@@ -671,10 +671,10 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNzZweCIgd2lkdGg9IjExNHB4IiB2aWV3Qm94PSIwIDAgMTE0IDc2Ij48Zz48cGF0aCBkPSJNOSAxQzQuNiAxIDEgNC42IDEgOXY0M2MwIDQuMyAzLjYgOCA4IDhoMjZsMTggMTVoNy41bDE2LTE1SDEwNWM0LjQgMCA4LTMuNyA4LThWOWMwLTQuNC0zLjYtOC04LThIOXoiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2I1YjViNSIgc3Ryb2tlLXdpZHRoPSIyIj48L3BhdGg+PC9nPjwvc3ZnPg==) 0 0 no-repeat;
   background-size: 40px 28px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_above.PIN_1550433498217_padded { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_above.PIN_1550439001787_padded { 
   margin-top: 28px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_beside .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_beside .PIN_1550439001787_count { 
   position: absolute;
   right: -45px;
   text-align: center;
@@ -686,24 +686,24 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNTZweCIgd2lkdGg9IjEyNnB4IiB2aWV3Qm94PSIyIDAgMTMwIDYwIj48Zz48cGF0aCBkPSJNMTE5LjYgMmM0LjUgMCA4IDMuNiA4IDh2NDBjMCA0LjQtMy41IDgtOCA4SDIzLjNMMS42IDMyLjR2LTQuNkwyMy4zIDJoOTYuM3oiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2I1YjViNSIgc3Ryb2tlLXdpZHRoPSIyIj48L3BhdGg+PC9nPjwvc3ZnPg==);
   background-size: cover;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_beside.PIN_1550433498217_padded { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_beside.PIN_1550439001787_padded { 
   margin-right: 45px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_ja { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_ja { 
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMThweCIgd2lkdGg9IjQxcHgiIHZpZXdCb3g9IjAgMCA0MSAxOCI+PGc+PHBhdGggZD0iTTE5LjgyMiw3LjE3MyBDMTkuODIyLDYuNTEgMTkuODM1LDYuMjc2IDE5Ljg4Nyw1Ljk2NCBMMTguMTQ1LDUuOTY0IEMxOC4xOTcsNi4yODkgMTguMTk3LDYuNDk3IDE4LjE5Nyw3LjE2IEwxOC4yMSwxMy4xOTIgQzE4LjIxLDEzLjk0NiAxOC4yMjMsMTQuMTY3IDE4LjI0OSwxNC4zODggQzE4LjMyNywxNS4wMjUgMTguNTIyLDE1LjQ0MSAxOC44ODYsMTUuNzE0IEMxOS4zOTMsMTYuMTA0IDIwLjI5LDE2LjI3MyAyMS45MjgsMTYuMjczIEMyMi43MjEsMTYuMjczIDI0LjM1OSwxNi4xOTUgMjUuMTI2LDE2LjExNyBDMjYuNTA0LDE1Ljk4NyAyNi41NjksMTUuOTc0IDI2Ljg0MiwxNS45NzQgTDI2Ljc2NCwxNC4yNDUgQzI2LjE5MiwxNC40MTQgMjUuOTA2LDE0LjQ3OSAyNS4yODIsMTQuNTU3IEMyNC4zMzMsMTQuNjg3IDIzLjEzNywxNC43NjUgMjIuMjY2LDE0Ljc2NSBDMjEuMDA1LDE0Ljc2NSAyMC4yNjQsMTQuNjQ4IDIwLjA0MywxNC40MjcgQzE5Ljg2MSwxNC4yNDUgMTkuODA5LDEzLjk1OSAxOS44MDksMTMuMjMxIEMxOS44MDksMTMuMTc5IDE5LjgwOSwxMy4xMDEgMTkuODIyLDEzLjAyMyBMMTkuODIyLDExLjMwNyBDMjEuOTkzLDEwLjkwNCAyNC4wMDgsMTAuMjI4IDI1LjkzMiw5LjI0IEwyNi4yNyw5LjA3MSBDMjYuMzc0LDkuMDE5IDI2LjQsOS4wMDYgMjYuNTQzLDguOTU0IEwyNS41MDMsNy40ODUgQzI0LjY1OCw4LjI3OCAyMS43ODUsOS40MzUgMTkuODIyLDkuNzk5IEwxOS44MjIsNy4xNzMgWiBNMjcuMzEsNC44NzIgQzI2LjQ5MSw0Ljg3MiAyNS44MTUsNS41NDggMjUuODE1LDYuMzY3IEMyNS44MTUsNy4xOTkgMjYuNDkxLDcuODc1IDI3LjMxLDcuODc1IEMyOC4xNDIsNy44NzUgMjguODE4LDcuMTk5IDI4LjgxOCw2LjM2NyBDMjguODE4LDUuNTQ4IDI4LjE0Miw0Ljg3MiAyNy4zMSw0Ljg3MiBMMjcuMzEsNC44NzIgWiBNMjcuMzEsNS41MjIgQzI3Ljc5MSw1LjUyMiAyOC4xNjgsNS44OTkgMjguMTY4LDYuMzY3IEMyOC4xNjgsNi44MzUgMjcuNzkxLDcuMjI1IDI3LjMxLDcuMjI1IEMyNi44NDIsNy4yMjUgMjYuNDY1LDYuODM1IDI2LjQ2NSw2LjM2NyBDMjYuNDY1LDUuODk5IDI2Ljg0Miw1LjUyMiAyNy4zMSw1LjUyMiBMMjcuMzEsNS41MjIgWiBNMzAuNTg2LDcuNjU0IEMzMS43OTUsOC4zMyAzMi44NjEsOS4xODggMzMuOTAxLDEwLjI5MyBMMzUuMDE5LDguODc2IEMzNC4wMTgsNy45MjcgMzMuMjEyLDcuMzI5IDMxLjY2NSw2LjM2NyBMMzAuNTg2LDcuNjU0IFogTTMxLjA0MSwxNi4yMzQgQzMxLjM0LDE2LjEzIDMxLjM3OSwxNi4xMTcgMzEuODk5LDE2LjAxMyBDMzMuOTE0LDE1LjU4NCAzNS41MjYsMTQuOTQ3IDM2Ljg1MiwxNC4wNjMgQzM4LjYzMywxMi44OCAzOS44NjgsMTEuMzQ2IDQwLjk3Myw4Ljk2NyBDNDAuMzEsOC40OTkgNDAuMTAyLDguMzA0IDM5LjU5NSw3LjY5MyBDMzkuMjA1LDguNzQ2IDM4Ljg0MSw5LjQ2MSAzOC4yNjksMTAuMjkzIEMzNy4yNDIsMTEuNzc1IDM2LjAzMywxMi43NzYgMzQuNDA4LDEzLjQ3OCBDMzMuMjI1LDEzLjk5OCAzMS42NzgsMTQuMzc1IDMwLjU2LDE0LjQ0IEwzMS4wNDEsMTYuMjM0IFogTTcuNDU4LDAgQzIuNSwwIDAsMy41MjIgMCw2LjQ1OSBDMCw4LjIzNyAwLjY4LDkuODE5IDIuMTM3LDEwLjQwOSBDMi4zNzYsMTAuNTA1IDIuNTksMTAuNDEyIDIuNjYsMTAuMTUgQzIuNzA4LDkuOTY5IDIuODIyLDkuNTExIDIuODczLDkuMzIgQzIuOTQzLDkuMDYxIDIuOTE2LDguOTcgMi43MjMsOC43NDQgQzIuMzAyLDguMjUzIDIuMDM0LDcuNjE3IDIuMDM0LDYuNzE2IEMyLjAzNCw0LjEwNCA0LjAwNywxLjc2NSA3LjE3MiwxLjc2NSBDOS45NzUsMS43NjUgMTEuNTE0LDMuNDYxIDExLjUxNCw1LjcyNiBDMTEuNTE0LDguNzA4IDEwLjE4MywxMS4xOCA4LjIwNiwxMS4xOCBDNy4xMTQsMTEuMTggNi4yOTcsMTAuMzI5IDYuNTU5LDkuMjMzIEM2Ljg3Miw3LjkyMiA3LjQ4LDYuNTA5IDcuNDgsNS41NjQgQzcuNDgsNC43MTcgNy4wMjIsNC4wMTEgNi4wNzIsNC4wMTEgQzQuOTU2LDQuMDExIDQuMDYsNS4xNTUgNC4wNiw2LjY4NyBDNC4wNiw3LjY2MyA0LjM5Myw4LjMyMyA0LjM5Myw4LjMyMyBDNC4zOTMsOC4zMjMgMy4yNTEsMTMuMTE3IDMuMDUxLDEzLjk1NyBDMi42NTIsMTUuNjI5IDIuOTkxLDE3LjY3OSAzLjAxOSwxNy44ODYgQzMuMDM2LDE4LjAwOSAzLjE5NSwxOC4wMzggMy4yNjcsMTcuOTQ2IEMzLjM3LDE3LjgxMiA0LjcsMTYuMTg3IDUuMTUxLDE0LjU2MiBDNS4yNzksMTQuMTAyIDUuODg1LDExLjcyIDUuODg1LDExLjcyIEM2LjI0OCwxMi40MDYgNy4zMDgsMTMuMDA5IDguNDM1LDEzLjAwOSBDMTEuNzksMTMuMDA5IDE0LjA2Niw5Ljk3OSAxNC4wNjYsNS45MjMgQzE0LjA2NiwyLjg1NyAxMS40NDQsMCA3LjQ1OCwwIFoiIGZpbGw9IiNlNjAwMjMiPjwvcGF0aD48L2c+PC9zdmc+);
   background-size: 72%;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_red { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_red { 
   background-color: #e60023;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMThweCIgd2lkdGg9IjQycHgiIHZpZXdCb3g9IjAgMCA0MiAxOCI+PGc+PHBhdGggZD0iTTE2Ljg1Myw2LjM0NSBDMTcuNjMyLDYuMzQ1IDE4LjM4LDUuNzAyIDE4LjUxLDQuOTA5IEMxOC42NjQsNC4xMzggMTguMTM1LDMuNDk0IDE3LjM1NywzLjQ5NCBDMTYuNTc4LDMuNDk0IDE1LjgzLDQuMTM4IDE1LjY5OCw0LjkwOSBDMTUuNTQ2LDUuNzAyIDE2LjA1Myw2LjM0NSAxNi44NTMsNi4zNDUgWiBNNy40NTgsMCBDMi41LDAgMCwzLjUyMiAwLDYuNDU5IEMwLDguMjM3IDAuNjgsOS44MTkgMi4xMzcsMTAuNDA5IEMyLjM3NiwxMC41MDUgMi41OSwxMC40MTIgMi42NiwxMC4xNSBDMi43MDgsOS45NjkgMi44MjIsOS41MTEgMi44NzMsOS4zMiBDMi45NDMsOS4wNjEgMi45MTYsOC45NyAyLjcyMyw4Ljc0NCBDMi4zMDIsOC4yNTMgMi4wMzQsNy42MTcgMi4wMzQsNi43MTYgQzIuMDM0LDQuMTA0IDQuMDA3LDEuNzY1IDcuMTcyLDEuNzY1IEM5Ljk3NSwxLjc2NSAxMS41MTQsMy40NjEgMTEuNTE0LDUuNzI2IEMxMS41MTQsOC43MDggMTAuMTgzLDExLjE4IDguMjA2LDExLjE4IEM3LjExNCwxMS4xOCA2LjI5NywxMC4zMjkgNi41NTksOS4yMzMgQzYuODcyLDcuOTIyIDcuNDgsNi41MDkgNy40OCw1LjU2NCBDNy40OCw0LjcxNyA3LjAyMiw0LjAxMSA2LjA3Miw0LjAxMSBDNC45NTYsNC4wMTEgNC4wNiw1LjE1NSA0LjA2LDYuNjg3IEM0LjA2LDcuNjYzIDQuMzkzLDguMzIzIDQuMzkzLDguMzIzIEM0LjM5Myw4LjMyMyAzLjI1MSwxMy4xMTcgMy4wNTEsMTMuOTU3IEMyLjY1MiwxNS42MjkgMi45OTEsMTcuNjc5IDMuMDE5LDE3Ljg4NiBDMy4wMzYsMTguMDA5IDMuMTk1LDE4LjAzOCAzLjI2NywxNy45NDYgQzMuMzcsMTcuODEyIDQuNywxNi4xODcgNS4xNTEsMTQuNTYyIEM1LjI3OSwxNC4xMDIgNS44ODUsMTEuNzIgNS44ODUsMTEuNzIgQzYuMjQ4LDEyLjQwNiA3LjMwOCwxMy4wMDkgOC40MzUsMTMuMDA5IEMxMS43OSwxMy4wMDkgMTQuMDY2LDkuOTc5IDE0LjA2Niw1LjkyMyBDMTQuMDY2LDIuODU3IDExLjQ0NCwwIDcuNDU4LDAgWiBNMjYuODk2LDE0LjE4OSBDMjYuMzQ4LDE0LjE4OSAyNi4xMTcsMTMuOTE1IDI2LjExNywxMy4zMjggQzI2LjExNywxMi40MDQgMjcuMDM1LDEwLjA5MSAyNy4wMzUsOS4wNDEgQzI3LjAzNSw3LjYzOCAyNi4yNzYsNi44MjYgMjQuNzIsNi44MjYgQzIzLjczOSw2LjgyNiAyMi43MjIsNy40NTMgMjIuMjkxLDguMDAzIEMyMi4yOTEsOC4wMDMgMjIuNDIyLDcuNTUzIDIyLjQ2Nyw3LjM4IEMyMi41MTUsNy4xOTYgMjIuNDE1LDYuODg0IDIyLjE3Myw2Ljg4NCBMMjAuNjUxLDYuODg0IEMyMC4zMjgsNi44ODQgMjAuMjM4LDcuMDU1IDIwLjE5MSw3LjI0NCBDMjAuMTcyLDcuMzIgMTkuNjI0LDkuNTg0IDE5LjA5OCwxMS42MzIgQzE4LjczOCwxMy4wMzQgMTcuODYzLDE0LjIwNSAxNi45MjgsMTQuMjA1IEMxNi40NDcsMTQuMjA1IDE2LjIzMywxMy45MDYgMTYuMjMzLDEzLjM5OSBDMTYuMjMzLDEyLjk1OSAxNi41MTksMTEuODc3IDE2Ljg2LDEwLjUzNCBDMTcuMjc2LDguODk4IDE3LjY0Miw3LjU1MSAxNy42ODEsNy4zOTQgQzE3LjczMiw3LjE5MiAxNy42NDIsNy4wMTcgMTcuMzc5LDcuMDE3IEwxNS44NDksNy4wMTcgQzE1LjU3Miw3LjAxNyAxNS40NzMsNy4xNjEgMTUuNDE0LDcuMzYxIEMxNS40MTQsNy4zNjEgMTQuOTgzLDguOTc3IDE0LjUyNywxMC43NzUgQzE0LjE5NiwxMi4wNzkgMTMuODMsMTMuNDA5IDEzLjgzLDE0LjAzNCBDMTMuODMsMTUuMTQ4IDE0LjMzNiwxNS45NDQgMTUuNzI0LDE1Ljk0NCBDMTYuNzk2LDE1Ljk0NCAxNy42NDQsMTUuNDUgMTguMjkyLDE0Ljc2NCBDMTguMTk3LDE1LjEzNSAxOC4xMzYsMTUuNDE0IDE4LjEzLDE1LjQzOSBDMTguMDc0LDE1LjY1IDE4LjE0MiwxNS44MzggMTguMzk0LDE1LjgzOCBMMTkuOTYxLDE1LjgzOCBDMjAuMjMzLDE1LjgzOCAyMC4zMzcsMTUuNzMgMjAuMzk0LDE1LjQ5NCBDMjAuNDQ5LDE1LjI2OSAyMS42MTksMTAuNjY3IDIxLjYxOSwxMC42NjcgQzIxLjkyOCw5LjQ0MyAyMi42OTIsOC42MzIgMjMuNzY4LDguNjMyIEMyNC4yNzksOC42MzIgMjQuNzIsOC45NjcgMjQuNjY5LDkuNjE4IEMyNC42MTIsMTAuMzMzIDIzLjc0MSwxMi45MDMgMjMuNzQxLDE0LjAzMSBDMjMuNzQxLDE0Ljg4NCAyNC4wNiwxNS45NDUgMjUuNjgzLDE1Ljk0NSBDMjYuNzg5LDE1Ljk0NSAyNy42MDMsMTUuNDY0IDI4LjE5NSwxNC43ODYgTDI3LjQ4OSwxMy45NDEgQzI3LjMxMSwxNC4wOTQgMjcuMTE0LDE0LjE4OSAyNi44OTYsMTQuMTg5IFogTTQxLjcwMSw2Ljg3MyBMNDAuMTM0LDYuODczIEM0MC4xMzQsNi44NzMgNDAuODU2LDQuMTA5IDQwLjg3Myw0LjAzNSBDNDAuOTQyLDMuNzQ1IDQwLjY5OCwzLjU3OCA0MC40NDEsMy42MzEgQzQwLjQ0MSwzLjYzMSAzOS4yMywzLjg2NiAzOS4wMDUsMy45MTMgQzM4Ljc3OSwzLjk1OCAzOC42MDQsNC4wODEgMzguNTIyLDQuNDAzIEMzOC41MTIsNC40NDUgMzcuODgsNi44NzMgMzcuODgsNi44NzMgTDM2LjYyMiw2Ljg3MyBDMzYuMzg1LDYuODczIDM2LjI0NSw2Ljk2OCAzNi4xOTIsNy4xODggQzM2LjExNSw3LjUwNCAzNS45NzUsOC4xNDUgMzUuOTM2LDguMjk3IEMzNS44ODUsOC40OTQgMzYsOC42NDQgMzYuMjIyLDguNjQ0IEwzNy40NTcsOC42NDQgQzM3LjQ0OCw4LjY3NyAzNy4wNjQsMTAuMTI1IDM2LjcyNSwxMS41MjEgTDM2LjcyNCwxMS41MTYgQzM2LjcyLDExLjUzMiAzNi43MTYsMTEuNTQ2IDM2LjcxMiwxMS41NjIgTDM2LjcxMiwxMS41NTYgQzM2LjcxMiwxMS41NTYgMzYuNzA4LDExLjU3MSAzNi43MDIsMTEuNTk4IEMzNi4zMjQsMTIuOTY4IDM1LjExOCwxNC4yMDkgMzQuMjAxLDE0LjIwOSBDMzMuNzIxLDE0LjIwOSAzMy41MDYsMTMuOTA5IDMzLjUwNiwxMy40MDIgQzMzLjUwNiwxMi45NjMgMzMuNzkyLDExLjg4IDM0LjEzNCwxMC41MzcgQzM0LjU0OSw4LjkwMSAzNC45MTUsNy41NTUgMzQuOTU1LDcuMzk3IEMzNS4wMDYsNy4xOTYgMzQuOTE1LDcuMDIgMzQuNjUyLDcuMDIgTDMzLjEyMiw3LjAyIEMzMi44NDUsNy4wMiAzMi43NDYsNy4xNjQgMzIuNjg3LDcuMzY0IEMzMi42ODcsNy4zNjQgMzIuMjU3LDguOTggMzEuOCwxMC43NzggQzMxLjQ2OSwxMi4wODMgMzEuMTAzLDEzLjQxMiAzMS4xMDMsMTQuMDM3IEMzMS4xMDMsMTUuMTUxIDMxLjYwOSwxNS45NDggMzIuOTk3LDE1Ljk0OCBDMzQuMDcsMTUuOTQ4IDM1LjEzNiwxNS40NTMgMzUuNzgzLDE0Ljc2NyBDMzUuNzgzLDE0Ljc2NyAzNi4wMTEsMTQuNTIxIDM2LjIzLDE0LjIyOSBDMzYuMjQxLDE0LjU4MSAzNi4zMjQsMTQuODM3IDM2LjQxMSwxNS4wMTggQzM2LjQ1OCwxNS4xMTkgMzYuNTE1LDE1LjIxNSAzNi41ODEsMTUuMzAzIEMzNi41ODIsMTUuMzA0IDM2LjU4MywxNS4zMDYgMzYuNTg1LDE1LjMwOCBMMzYuNTg1LDE1LjMwOCBDMzYuODkxLDE1LjcxMyAzNy4zOTgsMTUuOTYyIDM4LjE1MSwxNS45NjIgQzM5Ljg5NCwxNS45NjIgNDAuOTQ0LDE0LjkzOCA0MS41NjIsMTMuOTA5IEw0MC43MDQsMTMuMjM5IEM0MC4zMzMsMTMuNzc0IDM5LjgzOSwxNC4xNzUgMzkuMzI0LDE0LjE3NSBDMzguODQ2LDE0LjE3NSAzOC41NzksMTMuODc4IDM4LjU3OSwxMy4zNzIgQzM4LjU3OSwxMi45MzUgMzguODg5LDExLjg2OCAzOS4yMjksMTAuNTMgQzM5LjM0NCwxMC4wODMgMzkuNTE2LDkuNDAxIDM5LjcwOCw4LjY0NCBMNDEuMzAyLDguNjQ0IEM0MS41MzksOC42NDQgNDEuNjc4LDguNTQ5IDQxLjczMiw4LjMyOSBDNDEuODA4LDguMDEyIDQxLjk0OCw3LjM3MiA0MS45ODgsNy4yMjEgQzQyLjAzOSw3LjAyMyA0MS45MjMsNi44NzMgNDEuNzAxLDYuODczIFogTTM0LjEyNiw2LjM0OCBDMzQuOTA1LDYuMzQ4IDM1LjY1Myw1LjcwNiAzNS43ODMsNC45MTIgQzM1LjkzNyw0LjE0MSAzNS40MDksMy40OTggMzQuNjMsMy40OTggQzMzLjg1MSwzLjQ5OCAzMy4xMDMsNC4xNDEgMzIuOTcxLDQuOTEyIEMzMi44MTksNS43MDYgMzMuMzI2LDYuMzQ4IDM0LjEyNiw2LjM0OCBaIiBmaWxsPSIjZmZmIj48L3BhdGg+PC9nPjwvc3ZnPg==);
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_red.PIN_1550433498217_ja { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_red.PIN_1550439001787_ja { 
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMThweCIgd2lkdGg9IjQxcHgiIHZpZXdCb3g9IjAgMCA0MSAxOCI+PGc+PHBhdGggZD0iTTE5LjgyMiw3LjE3MyBDMTkuODIyLDYuNTEgMTkuODM1LDYuMjc2IDE5Ljg4Nyw1Ljk2NCBMMTguMTQ1LDUuOTY0IEMxOC4xOTcsNi4yODkgMTguMTk3LDYuNDk3IDE4LjE5Nyw3LjE2IEwxOC4yMSwxMy4xOTIgQzE4LjIxLDEzLjk0NiAxOC4yMjMsMTQuMTY3IDE4LjI0OSwxNC4zODggQzE4LjMyNywxNS4wMjUgMTguNTIyLDE1LjQ0MSAxOC44ODYsMTUuNzE0IEMxOS4zOTMsMTYuMTA0IDIwLjI5LDE2LjI3MyAyMS45MjgsMTYuMjczIEMyMi43MjEsMTYuMjczIDI0LjM1OSwxNi4xOTUgMjUuMTI2LDE2LjExNyBDMjYuNTA0LDE1Ljk4NyAyNi41NjksMTUuOTc0IDI2Ljg0MiwxNS45NzQgTDI2Ljc2NCwxNC4yNDUgQzI2LjE5MiwxNC40MTQgMjUuOTA2LDE0LjQ3OSAyNS4yODIsMTQuNTU3IEMyNC4zMzMsMTQuNjg3IDIzLjEzNywxNC43NjUgMjIuMjY2LDE0Ljc2NSBDMjEuMDA1LDE0Ljc2NSAyMC4yNjQsMTQuNjQ4IDIwLjA0MywxNC40MjcgQzE5Ljg2MSwxNC4yNDUgMTkuODA5LDEzLjk1OSAxOS44MDksMTMuMjMxIEMxOS44MDksMTMuMTc5IDE5LjgwOSwxMy4xMDEgMTkuODIyLDEzLjAyMyBMMTkuODIyLDExLjMwNyBDMjEuOTkzLDEwLjkwNCAyNC4wMDgsMTAuMjI4IDI1LjkzMiw5LjI0IEwyNi4yNyw5LjA3MSBDMjYuMzc0LDkuMDE5IDI2LjQsOS4wMDYgMjYuNTQzLDguOTU0IEwyNS41MDMsNy40ODUgQzI0LjY1OCw4LjI3OCAyMS43ODUsOS40MzUgMTkuODIyLDkuNzk5IEwxOS44MjIsNy4xNzMgWiBNMjcuMzEsNC44NzIgQzI2LjQ5MSw0Ljg3MiAyNS44MTUsNS41NDggMjUuODE1LDYuMzY3IEMyNS44MTUsNy4xOTkgMjYuNDkxLDcuODc1IDI3LjMxLDcuODc1IEMyOC4xNDIsNy44NzUgMjguODE4LDcuMTk5IDI4LjgxOCw2LjM2NyBDMjguODE4LDUuNTQ4IDI4LjE0Miw0Ljg3MiAyNy4zMSw0Ljg3MiBMMjcuMzEsNC44NzIgWiBNMjcuMzEsNS41MjIgQzI3Ljc5MSw1LjUyMiAyOC4xNjgsNS44OTkgMjguMTY4LDYuMzY3IEMyOC4xNjgsNi44MzUgMjcuNzkxLDcuMjI1IDI3LjMxLDcuMjI1IEMyNi44NDIsNy4yMjUgMjYuNDY1LDYuODM1IDI2LjQ2NSw2LjM2NyBDMjYuNDY1LDUuODk5IDI2Ljg0Miw1LjUyMiAyNy4zMSw1LjUyMiBMMjcuMzEsNS41MjIgWiBNMzAuNTg2LDcuNjU0IEMzMS43OTUsOC4zMyAzMi44NjEsOS4xODggMzMuOTAxLDEwLjI5MyBMMzUuMDE5LDguODc2IEMzNC4wMTgsNy45MjcgMzMuMjEyLDcuMzI5IDMxLjY2NSw2LjM2NyBMMzAuNTg2LDcuNjU0IFogTTMxLjA0MSwxNi4yMzQgQzMxLjM0LDE2LjEzIDMxLjM3OSwxNi4xMTcgMzEuODk5LDE2LjAxMyBDMzMuOTE0LDE1LjU4NCAzNS41MjYsMTQuOTQ3IDM2Ljg1MiwxNC4wNjMgQzM4LjYzMywxMi44OCAzOS44NjgsMTEuMzQ2IDQwLjk3Myw4Ljk2NyBDNDAuMzEsOC40OTkgNDAuMTAyLDguMzA0IDM5LjU5NSw3LjY5MyBDMzkuMjA1LDguNzQ2IDM4Ljg0MSw5LjQ2MSAzOC4yNjksMTAuMjkzIEMzNy4yNDIsMTEuNzc1IDM2LjAzMywxMi43NzYgMzQuNDA4LDEzLjQ3OCBDMzMuMjI1LDEzLjk5OCAzMS42NzgsMTQuMzc1IDMwLjU2LDE0LjQ0IEwzMS4wNDEsMTYuMjM0IFogTTcuNDU4LDAgQzIuNSwwIDAsMy41MjIgMCw2LjQ1OSBDMCw4LjIzNyAwLjY4LDkuODE5IDIuMTM3LDEwLjQwOSBDMi4zNzYsMTAuNTA1IDIuNTksMTAuNDEyIDIuNjYsMTAuMTUgQzIuNzA4LDkuOTY5IDIuODIyLDkuNTExIDIuODczLDkuMzIgQzIuOTQzLDkuMDYxIDIuOTE2LDguOTcgMi43MjMsOC43NDQgQzIuMzAyLDguMjUzIDIuMDM0LDcuNjE3IDIuMDM0LDYuNzE2IEMyLjAzNCw0LjEwNCA0LjAwNywxLjc2NSA3LjE3MiwxLjc2NSBDOS45NzUsMS43NjUgMTEuNTE0LDMuNDYxIDExLjUxNCw1LjcyNiBDMTEuNTE0LDguNzA4IDEwLjE4MywxMS4xOCA4LjIwNiwxMS4xOCBDNy4xMTQsMTEuMTggNi4yOTcsMTAuMzI5IDYuNTU5LDkuMjMzIEM2Ljg3Miw3LjkyMiA3LjQ4LDYuNTA5IDcuNDgsNS41NjQgQzcuNDgsNC43MTcgNy4wMjIsNC4wMTEgNi4wNzIsNC4wMTEgQzQuOTU2LDQuMDExIDQuMDYsNS4xNTUgNC4wNiw2LjY4NyBDNC4wNiw3LjY2MyA0LjM5Myw4LjMyMyA0LjM5Myw4LjMyMyBDNC4zOTMsOC4zMjMgMy4yNTEsMTMuMTE3IDMuMDUxLDEzLjk1NyBDMi42NTIsMTUuNjI5IDIuOTkxLDE3LjY3OSAzLjAxOSwxNy44ODYgQzMuMDM2LDE4LjAwOSAzLjE5NSwxOC4wMzggMy4yNjcsMTcuOTQ2IEMzLjM3LDE3LjgxMiA0LjcsMTYuMTg3IDUuMTUxLDE0LjU2MiBDNS4yNzksMTQuMTAyIDUuODg1LDExLjcyIDUuODg1LDExLjcyIEM2LjI0OCwxMi40MDYgNy4zMDgsMTMuMDA5IDguNDM1LDEzLjAwOSBDMTEuNzksMTMuMDA5IDE0LjA2Niw5Ljk3OSAxNC4wNjYsNS45MjMgQzE0LjA2NiwyLjg1NyAxMS40NDQsMCA3LjQ1OCwwIFoiIGZpbGw9IiNmZmYiPjwvcGF0aD48L2c+PC9zdmc+);
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_white { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_white { 
   background-color: #fff;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save { 
   border-radius: 2px;
   text-indent: 20px;
   width: auto;
@@ -717,59 +717,59 @@ dataLayer = [{
   background-size: 14px 14px;
   -webkit-font-smoothing: antialiased;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save:hover { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save:hover { 
   background-color: #e60023;
   box-shadow: none;
   color: #fff!important;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save .PIN_1550439001787_count { 
   text-indent: 0;
   position: absolute;
   color: #555;
   background: #efefef;
   border-radius: 2px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save .PIN_1550439001787_count::before { 
   content: "";
   position: absolute;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save.PIN_1550433498217_beside .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save.PIN_1550439001787_beside .PIN_1550439001787_count { 
   right: -46px;
   height: 20px;
   width: 40px;
   font-size: 10px;
   line-height: 20px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save.PIN_1550433498217_beside .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save.PIN_1550439001787_beside .PIN_1550439001787_count::before { 
   top: 3px;
   left: -4px;
   border-right: 7px solid #efefef;
   border-top: 7px solid transparent;
   border-bottom: 7px solid transparent;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save.PIN_1550433498217_above .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save.PIN_1550439001787_above .PIN_1550439001787_count { 
   top: -36px;
   width: 100%;
   height: 30px;
   font-size: 10px;
   line-height: 30px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save.PIN_1550433498217_above .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save.PIN_1550439001787_above .PIN_1550439001787_count::before { 
   bottom: -4px;
   left: 4px;
   border-top: 7px solid #efefef;
   border-right: 7px solid transparent;
   border-left: 7px solid transparent;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_save.PIN_1550433498217_above.PIN_1550433498217_padded { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_save.PIN_1550439001787_above.PIN_1550439001787_padded { 
   margin-top: 28px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall { 
   height: 28px;
   width: 56px;
   border-radius: 3px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_above .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_above .PIN_1550439001787_count { 
   position: absolute;
   height: 37px;
   width: inherit;
@@ -780,10 +780,10 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNzZweCIgd2lkdGg9IjExNHB4IiB2aWV3Qm94PSIwIDAgMTE0IDc2Ij48Zz48cGF0aCBkPSJNOSAxQzQuNiAxIDEgNC42IDEgOXY0M2MwIDQuMyAzLjYgOCA4IDhoMjZsMTggMTVoNy41bDE2LTE1SDEwNWM0LjQgMCA4LTMuNyA4LThWOWMwLTQuNC0zLjYtOC04LThIOXoiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2I1YjViNSIgc3Ryb2tlLXdpZHRoPSIyIj48L3BhdGg+PC9nPjwvc3ZnPg==);
   background-size: cover;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_above.PIN_1550433498217_padded { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_above.PIN_1550439001787_padded { 
   margin-top: 37px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_beside .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_beside .PIN_1550439001787_count { 
   text-indent: 5px;
   position: absolute;
   right: -63px;
@@ -794,10 +794,10 @@ dataLayer = [{
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNTZweCIgd2lkdGg9IjEyNnB4IiB2aWV3Qm94PSIyIDAgMTMwIDYwIj48Zz48cGF0aCBkPSJNMTE5LjYgMmM0LjUgMCA4IDMuNiA4IDh2NDBjMCA0LjQtMy41IDgtOCA4SDIzLjNMMS42IDMyLjR2LTQuNkwyMy4zIDJoOTYuM3oiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2I1YjViNSIgc3Ryb2tlLXdpZHRoPSIyIj48L3BhdGg+PC9nPjwvc3ZnPg==);
   background-size: cover;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_beside.PIN_1550433498217_padded { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_beside.PIN_1550439001787_padded { 
   margin-right: 63px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save { 
   border-radius: 4px;
   width: auto;
   background-position-x: 6px;
@@ -807,7 +807,7 @@ dataLayer = [{
   font-weight: bold;
   padding: 0 6px 0 0;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save .PIN_1550439001787_count { 
   position: absolute;
   color: #555;
   font-size: 12px;
@@ -815,46 +815,46 @@ dataLayer = [{
   background: #efefef;
   border-radius: 4px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save .PIN_1550439001787_count::before { 
   content: "";
   position: absolute;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save.PIN_1550433498217_above .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save.PIN_1550439001787_above .PIN_1550439001787_count { 
   font-size: 14px;
   top: -50px;
   width: 100%;
   height: 44px;
   line-height: 44px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save.PIN_1550433498217_above .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save.PIN_1550439001787_above .PIN_1550439001787_count::before { 
   bottom: -4px;
   left: 7px;
   border-top: 7px solid #efefef;
   border-right: 7px solid transparent;
   border-left: 7px solid transparent;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save.PIN_1550433498217_beside .PIN_1550433498217_count { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save.PIN_1550439001787_beside .PIN_1550439001787_count { 
   font-size: 14px;
   right: -63px;
   width: 56px;
   height: 28px;
   line-height: 28px;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_tall.PIN_1550433498217_save.PIN_1550433498217_beside .PIN_1550433498217_count::before { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_tall.PIN_1550439001787_save.PIN_1550439001787_beside .PIN_1550439001787_count::before { 
   top: 7px;
   left: -4px;
   border-right: 7px solid #efefef;
   border-top: 7px solid transparent;
   border-bottom: 7px solid transparent;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_round { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_round { 
   height: 16px;
   width: 16px;
   background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzBweCIgd2lkdGg9IjMwcHgiIHZpZXdCb3g9Ii0xIC0xIDMxIDMxIj48Zz48cGF0aCBkPSJNMjkuNDQ5LDE0LjY2MiBDMjkuNDQ5LDIyLjcyMiAyMi44NjgsMjkuMjU2IDE0Ljc1LDI5LjI1NiBDNi42MzIsMjkuMjU2IDAuMDUxLDIyLjcyMiAwLjA1MSwxNC42NjIgQzAuMDUxLDYuNjAxIDYuNjMyLDAuMDY3IDE0Ljc1LDAuMDY3IEMyMi44NjgsMC4wNjcgMjkuNDQ5LDYuNjAxIDI5LjQ0OSwxNC42NjIiIGZpbGw9IiNmZmYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIj48L3BhdGg+PHBhdGggZD0iTTE0LjczMywxLjY4NiBDNy41MTYsMS42ODYgMS42NjUsNy40OTUgMS42NjUsMTQuNjYyIEMxLjY2NSwyMC4xNTkgNS4xMDksMjQuODU0IDkuOTcsMjYuNzQ0IEM5Ljg1NiwyNS43MTggOS43NTMsMjQuMTQzIDEwLjAxNiwyMy4wMjIgQzEwLjI1MywyMi4wMSAxMS41NDgsMTYuNTcyIDExLjU0OCwxNi41NzIgQzExLjU0OCwxNi41NzIgMTEuMTU3LDE1Ljc5NSAxMS4xNTcsMTQuNjQ2IEMxMS4xNTcsMTIuODQyIDEyLjIxMSwxMS40OTUgMTMuNTIyLDExLjQ5NSBDMTQuNjM3LDExLjQ5NSAxNS4xNzUsMTIuMzI2IDE1LjE3NSwxMy4zMjMgQzE1LjE3NSwxNC40MzYgMTQuNDYyLDE2LjEgMTQuMDkzLDE3LjY0MyBDMTMuNzg1LDE4LjkzNSAxNC43NDUsMTkuOTg4IDE2LjAyOCwxOS45ODggQzE4LjM1MSwxOS45ODggMjAuMTM2LDE3LjU1NiAyMC4xMzYsMTQuMDQ2IEMyMC4xMzYsMTAuOTM5IDE3Ljg4OCw4Ljc2NyAxNC42NzgsOC43NjcgQzEwLjk1OSw4Ljc2NyA4Ljc3NywxMS41MzYgOC43NzcsMTQuMzk4IEM4Ljc3NywxNS41MTMgOS4yMSwxNi43MDkgOS43NDksMTcuMzU5IEM5Ljg1NiwxNy40ODggOS44NzIsMTcuNiA5Ljg0LDE3LjczMSBDOS43NDEsMTguMTQxIDkuNTIsMTkuMDIzIDkuNDc3LDE5LjIwMyBDOS40MiwxOS40NCA5LjI4OCwxOS40OTEgOS4wNCwxOS4zNzYgQzcuNDA4LDE4LjYyMiA2LjM4NywxNi4yNTIgNi4zODcsMTQuMzQ5IEM2LjM4NywxMC4yNTYgOS4zODMsNi40OTcgMTUuMDIyLDYuNDk3IEMxOS41NTUsNi40OTcgMjMuMDc4LDkuNzA1IDIzLjA3OCwxMy45OTEgQzIzLjA3OCwxOC40NjMgMjAuMjM5LDIyLjA2MiAxNi4yOTcsMjIuMDYyIEMxNC45NzMsMjIuMDYyIDEzLjcyOCwyMS4zNzkgMTMuMzAyLDIwLjU3MiBDMTMuMzAyLDIwLjU3MiAxMi42NDcsMjMuMDUgMTIuNDg4LDIzLjY1NyBDMTIuMTkzLDI0Ljc4NCAxMS4zOTYsMjYuMTk2IDEwLjg2MywyNy4wNTggQzEyLjA4NiwyNy40MzQgMTMuMzg2LDI3LjYzNyAxNC43MzMsMjcuNjM3IEMyMS45NSwyNy42MzcgMjcuODAxLDIxLjgyOCAyNy44MDEsMTQuNjYyIEMyNy44MDEsNy40OTUgMjEuOTUsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjZTYwMDIzIj48L3BhdGg+PC9nPjwvc3ZnPg==) 0 0 no-repeat;
   background-size: 16px 16px;
   box-shadow: none;
 }
- .PIN_1550433498217_button_pin.PIN_1550433498217_round.PIN_1550433498217_tall { 
+ .PIN_1550439001787_button_pin.PIN_1550439001787_round.PIN_1550439001787_tall { 
   height: 32px;
   width: 32px;
   background-size: 32px 32px;
@@ -1058,7 +1058,7 @@ dataLayer = [{
                     </form>
                 </div>
                                 <div id="container" class="wide">
-                    <div class="product-page simple-product compact-layout wide" itemscope="" itemtype="http://schema.org/Product">
+                    <div class="product-page simple-product compact-layout product-page--has-discount wide" itemscope="" itemtype="http://schema.org/Product">
 	<div id="infobar" class="wide border-bottom infobar">
 		<div class="infobar-breadcrumbs padding-xs border-right pull-left padding-right-s">
 					<div class="moduletable">
@@ -1072,92 +1072,89 @@ dataLayer = [{
 		</ul>
 		</div>
 			</div>
-                        <div class="infobar-brand padding-xs pull-left padding-left-s">
-                    <span class="label">Merk</span>
-                    <span class="divider">:</span>
-                    <span itemprop="brand" itemscope="" itemtype="http://schema.org/Organization">
-                    <span itemprop="name">
-                        <a href="/shop/nieuw?brands=173">Rein living</a>
-                    </span>
-                </span>
-                </div>
-		        	</div>
+        	</div>
 	<div class="wide padding border-bottom">
 		<div class="mid">
             <div class="flex-wrap">
                 <div class="col-55 product-images padding-right flex flex-wrap order-768-1">
                     <div id="product-images-thumbs-slider" class="product-images-thumbs-slider slider order-768-2 slick-vertical slick-initialized slick-slider" style=""><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
                                                             
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                        <div class="slick-list draggable" style="height: 0px;"><div class="slick-track" style="opacity: 1; height: 0px; -webkit-transform: translate3d(0px, 0px, 0px);"><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-4" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143C-0000006B75.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-3" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143D-0000006B79.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-2" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143E-0000006B7D.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-1" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143F-0000006B81.jpg">
-                                    </div><div class="product-thumb product-thumb--combo-2433 slick-slide slick-current slick-active" style="width: 0px;" tabindex="0" data-slick-index="0" aria-hidden="false">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B72.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-active" tabindex="0" style="width: 0px;" data-slick-index="1" aria-hidden="false">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143C-0000006B75.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-active" tabindex="0" style="width: 0px;" data-slick-index="2" aria-hidden="false">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143D-0000006B79.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-active" tabindex="0" style="width: 0px;" data-slick-index="3" aria-hidden="false">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143E-0000006B7D.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide" tabindex="-1" style="width: 0px;" data-slick-index="4" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143F-0000006B81.jpg">
-                                    </div><div class="product-thumb product-thumb--combo-2433 slick-slide slick-cloned" style="width: 0px;" tabindex="-1" data-slick-index="5" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B72.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="6" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143C-0000006B75.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="7" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143D-0000006B79.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="8" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143E-0000006B7D.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="9" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143F-0000006B81.jpg">
-                                    </div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
-                    <input type="hidden" id="thmbsarr" value="eyIyNDMzIjp7IjYwMCI6eyJoZWlnaHQiOjIwMCwiaWQiOjI3NTA4LCJ3aWR0aCI6NjAwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAwQVwvMDAwMDAwMTQzQi0wMDAwMDA2Qjc0LmpwZyIsImNvbnN0cmFpbnQiOjYwMH0sIjQ4MCI6eyJoZWlnaHQiOjE2MCwiaWQiOjI3NTA3LCJ3aWR0aCI6NDgwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAwQVwvMDAwMDAwMTQzQi0wMDAwMDA2QjczLmpwZyIsImNvbnN0cmFpbnQiOjQ4MH0sIjI0MCI6eyJoZWlnaHQiOjgwLCJpZCI6Mjc1MDYsIndpZHRoIjoyNDAsInVybCI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDBBXC8wMDAwMDAxNDNCLTAwMDAwMDZCNzIuanBnIiwiY29uc3RyYWludCI6MjQwfSwiMTIwIjp7ImhlaWdodCI6NDAsImlkIjoxODQ3MSwid2lkdGgiOjEyMCwidXJsIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMEFcLzAwMDAwMDE0M0ItMDAwMDAwNDgyNy5qcGciLCJjb25zdHJhaW50IjoxMjB9fX0=">
+                                                                            
+                                                                                
+                                                                                
+                                                                            
+                                                                            
+                                                                                
+                                                                                
+                                                                            
+                                                                            
+                                                                                
+                                                                                
+                                                            <div class="slick-list draggable" style="height: 0px;"><div class="slick-track" style="opacity: 1; height: 0px; -webkit-transform: translate3d(0px, 0px, 0px);"><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-3" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EBD-0000017ADB.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-2" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC1-0000017AED.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="-1" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC2-0000017AF1.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-current slick-active" tabindex="0" style="width: 0px;" data-slick-index="0" aria-hidden="false">
+                                        <img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg">
+                                    </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-active" tabindex="0" style="width: 0px;" data-slick-index="1" aria-hidden="false">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EBD-0000017ADB.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-active" tabindex="0" style="width: 0px;" data-slick-index="2" aria-hidden="false">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC1-0000017AED.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide" tabindex="-1" style="width: 0px;" data-slick-index="3" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC2-0000017AF1.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="4" aria-hidden="true">
+                                        <img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg">
+                                    </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="5" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EBD-0000017ADB.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="6" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC1-0000017AED.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide slick-cloned" tabindex="-1" style="width: 0px;" data-slick-index="7" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC2-0000017AF1.jpg">
+                                        </div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+                    <input type="hidden" id="thmbsarr" value="eyIxMDUxNyI6eyI1MDAiOnsiaGVpZ2h0Ijo1MDAsImlkIjo5Njk5OCwid2lkdGgiOjUwMCwidXJsIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMjhcLzAwMDAwMDRFQkUtMDAwMDAxN0FFNi5qcGciLCJjb25zdHJhaW50Ijo1MDB9LCI0ODAiOnsiaGVpZ2h0Ijo0ODAsImlkIjo5Njk5Niwid2lkdGgiOjQ4MCwidXJsIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMjhcLzAwMDAwMDRFQkUtMDAwMDAxN0FFNC5qcGciLCJjb25zdHJhaW50Ijo0ODB9LCIyNDAiOnsiaGVpZ2h0IjoyNDAsImlkIjo5Njk5NCwid2lkdGgiOjI0MCwidXJsIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMjhcLzAwMDAwMDRFQkUtMDAwMDAxN0FFMi5qcGciLCJjb25zdHJhaW50IjoyNDB9LCIxMjAiOnsiaGVpZ2h0IjoxMjAsImlkIjo5Njk5Miwid2lkdGgiOjEyMCwidXJsIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMjhcLzAwMDAwMDRFQkUtMDAwMDAxN0FFMC5qcGciLCJjb25zdHJhaW50IjoxMjB9fSwiMTA1MTYiOnsiNTAwIjp7ImhlaWdodCI6NTAwLCJpZCI6OTY5OTAsIndpZHRoIjo1MDAsInVybCI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDI4XC8wMDAwMDA0RUJDLTAwMDAwMTdBREUuanBnIiwiY29uc3RyYWludCI6NTAwfSwiNDgwIjp7ImhlaWdodCI6NDgwLCJpZCI6OTY5ODgsIndpZHRoIjo0ODAsInVybCI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDI4XC8wMDAwMDA0RUJDLTAwMDAwMTdBREMuanBnIiwiY29uc3RyYWludCI6NDgwfSwiMjQwIjp7ImhlaWdodCI6MjQwLCJpZCI6OTY5ODYsIndpZHRoIjoyNDAsInVybCI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDI4XC8wMDAwMDA0RUJDLTAwMDAwMTdBREEuanBnIiwiY29uc3RyYWludCI6MjQwfSwiMTIwIjp7ImhlaWdodCI6MTIwLCJpZCI6OTY5ODQsIndpZHRoIjoxMjAsInVybCI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDI4XC8wMDAwMDA0RUJDLTAwMDAwMTdBRDguanBnIiwiY29uc3RyYWludCI6MTIwfX0sIjEwNTE1Ijp7IjUwMCI6eyJoZWlnaHQiOjUwMCwiaWQiOjk2OTcxLCJ3aWR0aCI6NTAwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAyOFwvMDAwMDAwNEVCOC0wMDAwMDE3QUNCLmpwZyIsImNvbnN0cmFpbnQiOjUwMH0sIjQ4MCI6eyJoZWlnaHQiOjQ4MCwiaWQiOjk2OTcwLCJ3aWR0aCI6NDgwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAyOFwvMDAwMDAwNEVCOC0wMDAwMDE3QUNBLmpwZyIsImNvbnN0cmFpbnQiOjQ4MH0sIjI0MCI6eyJoZWlnaHQiOjI0MCwiaWQiOjk2OTY5LCJ3aWR0aCI6MjQwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAyOFwvMDAwMDAwNEVCOC0wMDAwMDE3QUM5LmpwZyIsImNvbnN0cmFpbnQiOjI0MH0sIjEyMCI6eyJoZWlnaHQiOjEyMCwiaWQiOjk2OTY4LCJ3aWR0aCI6MTIwLCJ1cmwiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAyOFwvMDAwMDAwNEVCOC0wMDAwMDE3QUM4LmpwZyIsImNvbnN0cmFpbnQiOjEyMH19fQ==">
                     <div id="product-images-slider" class="product-images-slider slider order-768-1 slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
                                                             
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2260px;"><div class="product-thumb product-thumb--combo-2433 slick-slide slick-current slick-active" style="width: 452px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" data-slick-index="0" aria-hidden="false">
+                                                                            
+                                                                                
+                                                                                
+                                                                            
+                                                                            
+                                                                                
+                                                                                
+                                                                            
+                                                                            
+                                                                                
+                                                                                
+                                                            <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1808px;"><div class="product-thumb product-thumb--combo-10516 slick-slide slick-current slick-active" style="width: 452px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" data-slick-index="0" aria-hidden="false">
                                         <div class="pin-wrapper">
-                                            <img id="img-2433" class="pin-image" src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B74.jpg">
+                                            <img id="img-10516" class="pin-image" src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADE.jpg">
                                             <a class="pin-icon" data-pin-do="buttonBookmark" data-pin-custom="true" tabindex="0" data-pin-log="button_pinit_bookmarklet" data-pin-href="https://uk.pinterest.com/pin/create/button/"><span>pin</span></a>
                                         </div>
-                                    </div><div class="product-thumb product-thumb--image slick-slide" style="width: 452px; position: relative; left: -452px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="1" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143C-0000006B78.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide" style="width: 452px; position: relative; left: -904px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="2" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143D-0000006B7C.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide" style="width: 452px; position: relative; left: -1356px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="3" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143E-0000006B80.jpg">
-                                    </div><div class="product-thumb product-thumb--image slick-slide" style="width: 452px; position: relative; left: -1808px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="4" aria-hidden="true">
-                                        <img src="https://cdn.loods5.nl/images/0000A/000000143F-0000006B84.jpg">
-                                    </div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
-                    <input type="hidden" id="imgsarr" value="eyIyNDMzIjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMEFcLzAwMDAwMDE0M0ItMDAwMDAwNkI3NC5qcGcifQ==">
+                                    </div><div class="product-thumb product-thumb--combo-10516 slick-slide" style="width: 452px; position: relative; left: -452px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="1" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EBD-0000017ADF.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide" style="width: 452px; position: relative; left: -904px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="2" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC1-0000017AEF.jpg">
+                                        </div><div class="product-thumb product-thumb--combo-10516 slick-slide" style="width: 452px; position: relative; left: -1356px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" data-slick-index="3" aria-hidden="true">
+                                            <img src="https://cdn.loods5.nl/images/00028/0000004EC2-0000017AF3.jpg">
+                                        </div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+                    <input type="hidden" id="imgsarr" value="eyIxMDUxNyI6Imh0dHBzOlwvXC9jZG4ubG9vZHM1Lm5sXC9pbWFnZXNcLzAwMDI4XC8wMDAwMDA0RUJFLTAwMDAwMTdBRTYuanBnIiwiMTA1MTYiOiJodHRwczpcL1wvY2RuLmxvb2RzNS5ubFwvaW1hZ2VzXC8wMDAyOFwvMDAwMDAwNEVCQy0wMDAwMDE3QURFLmpwZyIsIjEwNTE1IjoiaHR0cHM6XC9cL2Nkbi5sb29kczUubmxcL2ltYWdlc1wvMDAwMjhcLzAwMDAwMDRFQjgtMDAwMDAxN0FDQi5qcGcifQ==">
                 </div>
                 <div class="col-45 product-introduction border-left padding-left order-768-2">
                     <form action="/winkelwagen" method="post">
-                                                                                <h1 itemprop="name" class="striped">Nyaman slaapbank</h1>
+                                                                                <h1 itemprop="name" class="striped">Stoel YI Shell</h1>
                                                 <div class="product-price wide border-bottom margin-bottom-s padding-bottom-xs" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
                             <div class="flex align-top">
                                 <div class="flex flex-wrap wide">
                                     <meta itemprop="priceCurrency" content="EUR">
-                                    <meta itemprop="price" content="427.15">
+                                    <meta itemprop="price" content="139.00">
                                     <meta itemprop="itemCondition" content="new">
-                                    <div id="price--holder"><div class="price-holder price-normal pull-left margin-right-xs margin-bottom-xs"><span class="price price-current pull-left"><span class="currency">€</span><span class="cost_inclusive newprice"> 427,15</span> </span></div></div>
+                                    <div id="price--holder"><div class="price-holder price-normal pull-left margin-right-xs margin-bottom-xs"><span class="price price-current pull-left"><span class="currency">€</span><span class="cost_inclusive newprice"> 129,-</span> </span></div></div>
                                                                             <div class="availability-holder margin-bottom-xs margin-right-xs">
                                             <span class="availability in-stock">
                                                 <link itemprop="availability" href="http://schema.org/InStock">
-                                                <span>Nog maar 4 op voorraad</span>
+                                                <span>Snel leverbaar</span>
                                             </span>
                                         </div>
                                                                                     <span class="delivery margin-bottom-xs">
@@ -1166,22 +1163,71 @@ dataLayer = [{
                                 <div id="discount-badges" class="pull-right" style="display:none"></div>
                             </div>
                         </div>
-                                                    <a id="product-thumb-2433" class="product-variant--thumb pull-left badge active" onclick="updatePrice('0193-0097-01','427,15',2433,4,0,'0',1,'');return false;" style="display:none">
-                                <img class="wide" src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B72.jpg" width="90" height="90">
-                            </a>
-                            <span id="combination-2433" class="product--selectbox--variant active" style="display:none">
-                                <img src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B72.jpg" width="45" height="45">
-                                <span class="h3"><span>Nyaman slaapbank grijs</span></span>
-                                <span class="hidden discount_modus"></span>
-                                <span class="hidden articleid">905</span>
-                            </span>
+                                                    <div class="wide product-variants margin-bottom-s">
+                                <h2 class="tag margin-bottom-xs">3 Uitvoeringen</h2>
+                                <div class="wide product-variant product-variant--image-thumbs">
+                                    <div class="product-variant--images-thumbs--images hide-768 wide">
+                                        <ul class="no-styling horizontal">
+                                                                                            <li>
+                                                    <a id="product-thumb-10517" class="product-variant--thumb pull-left badge" onclick="updatePrice('0575-0038-03','129,-',10517,34,0,'0',1,'default');return false;">
+                                                                                                                <img class="wide" src="https://cdn.loods5.nl/images/00028/0000004EBE-0000017AE2.jpg" width="90" height="90">
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a id="product-thumb-10516" class="product-variant--thumb pull-left badge active" onclick="updatePrice('0575-0038-02','129,-',10516,34,0,'0',1,'default');return false;">
+                                                                                                                <img class="wide" src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg" width="90" height="90">
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a id="product-thumb-10515" class="product-variant--thumb pull-left badge disabled" onclick="updatePrice('0575-0038-01','129,-',10515,0,0,'0',1,'default');return false;">
+                                                                                                                <img class="wide" src="https://cdn.loods5.nl/images/00028/0000004EB8-0000017AC9.jpg" width="90" height="90">
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                    <div class="wide product--selectbox--wrapper product-variant--selected relative">
+                                    <span class="product--selectbox--selected wide hide-768">
+                                        <span class="product--selectbox--variant--selected wide flex"><span class="variant-thumb-holder pull-left margin-right-xs"><img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg" width="45" height="45"></span><span class="h3">Stoel YI Shell<span class="divider">-</span><span><span>Stoel YI Shell wit blank</span></span></span><span class="product--selectbox--variant--price no-wrap">€ 129,-</span></span>
+                                    </span>
+                                    <span class="product--selectbox wide">
+                                                                                    <span id="combination-10517" class="product--selectbox--variant wide flex" onclick="updatePrice('0575-0038-03','129,-',10517,34,0,'0',1,'default');return false;">
+                                                <span class="variant-thumb-holder pull-left margin-right-xs">
+                                                    <img src="https://cdn.loods5.nl/images/00028/0000004EBE-0000017AE2.jpg" width="45" height="45">
+                                                </span>
+                                                <span class="h3"><span>Stoel YI Shell wit zwart</span></span>
+                                                <span class="hidden discount_modus"></span>
+                                                <span class="hidden articleid">4026</span>
+                                                                                                    <span class="product--selectbox--variant--price no-wrap">€ 129,-</span>
+                                                                                            </span>
+                                                                                    <span id="combination-10516" class="product--selectbox--variant wide flex active" onclick="updatePrice('0575-0038-02','129,-',10516,34,0,'0',1,'default');return false;">
+                                                <span class="variant-thumb-holder pull-left margin-right-xs">
+                                                    <img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg" width="45" height="45">
+                                                </span>
+                                                <span class="h3"><span>Stoel YI Shell wit blank</span></span>
+                                                <span class="hidden discount_modus"></span>
+                                                <span class="hidden articleid">4026</span>
+                                                                                                    <span class="product--selectbox--variant--price no-wrap">€ 129,-</span>
+                                                                                            </span>
+                                                                                    <span id="combination-10515" class="product--selectbox--variant wide flex disabled" onclick="updatePrice('0575-0038-01','129,-',10515,0,0,'0',1,'default');return false;">
+                                                <span class="variant-thumb-holder pull-left margin-right-xs">
+                                                    <img src="https://cdn.loods5.nl/images/00028/0000004EB8-0000017AC9.jpg" width="45" height="45">
+                                                </span>
+                                                <span class="h3"><span>Stoel YI Shell zwart blank</span></span>
+                                                <span class="hidden discount_modus"></span>
+                                                <span class="hidden articleid">4026</span>
+                                                                                                    <span class="product--selectbox--variant--price no-wrap">€ 129,-</span>
+                                                                                            </span>
+                                                                            </span>
+                                    </div>
+                                </div>
+                            </div>
                                                 <div class="wide cta-btns border-bottom padding-bottom-xs margin-bottom-s">
                             <div class="wide">
                                 <div class="flex flex-wrap">
                                     <div class="quantity pull-left margin-right-s margin-bottom-xs">
                                         <div class="flex">
                                             <label for="product-quantity" class="margin-right-xs tag hide-768">Aantal</label>
-                                                                                        <select id="product-qty--select" name="cart-qty" onchange="changeQuantityProduct(this.value);return false;"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+                                                                                        <select id="product-qty--select" name="cart-qty" onchange="changeQuantityProduct(this.value);return false;"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option></select>
                                             <span id="product-qty--input" class="pull-left flex" style="display:none;">
                                                 <input id="product-qty" name="product-qty" type="number" class="input-text qty text" value="">
                                                 <a title="Update de hoeveelheid" class="update" onclick="changeQuantityProduct(jQuery(this).prev('input[name=\'cart-qty\']').val());return false;"></a>
@@ -1192,7 +1238,7 @@ dataLayer = [{
                                                                                     <input id="primary-btn" value="in winkelwagen" class="button btn btn-primary inline-with-input pull-left btn-icon icon-add-to-cart" type="button" onclick="addToCart();return false;">
                                                                             </div>
                                                                         <div class="favorite pull-left stretch margin-bottom-xs">
-                                                                                <a class="tag pull-left favorite-btn" data-modal-href="/components/com_static/views/checkout/tmpl/cart--modal--wishlist.php?return=product/905/nyaman-slaapbank/2433">
+                                                                                <a class="tag pull-left favorite-btn" data-modal-href="/components/com_static/views/checkout/tmpl/cart--modal--wishlist.php?return=product/4026/stoel-yi-shell/10515">
                                             <span class="heart-icon">
                                                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="47.727px" viewBox="25 1.137 50 47.727" enable-background="new 25 1.137 50 47.727" xml:space="preserve">
                                                     <g>
@@ -1216,7 +1262,7 @@ dataLayer = [{
                             </div>
                         </div>
                         <div id="discount-boxes" class="wide" style="display:none"></div>
-                                                <input type="hidden" id="jsstk" value="eyIyNDMzIjp7IjEiOjQsIjIiOjAsIjMiOjAsIjQiOjB9fQ==">
+                                                <input type="hidden" id="jsstk" value="eyIxMDUxNSI6eyIxIjowLCIyIjowLCI0IjowfSwiMTA1MTYiOnsiMSI6MzQsIjIiOjAsIjQiOjB9LCIxMDUxNyI6eyIxIjozNCwiMiI6MCwiNCI6MH19">
                     </form>
                                     </div>
             </div>
@@ -1227,18 +1273,12 @@ dataLayer = [{
             <div class="flex-wrap">
 			<div class="col-55 padding-right product-description order-768-2">
 				<h2 class="h3 margin-bottom-s">Artikelomschrijving</h2>
-				<p itemprop="description"></p><p>Slaapbank Nyaman is niet alleen een uiterst comfortabele driezitsbank maar in<br>
-een handomdraai ook te transformeren in een daybed of logeerbed. Net wat je<br>
-nodig hebt! Bijzonder is dat deze comfortabele driezitter een verstelbare<br>
-rugleuning heeft die ook een tussenstand heeft waardoor je er lekker onderuit<br>
-in kunt loungen. Met een simpel duwtje verstel je de rugleuning. Deze<br>
-loungebank heeft een mooie gemêleerde stof. Nyaman is daarmee ook nog eens een<br>
-praktische bank.</p><p></p>
+				<p itemprop="description"></p><p>De YI Shell is een mooie elegante stoel, met een hout onderstel, Dimple schaal is van polypropyleen, uv bestendig en geschikt voor ieder interieur.</p><p></p>
 			</div>
 			<div class="col-45 padding-left border-left product-main-features order-768-1">
 				<h2 class="h3 margin-bottom-s">Specificaties</h2>
 				<ul class="checked-styled">
-                    <li>Afmetingen: 190x95x90cm (LxDxH)</li><li>Afmeting bed: 190 x 125 cm</li><li>Zithoogte: 45 cm</li><li>Zitdiepte: 58 cm</li><li>Hoogte poot: 17 cm</li><li>Stoffering: 100% polyester stof</li><li>Poten: houten en multiplex frame</li><li>Maximale draaggewicht: 150 KG</li><li>Plof neer op de comfortabele slaapbank Nyaman. De rugleuning van de bank is in drie stappen te verstellen</li>				</ul>
+                    <li>Eetkamerstoel</li>				</ul>
                 <p class="margin-top-s">
                     <a class="btn btn-small" onclick="scrollToDiv('product-page-specs','class',1000);return false;">Alle specificaties</a>
                 </p>
@@ -1251,7 +1291,7 @@ praktische bank.</p><p></p>
     <script id="bzfy-js-embed" src="https://connect.getflowbox.com/bzfy.js"></script><script>
         window.bzfyAsyncInit = function(bzfy) {
             // Call bzfy.dynamics before bzfy.init to set up your Dynamic Flow
-            bzfy.dynamics({ productId: '2433' });
+            bzfy.dynamics({ productId: '10516' });
             bzfy.init('Uc2n3dhIREam3EtyjTQmcA', 'js-flowbox-feed', 'en', 'embed', {noLazyLoad: false});
         };
 
@@ -1269,8 +1309,8 @@ praktische bank.</p><p></p>
                 <h3 class="product-page-specs--title">
                     Specificaties
                 </h3>
-                <input type="hidden" id="c_attribs" value="eyIyNDMzIjp7IlByb2R1Y3RudW1tZXIiOlsiMDE5My0wMDk3LTAxIl0sIktsZXVyIjpbIkdyaWpzIl0sIk1hdGVyaWFhbCI6WyJIb3V0IiwiZWlrZW5ob3V0IiwicG9seWVzdGVyIiwidHJpcGxleCJdLCJaaXRzIjpbIlNsYWFwYmFuayJdfX0=">
-                <input type="hidden" id="c_dimensions" value="eyIyNDMzIjp7IkJyZWVkdGUiOiIxOTAsMCBjbSIsIkhvb2d0ZSI6IjkwLDAgY20iLCJEaWVwdGUiOiI5NSwwIGNtIiwiWml0aG9vZ3RlIjoiNDUsMCBjbSJ9fQ==">
+                <input type="hidden" id="c_attribs" value="eyIxMDUxNyI6eyJQcm9kdWN0bnVtbWVyIjpbIjA1NzUtMDAzOC0wMyJdLCJLbGV1ciI6WyJXaXQiXSwiTWF0ZXJpYWFsIjpbIkhvdXQiLCJLdW5zdHN0b2YiXX0sIjEwNTE2Ijp7IlByb2R1Y3RudW1tZXIiOlsiMDU3NS0wMDM4LTAyIl0sIktsZXVyIjpbIldpdCJdLCJNYXRlcmlhYWwiOlsiSG91dCIsIkt1bnN0c3RvZiJdfSwiMTA1MTUiOnsiUHJvZHVjdG51bW1lciI6WyIwNTc1LTAwMzgtMDEiXSwiS2xldXIiOlsiWndhcnQiXSwiTWF0ZXJpYWFsIjpbIkhvdXQiLCJLdW5zdHN0b2YiXX19">
+                <input type="hidden" id="c_dimensions" value="eyIxMDUxNyI6eyJCcmVlZHRlIjoiNDUsNSBjbSIsIkhvb2d0ZSI6IjgxLDAgY20iLCJEaWVwdGUiOiI0MCwwIGNtIiwiWml0aG9vZ3RlIjoiNDcsMCBjbSJ9LCIxMDUxNiI6eyJCcmVlZHRlIjoiNDUsNSBjbSIsIkhvb2d0ZSI6IjgxLDAgY20iLCJEaWVwdGUiOiI0MCwwIGNtIiwiWml0aG9vZ3RlIjoiNDcsMCBjbSJ9LCIxMDUxNSI6eyJCcmVlZHRlIjoiNDUsNSBjbSIsIkhvb2d0ZSI6IjgxLDAgY20iLCJEaWVwdGUiOiI0MCwwIGNtIiwiWml0aG9vZ3RlIjoiNDcsMCBjbSJ9fQ==">
                 <input type="hidden" id="c_attribs_extra" value="bnVsbA==">
                 <ul id="combo--specs" class="wide product-page-specs--default no-styling margin-bottom">
                     <!-- dyn -->
@@ -1279,28 +1319,21 @@ praktische bank.</p><p></p>
 Productnummer
     </span>
     <span class="product-page-specs--spec--value">
-0193-0097-01
+0575-0038-02
     </span>
 </li><li class="product-page-specs--spec dyn--specs">
     <span class="product-page-specs--spec--label">
 Kleur
     </span>
     <span class="product-page-specs--spec--value">
-Grijs
+Wit
     </span>
 </li><li class="product-page-specs--spec dyn--specs">
     <span class="product-page-specs--spec--label">
 Materiaal
     </span>
     <span class="product-page-specs--spec--value">
-Hout, eikenhout, polyester, triplex
-    </span>
-</li><li class="product-page-specs--spec dyn--specs">
-    <span class="product-page-specs--spec--label">
-Zits
-    </span>
-    <span class="product-page-specs--spec--value">
-Slaapbank
+Hout, Kunststof
     </span>
 </li></ul>
             </div>
@@ -1315,28 +1348,28 @@ Slaapbank
 Breedte
     </span>
     <span class="product-page-specs--spec--value">
-190,0 cm
+45,5 cm
     </span>
 </li><li class="product-page-specs--spec dyn--specs">
     <span class="product-page-specs--spec--label">
 Hoogte
     </span>
     <span class="product-page-specs--spec--value">
-90,0 cm
+81,0 cm
     </span>
 </li><li class="product-page-specs--spec dyn--specs">
     <span class="product-page-specs--spec--label">
 Diepte
     </span>
     <span class="product-page-specs--spec--value">
-95,0 cm
+40,0 cm
     </span>
 </li><li class="product-page-specs--spec dyn--specs">
     <span class="product-page-specs--spec--label">
 Zithoogte
     </span>
     <span class="product-page-specs--spec--value">
-45,0 cm
+47,0 cm
     </span>
 </li></ul>
             </div>
@@ -1347,19 +1380,19 @@ Zithoogte
         <div id="final--product-holder" class="wide product-page-resume border-top padding grey">
         <div class="mid m">
             <div class="wide flex flex-wrap">
-                <div class="col-20"><img src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B73.jpg" class="wide"></div>
+                <div class="col-20"><img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADC.jpg" class="wide"></div>
                 <div class="col-80 flex flex-wrap padding-left">
                     <div class="col-33 padding-right padding-top-xs padding-bottom-xs">
                         <h3 class="h1 striped">Mijn keuze!</h3>
-                        <h4 class="h2 margin-bottom-xs">Nyaman slaapbank</h4>
-                        <p><span>Nyaman slaapbank grijs</span></p>
+                        <h4 class="h2 margin-bottom-xs">Stoel YI Shell</h4>
+                        <p><span>Stoel YI Shell wit blank</span></p>
                     </div>
                     <div class="col-66 border-left padding-left">
                         <div class="wide padding-bottom-xs flex flex-wrap padding-top-xs">
-                            <div id="price--holder--bottom"><div class="price-holder price-normal pull-left margin-right-xs margin-bottom-xs"><span class="price price-current pull-left"><span class="currency">€</span><span class="cost_inclusive newprice"> 427,15</span> </span></div></div>
+                            <div id="price--holder--bottom"><div class="price-holder price-normal pull-left margin-right-xs margin-bottom-xs"><span class="price price-current pull-left"><span class="currency">€</span><span class="cost_inclusive newprice"> 129,-</span> </span></div></div>
                             <span class="availability-holder margin-bottom-xs">
                                 <span class="availability in-stock">
-                                    <span>Nog maar 4 op voorraad</span>
+                                    <span>Snel leverbaar</span>
                                 </span>
 	                                                                <span class="divider">·</span>
                                     <span class="delivery">
@@ -1373,7 +1406,7 @@ Zithoogte
                                     <div class="quantity pull-left margin-right-s margin-bottom-xs">
                                         <div class="flex">
                                             <label for="product-quantity" class="margin-right-xs tag hide-768">Aantal</label>
-                                            <select id="product-qty--select--bottom" name="cart-qty" onchange="changeQuantityProduct(this.value);return false;"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+                                            <select id="product-qty--select--bottom" name="cart-qty" onchange="changeQuantityProduct(this.value);return false;"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option></select>
                                             <span id="product-qty--input" class="pull-left flex" style="display:none;">
                                                 <input id="product-qty" name="product-qty" type="number" class="input-text qty text" value="">
                                                 <a title="Update de hoeveelheid" class="update" onclick="changeQuantityProduct(jQuery(this).prev('input[name=\'cart-qty\']').val());return false;"></a>
@@ -1397,12 +1430,12 @@ Zithoogte
             <div class="wide flex">
                 <div class="product-sticky-header--left">
                         <div class="product-thumb">
-                            <img src="https://cdn.loods5.nl/images/0000A/000000143B-0000006B72.jpg" width="46" height="46">
+                            <img src="https://cdn.loods5.nl/images/00028/0000004EBC-0000017ADA.jpg" width="46" height="46">
                         </div>
-                        <h3>Nyaman slaapbank<span class="divider">-</span><span><span>Nyaman slaapbank grijs</span></span></h3>
+                        <h3>Stoel YI Shell<span class="divider">-</span><span><span>Stoel YI Shell wit blank</span></span></h3>
                 </div>
                 <div class="product-sticky-header--right">
-                    <span class="product-price no-wrap">€ 427,15</span>
+                    <span class="product-price no-wrap">€ 129,-</span>
                     <a class="button btn btn-primary inline-with-input pull-right btn-icon icon-add-to-cart product-sticky-header--cta">
                         in winkelwagen
                     </a>
@@ -1576,7 +1609,7 @@ Zithoogte
 					closeSelect(); // key = esc - force close select
 				}
 			});
-            			jQuery('#product-thumb-2433').trigger('click');
+            			jQuery('#product-thumb-10516').trigger('click');
             
 			jQuery('.infobar-breadcrumbs a').each(function(){
 			    if (jQuery(this).attr('href')) {
@@ -1693,7 +1726,7 @@ Zithoogte
 
             if(productStickyHeader.length&&$(window).width()>=768) {
                 productStickyHeader.find('img').attr("src", img);
-                productStickyHeader.find('h3').html('Nyaman slaapbank<span class="divider">-</span><span>' + h3 + '</span>');
+                productStickyHeader.find('h3').html('Stoel YI Shell<span class="divider">-</span><span>' + h3 + '</span>');
                 productStickyHeader.find('.product-price').html('&euro; ' + price);
                 jQuery('.product-sticky-header--cta').click(function () {
                     jQuery("#primary-btn").click();
@@ -1703,7 +1736,7 @@ Zithoogte
 
 			jQuery('.product--selectbox--variant--selected').html(
 				'<span class="variant-thumb-holder pull-left margin-right-xs"><img src="'+img+'" width="45" height="45" /></span>' +
-				'<span class="h3">Nyaman slaapbank<span class="divider">-</span><span>'+ h3 +'</span></span>' +
+				'<span class="h3">Stoel YI Shell<span class="divider">-</span><span>'+ h3 +'</span></span>' +
 				'<span class="product--selectbox--variant--price no-wrap">&euro; '+price+'</span>');
 
             finalProductContent.find('.col-33').find('p').html(h3);
@@ -1810,8 +1843,8 @@ Zithoogte
                 'refresh'
             );
             //Keep Campaign Tags
-            var combination_id = '2433';
-            var url = '/product/905/nyaman-slaapbank/' + id;
+            var combination_id = '10516';
+            var url = '/product/4026/stoel-yi-shell/' + id;
 
             if (window.location.search) {
                 url += window.location.search
@@ -2114,4 +2147,4 @@ Zithoogte
 
     
 
-<script id="PIN_1550433498217.f.callback[0]" type="text/javascript" charset="utf-8" src="https://log.pinterest.com/?guid=JATN5WRMEaKN&amp;tv=2019021401&amp;type=pidget&amp;sub=uk&amp;button_count=0&amp;follow_count=0&amp;pin_count=0&amp;profile_count=0&amp;board_count=0&amp;section_count=0&amp;lang=en&amp;nvl=en-GB&amp;via=https%3A%2F%2Floods5.nl%2Fproduct%2F905%2Fnyaman-slaapbank%2F2433&amp;callback=PIN_1550433498217.f.callback[0]"></script></body></html>
+</body></html>

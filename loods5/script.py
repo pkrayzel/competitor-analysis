@@ -8,23 +8,23 @@ import json
 PRODUCT_DETAIL_PAGE_PREFIX = "https://loods5.nl"
 
 CATEGORIES_URL = {
-        "2_seat_sofas": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=391",
-        },
-        "3_seat_sofas": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=394,395",
-                "file": "input/3_seat_sofas.html"
-        },
-        "corner_sofa": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=76,77,78",
-        },
-        "sofa_beds": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=80",
-        },
-        "arm_chairs": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/fauteuils",
-                "file": "input/arm_chairs.html"
-        },
+        # "2_seat_sofas": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=391",
+        # },
+        # "3_seat_sofas": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=394,395",
+        #         "file": "input/3_seat_sofas.html"
+        # },
+        # "corner_sofa": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=76,77,78",
+        # },
+        # "sofa_beds": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/banken?prijs-vanaf=149&prijs-tot=8326&zits=80",
+        # },
+        # "arm_chairs": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/fauteuils",
+        #         "file": "input/arm_chairs.html"
+        # },
         "dining_chairs": {
                 "url": "https://loods5.nl/shop/meubels/stoelen-banken/stoelen",
                 "file": "input/dining_chairs.html"

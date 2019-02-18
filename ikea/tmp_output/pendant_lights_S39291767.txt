@@ -1,0 +1,276 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" lang="nl-NL" xml:lang="nl-NL" itemscope="" itemtype="http://schema.org/Product"><head>
+	
+	<meta name="date_published" scheme="W3CDTF" content="2019-02-18">
+	
+			<link rel="canonical" href="https://www.ikea.com/nl/nl/catalog/products/S39291767/"> 
+		
+	
+	<meta name="IRWStats.pageName" content="product information page">	
+	<meta name="IRWStats.pageNameLocal" content="Productinformatie">	
+	<!-- WA - Full Length Text --><!-- WA - Long Text -->
+				<meta name="IRWStats.categoryLocal" content="Woonkamer">
+				<meta name="IRWStats.subCategoryLocal" content="Hanglampen">
+				<meta name="IRWStats.chapterLocal" content="Hanglampen">
+				<meta name="IRWStats.category" content="Living room">
+				<meta name="IRWStats.subCategory" content="Ceiling lights">
+				<meta name="IRWStats.chapter" content="Pendants">
+			
+	<meta name="IRWStats.products" content=";39291767">
+	<meta name="IRWStats.prodView" content="yes">
+	<meta name="IRWStats.event3" content="yes">
+	<meta name="IRWStats.productPriceUnit" content="yes">
+	<meta name="IRWStats.productPrice" content="yes">
+	<meta name="IRWStats.productPriceType" content="product view">
+	<meta name="IRWStats.pageType" content="product information page">
+	<meta name="IRWStats.internalPageType" content="pip">	
+	<meta name="IRWStats.list1" content="Buyable Online|Alternate images|No product story|No long text">
+<meta name="IRWStats.productViewType" content="pip">
+	
+<meta name="IRWStats.siteVersion" content="null"> 
+
+	<meta name="robots" content="index, follow">
+	<!-- added For the PR IKEA01221756 to fix wrongly encoded characters --><!-- added For the PR IKEA01221756 to fix wrongly encoded characters -->
+	<meta name="description" content="IKEA - BRUNSTA / HEMMA, Hanglamp, ">
+	<meta name="keywords" content="BRUNSTA / HEMMA, Hanglamp"><!-- changed For the PR IKEA01221756 to fix wrongly encoded characters -->
+	<meta name="country" content="NL">
+	<meta name="language" scheme="rfc1766" content="nl-NL">
+	<meta name="store_id" content="9">
+	<meta name="title" content="BRUNSTA / HEMMA Hanglamp   - IKEA">
+	<meta name="product_name" content="BRUNSTA / HEMMA">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="category_name" content="Hanglampen">
+	<meta name="subcategory_id" content="40161">
+	<meta name="price" content="€&nbsp;18.95">
+	<meta name="price_other" content="">
+	<meta name="changed_family_price" content="">
+	<meta name="changed_family_price_other" content="">
+	<meta name="item_id" content="1284311">
+	<meta name="partnumber" content="S39291767">
+	
+	
+	<meta property="og:title" content="BRUNSTA / HEMMA Hanglamp   - IKEA">
+	<meta property="og:type" content="product">
+	<meta property="og:url" content="https://www.ikea.com/nl/nl/catalog/products/S39291767/">
+	<meta property="og:image" content="https://www.ikea.com/nl/nl/images/products/brunsta-hemma-hanglamp-zwart__0669228_PE714904_S4.JPG">
+	<meta property="og:site_name" content="IKEA NL/NL">
+	<meta property="og:description" content="IKEA - BRUNSTA / HEMMA, Hanglamp, ">	<!-- changed For the PR IKEA01221756 to fix wrongly encoded characters -->		 
+	<meta property="fb:admins" content="15487231,&nbsp;">
+	<meta name="ikea-share-url-rule" content="0">
+	<link rel="image_src" href="https://www.ikea.com/nl/nl/images/products/brunsta-hemma-hanglamp-zwart__0669228_PE714904_S4.JPG">
+	
+	<title>BRUNSTA / HEMMA Hanglamp   - IKEA</title>
+	
+		    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m2.ikea.com/nl/nl/p/brunsta-hemma-hanglamp-zwart-s39291767/">
+	   
+	<link rel="stylesheet" href="/ms/css/pip_em_v6_4_5.css" type="text/css">
+	
+                    <script src="//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.js" type="text/javascript" async=""></script><script language="JavaScript" src="//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.sync.js" type="text/javascript"></script><script src="https://cdn-pci.optimizely.com/public/11701662245/s/netherlands_web.js"></script><script id="iplugins-implementation-tag" type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/implement.js" data-account="nl_NL"></script><link rel="stylesheet" type="text/css" href="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1048/prio.min.css"><script type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1048/prio.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script><script type="ld+json">{'@context': 'http://schema.org','aggregateRating':[{'@type': 'AggregateRating', 'ratingValue': '5','reviewCount': '4492'}]}</script>
+               
+
+<script language="JavaScript" src="/ms/js/js_main.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" src="/ms/nl_NL/js/navOptions.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+    var irwstats_locale = "nl_NL";
+    irwstatPrepareOmnitureConfig(irwstats_locale, "live");
+</script>
+
+	<link rel="stylesheet" href="/ms/css/css_main.css" type="text/css">
+
+<link rel="stylesheet" id="localCSS" href="/ms/nl_NL/css/local_em.css" type="text/css">
+
+<script type="text/javascript" language="javascript">
+	//call the irwInit function in general.js
+	irwInit();
+</script><link href="/ms/css/macos.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" language="javascript">
+	//call the lastUrlCookie fn from cookie_util.js
+	storeUrlForBackShopping();
+</script>
+
+<script type="text/javascript">
+	// Variables needed for add to shopping list/shopping cart popup
+	var js_fn_CHOICE_VIEW_LIST = "Boodschappenlijstje bekijken";
+	var js_fn_CHOICE_MORE_PRODUCT_LIST = "Producten zijn toegevoegd aan ";
+	var js_fn_MOREPRODUCTS_HEADER = "Producten toegevoegd";
+	var js_fn_MOREPRODUCTS_ERROR_HEADER = "Fout";
+	var js_fn_MOREARTICLES_ERROR_TEXT = "Producten";
+	var js_fn_POPUP_SELECT_HEADER = "Selecteer een boodschappenlijstje";
+	var js_fn_POPUP_DONE_HEADER = "Product toegevoegd";
+	var js_fn_POPUP_DONE_TEXT = "Dit product is toegevoegd.";
+	var js_fn_POPUP_SAVE_BTN = "Opslaan";
+	var js_fn_POPUP_CLOSE_BTN = "Sluiten";
+	var js_fn_POPUP_CANCEL_BTN = "Annuleren";
+	var js_fn_POPUP_ERROR_HEADER = "Oeps, er is een fout opgetreden";
+	var js_fn_POPUP_ERROR_TEXT = "Er is een fout opgetreden bij het verwerken van je opdracht";
+	var js_fn_POPUP_LOGIN_HEADER = "Hiervoor moet je inloggen";
+	var js_fn_POPUP_LOGIN_LINK = "Log in";
+	var js_fn_POPUP_SIGNUP_LINK = "maak een profiel aan ";
+	var js_fn_POPUP_LOGIN_TEXT = "<a class=\"link\" rel=\"nofollow\" href=\"/webapp/wcs/stores/servlet/LogonForm?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S39291767/\">Log in</a> of <a class=\"link\" rel=\"nofollow\" href=\"/webapp/wcs/stores/servlet/CreateUser?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S39291767/\">maak een profiel aan </a> om je boodschappenlijstje op te kunnen slaan op de IKEA server. <br><Br> Je kan producten toevoegen door op een productpagina op de knop Boodschappenlijstje te klikken <br>of door links op deze pagina het artikelnummer in te voeren (bijv. uit de IKEA catalogus). ";
+	var js_fn_DEFAULT_LISTNAME = "Boodschappenlijstje";
+	var js_fn_POPUP_ERROR_MAX_NO_OF_LISTS = "Je hebt het maximale aantal boodschappenlijstjes gemaakt";
+	var js_fn_SHOPPING_CART  = "Naar mijn winkelwagen";
+	var js_fn_HASBEENADDEDTOSC = "Aan je boodschappenlijstje toegevoegd ";
+	var js_fn_COULDNOTBEADDEDTOSC = "kon niet toegevoegd worden. Probeer het later opnieuw.";
+	var js_fn_POPUP_PRODUCTADDED = "Dit product is toegevoegd.";
+	var js_fn_POPUP_VIEWCART_URL = "/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&langId=-22&catalogId=11001&orderId=.&newLinks=true";
+	var js_fn_ERROR_CREATE_LIST = "Er is een fout opgetreden bij het maken van je boodschappenlijstje";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_ITEM_QUANTITY_LIMIT_EXCEEDED = "Het maximaal aantal is 999 producten";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_LIMIT_EXCEEDED = "Het maximaal aantal producten is 999";
+	var js_fn_POPUP_CART_PRODUCTS = "products";
+	var js_fn_POPUP_CART_TOTAL_PRICE = "Total price";
+	var js_fn_OI_txt_inclVat = "incl. btw";
+	var js_fn_OI_txt_exclVat = "excl. btw";
+	var js_fn_OI_txt_POPUP_inclVat = "Totaalprijs inclusief btw<br>";
+	var js_fn_OI_txt_POPUP_exclVat = "Totaalprijs exclusief btw<br>";
+	var js_fn_TXT_PRICE = "Price/";
+	var js_fn_UNIT_MEASURE_EN = "";
+	var js_fn_TXT_UNITPRICE = "Prijs per set";
+	var js_fn_defaultLocalStore_txt = "Select your IKEA store";
+    var js_ERR_PAY_COMMUNICATION_DISTR = "Om technische redenen kunnen we je betaling niet verwerken. Probeer het later opnieuw.";
+    var js_ENABLE_STOCK_UNIT = "true";
+	var js_ENERGY_PRODUCT_FICHE = "Energielabel";
+	var sprTechInfoTabText =  "&nbsp;";
+	var js_fn_New_Logo_Text =  "Nieuw";
+	// Start of IKEA01102614
+	var js_fn_GUEST_CHECKOUT_DISABLED = false;
+	var js_fn_POPUP_SC_LOGIN_LINK_URL = "/webapp/wcs/stores/servlet/LogonForm?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S39291767/";
+	var js_fn_POPUP_SC_LOGIN_TEXT = "to proceed with shopping online";
+	var js_fn_POPUP_SC_SIGNUP_LINK_URL = "/webapp/wcs/stores/servlet/CreateUser?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S39291767/";
+	var js_fn_POPUP_SC_SIGNUP_LINK = "Register"; 
+	var js_fn_POPUP_SC_SIGNUP_TEXT = "a profile";
+	// End of IKEA01102614
+	var isRatingAndReviewEnabled = true;
+	
+		var js_fn_SLIDE_SHOW_ENABLED = true;
+		// Slide show information	
+	   	var js_fn_PRICE_PER_PACKAGE = "Prijs per verpakking";
+   		var js_fn_SHOW_SLIDE_SHOW = "Slideshow";
+   		var js_fn_SLIDE_SHOW_MORE_INFO = "Klik hier voor meer info";
+   		var js_fn_SLIDE_SHOW_CLOSE = "Sluiten";
+   		var js_fn_SLIDE_SHOW_PREV = "Vorige product ({0} of {1})";
+   		var js_fn_SLIDE_SHOW_NEXT = "Volgende product ({0} of {1})";
+   		var js_fn_MORE_OPTIONS = "Meer opties";
+   		var js_fn_MORE_OPTIONS_FOR = "Meer opties voor {0}";
+   		var js_fn_IKEA_FAMILY = "IKEA FAMILY prijs";
+   		var js_fn_REGULAR_PRICE = "Normale prijs";
+   		var js_fn_ALL_PRODUCTS_NEW = "Nieuw";
+   		var js_fn_WEE_PRF = "IKEA - Aandacht maakt alles mooier";
+   		var js_fn_WEE_LESSPRF = "https://www.ikea.com/nl/nl/";
+   		var js_fn_BUY_ONLINE = "In winkelwagen";
+   		var js_fn_SAVE_TO_SHOPPING_LIST = "Boodschappenlijstje";
+   		var js_fn_Non_BUY_ONLINE = "Niet online beschikbaar";
+   		var js_fn_MORE_PRODUCTS = "Meer ";
+		// Javascript array to be used by the litebox slideshow in product listings
+		
+		var js_fn_CAL_LEGAL_TEXT = "&nbsp;";
+		var js_fn_CAL_URL_TEXT = "&nbsp;";
+		var js_fn_CAL_URL_REF = "http://info.ikea-usa.com/StoreLocator/StoreLocator.aspx";
+		var js_fn_CAL_MORE_INFO = "&nbsp;";
+		var js_fn_NLP_PREV_PRICE_CROSSOVER_ENABLED = true;
+		var js_fn_TRO_PREV_PRICE_CROSSOVER_ENABLED = true;
+		
+		var js_fn_INSTEAD_OF = "Oude prijs";
+		var js_fn_DISCLAIMER = "Zolang de voorraad strekt";
+		var localeShortMonths = ["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""];
+		var isMonthFirst= 'false';
+		var js_fn_ECO_FEE = "&nbsp;";
+		var js_fn_FEE_INCLUDING_TXT = "&nbsp;";
+		var js_fn_PLANNER_LINK_TEXT = "Maak je eigen ontwerp";
+		var datePattern = "";
+		var js_fn_currencySuperscriptingEnabled = false;
+		var js_fn_isRScurrency = "EUR";
+	
+</script>	
+	<script src="/ms/nl_NL/js/errMsg.js" type="text/javascript"></script>
+	<script src="/ms/js/jsUtility.js" type="text/javascript"></script>
+	<script src="/ms/js/prodInfo_v6_4_5.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/ms/js/moreOption.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/ms/css/print.css" type="text/css" media="print">
+	<!--[if IE]>
+  <link rel="stylesheet" href="/ms/css/ie.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 7]>
+  <script type="text/javascript" src="/ms/js/ie7.js"></script>
+  <link rel="stylesheet" href="/ms/css/ie7.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie6.css" type="text/css"/>
+<![endif]-->
+<!--[if lt IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie5_5.css" type="text/css"/>
+<![endif]-->
+<!--[if lte IE 6]>
+  <script src="/ms/js/iepngfix_tilebg.js" type="text/javascript"></script>
+<![endif]-->
+
+	 
+		<script type="text/javascript" language="JavaScript">
+			function setActiveDropdownValue(elementId, elementValue){
+				var eleValue = decodeURIComponent(elementValue);
+				document.getElementById(elementId).innerHTML = eleValue;
+				
+				
+			}
+		</script>
+<link rel="stylesheet" type="text/css" href="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1048/standard.min.css"><script type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1048/standard.min.js"></script></head>
+<body id="productDisplay">
+			<div xmlns:tns="http://www.w3.org/1999/xhtml"><a class="skipToMainContent" href="#mainContent">Ga door naar de belangrijkste inhoud</a></div><div id="allContent"><div id="mainPadding">
+
+
+        
+        
+
+
+
+<script type="text/javascript">
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+// part in bold should be configurable in settings per market
+ (function(a, b, c, d) {
+  a = '//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.js';
+  b = document;
+  c = 'script';
+  d = b.createElement(c);
+  d.src = a;
+  d.type = 'text/java' + c;
+  d.async = true;
+  a = b.getElementsByTagName(c)[0];
+  a.parentNode.insertBefore(d, a);
+})();
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+</script>
+
+        <div class="access" title="Beschikbare sneltoetsen:">
+        
+        </div>      
+        <div id="topMenu" class="topMenu">
+            <form id="myAccount" action="/webapp/wcs/stores/servlet/LogonForm" method="get">
+                <div>
+                    <input type="hidden" name="storeId" value="9">
+                    <input type="hidden" name="langId" value="-22">
+                    <input type="hidden" name="catalogId" value="11001">
+                </div>
+            </form>
+                <div class="logoContainer">
+                    <a href="/nl/nl/" id="lnkIKEALogoHeader" class="logoLink">
+                        <img src="/ms/img/header/ikea-logo.svg" alt="Home" class="logo" id="imgIKEALogoHeader">
+                    </a>
+                    
+                        <div class="searchForm">
+                    
+                            <form action="/nl/nl/search/" id="searchForm" method="get" onsubmit="return checkSearch(this)" accept-charset="utf-8,*">
+                                
+                                
+                                <div class="formInput">
+									<label for="search " class="visuallyhidden">Zoek </label>
+                                    <input type="text" value="" name="query" id="search" placeholder="Zoek">
+                                </div>
+                                <div class="formBtn">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                            createButton('Zoek', 'lnkSearchBtnHeader', '', function() { search('searchForm'); });
+                                        //]]>
+                                    </script></div></form></div></div></div></div></div></body></html>

@@ -1,0 +1,1652 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" lang="nl-NL" xml:lang="nl-NL" itemscope="" itemtype="http://schema.org/Product"><head>
+	
+	<meta name="date_published" scheme="W3CDTF" content="2019-02-18">
+	
+			<link rel="canonical" href="https://www.ikea.com/nl/nl/catalog/products/S49259743/"> 
+		
+	
+	<meta name="IRWStats.pageName" content="product information page">	
+	<meta name="IRWStats.pageNameLocal" content="Productinformatie">	
+	<!-- WA - Full Length Text --><!-- WA - Long Text -->
+				<meta name="IRWStats.categoryLocal" content="Eetkamer">
+				<meta name="IRWStats.subCategoryLocal" content="Eetkamerstoelen">
+				<meta name="IRWStats.chapterLocal" content="Eetkamerstoelen">
+				<meta name="IRWStats.category" content="Dining">
+				<meta name="IRWStats.subCategory" content="Dining chairs">
+				<meta name="IRWStats.chapter" content="Dining chairs">
+			
+	<meta name="IRWStats.products" content=";49259743">
+	<meta name="IRWStats.prodView" content="yes">
+	<meta name="IRWStats.event3" content="yes">
+	<meta name="IRWStats.productPriceUnit" content="yes">
+	<meta name="IRWStats.productPrice" content="yes">
+	<meta name="IRWStats.productPriceType" content="product view">
+	<meta name="IRWStats.pageType" content="product information page">
+	<meta name="IRWStats.internalPageType" content="pip">	
+	<meta name="IRWStats.list1" content="Buyable Online|Alternate images|No product story|No long text">
+<meta name="IRWStats.productViewType" content="pip">
+	
+<meta name="IRWStats.siteVersion" content="null"> 
+
+	<meta name="robots" content="index, follow">
+	<!-- added For the PR IKEA01221756 to fix wrongly encoded characters --><!-- added For the PR IKEA01221756 to fix wrongly encoded characters -->
+	<meta name="description" content="IKEA - SVENBERTIL, Armleunstoel, , Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.De zichzelf">
+	<meta name="keywords" content="SVENBERTIL, Armleunstoel"><!-- changed For the PR IKEA01221756 to fix wrongly encoded characters -->
+	<meta name="country" content="NL">
+	<meta name="language" scheme="rfc1766" content="nl-NL">
+	<meta name="store_id" content="9">
+	<meta name="title" content="SVENBERTIL Armleunstoel   - IKEA">
+	<meta name="product_name" content="SVENBERTIL">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="category_name" content="Eetkamerstoelen">
+	<meta name="subcategory_id" content="567259">
+	<meta name="price" content="€&nbsp;49.95">
+	<meta name="price_other" content="">
+	<meta name="changed_family_price" content="">
+	<meta name="changed_family_price_other" content="">
+	<meta name="item_id" content="3494574">
+	<meta name="partnumber" content="S49259743">
+	
+	
+	<meta property="og:title" content="SVENBERTIL Armleunstoel   - IKEA">
+	<meta property="og:type" content="product">
+	<meta property="og:url" content="https://www.ikea.com/nl/nl/catalog/products/S49259743/">
+	<meta property="og:image" content="https://www.ikea.com/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG">
+	<meta property="og:site_name" content="IKEA NL/NL">
+	<meta property="og:description" content="IKEA - SVENBERTIL, Armleunstoel, , Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit.Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden.Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes.Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen.Door de armleuningen zit je comfortabel.De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt.">	<!-- changed For the PR IKEA01221756 to fix wrongly encoded characters -->		 
+	<meta property="fb:admins" content="15487231,&nbsp;">
+	<meta name="ikea-share-url-rule" content="0">
+	<link rel="image_src" href="https://www.ikea.com/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG">
+	
+	<title>SVENBERTIL Armleunstoel   - IKEA</title>
+	
+		    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m2.ikea.com/nl/nl/p/svenbertil-armleunstoel-wit-dietmar-wit-s49259743/">
+	   
+	<link rel="stylesheet" href="/ms/css/pip_em_v6_4_5.css" type="text/css">
+	
+                    <script src="//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.js" type="text/javascript" async=""></script><script language="JavaScript" src="//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.sync.js" type="text/javascript"></script><script src="https://cdn-pci.optimizely.com/public/11701662245/s/netherlands_web.js"></script><script id="iplugins-implementation-tag" type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/implement.js" data-account="nl_NL"></script><link rel="stylesheet" type="text/css" href="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1028/prio.min.css"><script type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1028/prio.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script><script type="ld+json">{'@context': 'http://schema.org','aggregateRating':[{'@type': 'AggregateRating', 'ratingValue': '5','reviewCount': '4492'}]}</script>
+               
+
+<script language="JavaScript" src="/ms/js/js_main.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" src="/ms/nl_NL/js/navOptions.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+    var irwstats_locale = "nl_NL";
+    irwstatPrepareOmnitureConfig(irwstats_locale, "live");
+</script>
+
+	<link rel="stylesheet" href="/ms/css/css_main.css" type="text/css">
+
+<link rel="stylesheet" id="localCSS" href="/ms/nl_NL/css/local_em.css" type="text/css">
+
+<script type="text/javascript" language="javascript">
+	//call the irwInit function in general.js
+	irwInit();
+</script><link href="/ms/css/macos.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" language="javascript">
+	//call the lastUrlCookie fn from cookie_util.js
+	storeUrlForBackShopping();
+</script>
+
+<script type="text/javascript">
+	// Variables needed for add to shopping list/shopping cart popup
+	var js_fn_CHOICE_VIEW_LIST = "Boodschappenlijstje bekijken";
+	var js_fn_CHOICE_MORE_PRODUCT_LIST = "Producten zijn toegevoegd aan ";
+	var js_fn_MOREPRODUCTS_HEADER = "Producten toegevoegd";
+	var js_fn_MOREPRODUCTS_ERROR_HEADER = "Fout";
+	var js_fn_MOREARTICLES_ERROR_TEXT = "Producten";
+	var js_fn_POPUP_SELECT_HEADER = "Selecteer een boodschappenlijstje";
+	var js_fn_POPUP_DONE_HEADER = "Product toegevoegd";
+	var js_fn_POPUP_DONE_TEXT = "Dit product is toegevoegd.";
+	var js_fn_POPUP_SAVE_BTN = "Opslaan";
+	var js_fn_POPUP_CLOSE_BTN = "Sluiten";
+	var js_fn_POPUP_CANCEL_BTN = "Annuleren";
+	var js_fn_POPUP_ERROR_HEADER = "Oeps, er is een fout opgetreden";
+	var js_fn_POPUP_ERROR_TEXT = "Er is een fout opgetreden bij het verwerken van je opdracht";
+	var js_fn_POPUP_LOGIN_HEADER = "Hiervoor moet je inloggen";
+	var js_fn_POPUP_LOGIN_LINK = "Log in";
+	var js_fn_POPUP_SIGNUP_LINK = "maak een profiel aan ";
+	var js_fn_POPUP_LOGIN_TEXT = "<a class=\"link\" rel=\"nofollow\" href=\"/webapp/wcs/stores/servlet/LogonForm?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S49259743/\">Log in</a> of <a class=\"link\" rel=\"nofollow\" href=\"/webapp/wcs/stores/servlet/CreateUser?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S49259743/\">maak een profiel aan </a> om je boodschappenlijstje op te kunnen slaan op de IKEA server. <br><Br> Je kan producten toevoegen door op een productpagina op de knop Boodschappenlijstje te klikken <br>of door links op deze pagina het artikelnummer in te voeren (bijv. uit de IKEA catalogus). ";
+	var js_fn_DEFAULT_LISTNAME = "Boodschappenlijstje";
+	var js_fn_POPUP_ERROR_MAX_NO_OF_LISTS = "Je hebt het maximale aantal boodschappenlijstjes gemaakt";
+	var js_fn_SHOPPING_CART  = "Naar mijn winkelwagen";
+	var js_fn_HASBEENADDEDTOSC = "Aan je boodschappenlijstje toegevoegd ";
+	var js_fn_COULDNOTBEADDEDTOSC = "kon niet toegevoegd worden. Probeer het later opnieuw.";
+	var js_fn_POPUP_PRODUCTADDED = "Dit product is toegevoegd.";
+	var js_fn_POPUP_VIEWCART_URL = "/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&langId=-22&catalogId=11001&orderId=.&newLinks=true";
+	var js_fn_ERROR_CREATE_LIST = "Er is een fout opgetreden bij het maken van je boodschappenlijstje";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_ITEM_QUANTITY_LIMIT_EXCEEDED = "Het maximaal aantal is 999 producten";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_LIMIT_EXCEEDED = "Het maximaal aantal producten is 999";
+	var js_fn_POPUP_CART_PRODUCTS = "products";
+	var js_fn_POPUP_CART_TOTAL_PRICE = "Total price";
+	var js_fn_OI_txt_inclVat = "incl. btw";
+	var js_fn_OI_txt_exclVat = "excl. btw";
+	var js_fn_OI_txt_POPUP_inclVat = "Totaalprijs inclusief btw<br>";
+	var js_fn_OI_txt_POPUP_exclVat = "Totaalprijs exclusief btw<br>";
+	var js_fn_TXT_PRICE = "Price/";
+	var js_fn_UNIT_MEASURE_EN = "";
+	var js_fn_TXT_UNITPRICE = "Prijs per set";
+	var js_fn_defaultLocalStore_txt = "Select your IKEA store";
+    var js_ERR_PAY_COMMUNICATION_DISTR = "Om technische redenen kunnen we je betaling niet verwerken. Probeer het later opnieuw.";
+    var js_ENABLE_STOCK_UNIT = "true";
+	var js_ENERGY_PRODUCT_FICHE = "Energielabel";
+	var sprTechInfoTabText =  "&nbsp;";
+	var js_fn_New_Logo_Text =  "Nieuw";
+	// Start of IKEA01102614
+	var js_fn_GUEST_CHECKOUT_DISABLED = false;
+	var js_fn_POPUP_SC_LOGIN_LINK_URL = "/webapp/wcs/stores/servlet/LogonForm?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S49259743/";
+	var js_fn_POPUP_SC_LOGIN_TEXT = "to proceed with shopping online";
+	var js_fn_POPUP_SC_SIGNUP_LINK_URL = "/webapp/wcs/stores/servlet/CreateUser?storeId=9&langId=-22&URL=/nl/nl/catalog/products/S49259743/";
+	var js_fn_POPUP_SC_SIGNUP_LINK = "Register"; 
+	var js_fn_POPUP_SC_SIGNUP_TEXT = "a profile";
+	// End of IKEA01102614
+	var isRatingAndReviewEnabled = true;
+	
+		var js_fn_SLIDE_SHOW_ENABLED = true;
+		// Slide show information	
+	   	var js_fn_PRICE_PER_PACKAGE = "Prijs per verpakking";
+   		var js_fn_SHOW_SLIDE_SHOW = "Slideshow";
+   		var js_fn_SLIDE_SHOW_MORE_INFO = "Klik hier voor meer info";
+   		var js_fn_SLIDE_SHOW_CLOSE = "Sluiten";
+   		var js_fn_SLIDE_SHOW_PREV = "Vorige product ({0} of {1})";
+   		var js_fn_SLIDE_SHOW_NEXT = "Volgende product ({0} of {1})";
+   		var js_fn_MORE_OPTIONS = "Meer opties";
+   		var js_fn_MORE_OPTIONS_FOR = "Meer opties voor {0}";
+   		var js_fn_IKEA_FAMILY = "IKEA FAMILY prijs";
+   		var js_fn_REGULAR_PRICE = "Normale prijs";
+   		var js_fn_ALL_PRODUCTS_NEW = "Nieuw";
+   		var js_fn_WEE_PRF = "IKEA - Aandacht maakt alles mooier";
+   		var js_fn_WEE_LESSPRF = "https://www.ikea.com/nl/nl/";
+   		var js_fn_BUY_ONLINE = "In winkelwagen";
+   		var js_fn_SAVE_TO_SHOPPING_LIST = "Boodschappenlijstje";
+   		var js_fn_Non_BUY_ONLINE = "Niet online beschikbaar";
+   		var js_fn_MORE_PRODUCTS = "Meer ";
+		// Javascript array to be used by the litebox slideshow in product listings
+		
+		var js_fn_CAL_LEGAL_TEXT = "&nbsp;";
+		var js_fn_CAL_URL_TEXT = "&nbsp;";
+		var js_fn_CAL_URL_REF = "http://info.ikea-usa.com/StoreLocator/StoreLocator.aspx";
+		var js_fn_CAL_MORE_INFO = "&nbsp;";
+		var js_fn_NLP_PREV_PRICE_CROSSOVER_ENABLED = true;
+		var js_fn_TRO_PREV_PRICE_CROSSOVER_ENABLED = true;
+		
+		var js_fn_INSTEAD_OF = "Oude prijs";
+		var js_fn_DISCLAIMER = "Zolang de voorraad strekt";
+		var localeShortMonths = ["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""];
+		var isMonthFirst= 'false';
+		var js_fn_ECO_FEE = "&nbsp;";
+		var js_fn_FEE_INCLUDING_TXT = "&nbsp;";
+		var js_fn_PLANNER_LINK_TEXT = "Maak je eigen ontwerp";
+		var datePattern = "";
+		var js_fn_currencySuperscriptingEnabled = false;
+		var js_fn_isRScurrency = "EUR";
+	
+</script>	
+	<script src="/ms/nl_NL/js/errMsg.js" type="text/javascript"></script>
+	<script src="/ms/js/jsUtility.js" type="text/javascript"></script>
+	<script src="/ms/js/prodInfo_v6_4_5.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/ms/js/moreOption.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/ms/css/print.css" type="text/css" media="print">
+	<!--[if IE]>
+  <link rel="stylesheet" href="/ms/css/ie.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 7]>
+  <script type="text/javascript" src="/ms/js/ie7.js"></script>
+  <link rel="stylesheet" href="/ms/css/ie7.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie6.css" type="text/css"/>
+<![endif]-->
+<!--[if lt IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie5_5.css" type="text/css"/>
+<![endif]-->
+<!--[if lte IE 6]>
+  <script src="/ms/js/iepngfix_tilebg.js" type="text/javascript"></script>
+<![endif]-->
+
+	 
+		<script type="text/javascript" language="JavaScript">
+			function setActiveDropdownValue(elementId, elementValue){
+				var eleValue = decodeURIComponent(elementValue);
+				document.getElementById(elementId).innerHTML = eleValue;
+				
+				
+			}
+		</script>
+<link rel="stylesheet" type="text/css" href="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1028/standard.min.css"><script type="text/javascript" src="https://ww8.ikea.com/ext/iplugins/nl_NL/production/editions/release-20190218-1028/standard.min.js"></script></head>
+<body id="productDisplay" style="margin-top: 0px !important;"><div class="serviceHeader" style="background-color: #FDF7DC;"><div class="serviceHeaderContent" style="text-align: left;"><a href="https://www.ikea.com/ms/nl_NL/webwinkel/betalen.html?icid=a1:iba|a2:nl|a3:navigatie-usp|a4:positie-1|a5:link|a6:hp|id:3971|cc:915">Achteraf betalen<img src="//www.ikea.com/ms/nl_NL/media/img/redesign/achteraf-betalen-50x50.png" style="height: 25px;"></a><a href="https://www.ikea.com/nl/nl/klantenservice/ikea-services/transport-en-bezorging.html?icid=a1:iba|a2:nl|a3:navigatie-usp|a4:positie-2|a5:link|a6:hp|id:3820|cc:915">Bij je thuis bezorgd vanaf € 2.99<img src="//www.ikea.com/ms/nl_NL/media/img/redesign/bezorgen-mini2-2405.png" style="height: 25px;"></a><a href="https://www.ikea.com/ms/nl_NL/webwinkel/retour.html?icid=a1:iba|a2:nl|a3:navigatie-usp|a4:positie-3|a5:link|a6:hp|id:3822|cc:915">365 dagen retourgarantie<img src="//www.ikea.com/ms/nl_NL/media/img/redesign/retourgarantie-2305.svg" style="height: 18px;"></a></div></div>
+			
+				<input type="hidden" value="/nl/nl/catalog/categories/departments/dining/tools/planner_build_your_own_dining_chair/" id="planner_url">
+				<input type="hidden" value="Maak je eigen ontwerp" id="generic_planner_buttonText">
+			<div xmlns:tns="http://www.w3.org/1999/xhtml"><a class="skipToMainContent" href="#mainContent">Ga door naar de belangrijkste inhoud</a></div><div id="newTopMenu" class="loaded complete"><div class="c-top-nav"><div class="c-top-bar"><a class="v-right" href="javascript:logonLink();">Login</a><a class="v-right" href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=9&amp;langId=-22">Boodschappenlijstje</a><form id="myAccount" action="/webapp/wcs/stores/servlet/LogonForm" method="get">
+                <div>
+                    <input type="hidden" name="storeId" value="9">
+                    <input type="hidden" name="langId" value="-22">
+                    <input type="hidden" name="catalogId" value="11001">
+                </div>
+            </form><a href="/nl/nl/ikny_splash.html?icid=a1:iba|a2:nl|a3:vestigingen-header-20170502|a4:vestigingen|a5:link|a6:hp|id:2075|cc:915">IKEA vestigingen</a><a href="/nl/nl/klantenservice/veelgestelde-vragen-en-contact.html?icid=a1:iba|a2:nl|a3:klantenservice-header-20170502|a4:klantenservice|a5:link|a6:hp|id:2076|cc:915">Klantenservice</a><a href="/nl/nl/ikea-family.html?icid=a1:iba|a2:nl|a3:family-header-20170502|a4:family|a5:link|a6:hp|id:2077|cc:915">IKEA Family</a><a href="/nl/nl/this-is-ikea/working-at-the-ikea-group/uppdrag.html?icid=a1:iba|a2:nl|a3:werken-bij-header-20171025|a4:werken-bij|a5:link|a6:hp|id:2892|cc:915">Werken bij IKEA</a><a href="/nl/nl/food/restaurant.html?icid=a1:iba|a2:nl|a3:restaurant-header-20170502|a4:restaurant|a5:link|a6:hp|id:2079|cc:915">Restaurant</a><a href="/nl/nl/dit-is-ikea/duurzame-toekomst.html?icid=a1:iba|a2:nl|a3:duurzaamheid-bovennav-20171118|a4:duurzaamheid-bovennav-20171118|a5:link|a6:nav|id:3062|cc:915">Duurzaamheid</a><a href="/nl/nl/aanbiedingen.html?icid=a1:iba|a2:nl|a3:aanbiedingen-header-20171025|a4:aanbiedingen|a5:link|a6:hp|id:2891|cc:915"><b><font color="#e77c32">Aanbiedingen</font></b></a></div><a href="/nl/nl/" class="c-logo"><img src="/ms/nl_NL/media/img/redesign/ikea-logo.png"></a><a rel="nofollow" class="c-shop-cart" href="/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&amp;langId=-22&amp;catalogId=11001&amp;orderId=.&amp;priceexclvat=&amp;newLinks=true"><span class="icon-shopping-basket"></span><span>&nbsp;</span></a><div class="searchForm">
+                    
+                            <form action="/nl/nl/search/" id="searchForm" method="get" onsubmit="return checkSearch(this)" accept-charset="utf-8,*">
+                                
+                                
+                                <div class="formInput">
+									<label for="search " class="visuallyhidden">Zoek </label>
+                                    <input type="text" value="" name="query" id="search" placeholder="zoeken" autocomplete="off"><span id="indicator" style="display: none"><img src="/ms/img/loading.gif"></span>
+                                </div>
+                                <div class="formBtn">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                            createButton('Zoek', 'lnkSearchBtnHeader', '', function() { search('searchForm'); });
+                                        //]]>
+                                    </script><div class="buttonContainer"><a id="lnkSearchBtnHeader" class="icon-icon_search" href="#"><div class="buttonLeft">&nbsp;</div><div class="buttonCaption"><input type="button" value="Zoek"></div><div class="buttonRight">&nbsp;</div></a><a href="#x" class="e-close-search-button icon-close_thin"></a></div>
+                                    <noscript>
+                                        &lt;div class="buttonContainer"&gt;&lt;a href="javascript:void(0);"&gt;&lt;span class="buttonLeft"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="buttonCaption"&gt;&lt;input id="lnkSearchBtnHeader" type="submit" value="Zoek" /&gt;&lt;/span&gt;&lt;span class="buttonRight"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+                                    </noscript>
+                                </div>
+                            </form>
+                        </div><div class="search_whiteout"></div></div><div id="e-main-menu"><ul class="c-level-1"><li><a class="icon-back-arrow-thin">PRODUCTEN<div class="c-productmenu c-level-2"><div class="c-left"><ul class="c-p-level-2"><li><a class="icon-link-arrow">Kledingkasten &amp; Opbergkasten<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/kasten.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-alle-kasten|a5:link|a6:hp|id:3067|cc:915">Alle kasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/29879/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-pax-kledingkasten|a5:link|a6:hp|id:3068|cc:915">PAX kledingkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/19053/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-kledingkasten|a5:link|a6:hp|id:3069|cc:915">Kledingkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10475/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-tv-meubels|a5:link|a6:hp|id:3000|cc:915">TV meubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/11794/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-besta-meubels|a5:link|a6:hp|id:3001|cc:915">BESTA meubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10382/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-boekenkasten|a5:link|a6:hp|id:3002|cc:915">Boekenkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/series/27534/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-kallax-kasten|a5:link|a6:hp|id:3003|cc:915">KALLAX kasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/10451/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-ladekasten|a5:link|a6:hp|id:3070|cc:915">Ladekasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/20656/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-nachtkasten|a5:link|a6:hp|id:3071|cc:915">Nachtkasten </a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/11465/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-open-kasten|a5:link|a6:hp|id:3005|cc:915">Open kasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/dining_storage/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-dressoirs-buffetkasten|a5:link|a6:hp|id:3966|cc:915">Dressoirs &amp; Buffetkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/10410/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-vitrinekasten|a5:link|a6:hp|id:3967|cc:915">Vitrinekasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/hallway/10456/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kasten-opbergkasten-schoenenkasten|a5:link|a6:hp|id:3072|cc:915">Schoenenkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20500-2/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-spiegelkasten|a5:link|a6:hp|id:3968|cc:915">Spiegelkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/secondary_storage/16200/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-stellingkasten|a5:link|a6:hp|id:3048|cc:915">Stellingkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/10385/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-archiefkasten|a5:link|a6:hp|id:3049|cc:915">Archiefkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/small_storage/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kledingkasten-opbergkasten-dozen-manden-kledingopbergers|a5:link|a6:hp|id:3050|cc:915">Dozen, Manden &amp; Kledingopbergers</a></li></ul></a></li><li><a class="icon-link-arrow">Boxsprings, Bedden, Matrassen<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/Mattresses/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-matrassen|a5:link|a6:hp|id:3073|cc:915">Matrassen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/bedroom_beds/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-bedden|a5:link|a6:hp|id:3075|cc:915">Alle bedden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/28433/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-boxsprings|a5:link|a6:hp|id:3074|cc:915">Boxsprings</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/16285/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-eenpersoonsbedden|a5:link|a6:hp|id:4035|cc:915">Eenpersoonsbedden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/16284/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-tweepersoonsbedden|a5:link|a6:hp|id:4036|cc:915">Tweepersoonsbedden</a></li><li class="c-standalone"><a href="/nl/nl/kinderbedden.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-kinderbedden|a5:link|a6:hp|id:3077|cc:915">Kinderbedden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/19039/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-stapelbedden-hoogslapers|a5:link|a6:hp|id:3079|cc:915">Stapelbedden &amp; Hoogslapers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/19037/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-bedbanken-logeerbedden|a5:link|a6:hp|id:3080|cc:915">Bedbanken &amp; Logeerbedden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/bedroom_textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-beddengoed|a5:link|a6:hp|id:3076|cc:915">Beddengoed</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/24826/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-topmatrassen-dekmatrassen|a5:link|a6:hp|id:3078|cc:915">Topmatrassen &amp; Dekmatrassen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/24827/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-lattenbodems|a5:link|a6:hp|id:3081|cc:915">Lattenbodems</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/19064/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-hoofdeinden|a5:link|a6:hp|id:3082|cc:915">Hoofdeinden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/24822/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:boxsprings-bedden-matrassen-losse-poten|a5:link|a6:hp|id:3083|cc:915">Losse poten</a></li></ul></a></li><li><a class="icon-link-arrow">Banken &amp; Fauteuils<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/39130/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-alle-banken|a5:link|a6:hp|id:3006|cc:915">Alle banken</a></li><li class="c-standalone"><a href="/nl/nl/hoekbanken.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-hoekbanken|a5:link|a6:hp|id:3007|cc:915">Hoekbanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10663/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-slaapbanken|a5:link|a6:hp|id:3008|cc:915">Slaapbanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/16239/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-fauteuils|a5:link|a6:hp|id:3009|cc:915">Fauteuils</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/16239/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-chaises-longues|a5:link|a6:hp|id:3010|cc:915">Chaises longues</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10662/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-leren-banken|a5:link|a6:hp|id:3011|cc:915">Leren banken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10668/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-2-zitsbanken|a5:link|a6:hp|id:3012|cc:915">2-zitsbanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10670/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-3-zitsbanken|a5:link|a6:hp|id:3013|cc:915">3-zitsbanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/16238/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-modulaire-banken|a5:link|a6:hp|id:3014|cc:915">Modulaire banken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/20926/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-voetenbanken-poefs|a5:link|a6:hp|id:3015|cc:915">Voetenbanken &amp; Poefs</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10664/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-extra-hoezen|a5:link|a6:hp|id:3016|cc:915">Extra hoezen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/31785/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:banken-fauteuils-extra-poten|a5:link|a6:hp|id:3017|cc:915">Extra poten</a></li></ul></a></li><li><a class="icon-link-arrow">Keukens &amp; Apparatuur<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/keukens/stel-je-keuken-samen.html?icid=a1:iba|a2:nl|a3:keukenonderdelen-navigatie|a4:keukenonderdelen|a5:link|a6:nav|id:4094|cc:915">Alle keukenonderdelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/22957/?icid=a1:iba|a2:nl|a3:complete-keuken-nav|a4:navagatie-producten|a5:link|a6:nav|id:4402|cc:915">Complete keukens</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/appliances/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-keukenapparatuur|a5:link|a6:hp|id:3086|cc:915">Keukenapparatuur</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/23613/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-keukendeuren|a5:link|a6:hp|id:3087|cc:915">Keukenkasten &amp; -deuren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/24264/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-werkbladen|a5:link|a6:hp|id:3088|cc:915">Werkbladen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/24261/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-keukenkranen|a5:link|a6:hp|id:3089|cc:915">Keukenkranen &amp; spoelbakken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/10471/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-roltafels|a5:link|a6:hp|id:3091|cc:915">Roltafels &amp; Keukeneilanden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/kitchen_int_lighting/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-keukenverlichting|a5:link|a6:hp|id:3092|cc:915">Keukenverlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/19121/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-wandpanelen|a5:link|a6:hp|id:3093|cc:915">Wandpanelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/20676/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-wandopbergers|a5:link|a6:hp|id:3129|cc:915">Wandopbergers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/24255/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-kastinrichting|a5:link|a6:hp|id:3094|cc:915">Kastinrichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/16298/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:keukens-knoppen-handgrepen|a5:link|a6:hp|id:3095|cc:915">Knoppen &amp; Handgrepen</a></li></ul></a></li><li><a class="icon-link-arrow">Verlichting &amp; Elektronica<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-alle|a5:link|a6:hp|id:3097|cc:915">Alle verlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/18750/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-hanglampen|a5:link|a6:hp|id:3098|cc:915">Hanglampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/18752/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-plafondlampen|a5:link|a6:hp|id:3099|cc:915">Plafondlampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/20503/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-wandlampen|a5:link|a6:hp|id:3100|cc:915">Wandlampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/10731/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-staande-lampen|a5:link|a6:hp|id:3101|cc:915">Staande lampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/20515/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-led-lampen|a5:link|a6:hp|id:3102|cc:915">Led-lampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/10732/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-tafellampen|a5:link|a6:hp|id:3103|cc:915">Tafellampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/10803/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-lampenkap|a5:link|a6:hp|id:3104|cc:915">Lampenkappen &amp; Lampenvoeten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/20502/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-bureaulamp|a5:link|a6:hp|id:3105|cc:915">Bureaulampen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/home_electronics/?icid=a1:iba|a2:nl|a3:elektronica-toebehoren|a4:navigatie-producten|a5:link|a6:nav|id:4235|cc:915">Elektronica &amp; toebehoren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/36812/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-slimme-verlichting|a5:link|a6:hp|id:3107|cc:915">Slimme verlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/16280/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-geintergreerd|a5:link|a6:hp|id:3108|cc:915">Geïntegreerde verlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/lighting/14971/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:verlichting-sfeer|a5:link|a6:hp|id:3109|cc:915">Sfeerverlichting</a></li></ul></a></li><li><a class="icon-link-arrow">Tafels, Stoelen &amp; Bureaus<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/stoelen.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-allestoelen|a5:link|a6:hp|id:3110|cc:915">Alle stoelen</a></li><li class="c-standalone"><a href="/nl/nl/tafels.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-alletafels|a5:link|a6:hp|id:3128|cc:915">Alle tafels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/25219/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-eetkamerstoelen|a5:link|a6:hp|id:3112|cc:915">Eetkamerstoelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10705/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bureaus-salontafels-bijzettafels|a5:link|a6:hp|id:3373|cc:915">Salontafels &amp; Bijzettafels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/20649/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bureaus-bureaus|a5:link|a6:hp|id:3018|cc:915">Bureaus</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/20652/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bureaus-bureaustoelen|a5:link|a6:hp|id:3019|cc:915">Bureaustoelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/21825/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-eetkamertafels|a5:link|a6:hp|id:3113|cc:915">Eettafels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/18768/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-kinderstoelen-kindertafels|a5:link|a6:hp|id:3372|cc:915">Kinderstoelen &amp; Kindertafels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/16244/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-barkruk|a5:link|a6:hp|id:3114|cc:915">Barkrukken &amp; Barmeubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/10728/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bankenkruk|a5:link|a6:hp|id:3115|cc:915">Banken &amp; Krukjes</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/10712/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bureaus-tafelbladen-tafelpoten|a5:link|a6:hp|id:3020|cc:915">Tafelbladen &amp; Tafelpoten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21964/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tafels-stoelen-bureaus-tuinstoelen-tuintafels|a5:link|a6:hp|id:3021|cc:915">Tuinstoelen &amp; Tuintafels</a></li></ul></a></li><li><a class="icon-link-arrow">Badkamermeubels &amp; Wastafels<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20719/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badkamermeubels|a5:link|a6:hp|id:3167|cc:915">Badkamermeubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/series/15287/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:godmorgon-serie|a5:link|a6:hp|id:3975|cc:915">GODMORGON serie</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20723/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-wastafels|a5:link|a6:hp|id:3168|cc:915">Wastafels </a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/10736/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badkamerverlichting|a5:link|a6:hp|id:3169|cc:915">Badkamerverlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20490/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badkamerspiegels|a5:link|a6:hp|id:3170|cc:915">Badkamerspiegels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20500-2/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-spiegelkasten|a5:link|a6:hp|id:3171|cc:915">Spiegelkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/10555/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badkameraccessoires|a5:link|a6:hp|id:3172|cc:915">Badkameraccessoires</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20724/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badkamerkranen|a5:link|a6:hp|id:3173|cc:915">Badkamerkranen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/40690/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:douchemengkranen-en-toebehoren|a5:link|a6:hp_|id:3733|cc:915">Douchemengkranen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/bathroom_dep_textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-badtextiel|a5:link|a6:hp|id:3174|cc:915">Badtextiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/20802/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:badkamermeubels-wastafels-hoge-kasten|a5:link|a6:hp|id:3175|cc:915">Hoge kasten </a></li></ul></a></li><li><a class="icon-link-arrow">Baby- &amp; Kinderproducten<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/kinderbedden.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-kinderbedden|a5:link|a6:hp|id:3176|cc:915">Babybedden &amp; Kinderbedden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/baby/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-babymeubels|a5:link|a6:hp|id:3177|cc:915">Babymeubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/children/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-kindermeubels|a5:link|a6:hp|id:3178|cc:915">Kindermeubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/children_8_12/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-tienermeubels|a5:link|a6:hp|id:3179|cc:915">Tienermeubels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/18733/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-babystoelen-kinderstoelen|a5:link|a6:hp|id:3180|cc:915">Babystoelen &amp; Kinderstoelen</a></li><li class="c-standalone"><a href="https://www.ikea.com/nl/nl/speelgoed.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-speelgoed|a5:link|a6:hp|id:3185|cc:915">Speelgoed</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/18774/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-speelkleden|a5:link|a6:hp|id:3186|cc:915">Speelkleden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/16249-2/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-veiligheidsproducten|a5:link|a6:hp|id:3181|cc:915">Veiligheidsproducten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/18706/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-alleopbergers|a5:link|a6:hp|id:3182|cc:915">Alle opbergers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/series/19027/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-trofast-opbergers|a5:link|a6:hp|id:3183|cc:915">TROFAST opbergers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/18835/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-stuva|a5:link|a6:hp|id:3184|cc:915">STUVA opbergers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/24713/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:baby-kindermeubels-bureaus-bureaustoelen|a5:link|a6:hp|id:3180|cc:915">Bureaus &amp; bureaustoelen</a></li></ul></a></li><li><a class="icon-link-arrow">Woonaccessoires &amp; Huisdieren<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-alle-woonaccessoires|a5:link|a6:hp|id:3022|cc:915">Alle woonaccessoires</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/10757/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-fotolijsten-posters|a5:link|a6:hp|id:3024|cc:915">Fotolijsten &amp; Posters</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/10760/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-kaarsen-kaarshouders|a5:link|a6:hp|id:3025|cc:915">Kaarsen &amp; Kaarshouders</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/10768/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-planten-sierpotten|a5:link|a6:hp|id:3026|cc:915">Planten &amp; Sierpotten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/10769/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-vazen-schalen|a5:link|a6:hp|id:3027|cc:915">Vazen &amp; Schalen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/20489/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-spiegels|a5:link|a6:hp|id:3028|cc:915">Spiegels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/pets/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:dieren-accessoires|a5:link|a6:hp|id:3933|cc:915">Accessoires voor huisdieren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/24924/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-decoratieve-accessoires|a5:link|a6:hp|id:3030|cc:915">Decoratieve accessoires</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10550/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-opbergdozen-manden|a5:link|a6:hp|id:3085|cc:915">Opbergdozen &amp; manden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/decoration/16306/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-muurstickers|a5:link|a6:hp|id:3032|cc:915">Muurstickers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/10398/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-wandplanken|a5:link|a6:hp|id:3210|cc:915">Wandplanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/10551/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:woonaccessoires-bureauaccessoires|a5:link|a6:hp|a7:|a8:|id:3559|cc:915">Bureauaccessoires</a></li></ul></a></li><li><a class="icon-link-arrow">Koken &amp; Eten<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/koken-en-eten.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-alle|a5:link|a6:hp|id:3116|cc:915">Alle Koken &amp; Eten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/eating/?icid=a1:iba|a2:nl|a3:eten-nav|a4:navigatie-producten|a5:link|a6:nav|id:4328|cc:915">Eten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/20633/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-pannen|a5:link|a6:hp|id:3117|cc:915">Pannen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/eating/18865/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-bestek|a5:link|a6:hp|id:3118|cc:915">Bestek</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/15934/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-messen|a5:link|a6:hp|id:3120|cc:915">Messen &amp; Snijplanken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/eating/18868/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-glazen|a5:link|a6:hp|id:3120|cc:915">Glazen, Karaffen &amp; Kannen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/eating/18860/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-servies|a5:link|a6:hp|id:3121|cc:915">Servies &amp; Borden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/eating/16043/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-dienbladen|a5:link|a6:hp|id:3122|cc:915">Dienbladen &amp; Schalen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/20647/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-kookgerei|a5:link|a6:hp|id:3123|cc:915">Kookgerei</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/20636/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-bakgerei|a5:link|a6:hp|id:3124|cc:915">Bakgerei</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/18850/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-textiel|a5:link|a6:hp|id:3125|cc:915">Keukentextiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/15937/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-voedselopbergers|a5:link|a6:hp|id:3126|cc:915">Voedselopbergers</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/food/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:kokeneten-zweedselekkernij|a5:link|a6:hp|id:3127|cc:915">Zweedse lekkernijen</a></li></ul></a></li><li><a class="icon-link-arrow">Textiel<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-alletextiel|a5:link|a6:hp|id:3155|cc:915">Alle textiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/18903/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-kussenovertrekken|a5:link|a6:hp|id:3156|cc:915">Kussenovertrekken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10654/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-gordijnenenrolgordijnen|a5:link|a6:hp|id:3157|cc:915">Gordijnen &amp; Rolgordijnen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10659/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-sierkussens|a5:link|a6:hp|id:3158|cc:915">Sierkussens</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/20528-2/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-plaidsendekens|a5:link|a6:hp|id:3159|cc:915">Plaids &amp; Dekens</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/livingroom_textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-woonkamertextiel|a5:link|a6:hp|id:3033|cc:915">Woonkamertextiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/20538/?icid=a1:iba|a2:nl|a3:eetkamertextiel-navigatie|a4:eetkamertextiel-nav|a5:link|a6:navigatie|id:3664|cc:915">Eetkamertextiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/bedroom_textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-beddengoed|a5:link|a6:hp|id:3084|cc:915">Beddengoed</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/cooking/18850/?icid=a1:iba|a2:nl|a3:keukentextiel-navigatie|a4:keukentextiel-nav|a5:link|a6:navigatie|id:3663|cc:915">Keukentextiel</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/bathroom_textiles/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:textiel-badtextiel|a5:link|a6:hp|id:3160|cc:915">Badtextiel</a></li></ul></a></li><li><a class="icon-link-arrow">Vloeren &amp; Vloerkleden<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/vloeren.html?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:allevloeren|a5:link|a6:hp|id:3371|cc:915">Alle vloeren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/14699/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloeren-vloerkleden-laminaat|a5:link|a6:hp|id:3034|cc:915">Laminaat</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/14703/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloeren-vloerkleden-plinten-ondervloeren|a5:link|a6:hp|id:3161|cc:915">Plinten &amp; Ondervloeren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/42069/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloer-en-wandtegels|a5:link|a6:hp|id:3930|cc:915">Vloer-/wandtegels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21957/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloeren-vloerkleden-vlonder-buitenvloeren|a5:link|a6:hp|id:3035|cc:915">Vlonders &amp; Buitenvloeren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10653/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloerenenvloerkleden-vloerkleden|a5:link|a6:hp|id:3162|cc:915">Vloerkleden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/20544/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloerenenvloerkleden-schapenvachten-koeienhuiden|a5:link|a6:hp|id:3163|cc:915">Schapenvachten &amp; Koeienhuiden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10695/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloerenenvloerkleden-oosterse-tapijten|a5:link|a6:hp|id:3164|cc:915">Oosterse tapijten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10698/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloerenenvloerkleden-deurmatten|a5:link|a6:hp|id:3165|cc:915">Deurmatten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/Textiles/10699/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:vloerenenvloerkleden-antislipproducten|a5:link|a6:hp|id:3166|cc:915">Antislipproducten</a></li></ul></a></li><li><a class="icon-link-arrow">Tuinmeubels &amp; Tuindecoratie<ul class="c-level-3"><li><a href="" class="icon-menu-back-arrow v-ux-link"></a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21964/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuinmeubelen|a5:link|a6:hp|id:3036|cc:915">Alle tuinmeubelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21966/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuinstoelen|a5:link|a6:hp|id:3943|cc:915">Tuinstoelen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21965/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuintafels|a5:link|a6:hp|id:3944|cc:915">Tuintafels</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21959/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-loungesets|a5:link|a6:hp|id:3037|cc:915">Loungesets</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/17893/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuinkussens|a5:link|a6:hp|id:3038|cc:915">Tuinkussens</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21957/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-vlonders|a5:link|a6:hp|id:3039|cc:915">Vlonders &amp; Buitenvloeren</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/24898/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-barbecues|a5:link|a6:hp|id:3040|cc:915">Barbecues</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/21958/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuinkasten|a5:link|a6:hp|id:3041|cc:915">Tuinkasten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/17887/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-parasols-partytenten|a5:link|a6:hp|id:3042|cc:915">Parasols &amp; Partytenten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/34205/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-tuinmeubelhoezen|a5:link|a6:hp|id:3043|cc:915">Tuinmeubelhoezen</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/14971/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-buitenverlichting|a5:link|a6:hp|id:3044|cc:915">Buitenverlichting</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/outdoor_pots_plants/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-planten-potten|a5:link|a6:hp|id:3045|cc:915">Planten &amp; Potten</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/34204/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-buitenkleden|a5:link|a6:hp|id:3046|cc:915">Buitenkleden</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/indoor_gardening/?icid=a1:iba|a2:nl|a3:navigatie-producten|a4:tuinmeubels-tuindecoratie-binnen-kweken|a5:link|a6:hp|id:3047|cc:915">Binnen kweken</a></li></ul></a></li><li class="c-standalone"><a href="/nl/nl/zonnepanelen.html?icid=a1:iba|a2:nl|a3:zonnenpanelen-navigatie|a4:zonnepanelen-navigatie|a5:link|a6:nav|id:2962|cc:915">Zonnepanelen</a></li></ul></div><div class="c-right"><a class="c-main-ad white" href="https://www.ikea.com/nl/nl/nieuwe-producten.html" style="background-image: url(https://www.ikea.com/ms/nl_NL/media/img/fy19_beeld/nieuwe-producten-300x203.jpg);"> <span></span></a><a class="c-bottom-ad" href="https://www.ikea.com/nl/nl/kasten.html"><img src="/ms/nl_NL/media/img/fy19_beeld/opbergers-ikea-90x90.jpg"><h4>Opgeruimd staat netjes<span>Bekijk alle opbergers</span></h4></a><a class="c-exit v-orange" href="https://www.ikea.com/nl/nl/aanbiedingen.html?icid=a1:iba|a2:nl|a3:aanbiedingen-20180729|a4:aanbiedingen|a5:link|a6:nav|id:4224|cc:915">Bekijk alle aanbiedingen</a><a class="c-exit" href="https://www.ikea.com/nl/nl/nieuwe-producten.html">Bekijk alle nieuwe producten</a></div></div></a></li><li><a class="icon-back-arrow-thin">RUIMTES<ul class="c-level-2"><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bedroom/">Slaapkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/kitchen/">Keuken</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/living_room/">Woonkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/bathroom/">Badkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/workspaces/">Werkplek</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/childrens_ikea/">Kinderkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/secondary_storage/">Bergruimte</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/dining/">Eetkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/business/">Bedrijfsruimte</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/hallway/">Hal</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/laundry/">Wasruimte</a></li><li class="c-standalone"><a href="/nl/nl/claim-je-kamer.html">Studentenkamer</a></li><li class="c-standalone"><a href="/nl/nl/catalog/categories/departments/outdoor/">Tuin &amp; Balkon</a></li></ul></a></li><li class="c-standalone"><a href="https://wooninspiratie.ikea.nl/">WOONINSPIRATIE</a></li></ul></div></div><div class="v-shader"></div><div id="cookieMsgBlock"><div id="cookies_legislation"><div id="topMsgBlock"><div class="msgblock">Op IKEA.nl gebruiken wij cookies en andere technieken om jouw ervaring op onze website te verbeteren en om advertenties te tonen, ook met tracking cookies van derden die jouw internetgedrag volgen. Bekijk ons cookiebeleid. Als je doorklikt ga je akkoord met het plaatsen van de cookies en technieken.</div><div class="linkBlock"><a href="/ms/nl_NL/privacy_policy/privacybeleid.html">Privacybeleid</a>&nbsp;<span class="pipeSeparator">|</span>&nbsp;<a href="/ms/nl_NL/privacy_policy/cookie_policy.html">Cookiebeleid</a></div></div></div></div><div id="allContent"><div id="mainPadding">
+
+
+        
+        
+
+
+
+<script type="text/javascript">
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+// part in bold should be configurable in settings per market
+ (function(a, b, c, d) {
+  a = '//tags.tiqcdn.com/utag/ikea/nl-main/prod/utag.js';
+  b = document;
+  c = 'script';
+  d = b.createElement(c);
+  d.src = a;
+  d.type = 'text/java' + c;
+  d.async = true;
+  a = b.getElementsByTagName(c)[0];
+  a.parentNode.insertBefore(d, a);
+})();
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+</script>
+
+        <div class="access" title="Beschikbare sneltoetsen:">
+        
+        </div>      
+        <div id="topMenu" class="topMenu" style="display: none;">
+            
+                <div class="logoContainer">
+                    <a href="/nl/nl/" id="lnkIKEALogoHeader" class="logoLink">
+                        <img src="/ms/img/header/ikea-logo.svg" alt="Home" class="logo" id="imgIKEALogoHeader">
+                    </a>
+                    
+                        
+                        <div class="ikeaTagline" id="txtIKEATagHeader">Welkom bij IKEA Nederland</div>
+                            <script type="text/javascript">
+                                //<![CDATA[
+                                    var storeId='9';
+                                    var userInfo = getUserInfo('9','normal');
+                                    document.observe('dom:loaded', function() {
+                                        userInfo = getUserInfo('9');
+                                        updateWelcomeText();
+                                        updateNoOfCartItems('9');
+                                        generateScLinkListener('9');
+                                    });
+                                    function updateWelcomeText() {
+                                        var userLoggedIn = '</Welkom {firstname}! Niet {firstname}? <a href="/webapp/wcs/stores/servlet/Logoff?langId=-22&amp;storeId=9&amp;flow=LogoutFlow;&amp;forgetMe=true" rel="nofollow">Klik hier</a>';
+                                        var userNotLoggedIn = 'Welkom bij IKEA Nederland';
+                                        if(userInfo != null && userInfo.firstName!= "" && userInfo.firstName!= "") {
+                                            userLoggedIn = userLoggedIn.replace(/{firstname}/g,userInfo.firstName.escapeHTML());
+                                            userLoggedIn = userLoggedIn.replace(/{lastname}/g,userInfo.lastName.escapeHTML());
+                                            userLoggedIn = userLoggedIn.replace(/{title}/g,userInfo.title.escapeHTML());
+                                            document.getElementById("txtIKEATagHeader").innerHTML = userLoggedIn;
+                                        }else{
+                                            document.getElementById("txtIKEATagHeader").innerHTML = userNotLoggedIn;
+                                        }
+                                    }
+                                //]]>
+                            </script>
+                        </div>
+                        <div class="rightSection">
+                            <div class="iconLinkContainer">
+                                <div class="iconLink">
+                                    <a href=" " id="lnkIcon1Header">
+                                        <img src=" "><style>.rightSection .iconLinkContainer {display: none;}</style><img src="" alt=" ">
+                                        <span> </span>
+                                    </a>
+                                </div>
+                            </div>
+                
+                
+
+            
+                
+                <div class="linkList">
+                    <ul>
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/ms/nl_NL/ikny_splash.html" class="arrowLink" id="link_header_ikny_splash">IKEA vestigingen</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="https://www.ikea.com/ms/nl_NL/customer_service/splash.html" class="arrowLink" id="link_header_splash">Klantenservice</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=9&amp;langId=-22" class="arrowLink" id="link_header_shopping_list" rel="nofollow">Mijn boodschappenlijstje</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                    </ul>
+                </div>
+                
+                <div class="linkList">
+                    <ul>
+                        
+                            
+                            
+                                    
+                                    
+                                <li>
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                        if(haslogoffURL('9')) {
+                                            document.writeln("<a class='arrowLink' id='link_header_logout' href='/webapp/wcs/stores/servlet/Logoff?langId=-22&amp;storeId=9&amp;flow=LogoutFlow&amp;rememberMe=true' rel='nofollow'>Uitloggen</a>");
+                                        }else{
+                                            document.writeln("<a class='arrowLink' id='link_header_login' href='javascript:logonLink();' rel='nofollow'>Inloggen</a>");
+                                        }
+                                        //]]>
+                                    </script><a class="arrowLink" id="link_header_login" href="javascript:logonLink();" rel="nofollow">Inloggen</a>
+
+                                </li>
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/ms/nl_NL/ikea_family/index.html" class="arrowLink arrowLinkActive" id="link_header_index">IKEA FAMILY</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&amp;langId=-22&amp;catalogId=11001&amp;orderId=.&amp;priceexclvat=&amp;newLinks=true" class="arrowLink" id="link_header_shopping_cart" rel="nofollow"><b>Mijn winkelwagen</b></a>
+                                                
+                                                    <a href="/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&amp;langId=-22&amp;catalogId=11001&amp;orderId=.&amp;priceexclvat=&amp;newLinks=true" class="arrowLink arrowLinkInactive" rel="nofollow"><span id="noOfCartItems"></span></a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                    </ul>
+                </div>
+            <div style="width: 60px; height: 50px; display: block; float: left; padding-right: 1.15em; overflow: hidden;"><a href="/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=9&amp;langId=-22"><img style="height: 50px; width: 90px; margin-left: -15px;" src="https://www.ikea.com/ms/nl_NL/media/img/webwinkel/Winkelwagen2_200x110.jpg"></a></div></div>
+        </div>
+
+        <div id="menu"></div>
+        <!-- prints the all departments menu -->
+        <script type="text/javascript">
+        //<![CDATA[
+            new_getProducts();
+            enableDepartmentLink();
+        //]]>
+        </script>
+        
+    
+
+<div id="main">
+		<div id="prfinfo">
+				<div class="headline">
+					&nbsp;
+				</div>
+				<div class="body">
+					&nbsp;
+				</div>
+				<div class="link">
+					<a href=" ">&nbsp;</a>
+				</div>
+				<div class="btns">
+					<script type="text/javascript">
+						createButton("&nbsp;", "prfbtn", "", function() { closePrfPopup(); });
+					</script><div class="buttonContainer"><a id="prfbtn" class="" href="#" onclick="return false;"><div class="buttonLeft">&nbsp;</div><div class="buttonCaption"><input type="button" value="&nbsp;"></div><div class="buttonRight">&nbsp;</div></a></div>			
+				</div>
+		</div>		
+		<a name="mainContent"></a>		
+	        <div class="rightContent">
+
+			<div id="pipContainer" class="pipContainer">
+			
+	
+	<ul id="breadCrumbs">
+	    <li>
+	     	<a href="/nl/nl/">Home </a>
+	    </li>
+	    <li class="divider">/</li>
+	    <li>
+	     	<a href="/nl/nl/catalog/categories/departments/dining/">Eetkamer </a>
+	    </li>
+	    
+	    <li class="divider">/ </li>
+	    <li>
+	     	<a href="/nl/nl/catalog/categories/departments/dining/25219/">Eetkamerstoelen</a>
+	    </li>
+	     
+		    <li class="divider">/</li>
+		    <li>
+		     <a href="/nl/nl/catalog/categories/departments/dining/25220/">Eetkamerstoelen</a>
+		    </li>
+	    
+	</ul>
+   <div class="clear"></div>		
+			<div id="leftMainContainer">
+			<div id="mainImgConatiner" class="rightContentContainer">
+                 
+   				       <img id="productImg" src="/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG" alt="SVENBERTIL Armleunstoel IKEA Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten." title="" width="500" height="500" class="zoomMousePointer">
+				
+                  
+	                  <div id="buttonBar" class="buttonBar thumbImgButtonBarVisible">
+				            <div id="imgThumbContainer" class="imgThumgContainer ">
+				            	 
+				            	<div id="moreImgThumbContainer" style="left: 0px;">
+				            	<div class="imageThumb" id="imageThumb_0"><a href="javascript:void(0);" id="imageThumbLink_0" class="active"><img src="/PIAimages/0590604_PE673964_S3.JPG" onclick="irwStatThumbImgClickedFromPIP();" onmouseover="addOpacityEffect(this.id);" onmouseout="rmvOpacityEffect(this.id);" id="imgID_0"></a></div><div class="imageThumb" id="imageThumb_1"><a href="javascript:void(0);" id="imageThumbLink_1"><img src="/PIAimages/0591198_PE674088_S3.JPG" onclick="irwStatThumbImgClickedFromPIP();" onmouseover="addOpacityEffect(this.id);" onmouseout="rmvOpacityEffect(this.id);" id="imgID_1"></a></div><div class="imageThumb" id="imageThumb_2"><a href="javascript:void(0);" id="imageThumbLink_2"><img src="/PIAimages/0591199_PE674089_S3.JPG" onclick="irwStatThumbImgClickedFromPIP();" onmouseover="addOpacityEffect(this.id);" onmouseout="rmvOpacityEffect(this.id);" id="imgID_2"></a></div><div class="imageThumb" id="imageThumb_3"><a href="javascript:void(0);" id="imageThumbLink_3"><img src="/PIAimages/0591200_PE674090_S3.JPG" onclick="irwStatThumbImgClickedFromPIP();" onmouseover="addOpacityEffect(this.id);" onmouseout="rmvOpacityEffect(this.id);" id="imgID_3"></a></div><div class="imageThumb" id="imageThumb_4"><a href="javascript:void(0);" id="imageThumbLink_4"><img src="/PIAimages/0591201_PE674091_S3.JPG" onclick="irwStatThumbImgClickedFromPIP();" onmouseover="addOpacityEffect(this.id);" onmouseout="rmvOpacityEffect(this.id);" id="imgID_4"></a></div></div>
+				            	 	
+							</div>												
+			          </div>
+			          
+			          </div>
+					 
+			</div>
+     		
+			<div id="rightNavContainer" class="addList">
+			<div id="rightNavInfoDiv" class="rightInfoDiv">
+			
+			
+			<div id="newicon" class="overlapNewimg" style="display: none;">								
+									
+			</div>
+			
+			<div id="productInfoWrapper1" class="">
+			<div id="productInfoWrapper2" class="">
+			<h1>
+				<span id="name" class="productName">SVENBERTIL</span>
+				
+				<span id="type" class="productType">Armleunstoel, wit, Dietmar wit</span>
+		    <!-- IKEA01120682    CN - Display brand of manufacturer in PIP START --><!-- IKEA01120682    CN - Display brand of manufacturer in PIP END -->			
+			</h1>
+	
+	<div id="famsection" style="display: none;">
+		<div id="prodSection" class="prodFamily">
+			<span id="prodIkeaFamily" class="ikeaFamilyCaps">
+				IKEA FAMILY prijs
+			</span>
+			</div> 
+	<div id="prodPriceUnitFamily">
+		<div id="prodPriceFamily" class="prodPriceFamily floatLeft ">
+			<span id="price5" class="ikeaFamilyPrice" style="visibility: hidden;"></span>				
+			<span id="familystoreformatpieces" class="productunit">&nbsp;/ st.</span>
+			 
+			<span id="famPriceExclVat" class="priceExclVat"></span>
+			
+			<span id="price6" class="priceField2" style="visibility: hidden;"></span>	
+			<div id="familyComparisonPIPContainer" style="display: none">
+				<span>
+					Price/st.
+				</span>
+				 <span id="familycomparisonPIPPrice"></span>
+			</div>			
+			<div id="famunitprice" class="unitprice" style="display: none;">
+				
+				</div>	
+				<div id="familyDate" class="pipTroPrice" style="display: none;"></div>	
+					
+		</div>
+		
+		<div class="clear"></div>
+	</div>		<div class="regularPriceHead">Normale prijs</div>
+	</div>
+			
+			<div id="priceContainer" class="priceContainer">
+			<!-- SuperScript changes IKEA00905611 START --><!-- SuperScript changes added IKEA00905611 END -->	
+				<div id="prodPrice" class="">
+					<span id="price1" class="packagePrice" style="width: 100%;">€&nbsp;49.95</span>									
+					<span id="storeformatpieces" class="productunit">&nbsp;/ st.</span>
+					
+							<span id="mainPriceExclVat" class="priceExclVat">(€&nbsp;41.28 excl. btw)</span>
+						
+					<div id="comparisonPIPContainer" style="display: none;">
+						<span class="priceField1">
+							Price/st.
+						</span>
+						<span class="priceField2" id="comparisonPIPPrice"></span>
+					</div>	
+					<div id="mainunitprice" class="unitprice" style="display: none;">
+					
+								<span id="priceFieldSpan2" class="priceField1">
+									Prijs per&nbsp;
+									st.: 
+								</span>
+								<span id="price1perunit" class="priceField2"></span>
+							
+					</div>
+					<div id="troPrice" class="pipTroPrice" style="display: none;">undefined - undefined <span> Zolang de voorraad strekt</span></div>
+					
+				</div> 
+			
+
+				
+				
+				
+				<div id="prodDual" class="displaynone">
+					<span id="price2" style="visibility: hidden;"></span> 
+						
+				</div>  
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+    <div class="itemNumber">
+    <div id="articleNoDiv" class="floatLeft">Artikelnummer:&nbsp;</div><div id="itemNumber" class="floatLeft">492.597.43</div>
+    <div class="clear"></div>
+    
+	<div id="cabinetDiv" class="displaynone "><div class="floatLeft">Kastcode::&nbsp;</div><div id="FAcode" class="floatLeft"></div> </div>
+	<div class="clear"></div>
+		
+		<div id="warningInfo" style="display: none;">		
+				
+		</div>		
+		
+		<div class="ratingsContainer" style="cursor:pointer" onclick="loadBazaarvoiceApi('true','SPR-49259743','true');">
+				<div class="ratingStarsContainer" style="float: left;width: 80%;">
+						<div class="ratingStarsOffLarge">★★★★★</div>
+						<div class="ratingStarsOnLarge" id="pipStarsOn" style="width:0%;margin-top:-45px;">★★★★★</div>
+					
+					</div>	
+					
+				<div class="ratingStarsContainer" id="ratingStarsReview" style="width: 15%;display: inline-flex;margin-top: 18px;">
+				 
+				<div class="ratingsCountContainer" style="margin-left : 10px !important;">	<a class="ratingsCount" style="letter-spacing: normal;">Reviews</a>
+					</div>
+				</div>
+			</div>			
+		<div id="BVRRSummaryContainer1">
+				<ul id="BVSEOSDK_meta" style="display:none !important">
+  <li data-bvseo="sdk">bvseo_sdk, java_sdk, bvseo-4.0.0</li>
+  <li data-bvseo="sp_mt">LOCAL, getAggregateRating, 0ms</li>
+  <li data-bvseo="ct_st">REVIEWS, PRODUCT</li>
+  <li data-bvseo="ms">bvseo-msg: Configuration error - pageURI contains invalid characters, correct or encode URI.;</li>
+</ul>
+
+			</div>
+      
+       
+    
+	<div id="salesArg" class="salesArguments">Kies je favoriet onder de onderstellen en zitkuipen, of creëer een speelse mix rond de tafel. Er zijn wel 30 verschillende stoelcombinaties mogelijk! Je zit comfortabel dankzij de schaalvormige zitting en rugleuning.</div>
+			
+    
+    
+	</div>
+		
+		<div class="lightSourceInfoDiv" id="californiaTitle20Product" style="display: none;">
+			
+		</div>
+		
+		
+					  	
+					<div id="subdiv" class="subdivpad">
+					
+									<input type="hidden" name="attributteValueHidden" id="attributteValueHidden_10072" value="-">
+								
+									<input type="hidden" name="attributteValueHidden" id="attributteValueHidden_10128" value="wit">
+								
+					 </div>
+					
+						<noscript>
+						&lt;div class="subdivpad"&gt;
+							&lt;div id="subDivDropDown" class="prodDropdown"&gt;						
+								&lt;form id="productDropDown" name="productDropDown"
+									action="/nl/nl/catalog/productAlternative/" method="get"&gt;	
+									&lt;div class="subHeadlines"&gt;																												
+										
+		  						    &lt;/div&gt;	
+		  						    &lt;div&gt;
+		  						    &lt;div class="floatLeft"&gt;		  						    
+		 						    &lt;select class="dropdown" id="dropAllAttributes" name="partNumber" title="dropAllAttributes"&gt;
+										
+											&lt;option data-value="https&amp;#x3a;&amp;#x2f;&amp;#x2f;www.ikea.com/nl/nl/catalog/products/S49259743/" value="S49259743" selected="selected"&gt;											
+																									
+											&lt;/option&gt;
+										
+											&lt;option data-value="https&amp;#x3a;&amp;#x2f;&amp;#x2f;www.ikea.com/nl/nl/catalog/products/S69259742/" value="S69259742" &gt;											
+																									
+											&lt;/option&gt;
+										
+											&lt;option data-value="https&amp;#x3a;&amp;#x2f;&amp;#x2f;www.ikea.com/nl/nl/catalog/products/S89259741/" value="S89259741" &gt;											
+																									
+											&lt;/option&gt;
+											
+									&lt;/select&gt;
+										
+									&lt;/div&gt; 					    
+									&lt;div class="buttonContainer okButtonLeft"&gt;
+										&lt;a href="javascript:void(0);"&gt;
+											&lt;span class="buttonLeft"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="buttonCaption"&gt;&lt;input type="submit" value="OK" /&gt;&lt;/span&gt;&lt;span class="buttonRight"&gt;&amp;nbsp;&lt;/span&gt;
+										&lt;/a&gt;
+									&lt;/div&gt;	
+									 &lt;/div&gt;
+							     &lt;div class="clear"&gt;&lt;/div&gt;									
+								&lt;/form&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+						</noscript>
+										
+			<div class="plannerButton" id="pipPlannerButton"><a href="/nl/nl/catalog/categories/departments/dining/tools/planner_build_your_own_dining_chair/#S49259743" id="innerLinkToPlannerBtn" onclick="irwStatLinkToPlannerClicked('innerLinkToPlannerBtn');vendor.updateProp44Value(&quot;innerLinkToPlanner&quot;, &quot;pip functions&quot;, true)" target="_self"><img class="plannerButtonImg" src="/ms/img/plannerButton/plannerButton.png" border="0" width="35" height="35">Maak je eigen ontwerp</a></div></div>
+			<div class="clear"></div>
+			<div class="rightNavSubContainer marginForCartConatiner">
+				
+			<form id="addCartContainer" name="addToCart" action="/webapp/wcs/stores/servlet/OrderItemAdd" method="post">
+				
+				
+				<input id="catentryInForm" type="hidden" name="catEntryId" value="3494574">
+			<input id="thePartnumberInForm" type="hidden" name="thePartnumber" value="S49259743"> 
+				<input id="urlInForm" type="hidden" name="backURL" value="/nl/nl/catalog/products/S49259743/"><input id="ordItmDis" type="hidden" name="URL" value="OrderItemDisplay"> <input id="strId" type="hidden" name="storeId" value="9"> <input id="languageid" type="hidden" name="langId" value="-22"><input id="linksid" type="hidden" name="newLinks" value="true"> <input id="prelCalc" type="hidden" name="perfPrelCalc" value="true">
+				<input type="hidden" name="itemBuyable" id="itemBuyable" value="true">
+			
+			<span class="quantityLabel">
+			 <label for="quantity">aantal</label>
+			</span>
+						<input id="quantity" class="inputQuantity" name="quantity" title="Aantal:" type="text" value="1" maxlength="3" size="3">
+				
+				<div class="clear"></div>
+			
+					<div id="displayQuantity" style="display:none">
+						<div id="addProductErrors" style="color:#FF5050">Please enter a number for quantity</div>
+					</div>			
+
+							
+				<div id="buttonBorder2" class="buttonDiv3">
+				<div id="dispAddButton" class="buttonWrapper">
+				<div id="dispQuantity" class="form">
+				
+				<input name="add" type="hidden" value="In winkelwagen">
+					<div id="popupAddToCartS49259743_43136">
+						
+							
+						<div class="buttonContainer">
+							<button type="button" id="jsButton_buyOnline_lnk" class="blueBtn" onclick="checkBuyable('addToCart',$('dispQuantity').down('div'),9,-22, itemRelationValue);"><svg class="icon-component__icon svg-icon"><path class="cxcls-1" d="M6 15H5v2H3v1h2v2h1v-2h2v-1H6v-2zm1.09-6a5 5 0 0 1 9.81 0H7.09zm10.83 0A6 6 0 0 0 6.08 9H2l1.4 5h1l-1.08-4h17.36l-2.52 9H9v1h9.92L22 9h-4.08z"></path></svg>In winkelwagen</button>
+						</div>
+
+						<div class="buttonContainer">
+							<button type="button" id="jsButton_buyOnline_lnk_dis" class="blueBtn displaynone disable displaynone"><svg class="icon-component__icon svg-icon"><defs><polygon points="0.8549 19 19.9369 19 19.9369 0.231 0.8549 0.231 0.8549 19"></polygon></defs><path d="M1.3181,7.1663 L3.9951,7.1663 L10.7381,7.1663 L11.7551,6.1663 L5.0951,6.1663 C5.5581,3.8823 7.5811,2.1573 10.0001,2.1573 C11.5821,2.1573 12.9851,2.9033 13.9031,4.0533 L14.6301,3.3383 C13.5291,2.0063 11.8641,1.1573 10.0001,1.1573 C7.0231,1.1573 4.5591,3.3243 4.0841,6.1663 L9.99999975e-05,6.1663 L2.5361,15.2343 L3.3501,14.4333 L1.3181,7.1663 Z" id="Fill-2" fill="#FFFFFF"></path><polygon id="Fill-8" fill="#FFFFFF" points="15.0327 7.1663 16.0047 7.1663 18.6817 7.1663 16.1647 16.1663 5.8827 16.1663 4.8657 17.1663 16.9227 17.1663 19.9997 6.1663 16.0497 6.1663"></polygon><polygon id="Fill-10" fill="#FFFFFF" mask="url(#mask-2)" points="14.4519 4.9162 13.1809 6.1662 12.1639 7.1662 3.6579 15.5332 2.8439 16.3342 0.8549 18.2902 1.5759 19.0002 19.9369 0.9402 19.2159 0.2302 15.2049 4.1762"></polygon></svg>Niet online beschikbaar</button>
+						</div>					
+
+							<script type="text/javascript" language="JavaScript">
+							/*createNewButton("In winkelwagen", "jsButton_buyOnline_lnk", "blueBtn", function(e) {checkBuyable("addToCart",$('dispQuantity').down('div'),9,-22, itemRelationValue)}); */
+							</script>
+							
+							<script type="text/javascript" language="JavaScript">
+							/*createNewButton("Niet online beschikbaar", "jsButton_buyOnline_lnk_dis", "blueBtn disable displaynone", function(e) {}); */
+							</script>
+				</div>
+				<noscript>
+				
+				&lt;div class="buttonContainer"&gt;&lt;a href="javascript:void(0);" class="blueBtn"&gt;&lt;input type="submit" value="In winkelwagen" /&gt;&lt;/a&gt;&lt;/div&gt;
+					
+				</noscript>
+				</div>
+				<div id="dispNotAvailable" class="displaynone">Deze combinatie is helaas niet verkrijgbaar</div>
+				</div>
+				</div>
+			
+			<div id="buttonBorder3" class="buttonMar">
+			
+                <div id="popupShoppingListS49259743_43136">
+                <div id="popupShoppingListS49259743_1261516">
+
+					<div class="buttonContainer">
+						<button type="button" id="jsButton_saveToList_lnk" class="orangeBtn" href="#" onclick="activateShopListPopup('add',$('buttonBorder3').down(),9,-22,'€&nbsp;49.95',itemRelationValue);"><svg class="icon-component__icon svg-icon"><path class="czcls-1" d="M17 15h-1v2h-2v1h2v2h1v-2h2v-1h-2v-2zM5 5h8V4H4v9h1V5zM15.83 4l-9.74 9.74-.7.7L4 20l5.57-1.39L20 8.17zM6.12 18.43l-.55-.55.64-2.63 2.54 2.54zm.66-4l9-9 2.78 2.78-9 9z"></path><path d="M7 9h1v1H7zM7 7h3v1H7z"></path></svg>Boodschappenlijstje</button>
+					</div>
+
+                      <script type="text/javascript" language="JavaScript">
+                      /*createNewButton("Boodschappenlijstje", "jsButton_saveToList_lnk", "orangeBtn", function(e) {activateShopListPopup("add",$('buttonBorder3').down(),9,-22,"\'€ 49.95\'",itemRelationValue)});*/ 
+                      </script>
+                </div>
+                	
+                <noscript>
+                	&lt;form id="formAddShoppingList" action="/webapp/wcs/stores/servlet/IrwShoppingListNoJS" method="post" name="formAddShoppingList"&gt;
+	               	 	&lt;input type="hidden" name="commandId" value="addItem"/&gt;
+	                	&lt;input type="hidden" name="catEntryId" value="3494574"/&gt;
+	                	&lt;input type="hidden" name="storeId" value="9"/&gt;
+	               		&lt;input type="hidden" name="langId" value="-22"/&gt;
+	                	&lt;div class="buttonContainer"&gt;
+		               		 &lt;a href="javascript:void(0);" class="orangeBtn"&gt;
+		                		&lt;input id="addToCartBtn" type="submit" value="Boodschappenlijstje"/&gt;
+		               		 &lt;/a&gt;
+	                	&lt;/div&gt;    		           
+               		 &lt;/form&gt;
+                </noscript>
+             </div>
+
+			</div></form>		
+								
+			
+						
+				<div class="rightNavSubContainer stockSearchPaddBottom">			
+					
+					<form id="stocksearch" action="/webapp/wcs/stores/servlet/IrwStockAvailSearch" method="post"><input type="hidden" name="productId" value="3494574"> <input type="hidden" name="storeId" value="9"> <input type="hidden" name="langId" value="-22"> <input type="hidden" name="partNumber" value="S49259743"> <input type="hidden" name="shortURL" value="/nl/nl/catalog/availability/S49259743/null/">
+						<input type="hidden" name="localStores" value="415|amersfoort:088|amsterdam:274|barendrecht:403|breda:151|delft:272|duiven:087|eindhoven:404|groningen:378|haarlem:089|heerlen:312|hengelo:270|utrecht:391|zwolle">			
+		
+					
+					<div id="ikeaStoreDiv">
+					<div class="floatLeft spaceLeft displaynone">
+					<select id="ikeaStoreNumber1" name="ikeaStoreNumber1" class="texts">
+						<option value="choose">Kies</option>
+						
+								<option value="415">Amersfoort</option>
+							
+								<option value="088">Amsterdam</option>
+							
+								<option value="274">Barendrecht (Rotterdam)</option>
+							
+								<option value="403">Breda</option>
+							
+								<option value="151">Delft</option>
+							
+								<option value="272">Duiven</option>
+							
+								<option value="087">Eindhoven</option>
+							
+								<option value="404">Groningen</option>
+							
+								<option value="378">Haarlem</option>
+							
+								<option value="089">Heerlen</option>
+							
+								<option value="312">Hengelo</option>
+							
+								<option value="270">Utrecht</option>
+							
+								<option value="391">Zwolle</option>
+							
+					</select>
+					</div>
+					
+					<noscript>
+					&lt;h2 class="subHeadlines ikeaStorepads"&gt;Controleer de voorraad voor je winkelbezoek&lt;/h2&gt;
+						
+						&lt;div class="floatLeft spaceLeft"&gt;
+						
+								&lt;select name="ikeaStoreNumber1" class="texts"&gt;
+									&lt;option value="choose"&gt;Kies&lt;/option&gt;
+									
+											&lt;option value="415"&gt;Amersfoort&lt;/option&gt;
+										
+											&lt;option value="088"&gt;Amsterdam&lt;/option&gt;
+										
+											&lt;option value="274"&gt;Barendrecht (Rotterdam)&lt;/option&gt;
+										
+											&lt;option value="403"&gt;Breda&lt;/option&gt;
+										
+											&lt;option value="151"&gt;Delft&lt;/option&gt;
+										
+											&lt;option value="272"&gt;Duiven&lt;/option&gt;
+										
+											&lt;option value="087"&gt;Eindhoven&lt;/option&gt;
+										
+											&lt;option value="404"&gt;Groningen&lt;/option&gt;
+										
+											&lt;option value="378"&gt;Haarlem&lt;/option&gt;
+										
+											&lt;option value="089"&gt;Heerlen&lt;/option&gt;
+										
+											&lt;option value="312"&gt;Hengelo&lt;/option&gt;
+										
+											&lt;option value="270"&gt;Utrecht&lt;/option&gt;
+										
+											&lt;option value="391"&gt;Zwolle&lt;/option&gt;
+										
+								&lt;/select&gt;
+								&lt;/div&gt;
+						&lt;div class="buttonContainer okButtonLeft"&gt;&lt;a href="javascript:return void(0);"&gt;&lt;span class="buttonLeft"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="buttonCaption"&gt;&lt;input id="checkStockBtn" type="submit" value="OK" /&gt;&lt;/span&gt;&lt;span class="buttonRight"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+							
+					</noscript>	
+					
+						
+										
+					</div>
+					</form>
+					
+					</div>				
+			
+			<div id="stockResultHolder">
+					
+			
+			<div id="stocksearchContainer" class="">
+				<h2 id="loremPadd1" class="subHeadlines ikeaStorepads">Controleer de voorraad voor je winkelbezoek</h2>
+				<div id="ikeaStoreSelectDiv" class="wrapper-dropdown dropmic active" data-dropmic="ikeaStoreSelectDiv">			
+					
+						
+						
+						<button data-dropmic-btn="" aria-haspopup="true" aria-expanded="false">
+						<span class="dropdown-heading-wrapper"> 
+										<span class="categoryNameLbl">Winkel:</span> 
+										<span class="dropdown-value">Kies</span> </span>					
+						</button>
+						<div class="dropmic-menu" aria-hidden="true" role="presentation">
+							<ul class="dropdown dropmic-menu__list" role="menu" id="selectionDropDownList">
+						
+								<li data-index="0" data-value="choose" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="true">Kies</a></li>
+								<li data-index="1" data-value="415" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Amersfoort</a></li>
+								<li data-index="2" data-value="088" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Amsterdam</a></li>
+								<li data-index="3" data-value="274" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Barendrecht (Rotterdam)</a></li>
+								<li data-index="4" data-value="403" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Breda</a></li>
+								<li data-index="5" data-value="151" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Delft</a></li>
+								<li data-index="6" data-value="272" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Duiven</a></li>
+								<li data-index="7" data-value="087" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Eindhoven</a></li>
+								<li data-index="8" data-value="404" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Groningen</a></li>
+								<li data-index="9" data-value="378" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Haarlem</a></li>
+								<li data-index="10" data-value="089" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Heerlen</a></li>
+								<li data-index="11" data-value="312" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Hengelo</a></li>
+								<li data-index="12" data-value="270" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Utrecht</a></li>
+								<li data-index="13" data-value="391" role="presentation"><a href="#" class="link-title dropmic-menu__listContent" role="menuitemradio" aria-checked="false">Zwolle</a></li>
+						</ul>
+						</div>
+						
+					
+					
+						
+					
+							<div class="clear"></div>
+		    			
+			
+				</div>	
+				<div class="loaderLeft">		
+					<div class="hiddenDiv" style="display:none;" id="loaderDiv"><img alt="" src="/ms/img/static/loading.gif" width="27" height="27"></div>
+				</div>
+						<div class="hiddenStock" id="stockInfoDiv" style="display: none; clear: left;">
+							<div id="checkProduct" class="checkProduct">
+								<div style="float:left">
+									<img id="stockImg" alt="" src="/ms/img/static/stock_check_green.gif" width="57" height="13">
+								</div>
+								<div id="checkProductText" class="checkProductText">
+										<div class="bottomMargin"><span id="stockInfo"></span>&nbsp;<span id="localStoreLink" class="linkText"></span></div>
+									<div class="bottomMargin">
+									<span id="viewPrognosis" class="linkText bold"><a href="#">Bekijk de voorraadinformatie van dit product en de locatie in de winkel</a></span>
+									</div>
+								</div>
+								<div class="clear"></div>
+								<div id="noticeInfo" class="disclaimerNew"></div>
+							</div>
+						</div>							
+			
+			</div>
+					
+						
+								<div id="availableOnline" class="">
+									<h2 class="subHeadlines ikeaStorepads">&nbsp;</h2>
+									<p class="averageDeliveryTime">&nbsp;</p>
+								</div>
+							
+								<div id="notAvailableOnline" class=" displaynone">
+									<h2 class="subHeadlines ikeaStorepads">&nbsp;</h2>
+									<p class="notAvailableCheckStore">&nbsp;</p>
+								</div>
+						
+					
+					
+		</div>
+
+					<div class="stockChkTxt">
+		    			De voorraadinformatie wordt elke 1½ uur ververst. Producten uit de webwinkel zijn hierin niet opgenomen en worden geleverd vanuit een centraal magazijn.
+		    			</div>
+					
+<div id="serviceModule" class="rightNavSubContainer noBorder displayblock">
+	
+		<div class="clear"></div>
+		<div id="content"><div id="mainContainer"><div class="leftColumn"><div class="serviceMenuleft displayblock">
+				<div id="pipServiceMenu5" class="pipServiceMenuItem displayblock">
+			<!-- lets not get the adcopy if its already present in the request -->
+		<a class="serviceItemMenuLink displayblock" href="javascript:void(0);">
+		
+				<div class="headlineMinWidth" style="background-image:url(/ms/nl_NL/media/img/logo/Assembly-wts-20x20.jpg); background-repeat:no-repeat; background-position:left center;">Montageservice</div>		
+				
+		</a>
+		<div class="servicelbContainer showServiceModule"> 
+				<div class="serviceIcon floatLeft"><img src="/ms/nl_NL/media/img/logo/Assembly-wts-20x20.jpg" border="0" class="floatLeft nojsserviceImg" align="middle"></div> 
+                <div class="servicelbTitle">Montageservice</div>  
+                <p class="servicelbText">IKEA meubels worden ongemonteerd verkocht inclusief montage-instructies. Als je dat wilt, kunnen wij ze voor jou laten monteren. 
+IKEA kan je in contact brengen met een ervaren montagebedrijf. 
+<br><br>
+(Als je op de onderstaande link klikt, verlaat je deze pagina)
+</p>
+                <a href="/nl/nl/klantenservice/ikea-services.html">Meer informatie</a>
+         </div>
+          
+<script type="text/javascript">
+	var price = null;
+	var requiresAssembly = null;
+	
+			price = "10";
+		
+			requiresAssembly = "true";			
+		
+	
+	globalVariables.serviceParamArray.push({'serviceName': "PIP Service Module 5" , 'price': price , 'requiresAssembly': requiresAssembly});
+</script>
+ 
+				</div>
+			</div><div class="serviceMenuleft displayblock">
+				<div id="pipServiceMenu7" class="pipServiceMenuItem displayblock">
+			 <!-- lets not get the adcopy if its already present in the request -->
+		<a class="serviceItemMenuLink displayblock" href="javascript:void(0);">
+		
+				<div class="headlineMinWidth" style="background-image:url(/ms/nl_NL/img/fy12_beeld/services/klarna-20x20.jpg); background-repeat:no-repeat; background-position:left center;">Achteraf betalen</div>		
+				
+		</a>
+		<div class="servicelbContainer showServiceModule"> 
+				<div class="serviceIcon floatLeft"><img src="/ms/nl_NL/img/fy12_beeld/services/klarna-20x20.jpg" border="0" class="floatLeft nojsserviceImg" align="middle"></div> 
+                <div class="servicelbTitle">Achteraf betalen</div>  
+                <p class="servicelbText">Achteraf betalen met KLARNA
+<br>
+<br>
+Met achteraf betalen via Klarna heb je de mogelijkheid om 14 dagen na levering van je bestelling te betalen. Je doet dit door bij het afrekenen van de producten in je winkelwagen Klarna als betaalwijze te kiezen. Binnen 1 week na levering ontvang je per e-mail je factuur van Klarna. Vervolgens heb je 14 dagen de tijd om het bedrag te voldoen via iDEAL of per bankoverschrijving. Klarna is op dit moment alleen als betaalwijze te kiezen voor orders tot 2500,- euro. 
+
+</p>
+                <a href="javascript:window.open('https://www.ikea.com/ms/nl_NL/webwinkel/betalen.html','800x600','toolbar,location,status,menubar,scrollbars,resizable,width=800,height=600');void(0);">Lees meer over onze betaalmethodes</a>
+         </div>
+          
+<script type="text/javascript">
+	var price = null;
+	var requiresAssembly = null;
+	
+	
+	globalVariables.serviceParamArray.push({'serviceName': "PIP Service Module 7" , 'price': price , 'requiresAssembly': requiresAssembly});
+</script>
+ 
+				</div>
+			</div></div><div class="rightColumn"><div class="serviceMenuleft displayblock">
+				<div id="pipServiceMenu8" class="pipServiceMenuItem displayblock">
+				<!-- lets not get the adcopy if its already present in the request -->
+		<a class="serviceItemMenuLink displayblock" href="javascript:void(0);">
+		
+				<div class="headlineMaxWidth" style="background-image:url(/ms/img/ads/services/ways_to_shop/20172_ottc20a_returnpolicy_20x20.jpg); background-repeat:no-repeat; background-position:left center;">365 dagen retourgarantie</div>		
+				
+		</a>
+		<div class="servicelbContainer showServiceModule"> 
+				<div class="serviceIcon floatLeft"><img src="/ms/img/ads/services/ways_to_shop/20172_ottc20a_returnpolicy_20x20.jpg" border="0" class="floatLeft nojsserviceImg" align="middle"></div> 
+                <div class="servicelbTitle">365 dagen retourgarantie</div>  
+                <p class="servicelbText">365 dagen retourgarantie
+<br>
+<br>
+Voor al onze producten, met uitzondering van op maat gemaakte producten, geldt een retourgarantie van 365 dagen. Voor IKEA FAMILY leden is dit zelfs onbeperkt! 
+
+</p>
+                <a href="javascript:window.open('https://www.ikea.com/ms/nl_NL/webwinkel/retour.html','800x600','toolbar,location,status,menubar,scrollbars,resizable,width=800,height=600');void(0);">Lees meer over retouren en de voorwaarden</a>
+         </div>
+          
+<script type="text/javascript">
+	var price = null;
+	var requiresAssembly = null;
+	
+	
+	globalVariables.serviceParamArray.push({'serviceName': "PIP Service Module 8" , 'price': price , 'requiresAssembly': requiresAssembly});
+</script>
+  
+				</div>
+			</div></div></div></div>
+			
+</div>
+
+
+
+	
+		<noscript>
+				&lt;style&gt;
+				.serviceItemMenuLink{
+					display:none;
+					} 
+					.showServiceModule{
+						display:block;
+					}
+					.serviceMenuleft{
+						width:330px;
+					}
+					.showService{
+						display:block;
+					}
+					
+				&lt;/style&gt;
+		</noscript>
+	
+			</div>
+			<div class="clear"></div>
+			</div>		
+			<div id="productInfo1" class="productInfo">	
+			 
+			<div id="tabContainer" class="tabContainer1 ikea-tab-widget">
+                 <ul class="cloneTabsContainer" role="tablist">
+                    <!-- Product information Tab-->
+                    <li id="prodInfoTab" class="tabItem active" role="presentation">
+                      <a href="#productInfoContainer" class="tab-widget__link active" id="tab-link-0" tabindex="0" role="tab" aria-selected="true" aria-controls="productInfoContainer"><span role="heading" aria-level="2">Productinformatie</span></a>
+                    </li>
+                     <!-- Technical Information Tab -->
+                    
+                               <!-- Environment & materials Tab --> 
+                    <li id="envAndMatTab" class="tabItem" style="display: inline-block;" role="presentation">
+                        <a href="#envAndMatContainer" class="tab-widget__link" id="tab-link-1" tabindex="-1" role="tab" aria-selected="false" aria-controls="envAndMatContainer">Materialen &amp; milieu</a>
+                    </li>
+                                                <!-- Assembly & documents -->                   
+                    <li id="assemblyanddocumentTab" class="tabItem" style="display: inline-block;" role="presentation">
+                    	<a href="#assAndDocContainer" class="tab-widget__link" id="tab-link-2" tabindex="-1" role="tab" aria-selected="false" aria-controls="assAndDocContainer">Montage &amp; documenten</a>
+                    </li>
+                                                <!-- package Details Tab -->
+                    <li id="packageDetailsTab" class="tabItem" style="display: inline-block;" role="presentation">
+                    	<a href="#packageDetailsContainer" class="tab-widget__link" id="tab-link-3" tabindex="-1" role="tab" aria-selected="false" aria-controls="packageDetailsContainer">Verpakkingsmaat &amp; gewicht</a>
+                    </li>
+                                                <!-- FAQ's Tab-->
+                    
+                                                <!-- Rating & Reviews Tab --><!-- Rating & Reviews Tab -->
+                    <li id="BVTab" class="tabItem" style="display: inline-block;" onclick="loadBazaarvoiceApi('true','SPR-49259743');" role="presentation">
+                        <a href="#BVContainer" class="tab-widget__link" onclick="loadBazaarvoiceApi('true','SPR-49259743');" id="tab-link-4" tabindex="-1" role="tab" aria-selected="false" aria-controls="BVContainer">Reviews</a>
+                    </li>
+                                               
+
+                </ul>
+				<div class="tabFillSpace">&nbsp;</div>
+				<div class="clear"></div>
+			</div>	
+			<!-- Tab contents are getting arranged here start-->
+	  <div id="leftNavBottom" style="display: block;">
+        
+			<div id="productInfoContainer" class="productInfoContainer active" role="tabpanel" aria-hidden="false" aria-labelledby="tab-link-0">
+			<div class="prodInfoLeft">
+			<!-- 1. key features -->		
+			<div id="cbftssection" class="productInformation prodInfoSub keyFeaturesMargin" style="display: block;">
+			
+				<div id="custBenefit" class="texts keyFeaturesmargin"><ul><li><cbs><cb><t>Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.</t></cb></cbs></li><li>De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit.</li><li>Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden.</li><li>Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes.</li><li>Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen.</li><li>Door de armleuningen zit je comfortabel.</li><li>De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt.</li></ul></div>
+			</div>				
+			
+		<!-- 2. good to know -->
+
+			<div id="goodToKnowPart" class=" prodInfoDis prodInfoSub" style="display: block;">
+				
+			 <div id="goodtoknowheader" class="productsubheadline" role="heading" aria-level="3">Goed om te weten</div>
+			 	
+                         <div id="goodToKnow" class="texts">Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br></div>
+			</div>
+			
+		<!-- 3.	Sold Separately -->
+			<div id="soldSeparatelyPart" class="prodInfoDis prodInfoSub" style="display: none;">
+			<div id="soldseparatelyheader" class="productsubheadline" role="heading" aria-level="3">Apart verkrijgbaar</div>
+			<div id="soldSeparately" class="texts"></div>
+			</div>
+		
+		<!-- 4.	Care instructions  -->
+			<div id="careInstructionsPart" class="productInformation prodInfoDis prodInfoSub" style="display: block;">
+			<div id="goodtoknowheader1" class="productsubheadline" role="heading" aria-level="3">Onderhoudsinstructies</div>
+			<div id="careInst" class="texts Wdth">Afnemen met een doekje met wat mild schoonmaakmiddel.<br>Nadrogen met een droge doek.<br></div>
+			</div>
+			
+			</div>
+		<div class="prodInfoRight">
+				<!-- 5.	Product dimensions -->	
+				<div id="productDimensionsContainer">		
+							<div id="measuresPart" class="productInformation prodInfoSub" style="display: block; margin-top: 0px !important;">
+							<div id="assembledSize" class="productsubheadline" role="heading" aria-level="3">Afmeting gemonteerd product</div>
+							
+							<div id="imperial" class="texts" style="display:none">Getest voor: 243 lb<br>Breedte: 20 7/8 "<br>Diepte: 19 5/8 "<br>Hoogte: 33 1/8 "<br>Zitbreedte: 17 3/4 "<br>Zitdiepte: 18 1/2 "<br>Zithoogte: 18 1/8 "<br><br></div>
+							<div id="metric" class="texts" style="display:block">Getest voor: 110 kg<br>Breedte: 53 cm<br>Diepte: 50 cm<br>Hoogte: 84 cm<br>Zitbreedte: 45 cm<br>Zitdiepte: 47 cm<br>Zithoogte: 46 cm<br><br><br></div>
+							
+							<div id="requiresAssembly" class="imagetext" style="display:block">	
+													
+							
+								<span class="subTxt">Zelf monteren</span>
+							
+							<div class="clear"></div>
+						</div>		
+					</div>
+				</div>
+				<div id="dessection_right" style="display:
+							block">
+							<div id="designDiv_right" class="productsubheadline" role="heading" aria-level="3">	Designer</div>
+							<div id="designer_right" class="texts"> Mia Lagerman</div>
+				</div>
+			</div>
+			
+			
+			</div>	<!-- Product Information Container END --><!-- <div id="productInfoContainer1"	class="productInfoContainer productInformationContainerBox">			
+			
+			</div> -->
+			
+
+			
+			
+			
+			
+			<div id="envAndMatContainer" style="display: none;" role="tabpanel" aria-hidden="true" aria-labelledby="tab-link-1">
+				<div id="pkgmeasPart" class="productInformation prodInfoSub" style="display: block;">
+				<div id="measurementHead" class="productsubheadline" role="heading" aria-level="3">Productomschrijving</div>
+				<div id="custMaterials" class="texts">Kuipzitting:<br>Stoelzitting: Vormgeperst, gelaagd houtfineer, Laminaat (melamine)<br>Hoek: Blanke acryllak<br><br>Onderstel armleunstoel:<br>Frame: staal, Poederlak op epoxy-/polyesterbasis<br>Overtrek armleuning: synthetische rubber<br></div>
+				</div>			
+				<div id="environmentPart" class="productInformation prodInfoSub" style="margin-bottom: 0px; padding-bottom: 0px; display: block;">
+					<div id="environmentDiv" class="productsubheadline" role="heading" aria-level="3">Milieu</div>
+					<div id="environment" class="texts">Kuipzitting:<br>Het materiaal in dit product kan recyclebaar zijn. Kijk welke regels er in de gemeente gelden en of er een afvalpunt in de omgeving is.<br></div>
+				</div>
+			</div>
+			
+			<div id="assAndDocContainer" style="display: none;" role="tabpanel" aria-hidden="true" aria-labelledby="tab-link-2">
+				
+		<div id="attachmentContainer" class="attachmentContainer" style="display:block">
+			<!-- <noscript> -->
+				<div id="atchHeadline" class="atchHeadline" role="heading" aria-level="3">Downloads</div>
+				<div id="atchInfo" class="atchInfo">Alleen de recentste versies van de documenten kunnen gedownload worden. Dat houdt in dat deze online versie kan verschillen van de gedrukte versie. </div>
+				<div id="attachmentList" class="attachmentList">
+					
+									<table class="assembly-specification-table">
+										<tbody> 
+																		
+										      	<tr>
+													<th colspan="2">Montagehandleidingen<br><br></th>
+											  	</tr>
+													
+
+										 	<tr>
+												
+												<td>303.398.96</td>
+												<td>
+													<a href="/nl/nl/assembly_instructions/svenbertil-kuipzitting__AA-1480320-7_pub.pdf" target="_blank">SVENBERTIL kuipzitting</a>
+													
+													<span class="fileType">(PDF)</span>
+																
+												</td>
+										 	</tr>
+									
+										
+										</tbody>
+				 					</table>
+								
+									<table class="assembly-specification-table">
+										<tbody> 
+																		
+										      	<tr>
+													<th colspan="2">Handleidingen<br></th>
+											  	</tr>
+													
+
+										 	<tr>
+												
+												<td>303.398.96</td>
+												<td>
+													<a href="/nl/nl/manuals/svenbertil-kuipzitting__AA-2120737-1_pub.pdf" target="_blank">SVENBERTIL kuipzitting</a>
+													
+													<span class="fileType">(PDF)</span>
+																
+												</td>
+										 	</tr>
+									
+											
+
+										 	<tr>
+												
+												<td>503.930.00</td>
+												<td>
+													<a href="/nl/nl/manuals/dietmar-onderstel-armleunstoel__AA-2120737-1_pub.pdf" target="_blank">DIETMAR onderstel armleunstoel</a>
+													
+													<span class="fileType">(PDF)</span>
+																
+												</td>
+										 	</tr>
+									
+										
+										</tbody>
+				 					</table>
+								
+				</div>
+			<!-- </noscript> -->
+		</div>
+	
+			</div>
+
+	<!-- Package Details Container -->
+			<div id="packageDetailsContainer" style="display: none;" role="tabpanel" aria-hidden="true" aria-labelledby="tab-link-3">
+						
+<div id="package" class="productInformation prodInfoSub" style="display:block">
+	<div id="packageInfo"><div id="packageTabContainer"><div id="package_text"><span id="numberOfPackages">Pakketten:</span>&nbsp;2</div><div id="packageTabTable"><table class="packages-specification-table"><tbody><tr><th>Artikelnummer</th><th>Pakketten</th><th>Breedte</th><th>Hoogte</th><th>Lengte</th><th>Diameter</th><th>Gewicht</th></tr><tr><td>30339896</td><td>1</td><td>45 cm</td><td>40 cm</td><td>50 cm</td><td>-</td><td>2.80 kg</td></tr><tr><td>50393000</td><td>1</td><td>55 cm</td><td>50 cm</td><td>67 cm</td><td>-</td><td>3.40 kg</td></tr></tbody></table></div></div></div>
+</div>
+
+
+			</div>
+			
+	<!-- FAQ Container -->
+			
+			
+				<div id="BVContainer" style="display: none;" role="tabpanel" aria-hidden="true" aria-labelledby="tab-link-4">
+				<div class="loaderLeft" id="BVloaderDiv" style="display:none;">		
+				<div class="hiddenDiv" style="margin-left: 50em;margin-top: 50px;"><img alt="Loading Ratings &amp; Reviews" src="/ms/img/static/loading.gif" width="27" height="27">
+</div>
+    <div style="margin-top: 10px;font-size: 12px;margin-left: 35em;color: #333;" class="hiddenDiv"><label>Reviews laden</label></div>
+				</div>
+
+			<div id="BVRRContainer">
+				<ul id="BVSEOSDK_meta" style="display:none !important">
+  <li data-bvseo="sdk">bvseo_sdk, java_sdk, bvseo-4.0.0</li>
+  <li data-bvseo="sp_mt">LOCAL, getReviews, 0ms</li>
+  <li data-bvseo="ct_st">REVIEWS, PRODUCT</li>
+  <li data-bvseo="ms">bvseo-msg: Configuration error - pageURI contains invalid characters, correct or encode URI.;</li>
+</ul>
+
+			</div>  
+				</div>
+			<!-- its should be removed from PIP --><!-- <div id="matchingProductContainer">
+			</div> -->			
+			
+			<div id="popupMustBeCompletedContainer">
+
+			</div>			
+
+			<!-- Tab contents are getting arranged - END -->
+ 		</div> 		
+ 		<div id="complementaryProductContainer"></div>	
+		<!--  Long text Impl   -->
+		
+			
+		</div>	
+		<!-- More Series Container -->
+		<div id="moreSeriesContainer">
+			
+<div id="moreProdModule" class="bottomRightContainer">
+<div id="depthInSsc" class="moreProduct">
+		<h2 class="moreHead">meer Eetkamerstoelen </h2>
+		<div id="sscContainer"><div id="sscDiv1" style="height: 210px;"><li id="item_10288628_1" class="prodClass" style="position: absolute;left: 0px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/10288628/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0375994_PE553899_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_10288628">BRORINGE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_10288628">Onderstel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_10288628">€&nbsp;15.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_30339900_2" class="prodClass" style="position: absolute;left: 175px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/30339900/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0482606_PE620293_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_30339900">BRORINGE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_30339900">Onderstel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_30339900">€&nbsp;15.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_90339902_3" class="prodClass" style="position: absolute;left: 350px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/90339902/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0482607_PE620294_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_90339902">BRORINGE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_90339902">Onderstel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_90339902">€&nbsp;15.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 100%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/90339902/?bvtab">(1)</a></div></div></div><div class="clear"></div></li><li id="item_90339898_4" class="prodClass" style="position: absolute;left: 525px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/90339898/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0482609_PE620295_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_90339898">DIETMAR</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_90339898">Onderstel armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_90339898">€&nbsp;25.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 90%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/90339898/?bvtab">(2)</a></div></div></div><div class="clear"></div></li><li id="item_50393000_5" class="prodClass" style="position: absolute;left: 700px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/50393000/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0534689_PE649228_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_50393000">DIETMAR</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_50393000">Onderstel armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_50393000">€&nbsp;25.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_70288630_6" class="prodClass" style="position: absolute;left: 875px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/70288630/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0375996_PE553902_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_70288630">DIETMAR</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_70288630">Onderstel armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_70288630">€&nbsp;25.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_00287974_7" class="prodClass" style="position: absolute;left: 1050px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/00287974/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0375998_PE553898_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_00287974">ERNFRID</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_00287974">Onderstel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_00287974">€&nbsp;25.-<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 100%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/00287974/?bvtab">(1)</a></div></div></div><div class="clear"></div></li><li id="item_S59259752_8" class="prodClass" style="position: absolute;left: 1225px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S59259752/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0590601_PE673961_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S59259752">LEIFARNE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S59259752">Armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S59259752">€&nbsp;49.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_S39127809_9" class="prodClass" style="position: absolute;left: 1400px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S39127809/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0376678_PE553891_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S39127809">LEIFARNE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S39127809">Armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S39127809">€&nbsp;49.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_S59197721_10" class="prodClass" style="position: absolute;left: 1575px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S59197721/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0483190_PE620722_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S59197721">LEIFARNE</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S59197721">Armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S59197721">€&nbsp;49.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li></div><div class="IKEA-Component-Carousel-carousel-navigation"> <div class="IKEA-Component-Carousel-carousel-navigation-icon carousel-arrow-left carousel-arrow-previous"> <a id="leftArrowssc" class="IKEA-Component-Carousel-carousel-navigation-icon-link disabled"> <svg id="arrow-leftssc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>_ikea_icons 151218</title><polygon points="15.35 19.35 7.99 12 15.35 4.65 16.05 5.35 9.41 12 16.05 18.65 15.35 19.35"></polygon></svg></a></div><div class="IKEA-Component-Carousel-carousel-navigation-icon carousel-arrow-right carousel-arrow-next"><a id="righArrowssc" class="IKEA-Component-Carousel-carousel-navigation-icon-link"><svg id="arrow-rightssc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>_ikea_icons 151218</title><polygon points="8.65 19.35 7.95 18.65 14.59 12 7.95 5.35 8.65 4.65 16.01 12 8.65 19.35"></polygon></svg></a></div></div></div>
+		<div class="clear"></div>
+		<div id="gotoSSC" class="gotoMore">
+			<a id="gotoSSC_lnk1" href="/nl/nl/catalog/categories/collections/39823/">
+			Ga naar Eetkamerstoelen</a>
+		</div>
+	</div>
+	<noscript>
+		
+			&lt;div id="depthInSscNoJS" class="moreProduct"&gt;
+				&lt;h2 class="moreHead"&gt;meer Eetkamerstoelen &lt;/h2&gt;
+				&lt;div class="clear"&gt;&lt;/div&gt;
+				&lt;div id="gotoSSCNoJS" class="gotoMore"&gt;
+					&lt;a id="gotoSSC_lnk1_nojs" href="/nl/nl/catalog/categories/collections/39823/"&gt;
+					Ga naar Eetkamerstoelen&lt;/a&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		
+	</noscript>
+	
+		<!--  CR IKEA00896921: Product Stories(Full Length Text) Impl start --><!--  CR IKEA00896921: Product Stories(Full Length Text) Impl end --><!-- <div id="similarSolution" class="moreProduct displaynone"> -->
+	<div id="similarSolution" class="moreProduct moreSeriesSolutions">
+		<h2 class="moreHead">meer Eetkamerstoelen</h2>
+		<div id="simsContainer"><div id="simsDiv1" style="height: 195px;"><li id="item_60217822_1" class="prodClass" style="position: absolute;left: 0px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/60217822/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0355482_PE547815_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_60217822">INGOLF</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_60217822">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_60217822">€&nbsp;49.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 90%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/60217822/?bvtab">(4)</a></div></div></div><div class="clear"></div></li><li id="item_70103250_2" class="prodClass" style="position: absolute;left: 175px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/70103250/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0454095_PE602593_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_70103250">INGOLF</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_70103250">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_70103250">€&nbsp;49.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 88%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/70103250/?bvtab">(21)</a></div></div></div><div class="clear"></div></li><li id="item_S49228474_3" class="prodClass" style="position: absolute;left: 350px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S49228474/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0587379_PE672586_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S49228474">FANBYN</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S49228474">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S49228474">€&nbsp;59.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_S09221016_4" class="prodClass" style="position: absolute;left: 525px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S09221016/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0545007_PE655282_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S09221016">FANBYN</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S09221016">Armleunstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S09221016">€&nbsp;69.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 80%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/S09221016/?bvtab">(1)</a></div></div></div><div class="clear"></div></li><li id="item_S89221017_5" class="prodClass" style="position: absolute;left: 700px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/S89221017/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><span class="newImgCssSmall newImgSmall">Nieuw</span><div><img class="popupImg" src="/PIAimages/0523335_PE643759_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_S89221017">ANGRIM</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_S89221017">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_S89221017">€&nbsp;69.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a></div><div class="clear"></div></li><li id="item_90402352_6" class="prodClass" style="position: absolute;left: 875px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/90402352/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0634253_PE696383_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_90402352">VOLFGANG</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_90402352">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_90402352">€&nbsp;59.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 90%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/90402352/?bvtab">(4)</a></div></div></div><div class="clear"></div></li><li id="item_80404672_7" class="prodClass" style="position: absolute;left: 1050px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/80404672/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0587528_PE672675_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_80404672">VOLFGANG</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_80404672">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_80404672">€&nbsp;59.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 86%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/80404672/?bvtab">(4)</a></div></div></div><div class="clear"></div></li><li id="item_60404753_8" class="prodClass" style="position: absolute;left: 1225px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/60404753/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0587516_PE672664_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_60404753">VOLFGANG</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_60404753">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_60404753">€&nbsp;59.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 100%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/60404753/?bvtab">(1)</a></div></div></div><div class="clear"></div></li><li id="item_80349671_9" class="prodClass" style="position: absolute;left: 1400px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/80349671/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0482633_PE620305_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_80349671">TOBIAS</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_80349671">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_80349671">€&nbsp;69.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 84%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/80349671/?bvtab">(10)</a></div></div></div><div class="clear"></div></li><li id="item_60334722_10" class="prodClass" style="position: absolute;left: 1575px"><div class="productContainer productContainerPip"><a class="nohover" href="/nl/nl/catalog/products/60334722/" onclick="irwstatSetTrailingTag('IRWStats.productFindingMethod','null');irwStatMoreModulesClicked('complementary products');"><div><img class="popupImg" src="/PIAimages/0480407_PE618920_S3.JPG"> </div> <div class="clear"></div><h3 class="complimentaryHeader"><span class="prodName" id="txtNameProduct_60334722">TOBIAS</span> <div class="clear"></div><span class="prodDesc" id="txtDescrProduct_60334722">Eetkamerstoel&nbsp;</span></h3><span class="prodPrice" id="txtPriceProduct_60334722">€&nbsp;69.95<span class="perProduct"> &nbsp;/ st.</span></span><div class="clear"></div></a><div class="ratingsContainerComp"><div class="ratingStarsContainer" style="float: left;width: 75%;"><div class="ratingStarsOffLarge">★★★★★</div><div class="ratingStarsOnLarge" style="width: 80%">★★★★★</div></div><div class="ratingsCountContainerComp" style="float: left;width: 20%;display: table;"><a class="ratingsCount" href="/nl/nl/catalog/products/60334722/?bvtab">(1)</a></div></div></div><div class="clear"></div></li></div><div class="IKEA-Component-Carousel-carousel-navigation"> <div class="IKEA-Component-Carousel-carousel-navigation-icon carousel-arrow-left carousel-arrow-previous"> <a id="leftArrowsims" class="IKEA-Component-Carousel-carousel-navigation-icon-link disabled"> <svg id="arrow-leftsims" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>_ikea_icons 151218</title><polygon points="15.35 19.35 7.99 12 15.35 4.65 16.05 5.35 9.41 12 16.05 18.65 15.35 19.35"></polygon></svg></a></div><div class="IKEA-Component-Carousel-carousel-navigation-icon carousel-arrow-right carousel-arrow-next"><a id="righArrowsims" class="IKEA-Component-Carousel-carousel-navigation-icon-link"><svg id="arrow-rightsims" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>_ikea_icons 151218</title><polygon points="8.65 19.35 7.95 18.65 14.59 12 7.95 5.35 8.65 4.65 16.01 12 8.65 19.35"></polygon></svg></a></div></div></div>
+		<div class="clear"></div>
+		<div id="gotoSims" class="gotoMore"><a id="gotoSims_lnk1" href="/nl/nl/catalog/categories/departments/dining/25220/">
+			Ga naar Eetkamerstoelen </a>
+		</div>
+	</div>
+	
+		
+			<noscript>
+				&lt;div id="similarSolutionNonJs" class="moreProduct"&gt;
+					&lt;h2 class="moreHead"&gt;meer Eetkamerstoelen&lt;/h2&gt;
+					&lt;div class="clear"&gt;&lt;/div&gt;
+					&lt;div id="gotoSimsNonJs" class="gotoMore"&gt;
+						&lt;a id="gotoSims_lnkNonJs" href="/nl/nl/catalog/categories/departments/dining/25220/"&gt;
+						Ga naar Eetkamerstoelen &lt;/a&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</noscript>	
+		
+	
+
+	<div id="findStyleContainer" class="moreProduct" style="display:none;">
+		<h2 class="moreHead">Kies je stijl</h2>
+		<a href="javascript:void(0);" class="gotoMore" id="findStyle">Laat bijpassende producten zien</a>
+	</div> 
+</div> 
+		</div>
+		<div id="sticky-product" class="sticky-product top"><div class="sticky-product-info"><a onclick="window.scrollTo(0, 0);return false;"><div class="sticky-product-img" onclick="window.scrollTo(0, 0);return false;"><img id="stickyProductproductImg" src="/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG" border="0" alt="SVENBERTIL Armleunstoel" title="" width="500" height="500" class="sticky-product-image" style="width: 120px; height: 120px;"></div><div id="stickyProductname" class="productName">SVENBERTIL</div><div id="stickyProducttype" class="productType">Armleunstoel, wit, Dietmar wit</div></a><div id="stickyProductpriceContainer" class="priceContainer"><div id="stickyProductprodPrice" class=""><div class="sticky-main-price"><span id="stickyProductprice1" class="packagePrice" style="width: 100%;">€&nbsp;49.95</span><span class="productunit">&nbsp;/ st.</span></div><div class="svgButtonContainer"><div class="svgCartButtonContainer sticky-cart"><button type="button" onclick="activateShopListPopup('addToCart',$('popupAddToCartStickyS49259743_43136'),9,-22,'€&nbsp;49.95','test');return false;" title="In winkelwagen" class="button blueBtn blueBtnComp blueBtnSticky" id="popupAddToCartStickyS49259743_43136"><svg class="icon-component__icon svg-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#shopping-bag-add"><svg viewBox="0 0 24 24" id="shopping-bag-add" width="100%" height="100%"><path class="cxcls-1" d="M6 15H5v2H3v1h2v2h1v-2h2v-1H6v-2zm1.09-6a5 5 0 0 1 9.81 0H7.09zm10.83 0A6 6 0 0 0 6.08 9H2l1.4 5h1l-1.08-4h17.36l-2.52 9H9v1h9.92L22 9h-4.08z"></path></svg></use></svg></button></div><div class="svgListButtonContainer sticky-list"><div class="addToListBtn"><button type="button" onclick="activateShopListPopup('add',$('popupShoppingListStickyS49259743_43136'),9,-22,'€&nbsp;49.95','test'); relatedProducts.unbindMouseOverOnProduct();return false;" class="button orangeBtn orangeBtnComp orangeBtnSticky" id="popupShoppingListStickyS49259743_43136" title="Boodschappenlijstje"><svg class="svg-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#shopping-list-addS49259743"><svg viewBox="0 0 24 24" id="shopping-list-addS49259743" width="100%" height="100%"><path class="czcls-1" d="M17 15h-1v2h-2v1h2v2h1v-2h2v-1h-2v-2zM5 5h8V4H4v9h1V5zM15.83 4l-9.74 9.74-.7.7L4 20l5.57-1.39L20 8.17zM6.12 18.43l-.55-.55.64-2.63 2.54 2.54zm.66-4l9-9 2.78 2.78-9 9z"></path><path d="M7 9h1v1H7zM7 7h3v1H7z"></path></svg></use></svg></button></div><div class="clear"></div></div></div></div></div></div></div></div>
+		<div class="clear"></div>			
+	</div>			
+				<span class="displaynone" id="schemaProductDesc" itemprop="description">Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten. De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit. Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden. Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes. Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen. Door de armleuningen zit je comfortabel. De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt. </span>
+				<span class="displaynone" id="schemaProductImg" itemprop="image">https://www.ikea.com/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG</span>
+				<span class="displaynone" id="schemaProductName" itemprop="name">SVENBERTIL Armleunstoel, wit, Dietmar wit</span>
+				<span class="displaynone" id="schemaProductUrl" itemprop="url">https://www.ikea.com/nl/nl/catalog/products/S49259743/</span>
+				<span class="displaynone" id="schemaProductId" itemprop="productID">492.597.43</span>
+				<span itemprop="brand" itemscope="" itemtype="http://schema.org/Organization">
+					<span class="displaynone" id="schemaOrganizationName" itemprop="name">IKEA</span>
+				</span>
+				<span itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+					<span class="displaynone" id="schemaProductPrice" itemprop="price" content="49.95">€&nbsp;49.95/ st.</span>
+					<meta itemprop="priceCurrency" content="EUR">
+				</span>
+			
+			<script type="text/javascript" language="JavaScript">
+				var js_fn_NLP_REMOVE_PREVIOUS_PRICE_CROSSED = "false";
+				var MODELS = "Model";
+				var js_fn_MAX_NO_OF_LISTS = "10";
+				var js_ECOM_ENABLED = true;
+				var MOST_LIKELY_IN_STOCK = "Op voorraad bij";
+				var PROBABLY_IN_STOCK = "Beperkt op voorraad bij";
+				var SMALL_CHANCE_IN_STOCK = "Waarschijnlijk niet op voorraad bij";
+				var AVAILABLE_BY_ORDER = "Dit product is in deze winkel – indien online beschikbaar -  alleen op bestelling leverbaar en wordt tegen betaling van bezorgkosten bij je thuisbezorgd.";
+				var NOT_IN_STOCK = "Niet op voorraad bij";
+				var RESTOCK_DATE_AVAILABLE = "Dit product zal snel verkrijgbaar zijn bij";
+				var RESTOCK_DATE_UNAVAILABLE = "Het is nog niet bekend per wanneer dit product beschikbaar zal zijn. ";
+				var RESTOCK_AVAILABILTY_DATE =  "Expected availability date:";
+				var NOT_FOR_SALE = "Niet verkrijgbaar bij";
+				var SERVICE_UNAVAILABLE = "Voorraadinformatie is momenteel niet beschikbaar";
+				var FOOD_STOCK_DATA_UNAVAILABLE = "Sorry, er is geen voorraadinformatie beschikbaar voor IKEA FOOD producten. ";
+				var IKEA = "IKEA";
+				var BRAND = "IKEA";
+				var highChanceInfoBar = "/ms/img/static/stock_check_green.gif";
+				var probablyInfoBar = "/ms/img/static/stock_check_yellow.gif";
+				var smallChanceInfoBar = "/ms/img/static/stock_check_red.gif";
+				var stockCheckChoice = "false";
+				var showFoodStockDataUnavailableMsg = false;
+				var jProductData = {"product":{"items":[{"custMaterials":"Kuipzitting:<br/>Stoelzitting: Vormgeperst, gelaagd houtfineer, Laminaat (melamine)<br/>Hoek: Blanke acryllak<br/><br/>Onderstel armleunstoel:<br/>Frame: staal, Poederlak op epoxy-/polyesterbasis<br/>Overtrek armleuning: synthetische rubber<br/>","descriptiveAttributes":{},"imperial":"Getest voor: 243 lb<br/>Breedte: 20 7/8 \"<br/>Diepte: 19 5/8 \"<br/>Hoogte: 33 1/8 \"<br/>Zitbreedte: 17 3/4 \"<br/>Zitdiepte: 18 1/2 \"<br/>Zithoogte: 18 1/8 \"<br/><br/>","catEntryId":"3494574","dualCurrencies":false,"pkgInfoArr":[{"articleNumber":"30339896","pkgInfo":[{"weightMet":"2.80 kg","widthMet":"45 cm","quantity":"1","consumerPackNo":1,"lengthMet":"50 cm","heightMet":"40 cm"}]},{"articleNumber":"50393000","pkgInfo":[{"weightMet":"3.40 kg","widthMet":"55 cm","quantity":"1","consumerPackNo":1,"lengthMet":"67 cm","heightMet":"50 cm"}]}],"type":"Armleunstoel","reqAssembly":true,"soldSeparately":"","name":"SVENBERTIL","bti":false,"attachments":[{"atcharray":[{"attachmentPath":"/nl/nl/assembly_instructions/svenbertil-kuipzitting__AA-1480320-7_pub.pdf","articleNumber":"30339896","attachmentName":"SVENBERTIL kuipzitting"}],"name":"Montagehandleidingen<br><br>","type":"ASSEMBLY_INSTRUCTIONS"},{"atcharray":[{"attachmentPath":"/nl/nl/manuals/svenbertil-kuipzitting__AA-2120737-1_pub.pdf","articleNumber":"30339896","attachmentName":"SVENBERTIL kuipzitting"},{"attachmentPath":"/nl/nl/manuals/dietmar-onderstel-armleunstoel__AA-2120737-1_pub.pdf","articleNumber":"50393000","attachmentName":"DIETMAR onderstel armleunstoel"}],"name":"Handleidingen<br>","type":"MANUALS"}],"partNumber":"S49259743","validDesign":["wit","Dietmar wit"],"goodToKnowPIP":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","techInfoArr":[],"careInst":"Afnemen met een doekje met wat mild schoonmaakmiddel.<br/>Nadrogen met een droge doek.<br/>","extendedContext":[],"designer":"Mia Lagerman","nopackages":"2","goodToKnow":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","url":"/nl/nl/catalog/products/S49259743/","packagePopupUrl":"/nl/nl/catalog/packagepopup/S49259743/","availabilityUrl":"/nl/nl/catalog/availability/S49259743/","environment":"Kuipzitting:<br/>Het materiaal in dit product kan recyclebaar zijn. Kijk welke regels er in de gemeente gelden en of er een afvalpunt in de omgeving is.<br/>","color":"wit","custBenefit":"<cbs><cb><t>Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.<\/t><\/cb><cb><t>De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit.<\/t><\/cb><cb><t>Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden.<\/t><\/cb><cb><t>Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes.<\/t><\/cb><cb><t>Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen.<\/t><\/cb><cb><t>Door de armleuningen zit je comfortabel.<\/t><\/cb><cb><t>De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt.<\/t><\/cb><\/cbs>","metric":"Getest voor: 110 kg<br/>Breedte: 53 cm<br/>Diepte: 50 cm<br/>Hoogte: 84 cm<br/>Zitbreedte: 45 cm<br/>Zitdiepte: 47 cm<br/>Zithoogte: 46 cm<br/><br/>","buyable":true,"prices":{"comparisonPriceExists":false,"hasTemporaryFamilyOffer":false,"hasFamilyPrice":false,"usesUnitPriceMeasure":false,"isUnitPricePrimary":false,"normal":{"priceNormal":{"perUnit":" st.","priceExclVat":"\u20ac 41.28","value":"\u20ac 49.95","rawPrice":49.95},"priceNormalDual":{},"priceNormalPerUnit":{"unit":"st."}},"hasEcoFee":false,"enablenlpinterval":0,"hasPrfCharge":false},"images":{"zoom":["/PIAimages/0590604_PE673964_S5.JPG","/PIAimages/0591198_PE674088_S5.JPG","/PIAimages/0591199_PE674089_S5.JPG","/PIAimages/0591200_PE674090_S5.JPG","/PIAimages/0591201_PE674091_S5.JPG"],"normal":["/PIAimages/0590604_PE673964_S3.JPG","/PIAimages/0591198_PE674088_S3.JPG","/PIAimages/0591199_PE674089_S3.JPG","/PIAimages/0591200_PE674090_S3.JPG","/PIAimages/0591201_PE674091_S3.JPG"],"thumb":["/PIAimages/0590604_PE673964_S2.JPG"],"small":["/PIAimages/0590604_PE673964_S1.JPG"],"large":["/nl/nl/images/products/svenbertil-armleunstoel-wit__0590604_PE673964_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591198_PE674088_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591199_PE674089_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591200_PE674090_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591201_PE674091_S4.JPG"]},"californiaTitle20Product":false,"summaryBenefit":"Kies je favoriet onder de onderstellen en zitkuipen, of creëer een speelse mix rond de tafel. Er zijn wel 30 verschillende stoelcombinaties mogelijk! Je zit comfortabel dankzij de schaalvormige zitting en rugleuning."},{"custMaterials":"Kuipzitting:<br/>Vormgeperst, gelaagd houtfineer, eikenfineer, Beits, Blanke acryllak<br/><br/>Onderstel armleunstoel:<br/>Frame: staal, Poederlak op epoxy-/polyesterbasis<br/>Overtrek armleuning: synthetische rubber<br/>","descriptiveAttributes":{},"imperial":"Getest voor: 243 lb<br/>Breedte: 20 7/8 \"<br/>Diepte: 19 5/8 \"<br/>Hoogte: 33 1/8 \"<br/>Zitbreedte: 17 3/4 \"<br/>Zitdiepte: 18 1/2 \"<br/>Zithoogte: 18 1/8 \"<br/><br/>","catEntryId":"3494531","dualCurrencies":false,"pkgInfoArr":[{"articleNumber":"00288638","pkgInfo":[{"weightMet":"2.80 kg","widthMet":"45 cm","quantity":"1","consumerPackNo":1,"lengthMet":"50 cm","heightMet":"40 cm"}]},{"articleNumber":"50393000","pkgInfo":[{"weightMet":"3.40 kg","widthMet":"55 cm","quantity":"1","consumerPackNo":1,"lengthMet":"67 cm","heightMet":"50 cm"}]}],"type":"Armleunstoel","reqAssembly":true,"soldSeparately":"","name":"SVENBERTIL","bti":false,"attachments":[{"atcharray":[{"attachmentPath":"/nl/nl/assembly_instructions/svenbertil-kuipzitting__AA-1480320-7_pub.pdf","articleNumber":"00288638","attachmentName":"SVENBERTIL kuipzitting"}],"name":"Montagehandleidingen<br><br>","type":"ASSEMBLY_INSTRUCTIONS"},{"atcharray":[{"attachmentPath":"/nl/nl/manuals/svenbertil-kuipzitting__AA-2120737-1_pub.pdf","articleNumber":"00288638","attachmentName":"SVENBERTIL kuipzitting"},{"attachmentPath":"/nl/nl/manuals/dietmar-onderstel-armleunstoel__AA-2120737-1_pub.pdf","articleNumber":"50393000","attachmentName":"DIETMAR onderstel armleunstoel"}],"name":"Handleidingen<br>","type":"MANUALS"}],"partNumber":"S69259742","validDesign":["zwart","Dietmar wit"],"goodToKnowPIP":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","techInfoArr":[],"careInst":"Afnemen met een doekje met wat mild schoonmaakmiddel.<br/>Nadrogen met een droge doek.<br/>","extendedContext":[],"designer":"Mia Lagerman","nopackages":"2","goodToKnow":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","url":"/nl/nl/catalog/products/S69259742/","packagePopupUrl":"/nl/nl/catalog/packagepopup/S69259742/","availabilityUrl":"/nl/nl/catalog/availability/S69259742/","environment":"Kuipzitting:<br/>Het materiaal in dit product kan recyclebaar zijn. Kijk welke regels er in de gemeente gelden en of er een afvalpunt in de omgeving is.<br/>","color":"wit","custBenefit":"<cbs><cb><t>Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.<\/t><\/cb><cb><t>De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit.<\/t><\/cb><cb><t>Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden.<\/t><\/cb><cb><t>Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes.<\/t><\/cb><cb><t>Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen.<\/t><\/cb><cb><t>Door de armleuningen zit je comfortabel.<\/t><\/cb><cb><t>De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt.<\/t><\/cb><\/cbs>","metric":"Getest voor: 110 kg<br/>Breedte: 53 cm<br/>Diepte: 50 cm<br/>Hoogte: 84 cm<br/>Zitbreedte: 45 cm<br/>Zitdiepte: 47 cm<br/>Zithoogte: 46 cm<br/><br/>","buyable":true,"prices":{"comparisonPriceExists":false,"hasTemporaryFamilyOffer":false,"hasFamilyPrice":false,"usesUnitPriceMeasure":false,"isUnitPricePrimary":false,"normal":{"priceNormal":{"perUnit":" st.","priceExclVat":"\u20ac 41.28","value":"\u20ac 49.95","rawPrice":49.95},"priceNormalDual":{},"priceNormalPerUnit":{"unit":"st."}},"hasEcoFee":false,"enablenlpinterval":0,"hasPrfCharge":false},"images":{"zoom":["/PIAimages/0590603_PE673963_S5.JPG","/PIAimages/0591194_PE674084_S5.JPG","/PIAimages/0591195_PE674085_S5.JPG","/PIAimages/0591196_PE674086_S5.JPG","/PIAimages/0591197_PE674087_S5.JPG"],"normal":["/PIAimages/0590603_PE673963_S3.JPG","/PIAimages/0591194_PE674084_S3.JPG","/PIAimages/0591195_PE674085_S3.JPG","/PIAimages/0591196_PE674086_S3.JPG","/PIAimages/0591197_PE674087_S3.JPG"],"thumb":["/PIAimages/0590603_PE673963_S2.JPG"],"small":["/PIAimages/0590603_PE673963_S1.JPG"],"large":["/nl/nl/images/products/svenbertil-armleunstoel-wit__0590603_PE673963_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591194_PE674084_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591195_PE674085_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591196_PE674086_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591197_PE674087_S4.JPG"]},"californiaTitle20Product":false,"summaryBenefit":"Kies je favoriet onder de onderstellen en zitkuipen, of creëer een speelse mix rond de tafel. Er zijn wel 30 verschillende stoelcombinaties mogelijk! Je zit comfortabel dankzij de schaalvormige zitting en rugleuning."},{"custMaterials":"Kuipzitting:<br/>Vormgeperst, gelaagd houtfineer, berkenfineer, Blanke acryllak<br/><br/>Onderstel armleunstoel:<br/>Frame: staal, Poederlak op epoxy-/polyesterbasis<br/>Overtrek armleuning: synthetische rubber<br/>","descriptiveAttributes":{},"imperial":"Getest voor: 243 lb<br/>Breedte: 20 7/8 \"<br/>Diepte: 19 5/8 \"<br/>Hoogte: 33 1/8 \"<br/>Zitbreedte: 17 3/4 \"<br/>Zitdiepte: 18 1/2 \"<br/>Zithoogte: 18 1/8 \"<br/><br/>","catEntryId":"3494448","dualCurrencies":false,"pkgInfoArr":[{"articleNumber":"50291916","pkgInfo":[{"weightMet":"2.94 kg","widthMet":"45 cm","quantity":"1","consumerPackNo":1,"lengthMet":"50 cm","heightMet":"40 cm"}]},{"articleNumber":"50393000","pkgInfo":[{"weightMet":"3.40 kg","widthMet":"55 cm","quantity":"1","consumerPackNo":1,"lengthMet":"67 cm","heightMet":"50 cm"}]}],"type":"Armleunstoel","reqAssembly":true,"soldSeparately":"","name":"SVENBERTIL","bti":false,"attachments":[{"atcharray":[{"attachmentPath":"/nl/nl/assembly_instructions/svenbertil-kuipzitting__AA-1480320-7_pub.pdf","articleNumber":"50291916","attachmentName":"SVENBERTIL kuipzitting"}],"name":"Montagehandleidingen<br><br>","type":"ASSEMBLY_INSTRUCTIONS"},{"atcharray":[{"attachmentPath":"/nl/nl/manuals/svenbertil-kuipzitting__AA-2120737-1_pub.pdf","articleNumber":"50291916","attachmentName":"SVENBERTIL kuipzitting"},{"attachmentPath":"/nl/nl/manuals/dietmar-onderstel-armleunstoel__AA-2120737-1_pub.pdf","articleNumber":"50393000","attachmentName":"DIETMAR onderstel armleunstoel"}],"name":"Handleidingen<br>","type":"MANUALS"}],"partNumber":"S89259741","validDesign":["berken","Dietmar wit"],"goodToKnowPIP":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","techInfoArr":[],"careInst":"Afnemen met een doekje met wat mild schoonmaakmiddel.<br/>Nadrogen met een droge doek.<br/>","extendedContext":[],"designer":"Mia Lagerman","nopackages":"2","goodToKnow":"Voor extra stabiliteit, draai de schroeven ca. twee weken na de montage en indien nodig opnieuw aan.<br/>Deze stoel is getest voor gebruik in openbare ruimtes en voldoet aan de eisen t.a.v. veiligheid, duurzaamheid en stabiliteit volgens de volgende normen: EN 16139 en ANSI/BIFMA x5.1<br/>","url":"/nl/nl/catalog/products/S89259741/","packagePopupUrl":"/nl/nl/catalog/packagepopup/S89259741/","availabilityUrl":"/nl/nl/catalog/availability/S89259741/","environment":"Kuipzitting:<br/>Het materiaal in dit product kan recyclebaar zijn. Kijk welke regels er in de gemeente gelden en of er een afvalpunt in de omgeving is.<br/>","color":"wit","custBenefit":"<cbs><cb><t>Door de rustgevende vering in de schaalvormige zitting en de gevormde rugleuning kan je comfortabel zitten.<\/t><\/cb><cb><t>De zichzelf verstellende kunststof doppen geven de stoel extra stabiliteit.<\/t><\/cb><cb><t>Een speciale oppervlaktebehandeling van de zitting zorgt dat je niet gaat glijden.<\/t><\/cb><cb><t>Duurzaam en slijtvast; geschikt voor gebruik in openbare ruimtes.<\/t><\/cb><cb><t>Kan aan het tafelblad worden gehangen m.b.v. de armleuningen, om het schoonmaken te vereenvoudigen.<\/t><\/cb><cb><t>Door de armleuningen zit je comfortabel.<\/t><\/cb><cb><t>De stoelen zijn stapelbaar, zodat ze minder plaats innemen als ze niet worden gebruikt.<\/t><\/cb><\/cbs>","metric":"Getest voor: 110 kg<br/>Breedte: 53 cm<br/>Diepte: 50 cm<br/>Hoogte: 84 cm<br/>Zitbreedte: 45 cm<br/>Zitdiepte: 47 cm<br/>Zithoogte: 46 cm<br/><br/>","buyable":true,"prices":{"comparisonPriceExists":false,"hasTemporaryFamilyOffer":false,"hasFamilyPrice":false,"usesUnitPriceMeasure":false,"isUnitPricePrimary":false,"normal":{"priceNormal":{"perUnit":" st.","priceExclVat":"\u20ac 41.28","value":"\u20ac 49.95","rawPrice":49.95},"priceNormalDual":{},"priceNormalPerUnit":{"unit":"st."}},"hasEcoFee":false,"enablenlpinterval":0,"hasPrfCharge":false},"images":{"zoom":["/PIAimages/0590602_PE673962_S5.JPG","/PIAimages/0591189_PE674080_S5.JPG","/PIAimages/0591190_PE674081_S5.JPG","/PIAimages/0591192_PE674082_S5.JPG","/PIAimages/0591193_PE674083_S5.JPG"],"normal":["/PIAimages/0590602_PE673962_S3.JPG","/PIAimages/0591189_PE674080_S3.JPG","/PIAimages/0591190_PE674081_S3.JPG","/PIAimages/0591192_PE674082_S3.JPG","/PIAimages/0591193_PE674083_S3.JPG"],"thumb":["/PIAimages/0590602_PE673962_S2.JPG"],"small":["/PIAimages/0590602_PE673962_S1.JPG"],"large":["/nl/nl/images/products/svenbertil-armleunstoel-wit__0590602_PE673962_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591189_PE674080_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591190_PE674081_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591192_PE674082_S4.JPG","/nl/nl/images/products/svenbertil-armleunstoel-wit__0591193_PE674083_S4.JPG"]},"californiaTitle20Product":false,"summaryBenefit":"Kies je favoriet onder de onderstellen en zitkuipen, of creëer een speelse mix rond de tafel. Er zijn wel 30 verschillende stoelcombinaties mogelijk! Je zit comfortabel dankzij de schaalvormige zitting en rugleuning."}],"catEntryId":"1261516","attributes":[{"id":"1002157699","name":"bekleding","type":"10072"},{"id":"1002157700","name":"frame","type":"10128"},{"id":"1002157698","name":"afmeting","type":"00019"}],"partNumber":"43136 [GENERICPRODUCT]"}};				
+				var jsonProduct = jProductData.product;	
+				var jCatEntryId = jsonProduct.catEntryId;
+				var jPartNumber = jsonProduct.partNumber;
+				var jParentPartNumber = jsonProduct.partNumber.split(' ')[0];
+				var storeBaseURL = "/nl/nl/store/";
+				var PD_txt_bvDown = "We hebben wat technische problemen, er wordt gewerkt aan een oplossing. Excuses voor het ongemak.";
+				var weee_lessPrf = "https://www.ikea.com/nl/nl/ ";
+				var weee_prf = "IKEA - Aandacht maakt alles mooier";
+				var packageText = "Klik hier voor artikelnummer(s), verpakkingsmaten en gewicht";				
+				var singlePackage = "Pakket:";
+ 			    var multiplePackage = "Pakketten";
+				var showAll = "Alles tonen";
+				var showLess = "Bekijk minder";	
+				var readMore = "Toon meer";
+				var pricePerPackage = "Prijs per verpakking";
+				var pricePer = "Prijs per";
+				var ikeaFamily ="IKEA FAMILY prijs"; 
+				var ikeaRegular ="Normale prijs"; 
+     				var storeId="9";
+     				var langId="-22";     
+				var currentItem = "S49259743";
+				var localeJs = "nl_NL";
+				var width = "Breedte:";
+				var articleNo = "Artikelnummer:"
+				var height = "Hoogte:";
+				var length = "Lengte:"
+				var weight = "Gewicht:"
+				var diameter = "Diameter:"
+				var quantity = "Aantal:";
+				var packages = "Pakketten";
+				var widthTitle = "Breedte";
+				var articleNoTitle = "Artikelnummer"
+				var heightTitle = "Hoogte";
+				var lengthTitle = "Lengte"
+				var weightTitle = "Gewicht"
+				var diameterTitle = "Diameter"				
+				var packageMeasures = "Artikelnummer(s) & verpakkingsmaat"
+				var cm = "cm";
+				var kg = "kg";
+				var californiaLegalText = "&nbsp;";
+				var californiaUrlText = "&nbsp;";
+				var californiaUrlRef = "http://info.ikea-usa.com/StoreLocator/StoreLocator.aspx";
+				var californiaMoreInfo = "&nbsp;";
+				var unitPriceTxt = "Prijs per set"
+				var displayManySameProduct = "false";
+				var moreText = "meer";
+                			var smallNewImg = '/ms/nl_NL/img/icons/new_small.gif';
+               			var newImg = '/ms/nl_NL/img/icons/new_large.gif';
+               			var newImgAlt = 'NIEUW';
+                			
+                			var nlpImg = '/ms//img/nlp/nl_NL/nlp_04.png';
+                			var nlpPopupImgSrc = '/ms//img/nlp/nl_NL/nlp_02.png';
+                			var nlpImgAlt = 'Nieuwe verlaagde prijs';
+                			var assemblyInstructions = 'Montagehandleiding';
+                			var article = "Product";
+				var pdf = "PDF";
+				var download = "Downloaden";
+				var assemblyProdInfo = "Download montagehandleiding";
+				var notice = "Let op: de voorraadinformatie kan verschillen wanneer je deze controleert buiten de ";
+				var storehours = "openingstijden van de winkel";
+				var invalidDIFAttr = "[00019, 00033, 00029, 13622, 00028]";
+				var moreProdBaseUrl = "/nl/nl/iows/catalog/products/";
+				var packageHeader = "Verpakkingsmaat en gewicht"
+
+				var sscCatalogId = "collections";
+				var sscCategory = "39823";
+				var simsCategory = "25220";
+				var simsCatalogId = "departments";
+				var depthInFunctionCategory = "39823";
+				
+				var itemProperties = new Array("name","type","productTypeProdInfo" ,"itemNumber","FAcode");
+				var productDetails = new Array("packageInfo","nopackages","custMaterials","imperial","metric","careInst","goodToKnowPIP","environment","custBenefit","designer","salesArg","downloadAssembly","downloadAssemblyProdInfo","designerThoughts","lowestPrice","soldSeparately");
+				var priceProperties = new Array("price1", "price5" , "price6" ,"price1perunit","storeformatpieces","storeformatpieces2","price2","packUnitPrice","packUnitPrice2","packUnitPrice5","packUnitPrice6","prfCharge","ecoFee","priceProdInfo","troPrice","familystoreformatpieces","mainPriceExclVat","nlpPrice","familyDate","famPriceExclVat");							
+				var notAvailable = new String("(niet beschikbaar)");					
+				var stockCheckServiceURL = "/nl/nl/iows/catalog/availability/";
+				var isDIFEnabled = true;
+				var measFlag = "1";
+				var nlpPrevPriceCrossOverEnabled = true;
+				var troPrevPriceCrossOverEnabled = true;
+				var troDisclaimer = "Zolang de voorraad strekt";
+				var insteadOf = "Oude prijs";				
+				var quality ="Kwaliteit "
+				var energyAndResources ="Energie en bronnen "
+				var sustainableLifeAtHome ="Duurzaam leven thuis "
+				var peopleAndCommunication ="Mensen en gemeenschappen "
+				var material ="Materiaal"
+				var formDesignProcess ="Ontwerpproces "
+				var functionSolution ="Functie en/of oplossing"				
+				var designerThoughts ="Het idee van de designer:"
+				var designer ="Designer"
+				var zoomText ="Klik hier om in te zoomen"	
+				
+				var jsonRelatedProducts = {"item_S89259741":{},"item_S49259743":{},"item_S69259742":{}};
+				var productsBaseUrl = "/nl/nl/catalog/products/";
+				var showWeeeRelatedData = false;				
+				var viewComplementaryProdsText = "Bekijk alle aanvullende producten";
+				var mustBeCompletedTxtOne = "Vergeet niet je {0} compleet te maken met het volgende product<br><br>";
+				var mustBeCompletedTxtMany = "Vergeet niet je {0} compleet te maken met de volgende {1} producten<br>";
+				var complementaryProdsTxt = "Aanvullende producten";				
+				var soldSeparatelyTxt = "Apart verkrijgbaar";
+				var soldSeparatelyDesc = '';
+				var soldSeparatelyFlag = "false";
+				var itemRelationValue = irwstatGetTrailingTagValue('IRWStats.productFindingMethod');
+				var baseURL = "/nl/nl/catalog/products/";				
+				var altImgFlag = "true";
+				var zoomImageFlag = "true";
+				var localPriceFlag = "false";
+				var okButton = "OK"
+				var notifiyError = "Als je de voorwaarden hebt geaccepteerd kan je verder naar de volgende stap"
+				var localStoreList = "415|amersfoort:088|amsterdam:274|barendrecht:403|breda:151|delft:272|duiven:087|eindhoven:404|groningen:378|haarlem:089|heerlen:312|hengelo:270|utrecht:391|zwolle";
+				var assembly_inst_type = "ASSEMBLY_INSTRUCTIONS";
+				var atchSummaryUsgTypes = ["GUARANTEE","ASSEMBLY_INSTRUCTIONS","MANUALS","SOFTWARE_DOWNLOADS","DEC_OF_CONFORMITY","DISASSEMBLY_INSTRUCTIONS"];
+				var attachmentHeadline = "Documenten";
+				var attachmentDocumentsTxt = "Downloads voor dit product:<br>";
+				var attachmentDownloads = "Downloads";
+				var attachmentDisclaimer = "Alleen de recentste versies van de documenten kunnen gedownload worden. Dat houdt in dat deze online versie kan verschillen van de gedrukte versie. ";
+				var faqHeading = "Faq contact us";
+				var faqContactUsHeadline = "Nog vragen?";
+				var faqContactUsLinkTxt = "Neem contact met ons op";
+				var faqContactUsLink = "https://www.ikea.com/nl/nl/klantenservice/veelgestelde-vragen-en-contact.html";
+				var priceText = "Price/";
+				var displayUnit = "";
+				var showPriceExclVat = true;
+				var exclVatText = "excl. btw";
+				var datePattern = "";
+				var localeShortMonths = ["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""];
+				var localeShortWeekDays = ["","zo","ma","di","wo","do","vr","za"];
+				var isMonthFirst= 'false';
+				var displayOriginOfProduct = false;
+				var displayReturnPolicy = false;
+				var PD_txt_returnPolicyIcon = "/ms/img/irw/ikea-365.png";
+				var PD_txt_returnPolicyPopupHeader = "356 days to change your mind";
+				var PD_txt_returnPolicyPopupText = "If you&#39;re not totally satisfied with a product you can return it within 365 days. We will give you a full refund by the same method as your original payment for products that are returned with proof of purchase in new and unused condition and, if possible, the packaging.";
+				var PD_txt_returnPolicyPopupLink = "Read the full return policy";
+				var PD_txt_returnPolicyPopupLinkUrl = "https://www.ikea.cn/ms/zh_CN/customer-service/about-shopping/return-policy.html";
+				var PD_txt_originOfProduct = "Please refer to packaging label for country of origin.";
+				uniqueUrl.updateProductMetaTag();
+			</script><div>
+			
+
+</div></div><div style="clear: both;"></div> 
+
+
+
+        
+        
+        
+        
+        
+    
+
+
+
+<div style="display:none;">
+		<script type="text/javascript">
+		irwstatSend();
+	    </script>
+	
+</div>
+<script src="/ms/js/new_survey_popup.js" type="text/javascript"></script>
+<script src="/ms/js/survey_global.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+	document.observe('dom:loaded', function() 
+	{ 
+	new ApptusEsales.Esales(); 
+	}); 
+</script>
+</div>
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/resources/ab0aa96d95155079e7df08237c5106']);</script><script type="text/javascript" src="/resources/ab0aa96d95155079e7df08237c5106"></script>
+<div id="backtotop_wrapper" style="width: 1080px;"></div><div id="footer">
+
+            
+            <div class="linksWrapper">
+                
+                    <div class="linkContainer linkContainerFirst">
+                
+                    
+                    <h2 class="header">
+                    
+                            <a class="link" href="https://www.ikea.com/nl/nl/klantenservice/veelgestelde-vragen-en-contact.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:klantenservice-20181210|a5:link|a6:footer|id:4394|cc:915"> 
+                                Klantenservice
+                            </a>
+                        
+                    </h2>
+                    
+                            
+                               
+                                    <a class="link" href="https://www.ikea.com/nl/nl/klantenservice/veelgestelde-vragen-en-contact.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:vragen-contact-20181210|a5:link|a6:footer|id:4388|cc:915">
+                                        Veelgestelde vragen &amp; contact
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="https://www.ikea.com/nl/nl/klantenservice/ikea-services/transport-en-bezorging.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:volg-je-bestelling-20181210|a5:link|a6:footer|id:4389|cc:915">
+                                        Volg je bestelling
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="/nl/nl/klantenservice/ikea-services.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:alle-services-20181012|a5:link|a6:footer|id:4390|cc:915">
+                                        Alle services
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="https://www.ikea.com/nl/nl/customer_service/ikea_services/terugbrengen_en_halen.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:ruilen-retourneren-20181210|a5:link|a6:footer|id:4391|cc:915">
+                                        Ruilen &amp; retourneren
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="/ms/nl_NL/customer_service/ikea_services/garantie.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:garanties-20181210|a5:link|a6:footer|id:4392|cc:915">
+                                        Garanties
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="/nl/nl/klantenservice/ikea-services.html?icid=a1:iba|a2:nl|a3:klantenservice-20181210|a4:montageservices-20181210|a5:link|a6:footer|id:4393|cc:915">
+                                        Montageservice
+                                    </a>
+                                   
+                            
+                        
+                </div>
+                <div class="linkContainer"><h2 class="header">Online winkelen</h2><a href="/ms/nl_NL/webwinkel/betalen.html">Betalen</a><a href="/ms/nl_NL/webwinkel/bestelling.html">Bestellen</a><a href="/nl/nl/klantenservice/ikea-services/transport-en-bezorging.html">Bezorgen &amp; kosten</a><a href="/nl/nl/klantenservice/ikea-services/bestellen-en-ophalen.html">Online bestellen &amp; ophalen</a><a href="https://www.ikea.com/nl/nl/reviews.html">IKEA reviews</a></div><div class="linkContainer"><h2 class="header">Handige links</h2><a href="/ms/nl_NL/rooms_ideas/splashplanners.html">Online planners/ontwerpen</a><a href="/ms/nl_NL/virtual_catalogue/online_catalogues.html">Catalogus &amp; brochures</a><a href="https://www.ikea.com/nl/nl/cadeaukaart.html">Cadeaukaart</a><a href="/nl/nl/aanbiedingen.html">Aanbiedingen</a><a href="https://wooninspiratie.ikea.nl/">Wooninspiratie</a><a href="/ms/nl_NL/customer_service/ikea_services/ikea_mobiel.html">Apps en mobiele site</a><a href="/nl/nl/nieuwsbrief-aanmelden/index.html">Aanmelden nieuwsbrief</a><a href="/ms/nl_NL/ikea_family/index.html">IKEA Family</a></div><div class="linkContainer"><h2 class="header"><a href="/ms/nl_NL/this-is-ikea/index.html">Dit is IKEA</a></h2><a href="/ms/nl_NL/this-is-ikea/the-ikea-concept/index.html">Het IKEA concept</a><a href="/nl/nl/dit-is-ikea/duurzame-toekomst.html">Duurzaamheid</a><a href="/ms/nl_NL/this-is-ikea/about-the-ikea-group/index.html">Over de IKEA Group</a><a href="/ms/nl_NL/this-is-ikea/democratic-design/index.html">Democratisch design</a><a href="/ms/nl_NL/campaigns/zonnepanelen.html">Zonnepanelen</a><a href="https://www.ikea.com/nl/nl/about_ikea/newsroom">Laatste nieuws over IKEA</a><a href="/ms/nl_NL/privacy_policy/privacybeleid.html">Privacybeleid</a><a href="/ms/nl_NL/cookie_policy/index.html">Cookiebeleid</a></div><div class="linkContainer"><h2 class="header"><a href="/ms/nl_NL/ikny_splash.html">IKEA Vestigingen</a></h2><a href="/ms/nl_NL/customer_service/openingstijden.html">Openingstijden</a><a href="/ms/nl_NL/ikny_splash.html">Alle vestigingen</a><a href="/ms/nl_NL/food/restaurant.html">Restaurant</a><a href="/nl/nl/catalog/categories/departments/food/">Swedish Food Market</a></div><div class="linkContainer lastLinkContainer"><h2 class="header"><a href="/nl/nl/this-is-ikea/working-at-the-ikea-group/uppdrag.html">Werken bij IKEA</a></h2><a href="/nl/nl/this-is-ikea/working-at-the-ikea-group/uppdrag.html">Uppdrag</a><a href="/ms/nl_NL/hr/vacatures.html">Vacatures</a></div>
+    <div class="clearAll"></div> <!-- IKEA00671879 -->
+    </div> 
+        
+
+            <div class="copyRight" id="txtCopyFooter">
+                © Inter IKEA Systems B.V. 1999-2018
+                
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/nl_NL/privacy_policy/privacybeleid.html">
+                                Privacybeleid
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/nl_NL/cookie_policy/index.html">
+                                Cookiebeleid
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="https://www.ikea.com/ms/nl_NL/voorwaarden/">
+                                Algemene voorwaarden
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/nl_NL/voorwaarden/gebruikersvoorwaarden.html">
+                                Gebruikersvoorwaarden
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="#">
+                                <script type="text/javascript" src="/ms/nl_NL/js/enl2.js"></script>
+                            </a>
+                        
+                    
+                
+                
+                        
+                    
+                
+                <noscript>
+                    &lt;div style="display: none;"&gt;
+                        &lt;img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=nl&amp;amp;pageName=nojavascript" alt="" width="5" height="5" /&gt;
+                    &lt;/div&gt;
+                </noscript>
+        </div>
+    
+
+</div></div><div id="acList" class="autocomplete" style="display: none;"></div><div id="energyLabelContainer" style="display:none;"><div id="energyLabelBorder"><div id="energyLabelContent"><a id="energyLabelCloseBtn" onclick="energyLabelBox.close();return false;" href="#"></a><div id="energyLabelProduct"></div><div id="energyLabelProduct0"></div><div id="energyLabelProduct1"></div><div id="energyLabelProduct2"></div></div></div></div><div id="energyLabelBg" style="height: 2171px;"></div><div id="Loading" class="Loading"><img class="ikeaZoomImg" src="/PIAimages/0590604_PE673964_S5.JPG"></div></body></html>
