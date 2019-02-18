@@ -77,12 +77,6 @@ def get_products_from_listing_page(category, config):
         return products
 
 
-def store_detail_page_to_file(category, product_id, file_content):
-        tmp_file = open(f'tmp_output/{category}_{product_id}.txt', 'w')
-        tmp_file.write(driver.page_source)
-        tmp_file.close()
-
-
 def parse_detail_specification(product_item, soup):
         try:
                 # specification
@@ -139,12 +133,6 @@ for category, config in CATEGORIES_URL.items():
                 
                 # get detail url
                 driver.get(product_item["detail_url"])
-                # store it to a temp file
-                store_detail_page_to_file(
-                        category=category, 
-                        product_id=product_item["product_id"],
-                        file_content=driver.page_source
-                )
 
                 detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
 

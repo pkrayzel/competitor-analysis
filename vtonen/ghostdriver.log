@@ -1,0 +1,135 @@
+[INFO  - 2019-02-18T20:52:27.141Z] GhostDriver - Main - running on port 54828
+[INFO  - 2019-02-18T20:52:27.187Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-18T20:52:27.187Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.customHeaders:  - {}
+[INFO  - 2019-02-18T20:52:27.187Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-18T20:52:27.187Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 198afce0-33bf-11e9-bcfc-7d209d2f3cd5
+[ERROR - 2019-02-18T20:53:27.012Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: SyntaxError: Expected an identifier but found 'item' instead
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:53:27.012Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  Function (undefined:3)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:170)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:112)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  fetch (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  check (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:56)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:101)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:11)
+  each (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:3)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:71)
+  init (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:54)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:97)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.572Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: SyntaxError: Expected an identifier but found 'item' instead
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.572Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  Function (undefined:3)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:170)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:112)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  fetch (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  check (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:56)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:101)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:11)
+  each (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:3)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:71)
+  init (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:54)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:97)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:6676)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:6679)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:6682)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.613Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:6685)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7078)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7093)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7118)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.615Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.616Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7143)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.616Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.616Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7168)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.616Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: ReferenceError: Can't find variable: selectedAttrs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:11.616Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  global code (https://www.vtwonen.nl/shop/wonen:7193)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:12.209Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - msg: SyntaxError: Use of reserved word 'let' in strict mode
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-18T20:54:12.209Z] Session [198afce0-33bf-11e9-bcfc-7d209d2f3cd5] - page.onError - stack:
+  Function (undefined:9)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:170)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:112)
+  load (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  fetch (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:55)
+  check (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:56)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:101)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:73)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:11)
+  each (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:3)
+  enable (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:71)
+  init (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:54)
+  (anonymous function) (https://www.vtwonen.nl/shop/static/version1549371342/_cache/merged/251414e6fb5b4d86036cbd6eba6bca15.min.js:97)
+
+  phantomjs://platform/console++.js:263 in error

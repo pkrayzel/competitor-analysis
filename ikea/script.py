@@ -117,12 +117,6 @@ def get_products_from_listing_page(category, config):
         return products
 
 
-def store_detail_page_to_file(category, product_id, file_content):
-        tmp_file = open(f'tmp_output/{category}_{product_id}.txt', 'w')
-        tmp_file.write(driver.page_source)
-        tmp_file.close()
-
-
 def parse_detail_specification(product_item, soup):
         try:
                 # product information
@@ -151,7 +145,7 @@ def parse_detail_description(product_item, soup):
 
 
 def save_final_output_file(products, category):
-        output_file = open(f'output/loods5_{category}.json', 'w')
+        output_file = open(f'output/ikea_{category}.json', 'w')
         json.dump(products, output_file)
         output_file.close()
 
@@ -171,12 +165,6 @@ for category, config in CATEGORIES_URL.items():
                 
                 # get detail url
                 driver.get(product_item["detail_url"])
-                # store it to a temp file
-                store_detail_page_to_file(
-                        category=category, 
-                        product_id=product_item["product_id"],
-                        file_content=driver.page_source
-                )
 
                 detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
 
