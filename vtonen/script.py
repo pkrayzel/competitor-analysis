@@ -13,114 +13,114 @@ CATEGORIES_URL = {
                 "https://www.vtwonen.nl/shop/meubels/banken/2-5-zits-banken?p=2"
             ]
         },
-        # "3_seat_sofas": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken",
-        #         "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken?p=2",
-        #         "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken?p=3",
-        #         "https://www.vtwonen.nl/shop/meubels/banken/3-5-zits-banken"
-        #     ]
+        "3_seat_sofas": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken",
+                "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken?p=2",
+                "https://www.vtwonen.nl/shop/meubels/banken/3-zits-banken?p=3",
+                "https://www.vtwonen.nl/shop/meubels/banken/3-5-zits-banken"
+            ]
+        },
+        "corner_sofa": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/banken/hoekbanken",
+                "https://www.vtwonen.nl/shop/meubels/banken/hoekbanken?p=2"
+            ]
+        },
+        "sofa_beds": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/banken/bedbanken"
+            ]
+        },
+        "arm_chairs": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils?p=2",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils?p=3"
+            ]
+        },
+        # "accent_chairs": {
+        #         "url": ""
         # },
-        # "corner_sofa": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/banken/hoekbanken",
-        #         "https://www.vtwonen.nl/shop/meubels/banken/hoekbanken?p=2"
-        #     ]
-        # },
-        # "sofa_beds": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/banken/bedbanken"
-        #     ]
-        # },
-        # "arm_chairs": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils?p=2",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/fauteuils?p=3"
-        #     ]
-        # },
-        # # "accent_chairs": {
-        # #         "url": ""
-        # # },
-        # "dining_chairs": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=2",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=3",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=4",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=5",
-        #         "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=6",
-        #     ]
-        # },
-        # "beds": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/bedden/tweepersoonsbedden"
-        #     ]
-        # },
-        # "boxspring_beds": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/meubels/bedden/boxsprings"
-        #     ]
-        # },
-        # "rugs": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=2",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=3",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=4",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=5",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=6",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=7",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=8",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=9",
-        #         "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=10",
-        #     ]
-        # },
-        # "pendant_lights": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=2",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=3",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=4",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=5",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=6",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=6",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=7",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=8",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=9",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=10",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=11",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=12",
-        #         "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=13",
-        #     ]
-        # },
-        # "wall_lights": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/verlichting/wandlampen",
-        #         "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=2",
-        #         "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=3",
-        #         "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=4"
-        #     ]
-        # },
-        # "floor_lights": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/verlichting/vloerlampen",
-        #         "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=2",
-        #         "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=3",
-        #         "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=4",
-        #     ]
-        # },
-        # "table_lights": {
-        #     "urls": [
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=2",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=3",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=4",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=5",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=6",
-        #         "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=7"
-        #     ]
-        # },
+        "dining_chairs": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=2",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=3",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=4",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=5",
+                "https://www.vtwonen.nl/shop/meubels/stoelen/eetkamerstoelen?p=6",
+            ]
+        },
+        "beds": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/bedden/tweepersoonsbedden"
+            ]
+        },
+        "boxspring_beds": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/meubels/bedden/boxsprings"
+            ]
+        },
+        "rugs": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=2",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=3",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=4",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=5",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=6",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=7",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=8",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=9",
+                "https://www.vtwonen.nl/shop/wonen/vloerkleed?p=10",
+            ]
+        },
+        "pendant_lights": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=2",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=3",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=4",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=5",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=6",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=6",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=7",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=8",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=9",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=10",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=11",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=12",
+                "https://www.vtwonen.nl/shop/verlichting/hanglamp?p=13",
+            ]
+        },
+        "wall_lights": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/verlichting/wandlampen",
+                "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=2",
+                "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=3",
+                "https://www.vtwonen.nl/shop/verlichting/wandlampen?p=4"
+            ]
+        },
+        "floor_lights": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/verlichting/vloerlampen",
+                "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=2",
+                "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=3",
+                "https://www.vtwonen.nl/shop/verlichting/vloerlampen?p=4",
+            ]
+        },
+        "table_lights": {
+            "urls": [
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=2",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=3",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=4",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=5",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=6",
+                "https://www.vtwonen.nl/shop/verlichting/tafellampen?p=7"
+            ]
+        },
 }
 
 
