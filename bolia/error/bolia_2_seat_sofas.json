@@ -1,1 +1,152 @@
-[{"product_id": "01-026-10_10609373", "detail_url": "https://www.bolia.com/nl-nl/producten/01-026-10_10609373", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-078-01_10605981", "detail_url": "https://www.bolia.com/nl-nl/producten/01-078-01_10605981", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-202-05_11078632", "detail_url": "https://www.bolia.com/nl-nl/producten/01-202-05_11078632", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-074-01_12291795", "detail_url": "https://www.bolia.com/nl-nl/producten/01-074-01_12291795", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10741430", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10741430", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931601", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931601", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931613", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931613", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931618", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931618", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931620", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931620", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931625", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931625", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_10931649", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931649", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_12240625", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_12240625", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_12883379", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_12883379", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_1675100", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_1675100", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_8131733", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_8131733", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-05_10596863", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_10596863", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-01_6377719", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_6377719", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-05_2806276", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_2806276", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-05_2950092", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_2950092", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-15_3629507", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_3629507", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-15_2651869", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_2651869", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-15_6586629", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_6586629", "category": "2_seat_sofas", "competitor": "bolia"}, {"product_id": "01-046-15_6586636", "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_6586636", "category": "2_seat_sofas", "competitor": "bolia"}]
+[
+  {
+    "product_id": "01-026-10_10609373",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-026-10_10609373",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-078-01_10605981",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-078-01_10605981",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-202-05_11078632",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-202-05_11078632",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-074-01_12291795",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-074-01_12291795",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10741430",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10741430",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931601",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931601",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931613",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931613",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931618",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931618",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931620",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931620",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931625",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931625",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_10931649",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_10931649",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_12240625",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_12240625",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_12883379",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_12883379",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_1675100",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_1675100",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_8131733",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_8131733",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-05_10596863",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_10596863",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-01_6377719",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-01_6377719",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-05_2806276",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_2806276",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-05_2950092",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-05_2950092",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-15_3629507",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_3629507",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-15_2651869",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_2651869",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-15_6586629",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_6586629",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-046-15_6586636",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-046-15_6586636",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-066-01_12883385",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-066-01_12883385",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  },
+  {
+    "product_id": "01-066-01_3639890",
+    "detail_url": "https://www.bolia.com/nl-nl/producten/01-066-01_3639890",
+    "category": "2_seat_sofas",
+    "competitor": "bolia"
+  }
+]
