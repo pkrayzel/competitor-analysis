@@ -60,7 +60,7 @@ CATEGORIES_URL = {
         # },
 }
 
-driver = webdriver.PhantomJS() # or add to your PATH
+# driver = webdriver.PhantomJS() # or add to your PATH
 
 
 def get_products_from_listing_page(category, config):
@@ -161,24 +161,24 @@ for category, config in CATEGORIES_URL.items():
     print(f"Found: {len(products)} products")
     save_final_output_file(products, category)
 
-    # for product_item in products:
-    #     product_start = time.time()
-    #     # get detail url
-    #     driver.get(product_item["detail_url"])
-    #     try:
-    #         driver.find_element_by_class_name("c-product-bar__nav-item").click()
-    #         parse_detail_specification(product_item, detail_page_soup)
-    #     except Exception as e:
-    #         print(f"Can't click specification button: {e}")
-    #
-    #     detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
-    #     parse_price(product_item, detail_page_soup)
-    #
-    #     product_end = time.time()
-    #     print(f"product scraped & saved in {product_end-product_start} seconds")
-    #
-    # save_final_output_file(products, category)
-    # print(f"====== {category} ======")
+    for product_item in products:
+        product_start = time.time()
+        # get detail url
+        driver.get(product_item["detail_url"])
+        try:
+            driver.find_element_by_class_name("c-product-bar__nav-item").click()
+            parse_detail_specification(product_item, detail_page_soup)
+        except Exception as e:
+            print(f"Can't click specification button: {e}")
+
+        detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
+        parse_price(product_item, detail_page_soup)
+
+        product_end = time.time()
+        print(f"product scraped & saved in {product_end-product_start} seconds")
+
+    save_final_output_file(products, category)
+    print(f"====== {category} ======")
 
 end_time = time.time()
 difference = end_time - start_time

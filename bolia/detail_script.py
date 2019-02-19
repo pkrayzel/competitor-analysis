@@ -3,6 +3,7 @@ from selenium import webdriver
 import time
 import json
 import os
+import multiprocessing as mp
 
 BOLIA_URL_PREFIX = "https://www.bolia.com"
 
@@ -61,7 +62,7 @@ def parse_price(product_item, soup):
         print(f"Exception parsing specification for product id {product_item['product_id']} - {e}")
 
 
-def parse_one_product(product_item):
+def parse_one_product(product_item, category='2_seat_sofas'):
     product_start = time.time()
         # get detail url
     driver.get(product_item["detail_url"])
@@ -69,19 +70,21 @@ def parse_one_product(product_item):
         driver.find_element_by_class_name("c-product-bar__nav-item").click()
     except Exception as e:
         print(f"Can't click specification button: {e}")
-        return None
 
     detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
     parse_price(product_item, detail_page_soup)
+    parse_detail_specification(product_item, detail_page_soup)
+
+    save_output_file(product_item, category)
 
     product_end = time.time()
     print(f"product scraped & saved in {product_end-product_start} seconds")
-    return product_item
 
 
-def save_final_output_file(products, filename, output_dir):
-    output_file = open(f'{output_dir}/{filename}', 'w')
-    json.dump(products, output_file)
+
+def save_output_file(product_item, category=''):
+    output_file = open(f'output/{category}/{product_item["product_id"]}.json', 'w')
+    json.dump(product_item, output_file)
     output_file.close()
 
 
@@ -91,21 +94,11 @@ def main():
         for filename in files:
             start_time = time.time()
 
-            successful_output = []
-            error_output = []
-
             products = get_products_from_file("input/" + filename)
 
-            for item in products:
-                product_item = parse_one_product(item)
+            pool = mp.Pool(mp.cpu_count())
 
-                if product_item:
-                    successful_output.append(product_item)
-                else:
-                    error_output.append(item)
-
-                save_final_output_file(successful_output, filename, "output")
-                save_final_output_file(error_output, filename, "error")
+            pool.map(parse_one_product, products)
 
             end_time = time.time()
             difference = end_time - start_time

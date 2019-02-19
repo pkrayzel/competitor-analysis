@@ -1,447 +1,1038 @@
-[INFO  - 2019-02-19T20:26:26.479Z] GhostDriver - Main - running on port 53758
-[INFO  - 2019-02-19T20:26:27.424Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2019-02-19T20:26:27.425Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.customHeaders:  - {}
-[INFO  - 2019-02-19T20:26:27.425Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2019-02-19T20:26:27.425Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a243f1c0-3484-11e9-b01a-d77883182b32
-[ERROR - 2019-02-19T20:28:57.974Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550608137950
+[INFO  - 2019-02-19T23:03:16.351Z] GhostDriver - Main - running on port 60634
+[INFO  - 2019-02-19T23:03:16.877Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-02-19T23:03:16.877Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.customHeaders:  - {}
+[INFO  - 2019-02-19T23:03:16.877Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-02-19T23:03:16.877Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8abc3970-349a-11e9-a3e6-e1531e5eeb4f
+[ERROR - 2019-02-19T23:03:29.265Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931618.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T20:29:13.108Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550608153070
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T20:29:40.400Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550608180372
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T20:29:55.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550608195534
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T20:31:26.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T20:36:26.486Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T20:41:26.492Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T20:46:26.498Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T20:51:26.503Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T20:56:26.508Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2019-02-19T21:01:26.564Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:01:39.112Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610099105
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:57.991Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931586.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:57.991Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:29.265Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:57.992Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931586_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:29.266Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931618_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:57.992Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:29.266Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:58.040Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931586.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:29.348Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931618.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:58.040Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:29.348Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:58.040Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931586_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:29.348Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931618_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:05:58.040Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:29.348Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:06:26.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:06:27.763Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610387737
+[ERROR - 2019-02-19T23:03:31.136Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931620.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:06:39.678Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610399650
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:06:46.941Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610406907
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:06:51.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610411287
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:06:56.205Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610416181
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:07:29.929Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610449790
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:07:56.366Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610476338
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:10:55.515Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610655487
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:11:26.578Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:11:27.259Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.259Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:31.137Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:31.137Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931620_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:31.137Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-10_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:31.194Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931620.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:31.195Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:31.195Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_10931620_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:31.195Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-20_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-054-66_6906976.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.260Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-25_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-054-66_6906976_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-30_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/extra-main/cooper.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1407,1578,5332,3508&c.zoom=false&c.finalmode=crop&cachebusting=1061086019
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-35_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/extra-main/cooper-sofabed-unfolded.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&cachebusting=1061224553
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-36_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:03:32.903Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,1366,5993,2457&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.261Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.904Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.318Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.904Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu-2.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,2145,3883,2984&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.318Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.904Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.904Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu-3.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=47,1797,5993,2445&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.904Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-10_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.939Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-054-66_6906976.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.939Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:32.939Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-054-66_6906976_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.939Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-20_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/extra-main/cooper.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1407,1578,5332,3508&c.zoom=false&c.finalmode=crop&cachebusting=1061086019
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.319Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-25_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/extra-main/cooper-sofabed-unfolded.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&cachebusting=1061224553
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-30_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,1366,5993,2457&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-35_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu-2.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,2145,3883,2984&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-36_1674311.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:03:32.940Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/cooper-cu-3.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=47,1797,5993,2445&c.zoom=false&c.finalmode=crop&cachebusting=1061043074
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:11:27.320Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:32.941Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:12:22.060Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550610742034
+[ERROR - 2019-02-19T23:03:55.505Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/03-109-01_12174653.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:16:26.621Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:18:55.143Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550611135008
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.395Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_8131745.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.395Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.505Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.396Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_8131745_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/02-070-04_1757555.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.396Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.456Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_8131745.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/20-107-03_10971493.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.456Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.457Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_8131745_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/21-006-01_2685177.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:19:17.457Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:20:42.297Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550611242236
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/22-121-01_3759403.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:21:23.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550611283284
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:21:26.622Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:23:33.417Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_10931678.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.418Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.506Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.419Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_10931678_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-073-01_1675076.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.419Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.466Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_10931678.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-073-05_1675076.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.466Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.466Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_10931678_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/02-124-01_1675076_angle.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:23:33.466Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.507Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:26:26.627Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:27:31.913Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1873306.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/03-109-01_12174653.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.913Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.913Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1873306_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/02-070-04_1757555.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.913Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.965Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1873306.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/20-107-03_10971493.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.965Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.584Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.965Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1873306_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+[ERROR - 2019-02-19T23:03:55.585Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/21-006-01_2685177.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:27:31.965Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.585Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.534Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_2656190.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/22-121-01_3759403.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.534Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.534Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_2656190_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-073-01_1675076.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.534Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.581Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_2656190.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-073-05_1675076.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.581Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.586Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.582Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_2656190_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:03:55.587Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/02-124-01_1675076_angle.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:13.582Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:03:55.587Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:34.063Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550611714025
+[ERROR - 2019-02-19T23:05:27.105Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_5296305.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:28:47.164Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550611727136
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:31:26.632Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:35:48.275Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612148001
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:36:26.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:39:07.556Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_5294245.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.557Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:27.106Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.558Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_5294245_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:05:27.107Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_5296305_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.558Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:27.107Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.632Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_5294245.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:05:27.162Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_5296305.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.632Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:27.162Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.633Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_5294245_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+[ERROR - 2019-02-19T23:05:27.163Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_5296305_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:07.633Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:27.163Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:39:58.594Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612398561
+[ERROR - 2019-02-19T23:05:34.155Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617534109
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:41:26.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:42:18.448Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612538425
+[ERROR - 2019-02-19T23:05:34.367Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617534117
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:42:39.261Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612559234
+[ERROR - 2019-02-19T23:05:34.507Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617534121
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:46:26.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:47:27.552Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612847525
+[ERROR - 2019-02-19T23:05:34.638Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617534125
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:47:30.916Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550612850895
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/mc.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.641Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064655.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.643Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.643Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064655_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/mtro.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.643Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.718Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064655.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/visa.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.719Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:34.823Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.719Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064655_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+[ERROR - 2019-02-19T23:05:34.824Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/elec.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:48:58.719Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:34.824Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[INFO  - 2019-02-19T21:51:26.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-02-19T21:51:42.527Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11066125.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:05:34.824Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/ing.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.528Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:34.824Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.528Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11066125_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+[ERROR - 2019-02-19T23:05:46.887Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617546849
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.528Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:05:47.109Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617546859
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:05:47.203Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617546863
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.413Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/mc.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.414Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.599Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11066125.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+[ERROR - 2019-02-19T23:06:44.414Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/mtro.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.599Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.600Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11066125_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/visa.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-02-19T21:51:42.600Z] Session [a243f1c0-3484-11e9-b01a-d77883182b32] - page.onError - stack:
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/elec.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.415Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/settings/payment-options/ing.png?width=64&height=40&format=png&v=4.0.0.0&width=500&height=312&scale=both&mode=crop
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:44.416Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.992Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_12242806.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.992Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.992Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_12242806_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.992Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.997Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_12242806.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.997Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.997Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_12242806_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:06:45.997Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:05.019Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_6437051.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:05.020Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:05.032Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_6437051_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:05.032Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:06.382Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617626199
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:06.797Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617626785
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.888Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_10931634.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.888Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.888Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_10931634_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.888Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.965Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_10931634.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.965Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.965Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_10931634_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:15.965Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:30.218Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617650200
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:31.126Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617650221
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:54.648Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617674421
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:58.980Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_5294331.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:58.980Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:58.980Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_5294331_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:58.980Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:59.009Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_5294331.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:59.009Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:59.009Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_5294331_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:07:59.009Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-02-19T23:08:16.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-02-19T23:08:17.267Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_6379463.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.267Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.268Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_6379463_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.268Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.327Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_6379463.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.327Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.328Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_6379463_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:17.328Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:55.688Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617735641
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:56.116Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617735646
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:08:56.303Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1550617735649
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.260Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.260Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.260Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-10_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-20_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.261Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-25_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-30_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-35_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.262Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.263Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-36_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.263Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.350Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-01_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.350Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.350Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-05_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.350Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.350Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-10_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=4
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-20_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.351Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-25_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-30_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-35_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=3
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-36_1673780.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:01.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.810Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7838577.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.811Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.812Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7838577_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.812Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.856Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7838577.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.856Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.856Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7838577_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:39.856Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.308Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7839006.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.309Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.310Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7839006_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.310Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.366Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7839006.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.366Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.366Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-046-15_7839006_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=5
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:09:49.366Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.203Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064439.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.204Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.204Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064439_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.204Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.204Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-soul-latch.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1109,1386,3572,2719&c.zoom=false&c.finalmode=crop&cachebusting=1061153849
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.204Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.205Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-como.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1866,2004,4201,3060&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.205Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.206Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-traytray-meteor-loop-rug.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=778,1386,4446,3561&c.zoom=true&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.206Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-berlin-bench-path.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1279,1780,4169,3295&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-traytray-twiiitter.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=426,1588,4041,2729&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-mood-camillo.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=2740,1631,4521,2975&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-blue-sunday-maggie-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=59,1522,5993,2636&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-yellow-cu-2.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=23,2553,5993,2936&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.207Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-cognac-leather-cu-3.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1522,419,5993,2133&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-brown-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=227,1426,5993,2409&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-brown-leather-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=479,910,5993,2097&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.208Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.209Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-remix-orb-pod-marly-classic.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,1674,5332,3519&c.zoom=false&c.finalmode=crop&cachebusting=1060713459
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.209Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.209Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-remix-classic.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1087,1642,4916,3497&c.zoom=false&c.finalmode=crop&cachebusting=1060699035
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.209Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.210Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-scatter-remix--sofa.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=905,1520,3552,2616&c.zoom=false&c.finalmode=crop&cachebusting=1060785250
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.210Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064439.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11064439_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.352Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-soul-latch.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1109,1386,3572,2719&c.zoom=false&c.finalmode=crop&cachebusting=1061153849
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-como.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1866,2004,4201,3060&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.353Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-traytray-meteor-loop-rug.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=778,1386,4446,3561&c.zoom=true&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-berlin-bench-path.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1279,1780,4169,3295&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-traytray-twiiitter.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=426,1588,4041,2729&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/main/scandinavia-remix-mood-camillo.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=2740,1631,4521,2975&c.zoom=false&c.finalmode=crop&cachebusting=1061042824
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.354Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.355Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-blue-sunday-maggie-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=59,1522,5993,2636&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.355Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.355Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-yellow-cu-2.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=23,2553,5993,2936&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.355Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.355Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-cognac-leather-cu-3.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1522,419,5993,2133&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-brown-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=227,1426,5993,2409&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljo-fy19/cu/scandinavia-remix-brown-leather-cu.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=479,910,5993,2097&c.zoom=false&c.finalmode=crop&cachebusting=1061043086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-remix-orb-pod-marly-classic.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=0,1674,5332,3519&c.zoom=false&c.finalmode=crop&cachebusting=1060713459
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.356Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.357Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-remix-classic.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=1087,1642,4916,3497&c.zoom=false&c.finalmode=crop&cachebusting=1060699035
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.357Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.357Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/globalassets/media/miljobilleder/miljo/fy18/scandinavia-scatter-remix--sofa.jpg?v=4.0.0.0&width=500&height=337&format=jpg&scale=both&mode=crop&c.focus=905,1520,3552,2616&c.zoom=false&c.finalmode=crop&cachebusting=1060785250
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:10:08.357Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.215Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-11_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.216Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.217Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.217Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.217Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-05_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.217Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-10_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-15_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-20_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.218Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-25_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-30_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-35_11066252.webp?v=4.0.0.0&width=500&height=214&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:07.219Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.493Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11068621.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.494Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.495Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11068621_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.495Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.569Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11068621.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.569Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.569Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - msg: Possible cdn image cache error: https://boliaimages.azureedge.net/images/products/01-202-01_11068621_angle.webp?v=4.0.0.0&width=500&height=375&format=jpg&bgcolor=f5f5f5&scale=both&mode=pad&cachebusting=1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-02-19T23:11:28.569Z] Session [8abc3970-349a-11e9-a3e6-e1531e5eeb4f] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
