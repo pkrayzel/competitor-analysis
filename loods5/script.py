@@ -25,10 +25,30 @@ CATEGORIES_URL = {
         #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/fauteuils",
         #         "file": "input/arm_chairs.html"
         # },
-        "dining_chairs": {
-                "url": "https://loods5.nl/shop/meubels/stoelen-banken/stoelen",
-                "file": "input/dining_chairs.html"
-        }
+        # "dining_chairs": {
+        #         "url": "https://loods5.nl/shop/meubels/stoelen-banken/stoelen",
+        #         "file": "input/dining_chairs.html"
+        # },
+        "rugs": {
+                "url": "https://loods5.nl/zoeken?vind=rugs",
+                "file": "rugs.htm"
+        },
+        "pendant_lights": {
+                "url": "https://loods5.nl/shop/verlichting/verlichting/hanglampen",
+                "file": "pendant_lights.htm"
+        },
+        "wall_lights": {
+                "url": "https://loods5.nl/shop/verlichting/verlichting/wandlampen",
+                "file": "wall_lights.htm"
+        },
+        "floor_lights": {
+                "url": "https://loods5.nl/shop/verlichting/verlichting/vloerlampen",
+                "file": "floor_lights.htm"
+        },
+        "table_lights": {
+                "url": "https://loods5.nl/shop/verlichting/verlichting/tafel-bureaulampen",
+                "file": "table_lights.htm"
+        },
 }
 
 def get_products_from_listing_page(category, config):
