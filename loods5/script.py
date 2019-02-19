@@ -31,23 +31,23 @@ CATEGORIES_URL = {
         # },
         "rugs": {
                 "url": "https://loods5.nl/zoeken?vind=rugs",
-                "file": "rugs.htm"
+                "file": "input/rugs.htm"
         },
         "pendant_lights": {
                 "url": "https://loods5.nl/shop/verlichting/verlichting/hanglampen",
-                "file": "pendant_lights.htm"
+                "file": "input/pendant_lights.htm"
         },
         "wall_lights": {
                 "url": "https://loods5.nl/shop/verlichting/verlichting/wandlampen",
-                "file": "wall_lights.htm"
+                "file": "input/wall_lights.htm"
         },
         "floor_lights": {
                 "url": "https://loods5.nl/shop/verlichting/verlichting/vloerlampen",
-                "file": "floor_lights.htm"
+                "file": "input/floor_lights.htm"
         },
         "table_lights": {
                 "url": "https://loods5.nl/shop/verlichting/verlichting/tafel-bureaulampen",
-                "file": "table_lights.htm"
+                "file": "input/table_lights.htm"
         },
 }
 

@@ -157,7 +157,7 @@ def parse_detail_specification(product_item, soup):
 
 
 def save_final_output_file(products, category):
-    output_file = open(f'output/vtonen_{category}.json', 'w')
+    output_file = open(f'output/westwingnow_{category}.json', 'w')
     json.dump(products, output_file)
     output_file.close()
 

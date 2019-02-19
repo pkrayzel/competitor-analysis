@@ -23,41 +23,41 @@ CATEGORIES_URL = {
         #         "https://www.bolia.com/nl-nl/banken/hoekbanken/?size=1000"
         #     ]
         # },
-        "sofa_beds": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/banken/slaapbanken/?Category=Slaapbanken&Chaise%20OE=Zonder%20chaise%20longue%20en%20open%20end&size=1000"
-            ]
-        },
-        "arm_chairs": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/meubels/woonkamer/fauteuils/?Category=Fauteuils&size=1000"
-            ]
-        },
-        "dining_chairs": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/meubels/eetkamer/eetkamerstoelen/?Category=Eetkamerstoelen&size=1000",
-            ]
-        },
-        "pendant_lights": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/accessoires/lampen/hanglampen/?Family=Arita&Family=Ball&Family=Balloon&Family=Bell-A&Family=Bulb&Family=Cover&Family=Cyla&Family=Flachmann&Family=Glasblase&Family=Grape&Family=In%20Circles&Family=LED%20bulb&Family=Leaves&Family=Maiko&Family=Orb&Family=Pica&Family=Piper&Family=Pop&Family=Rotate&Family=Slice&Family=Squeeze&Family=Vetro",
-            ]
-        },
-        "wall_lights": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/accessoires/lampen/wandlampen/?Material=Glas&Material=Marmer&Material=Staal"
-            ]
-        },
-        "floor_lights": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/accessoires/lampen/vloerlampen/?Material=Acryl&Material=Glas&Material=Marmer&Material=Staal",
-            ]
-        },
-        "table_lights": {
-            "urls": [
-                "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"
-            ]
-        },
+        # "sofa_beds": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/banken/slaapbanken/?Category=Slaapbanken&Chaise%20OE=Zonder%20chaise%20longue%20en%20open%20end&size=1000"
+        #     ]
+        # },
+        # "arm_chairs": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/meubels/woonkamer/fauteuils/?Category=Fauteuils&size=1000"
+        #     ]
+        # },
+        # "dining_chairs": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/meubels/eetkamer/eetkamerstoelen/?Category=Eetkamerstoelen&size=1000",
+        #     ]
+        # },
+        # "pendant_lights": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/accessoires/lampen/hanglampen/?Family=Arita&Family=Ball&Family=Balloon&Family=Bell-A&Family=Bulb&Family=Cover&Family=Cyla&Family=Flachmann&Family=Glasblase&Family=Grape&Family=In%20Circles&Family=LED%20bulb&Family=Leaves&Family=Maiko&Family=Orb&Family=Pica&Family=Piper&Family=Pop&Family=Rotate&Family=Slice&Family=Squeeze&Family=Vetro",
+        #     ]
+        # },
+        # "wall_lights": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/accessoires/lampen/wandlampen/?Material=Glas&Material=Marmer&Material=Staal"
+        #     ]
+        # },
+        # "floor_lights": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/accessoires/lampen/vloerlampen/?Material=Acryl&Material=Glas&Material=Marmer&Material=Staal",
+        #     ]
+        # },
+        # "table_lights": {
+        #     "urls": [
+        #         "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"
+        #     ]
+        # },
 }
 
 driver = webdriver.PhantomJS() # or add to your PATH
