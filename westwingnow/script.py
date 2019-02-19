@@ -11,36 +11,36 @@ CATEGORIES_URL = {
         #         "https://www.westwingnow.nl/2-zitsbanken/?sort=score_alternative_ranking_1&order=desc"
         #     ]
         # },
-        "3_seat_sofas": {
-            "urls": [
-                "https://www.westwingnow.nl/3-zitsbanken/?sort=score_alternative_ranking_1&order=desc"
-            ]
-        },
-        "corner_sofa": {
-            "urls": [
-                "https://www.westwingnow.nl/hoekbanken/?sort=score_alternative_ranking_1&order=desc"
-            ]
-        },
-        "sofa_beds": {
-            "urls": [
-                "https://www.westwingnow.nl/slaapbanken/?sort=score_alternative_ranking_1&order=desc"
-            ]
-        },
-        "arm_chairs": {
-            "urls": [
-                "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc",
-                "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc&page=2",
-                "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc&page=3"
-            ]
-        },
-        "dining_chairs": {
-            "urls": [
-                "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc",
-                "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=2",
-                "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=3",
-                "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=4"
-            ]
-        },
+        # "3_seat_sofas": {
+        #     "urls": [
+        #         "https://www.westwingnow.nl/3-zitsbanken/?sort=score_alternative_ranking_1&order=desc"
+        #     ]
+        # },
+        # "corner_sofa": {
+        #     "urls": [
+        #         "https://www.westwingnow.nl/hoekbanken/?sort=score_alternative_ranking_1&order=desc"
+        #     ]
+        # },
+        # "sofa_beds": {
+        #     "urls": [
+        #         "https://www.westwingnow.nl/slaapbanken/?sort=score_alternative_ranking_1&order=desc"
+        #     ]
+        # },
+        # "arm_chairs": {
+        #     "urls": [
+        #         "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc",
+        #         "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc&page=2",
+        #         "https://www.westwingnow.nl/fauteuils/?sort=score_alternative_ranking_1&order=desc&page=3"
+        #     ]
+        # },
+        # "dining_chairs": {
+        #     "urls": [
+        #         "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc",
+        #         "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=2",
+        #         "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=3",
+        #         "https://www.westwingnow.nl/stoelen/?sort=score_alternative_ranking_1&order=desc&page=4"
+        #     ]
+        # },
         "beds": {
             "urls": [
                 "https://www.westwingnow.nl/bedden/?sort=score_alternative_ranking_1&order=desc&facet_sleeper_dim=140+x+200+cm",
