@@ -3,25 +3,27 @@ from selenium import webdriver
 import requests
 import time
 import json
+import multiprocessing as mp
+
 
 PREFIX_URL = "https://www.fonq.nl"
 
 CATEGORIES_URL = {
-        "2_seat_sofas": {
-            "urls": [
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/",
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
-            ]
-        },
-        # "3_seat_sofas": {
+        # "2_seat_sofas": {
         #     "urls": [
-        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/",
-        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=2",
-        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=3",
-        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/",
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
         #     ]
         # },
+        "3_seat_sofas": {
+            "urls": [
+                "https://www.fonq.nl/producten/categorie-3_zitsbank/",
+                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=2",
+                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=3",
+                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
+            ]
+        },
         # "corner_sofa": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-hoekbank/",
@@ -298,7 +300,6 @@ CATEGORIES_URL = {
 
 
 def get_products_from_listing_page(category, config):
-    result = []
 
     for url in config["urls"]:
         print(f"scraping url: {url}...")
@@ -327,11 +328,9 @@ def get_products_from_listing_page(category, config):
                     "category": category,
                     "competitor": "fonq"
                 }
-                result.append(product_item)
+                yield product_item
             except Exception as e:
                 print(f"Exception while getting data from listing page category: {category} - {e}")
-
-    return result
 
 
 def store_detail_page_to_file(category, product_id, file_content):
@@ -342,60 +341,66 @@ def store_detail_page_to_file(category, product_id, file_content):
 
 def parse_detail_specification(product_item, soup):
     try:
-        tables = soup.find_all("table", class_="table-specs")
+        div = soup.find("div", id="product-specs")
 
-        print(product_item["detail_url"])
-        print(f"{product_item['product_id']} - tables: {len(tables)}")
+        if div:
+            tables = div.find_all("table")
 
-        for t in tables:
-            trs = t.find_all('tr')
-            for tr in trs:
-                tds = tr.find_all('td')
-                label = tds[0].get_text().strip()
-                value = tds[1].get_text().strip()
-                product_item[label] = value
-                print(f"{label} - {value}")
+            print(f"{product_item['product_id']} - tables: {len(tables)}")
+
+            for t in tables:
+                trs = t.find_all('tr')
+                for tr in trs:
+                    tds = tr.find_all('td')
+                    label = tds[0].get_text().strip()
+                    value = tds[1].get_text().strip()
+                    product_item[label] = value
 
     except Exception as e:
         print(f"Exception parsing technical specification detail for product id: {product_item['product_id']} - {e}")
 
     return product_item
 
-def save_final_output_file(products, category):
-    output_file = open(f'output/fonq_{category}.json', 'w')
-    json.dump(products, output_file)
+def save_output_file(product_item, category):
+    output_file = open(f'output/{category}/{product_item["product_id"]}.json', 'w')
+    json.dump(product_item, output_file)
     output_file.close()
 
 
+def parse_product(product_item, category):
+    product_start = time.time()
+    # get detail url
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+    }
+    response = requests.get(product_item["detail_url"], headers=headers)
 
-driver = webdriver.PhantomJS() # or add to your PATH
+    if response.status_code != 200:
+        print(f"ERROR: {response.status_code}")
+        time.sleep(1)
+        response = requests.get(product_item["detail_url"])
+        print(f"Status code retry: {response.status_code}")
 
-start_time = time.time()
+    detail_page_soup = BeautifulSoup(response.content, 'html.parser')
+
+    item = parse_detail_specification(product_item, detail_page_soup)
+
+    product_end = time.time()
+    save_output_file(item, category)
+    print(f"product scraped & saved in {product_end-product_start} seconds")
 
 
-for category, config in CATEGORIES_URL.items():
-    print(f"====== {category} ======")
+def main():
+    for category, config in CATEGORIES_URL.items():
+        print(f"====== {category} ======")
 
-    products = get_products_from_listing_page(category, config)
+        products = get_products_from_listing_page(category, config)
 
-    output = []
+        for p in products:
+            parse_product(p, category)
+        # pool = mp.Pool(mp.cpu_count())
+        # pool.map(parse_product, products)
 
-    print(f"Found: {len(products)} products")
-    for product_item in products:
-        product_start = time.time()
-        # get detail url
-        driver.get(product_item["detail_url"])
 
-        detail_page_soup = BeautifulSoup(driver.page_source, 'html.parser')
-
-        item = parse_detail_specification(product_item, detail_page_soup)
-        output.append(item)
-
-        product_end = time.time()
-        print(f"product scraped & saved in {product_end-product_start} seconds")
-    save_final_output_file(output, category)
-    print(f"====== {category} ======")
-
-end_time = time.time()
-difference = end_time - start_time
-print(f'time of processing: {difference}')
+if __name__ == "__main__":
+  main()
