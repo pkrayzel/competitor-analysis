@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
-from selenium import webdriver
 import requests
 import time
 import json
-import multiprocessing as mp
 
 
 PREFIX_URL = "https://www.fonq.nl"
@@ -16,20 +14,20 @@ CATEGORIES_URL = {
         #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
         #     ]
         # },
-        "3_seat_sofas": {
-            "urls": [
-                "https://www.fonq.nl/producten/categorie-3_zitsbank/",
-                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=2",
-                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=3",
-                "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
-            ]
-        },
-        # "corner_sofa": {
+        # "3_seat_sofas": {
         #     "urls": [
-        #         "https://www.fonq.nl/producten/categorie-hoekbank/",
-        #         "https://www.fonq.nl/producten/categorie-hoekbank/?p=2"
+        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/",
+        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=2",
+        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=3",
+        #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
         #     ]
         # },
+        "corner_sofa": {
+            "urls": [
+                "https://www.fonq.nl/producten/categorie-hoekbank/",
+                "https://www.fonq.nl/producten/categorie-hoekbank/?p=2"
+            ]
+        },
         # "sofa_beds": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-slaapbanken/",
@@ -398,8 +396,6 @@ def main():
 
         for p in products:
             parse_product(p, category)
-        # pool = mp.Pool(mp.cpu_count())
-        # pool.map(parse_product, products)
 
 
 if __name__ == "__main__":
