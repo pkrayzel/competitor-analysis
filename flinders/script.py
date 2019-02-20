@@ -10,82 +10,82 @@ CATEGORIES_URL = {
         #         "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
         #     ]
         # },
-        "3_seat_sofas": {
+        # "3_seat_sofas": {
+        #     "urls": [
+        #         "https://www.flinders.nl/wonen-banken-3-zitsbanken"
+        #     ]
+        # },
+        # "corner_sofa": {
+        #     "urls": [
+        #         "https://www.flinders.nl/wonen-banken-hoekbanken"
+        #     ]
+        # },
+        # "arm_chairs": {
+        #     "urls": [
+        #         "https://www.flinders.nl/wonen-stoelen-fauteuils"
+        #     ]
+        # },
+        # "dining_chairs": {
+        #     "urls": [
+        #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen",
+        #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=2",
+        #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=3",
+        #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=4",
+        #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=5",
+        #     ]
+        # },
+        "beds": {
             "urls": [
-                "https://www.flinders.nl/wonen-banken-3-zitsbanken"
+                "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden",
+                "https://www.flinders.nl/wonen-stoelen-fauteuils?p=2",
+                "https://www.flinders.nl/wonen-stoelen-fauteuils?p=3",
             ]
         },
-        "corner_sofa": {
+        "rugs": {
             "urls": [
-                "https://www.flinders.nl/wonen-banken-hoekbanken"
+                "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden",
+                "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=2",
+                "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=3",
+                "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=4",
+                "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=5",
             ]
         },
-        "arm_chairs": {
+        "pendant_lights": {
             "urls": [
-                "https://www.flinders.nl/wonen-stoelen-fauteuils"
+                "https://www.flinders.nl/wonen-hanglampen",
+                "https://www.flinders.nl/wonen-hanglampen?p=2",
+                "https://www.flinders.nl/wonen-hanglampen?p=3",
+                "https://www.flinders.nl/wonen-hanglampen?p=4",
+                "https://www.flinders.nl/wonen-hanglampen?p=5",
             ]
         },
-        "dining_chairs": {
+        "wall_lights": {
             "urls": [
-                "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen",
-                "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=2",
-                "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=3",
-                "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=4",
-                "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen?p=5",
+                "https://www.flinders.nl/wonen-wandlampen",
+                "https://www.flinders.nl/wonen-wandlampen?p=2",
+                "https://www.flinders.nl/wonen-wandlampen?p=3",
+                "https://www.flinders.nl/wonen-wandlampen?p=4",
+                "https://www.flinders.nl/wonen-wandlampen?p=5",
             ]
         },
-        # "beds": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden",
-        #         "https://www.flinders.nl/wonen-stoelen-fauteuils?p=2",
-        #         "https://www.flinders.nl/wonen-stoelen-fauteuils?p=3",
-        #     ]
-        # },
-        # "rugs": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden",
-        #         "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=2",
-        #         "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=3",
-        #         "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=4",
-        #         "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden?p=5",
-        #     ]
-        # },
-        # "pendant_lights": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-hanglampen",
-        #         "https://www.flinders.nl/wonen-hanglampen?p=2",
-        #         "https://www.flinders.nl/wonen-hanglampen?p=3",
-        #         "https://www.flinders.nl/wonen-hanglampen?p=4",
-        #         "https://www.flinders.nl/wonen-hanglampen?p=5",
-        #     ]
-        # },
-        # "wall_lights": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-wandlampen",
-        #         "https://www.flinders.nl/wonen-wandlampen?p=2",
-        #         "https://www.flinders.nl/wonen-wandlampen?p=3",
-        #         "https://www.flinders.nl/wonen-wandlampen?p=4",
-        #         "https://www.flinders.nl/wonen-wandlampen?p=5",
-        #     ]
-        # },
-        # "floor_lights": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-vloerlampen",
-        #         "https://www.flinders.nl/wonen-vloerlampen?p=2",
-        #         "https://www.flinders.nl/wonen-vloerlampen?p=3",
-        #         "https://www.flinders.nl/wonen-vloerlampen?p=4",
-        #         "https://www.flinders.nl/wonen-vloerlampen?p=5",
-        #     ]
-        # },
-        # "table_lights": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-tafellampen",
-        #         "https://www.flinders.nl/wonen-tafellampen?p=2",
-        #         "https://www.flinders.nl/wonen-tafellampen?p=3",
-        #         "https://www.flinders.nl/wonen-tafellampen?p=4",
-        #         "https://www.flinders.nl/wonen-tafellampen?p=5",
-        #     ]
-        # },
+        "floor_lights": {
+            "urls": [
+                "https://www.flinders.nl/wonen-vloerlampen",
+                "https://www.flinders.nl/wonen-vloerlampen?p=2",
+                "https://www.flinders.nl/wonen-vloerlampen?p=3",
+                "https://www.flinders.nl/wonen-vloerlampen?p=4",
+                "https://www.flinders.nl/wonen-vloerlampen?p=5",
+            ]
+        },
+        "table_lights": {
+            "urls": [
+                "https://www.flinders.nl/wonen-tafellampen",
+                "https://www.flinders.nl/wonen-tafellampen?p=2",
+                "https://www.flinders.nl/wonen-tafellampen?p=3",
+                "https://www.flinders.nl/wonen-tafellampen?p=4",
+                "https://www.flinders.nl/wonen-tafellampen?p=5",
+            ]
+        },
 }
 
 
