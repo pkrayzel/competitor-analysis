@@ -22,12 +22,12 @@ CATEGORIES_URL = {
         #         "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
         #     ]
         # },
-        "corner_sofa": {
-            "urls": [
-                "https://www.fonq.nl/producten/categorie-hoekbank/",
-                "https://www.fonq.nl/producten/categorie-hoekbank/?p=2"
-            ]
-        },
+        # "corner_sofa": {
+        #     "urls": [
+        #         "https://www.fonq.nl/producten/categorie-hoekbank/",
+        #         "https://www.fonq.nl/producten/categorie-hoekbank/?p=2"
+        #     ]
+        # },
         # "sofa_beds": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-slaapbanken/",
@@ -37,25 +37,25 @@ CATEGORIES_URL = {
         #         "https://www.fonq.nl/producten/categorie-slaapbank/?p=5",
         #     ]
         # },
-        # "arm_chairs": {
-        #     "urls": [
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=2",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=3",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=4",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=5",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=6",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=7",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=8",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=9",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=10",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=11",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=12",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=13",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=14",
-        #         "https://www.fonq.nl/producten/categorie-fauteuil/?p=15",
-        #     ]
-        # },
+        "arm_chairs": {
+            "urls": [
+                "https://www.fonq.nl/producten/categorie-fauteuil/",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=2",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=3",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=4",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=5",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=6",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=7",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=8",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=9",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=10",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=11",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=12",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=13",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=14",
+                "https://www.fonq.nl/producten/categorie-fauteuil/?p=15",
+            ]
+        },
         # "dining_chairs": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-eetkamerstoel/",
