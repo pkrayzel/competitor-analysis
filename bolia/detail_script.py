@@ -62,7 +62,7 @@ def parse_price(product_item, soup):
         print(f"Exception parsing specification for product id {product_item['product_id']} - {e}")
 
 
-def parse_one_product(product_item, category='2_seat_sofas'):
+def parse_one_product(product_item, category):
     product_start = time.time()
         # get detail url
     driver.get(product_item["detail_url"])
@@ -82,7 +82,7 @@ def parse_one_product(product_item, category='2_seat_sofas'):
 
 
 
-def save_output_file(product_item, category=''):
+def save_output_file(product_item, category):
     output_file = open(f'output/{category}/{product_item["product_id"]}.json', 'w')
     json.dump(product_item, output_file)
     output_file.close()
@@ -95,10 +95,9 @@ def main():
             start_time = time.time()
 
             products = get_products_from_file("input/" + filename)
-
-            pool = mp.Pool(mp.cpu_count())
-
-            pool.map(parse_one_product, products)
+            category = filename.replace('bolia_', '').replace('.json', '')
+            for p in products:
+                parse_one_product(p, category)
 
             end_time = time.time()
             difference = end_time - start_time
