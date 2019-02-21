@@ -3,7 +3,7 @@ import json
 
 COMPETITORS_PRODUCT_PER_FILE = [
     "bolia",
-    # "fonq",
+    "fonq",
 
 ]
 
