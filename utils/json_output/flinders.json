@@ -1211,7 +1211,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E14 max 60W, of\n1 x E14 max 11W LED lamp.",
+        "Aanbevolen lichtbron": "1 x E14 max 60W, of1 x E14 max 11W LED lamp.",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Denemarken"
     },
@@ -1955,7 +1955,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, via wanddimmer",
         "Lichtbron": "Meegeleverd",
-        "Aanbevolen lichtbron": "S2: 3 x G9 halogeen 33W\nS1: 6 x G9 halogeen 33W",
+        "Aanbevolen lichtbron": "S2: 3 x G9 halogeen 33WS1: 6 x G9 halogeen 33W",
         "Energielabel": "C",
         "Herkomst": "Itali\u00eb",
         "Opmerking": "Let op: je moet deze lamp zelf in elkaar zetten."
@@ -2263,7 +2263,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "6 x E14 HSGSP/C/UB 46W of \n6 x E14 LED 5W of \n6 x E14 FBT 15W",
+        "Aanbevolen lichtbron": "6 x E14 HSGSP/C/UB 46W of 6 x E14 LED 5W of 6 x E14 FBT 15W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -3197,7 +3197,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W of\n1 x E14 LED 5W",
+        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W of1 x E14 LED 5W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -6943,7 +6943,7 @@
         "Lichtbron": "Meegeleverd",
         "Plafondkapje": "Meegeleverd",
         "Soort lichtbron": "LED",
-        "Aanbevolen lichtbron": "3 x LED 12W 1020lm 2700K +\n2 x LED 16W 1250lm 2700K",
+        "Aanbevolen lichtbron": "3 x LED 12W 1020lm 2700K +2 x LED 16W 1250lm 2700K",
         "Fitting": "LED (ge\u00efntegreerd)",
         "Herkomst": "Itali\u00eb"
     },
@@ -6969,7 +6969,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "5 x E14 HSGSP/C/UB 46 Watt of \n5 x E14 LED 5 Watt of \n5 x E14 FBT 15 Watt.",
+        "Aanbevolen lichtbron": "5 x E14 HSGSP/C/UB 46 Watt of 5 x E14 LED 5 Watt of 5 x E14 FBT 15 Watt.",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -8164,7 +8164,7 @@
         "Aanbevolen lichtbron": "4 x E27 max 75W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb",
-        "Opmerking": "Lichtbronnen los te bestellen.\r\nDimbaar"
+        "Opmerking": "Lichtbronnen los te bestellen.\rDimbaar"
     },
     {
         "product_id": "11311",
@@ -15741,7 +15741,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W of \n1 x E14 LED 5W",
+        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W of 1 x E14 LED 5W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -16710,7 +16710,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1x E27 (\u00d811 cm) max 72W (onderkant)\n1x A60 max 54W (bovenkant)",
+        "Aanbevolen lichtbron": "1x E27 (\u00d811 cm) max 72W (onderkant)1x A60 max 54W (bovenkant)",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -18300,7 +18300,7 @@
         "Bediening": "Aan-/uitschakelaar op armatuur",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E27 LED Reflector 8 Watt. \n1 x E27 PAR20 50 Watt.",
+        "Aanbevolen lichtbron": "1 x E27 LED Reflector 8 Watt. 1 x E27 PAR20 50 Watt.",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -19212,7 +19212,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x LED E14 max. 12W of,\nE14 max. 46W",
+        "Aanbevolen lichtbron": "1 x LED E14 max. 12W of,E14 max. 46W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -20299,7 +20299,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "2x E14 HSGSP/C/UB 46W of,\n2x E14 LED 5W of, \n2x E14 FBT 15W",
+        "Aanbevolen lichtbron": "2x E14 HSGSP/C/UB 46W of,2x E14 LED 5W of, 2x E14 FBT 15W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -21731,7 +21731,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,\nE27 max. 57W",
+        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,E27 max. 57W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -21856,7 +21856,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,\nE27 max. 57W",
+        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,E27 max. 57W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -21930,7 +21930,7 @@
         "Bediening": "Via lichtpunt",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1x LED E27 max. 10W of,\nE27 max. 57W",
+        "Aanbevolen lichtbron": "1x LED E27 max. 10W of,E27 max. 57W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -21953,7 +21953,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Ja, afhankelijk van lichtbron",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,\nE27 max. 57W",
+        "Aanbevolen lichtbron": "1 x LED E27 max. 10W of,E27 max. 57W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -22102,7 +22102,7 @@
         "Merk": "Fatboy",
         "Productsoort": "Fatboy Vloerkleden",
         "Herkomst": "Nederland",
-        "Opmerking": "Los te gebruiken maar ook te koppelen met elkaar d.m.v rode fatboy buttons.\r\nInclusief antsliplaag."
+        "Opmerking": "Los te gebruiken maar ook te koppelen met elkaar d.m.v rode fatboy buttons.\rInclusief antsliplaag."
     },
     {
         "product_id": "60592",
@@ -25419,7 +25419,7 @@
         "Bediening": "Aan-/uitschakelaar op armatuur",
         "Dimbaar": "Nee",
         "Lichtbron": "Meegeleverd",
-        "Aanbevolen lichtbron": "1 x 6W LED. \n3000K-475lm\nIp 20",
+        "Aanbevolen lichtbron": "1 x 6W LED. 3000K-475lmIp 20",
         "Fitting": "LED (ge\u00efntegreerd)",
         "Herkomst": "Itali\u00eb",
         "Opmerking": "Gericht licht met 300 graden draaibare kop. De (\u2205) van de voet is 23 cm. Twee standen lichtintensiteit."
@@ -25873,7 +25873,7 @@
         "Bediening": "Aan-/uitschakelaar op armatuur",
         "Dimbaar": "Nee",
         "Lichtbron": "Meegeleverd",
-        "Aanbevolen lichtbron": "1 x 3W LED. \n3000K-250lm\nIp 20",
+        "Aanbevolen lichtbron": "1 x 3W LED. 3000K-250lmIp 20",
         "Fitting": "LED (ge\u00efntegreerd)",
         "Herkomst": "Itali\u00eb",
         "Opmerking": "Gericht licht met 300 graden draaibare kop. De (\u2205) van de voet is 23 cm. Twee standen lichtintensiteit."
@@ -26099,7 +26099,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E27 HSGSA/C/UB 57W of \n1 x E27 LED Standard 8W of \n1 x E27 FBA 15W",
+        "Aanbevolen lichtbron": "1 x E27 HSGSA/C/UB 57W of 1 x E27 LED Standard 8W of 1 x E27 FBA 15W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -27840,7 +27840,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "3 x E14 HSGSP/C/UB 46W, of\n3 x E14 LED 5W, of \n3 x E14 FBT 15W",
+        "Aanbevolen lichtbron": "3 x E14 HSGSP/C/UB 46W, of3 x E14 LED 5W, of 3 x E14 FBT 15W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -28010,7 +28010,7 @@
         "Bediening": "Aan-/uitschakelaar",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W, of \n1 x E14 LED 5W, of \n1 x E14 FBT 15W",
+        "Aanbevolen lichtbron": "1 x E14 HSGSP/C/UB 46W, of 1 x E14 LED 5W, of 1 x E14 FBT 15W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -28282,7 +28282,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "3 x E14 HSGSP/C/UB 46W, of\n3 x E14 LED 5W, of \n3 x E14 FBT 15W",
+        "Aanbevolen lichtbron": "3 x E14 HSGSP/C/UB 46W, of3 x E14 LED 5W, of 3 x E14 FBT 15W",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Spanje"
     },
@@ -29072,7 +29072,7 @@
         "Bediening": "Dimmer op snoer",
         "Dimbaar": "Ja, via ingebouwde dimmer",
         "Lichtbron": "Meegeleverd",
-        "Aanbevolen lichtbron": "1x LED 41W 2987L 4080lm\n1x LED 16W 3000K 2460lm",
+        "Aanbevolen lichtbron": "1x LED 41W 2987L 4080lm1x LED 16W 3000K 2460lm",
         "Fitting": "LED (ge\u00efntegreerd)",
         "Herkomst": "Itali\u00eb"
     },
@@ -30412,7 +30412,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "3 x E27 HSGSA/C/UB max. 77 W of \n3 x E27 LED standard max. 8W of \n3 x E27 FBA max. 15W",
+        "Aanbevolen lichtbron": "3 x E27 HSGSA/C/UB max. 77 W of 3 x E27 LED standard max. 8W of 3 x E27 FBA max. 15W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -31076,7 +31076,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "3 x E27 HSGSA/C/UB max. 77W of \n3 x E27 LED Standard max. 8W of \n3 x E27 FBA max. 15W",
+        "Aanbevolen lichtbron": "3 x E27 HSGSA/C/UB max. 77W of 3 x E27 LED Standard max. 8W of 3 x E27 FBA max. 15W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -31601,7 +31601,7 @@
         "Bediening": "Aan-/uitschakelaar op armatuur",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E27 LED Reflector max. 8W of,\n1 x E27 PAR20 max. 50W",
+        "Aanbevolen lichtbron": "1 x E27 LED Reflector max. 8W of,1 x E27 PAR20 max. 50W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -33050,7 +33050,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "-1x E14 halogeen van max 28W voor de zwarte en witte versie\n-1x E14 halogeen van max 18W voor de oranje en rode versie",
+        "Aanbevolen lichtbron": "-1x E14 halogeen van max 28W voor de zwarte en witte versie-1x E14 halogeen van max 18W voor de oranje en rode versie",
         "Fitting": "E14 (kleine fitting)",
         "Herkomst": "Itali\u00eb"
     },
@@ -35247,7 +35247,7 @@
         "Bediening": "Aan-/uitschakelaar op armatuur",
         "Dimbaar": "Nee",
         "Lichtbron": "Meegeleverd",
-        "Aanbevolen lichtbron": "1 x 3W LED. \n3000K-250lm\nIp 20",
+        "Aanbevolen lichtbron": "1 x 3W LED. 3000K-250lmIp 20",
         "Fitting": "LED (ge\u00efntegreerd)",
         "Herkomst": "Itali\u00eb",
         "Opmerking": "Aan-/uitschakelaar en twee standen lichtintensiteit. Gericht licht met 300 graden richtbare kop."
@@ -35369,7 +35369,7 @@
         "Bediening": "Aan-/uitschakelaar op snoer",
         "Dimbaar": "Nee",
         "Lichtbron": "Niet meegeleverd",
-        "Aanbevolen lichtbron": "1 x E27 LED Reflector max. 8w of, \n1 x E27 PAR20 max. 50W",
+        "Aanbevolen lichtbron": "1 x E27 LED Reflector max. 8w of, 1 x E27 PAR20 max. 50W",
         "Fitting": "E27 (grote fitting)",
         "Herkomst": "Spanje"
     },
@@ -41631,7 +41631,7 @@
         "Productfamilie": "Hay AAC, Hay About a Chair",
         "Ontwerper": "Hee Welling",
         "Herkomst": "Denemarken",
-        "Opmerking": "Deze Hay About a Chair AAC23 stoel is uitvoerbaar in verschillende stofsoorten. Wij nodigen je graag uit naar Flinders Winkel te komen om de stalen te bekijken. We kunnen je dan ook adviseren over kleuren en stofsoorten. \r\nDe gestoffeerde stoelen worden op maat gemaakt. Hierdoor is de levertijd afwijkend en bedraagt ongeveer 8 weken."
+        "Opmerking": "Deze Hay About a Chair AAC23 stoel is uitvoerbaar in verschillende stofsoorten. Wij nodigen je graag uit naar Flinders Winkel te komen om de stalen te bekijken. We kunnen je dan ook adviseren over kleuren en stofsoorten. \rDe gestoffeerde stoelen worden op maat gemaakt. Hierdoor is de levertijd afwijkend en bedraagt ongeveer 8 weken."
     },
     {
         "product_id": "61165",
@@ -44302,7 +44302,7 @@
         "Productfamilie": "Gubi Gubi 3D",
         "Ontwerper": "Komplot Design",
         "Herkomst": "Denemarken",
-        "Opmerking": "De stoel is gemaakt van HiRek kunststof. HiRek kunststof is geschikt voor buiten. Deze Gubi Gubi 5 chair met eiken onderstel is uitvoerbaar in verschillende stofsoorten. Wij nodigen je graag uit naar Flinders Winkel te komen om de stalen te bekijken. We kunnen je dan ook adviseren over kleuren en stofsoorten. \r\nDe gestoffeerde stoelen worden op maat gemaakt. Hierdoor is de levertijd afwijkend en bedraagt ongeveer 8 weken."
+        "Opmerking": "De stoel is gemaakt van HiRek kunststof. HiRek kunststof is geschikt voor buiten. Deze Gubi Gubi 5 chair met eiken onderstel is uitvoerbaar in verschillende stofsoorten. Wij nodigen je graag uit naar Flinders Winkel te komen om de stalen te bekijken. We kunnen je dan ook adviseren over kleuren en stofsoorten. \rDe gestoffeerde stoelen worden op maat gemaakt. Hierdoor is de levertijd afwijkend en bedraagt ongeveer 8 weken."
     },
     {
         "product_id": "57727",
