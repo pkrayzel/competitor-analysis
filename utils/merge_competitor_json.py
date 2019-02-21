@@ -9,7 +9,8 @@ COMPETITORS = [
     "vtonen",
     "westwingnow",
     "bolia",
-    "fonq"
+    "fonq",
+    "made"
 ]
 
 
