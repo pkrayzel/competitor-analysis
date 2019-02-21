@@ -8,11 +8,11 @@ BOLIA_URL_PREFIX = "https://www.bolia.com"
 
 
 CATEGORIES_URL = {
-        # "2_seat_sofas": {
-        #     "urls": [
-        #         "https://www.bolia.com/nl-nl/banken/alle-banken/?Model=2-zitsbank&Model=2%C2%BD-zitsbank&size=1000"
-        #     ]
-        # },
+        "2_seat_sofas": {
+            "urls": [
+                "https://www.bolia.com/nl-nl/banken/alle-banken/?Model=2-zitsbank&Model=2%C2%BD-zitsbank&size=1000"
+            ]
+        },
         # "3_seat_sofas": {
         #     "urls": [
         #         "https://www.bolia.com/nl-nl/banken/alle-banken/?Category=Banken&Model=3-zitsbank&size=1000"
