@@ -1,0 +1,4125 @@
+{
+  "data": {
+    "productsList": {
+      "edges": [
+        {
+          "node": {
+            "details": {
+              "bedSize": {
+                "value": "Tweepersoons"
+              },
+              "beddingType": {
+                "value": "Flat Sheet"
+              },
+              "colour": [
+                "Wit"
+              ],
+              "colourName": {
+                "value": "Cloud White"
+              },
+              "mainMaterials": [],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Softy 140 X 200cm Brushed Cotton Sheet Set"
+              },
+              "productCare": {
+                "value": "Wassen op 40 graden"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Beddengoed"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "style": [
+                "Everyday"
+              ],
+              "stylePattern": {
+                "value": "met patroon"
+              },
+              "threadCount": {
+                "value": "200"
+              },
+              "toRelease": {
+                "value": "Released"
+              },
+              "yarnType": {
+                "value": "Katoen"
+              }
+            },
+            "dimensions": {
+              "height": {
+                "value": "140"
+              },
+              "metaTitle": {
+                "value": "Softy 140 x 200cm Brushed Cotton Sheet Set, Cloud White"
+              },
+              "weightFrontend": {
+                "value": "N/A"
+              },
+              "width": {
+                "value": "200"
+              }
+            },
+            "price": {
+              "includingTax": 1900
+            },
+            "sku": "SSTSFY008WHI-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Licht hout"
+              ],
+              "colourName": {
+                "value": "Natural Mango Wood And Metal"
+              },
+              "mainMaterials": [
+                "Mangohout"
+              ],
+              "material": [
+                "Mangohout"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Lucien Bedside"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Nachtkastje"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "storage": {
+                "value": "1"
+              },
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "45"
+              },
+              "height": {
+                "value": "55"
+              },
+              "metaTitle": {
+                "value": "Lucien nachtkastje, mangohout"
+              },
+              "packagingDimensions": {
+                "value": "53 x 55 x 61 cm"
+              },
+              "weight": {
+                "value": "19.0000"
+              },
+              "weightFrontend": {
+                "value": "19kg"
+              },
+              "width": {
+                "value": "51"
+              }
+            },
+            "price": {
+              "includingTax": 31900
+            },
+            "sku": "STBLUC012MGO-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Messing",
+                "Zwart",
+                "Donker hout"
+              ],
+              "colourName": {
+                "value": "Black Metal"
+              },
+              "mainMaterials": [
+                "Metaal",
+                "Mangohout"
+              ],
+              "material": [],
+              "parentName": {
+                "value": "Farringdon Hall Stand"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Kapstok"
+              },
+              "room": [
+                "Gang"
+              ],
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "metaTitle": {
+                "value": "Farringdon Hall Stand, Perforated Metal and Brass"
+              },
+              "weight": {
+                "value": "26.0000"
+              }
+            },
+            "price": {
+              "includingTax": 37900
+            },
+            "sku": "STOFAR003BLK-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Grijs",
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "Raspberry And Coral"
+              },
+              "fabricComposition": {
+                "value": "68% viscose, 32% polyester"
+              },
+              "finish": {
+                "value": "Mat"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "TESTOING"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Kussen"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "stylePattern": {
+                "value": "met patroon"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "additionalDimensions": {
+                "value": "Verpakkingsafmetingen: B50 x H50cm"
+              },
+              "height": {
+                "value": "50"
+              },
+              "metaTitle": {
+                "value": "Lulu rechthoekig kussen 50 x 50cm,  framboos en koraalkleur"
+              },
+              "packagingDimensions": {
+                "value": "B50 x H50cm"
+              },
+              "weight": {
+                "value": "0.7500"
+              },
+              "weightFrontend": {
+                "value": "0.75kg"
+              },
+              "width": {
+                "value": "50"
+              }
+            },
+            "price": {
+              "includingTax": 1000
+            },
+            "sku": "TESTPRODS005PTN-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Wit"
+              ],
+              "colourName": {
+                "value": "White"
+              },
+              "fabricComposition": {
+                "value": "100% katoen"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Antalya NL"
+              },
+              "productCare": {
+                "value": "Wassen op 40 graden. Koud drogen."
+              },
+              "productManufacturingOrigin": {
+                "value": "Europe"
+              },
+              "productType": {
+                "value": "handdoek set"
+              },
+              "room": [
+                "Badkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "stylePattern": {
+                "value": "met patroon"
+              },
+              "toRelease": {
+                "value": "Released"
+              },
+              "towelSize": {
+                "value": "2 x Badlaken (100 x 150cm)"
+              },
+              "towelWeight": {
+                "value": "550 g/m2"
+              },
+              "yarnType": {
+                "value": "Katoen"
+              }
+            },
+            "dimensions": {
+              "height": {
+                "value": "100"
+              },
+              "metaTitle": {
+                "value": "Antalya badlakens, katoen, 550 g/m2, wit"
+              },
+              "packagingDimensions": {
+                "value": "39 x 31 x 18cm"
+              },
+              "weight": {
+                "value": "2.4000"
+              },
+              "weightFrontend": {
+                "value": "2.4"
+              },
+              "width": {
+                "value": "150"
+              }
+            },
+            "price": {
+              "includingTax": 3900
+            },
+            "sku": "TOWATA003WHI-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Geel",
+                "Groen"
+              ],
+              "colourName": {
+                "value": "Chartreuse"
+              },
+              "countryOfManufacture": {
+                "value": "Portugal"
+              },
+              "fabricComposition": {
+                "value": "100% Cotton"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Aire NL"
+              },
+              "productCare": {
+                "value": "Wassen op 40 graden. Koud drogen."
+              },
+              "productManufacturingOrigin": {
+                "value": "Portugal"
+              },
+              "productType": {
+                "value": "handdoek set"
+              },
+              "room": [
+                "Badkamer"
+              ],
+              "style": [
+                "Everyday"
+              ],
+              "stylePattern": {
+                "value": "effen"
+              },
+              "toRelease": {
+                "value": "Released"
+              },
+              "towelSize": {
+                "value": "2 x Handdoeken"
+              },
+              "towelWeight": {
+                "value": "550 g/m2"
+              },
+              "yarnType": {
+                "value": "Katoen"
+              }
+            },
+            "dimensions": {
+              "height": {
+                "value": "50"
+              },
+              "metaTitle": {
+                "value": "Aire 2 x ongedraaid 550grams handdoek, chartreusegeel"
+              },
+              "packagingDimensions": {
+                "value": "23 x 23 x 10cm"
+              },
+              "weight": {
+                "value": "0.7000"
+              },
+              "weightFrontend": {
+                "value": "0.7"
+              },
+              "width": {
+                "value": "90"
+              }
+            },
+            "price": {
+              "includingTax": 1900
+            },
+            "sku": "TWLAIR0037YEL-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Donkerturkoois"
+              ],
+              "colourName": {
+                "value": "Ocean Teal"
+              },
+              "fabricComposition": {
+                "value": "100% Cotton"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Aire NL"
+              },
+              "productCare": {
+                "value": "Wassen op 40 graden. Koud drogen."
+              },
+              "productManufacturingOrigin": {
+                "value": "Portugal"
+              },
+              "productType": {
+                "value": "handdoek set"
+              },
+              "room": [
+                "Badkamer"
+              ],
+              "style": [
+                "Everyday"
+              ],
+              "stylePattern": {
+                "value": "effen"
+              },
+              "toRelease": {
+                "value": "Released"
+              },
+              "towelSize": {
+                "value": "2 x Handdoeken"
+              },
+              "towelWeight": {
+                "value": "550 g/m2"
+              },
+              "yarnType": {
+                "value": "Katoen"
+              }
+            },
+            "dimensions": {
+              "height": {
+                "value": "50"
+              },
+              "metaTitle": {
+                "value": "Aire 2 x ongedraaid 550grams handdoek, azuurblauw"
+              },
+              "packagingDimensions": {
+                "value": "23 x 23 x 10cm"
+              },
+              "weight": {
+                "value": "0.7000"
+              },
+              "weightFrontend": {
+                "value": "0.7"
+              },
+              "width": {
+                "value": "90"
+              }
+            },
+            "price": {
+              "includingTax": 1900
+            },
+            "sku": "TWLAIR034TEA-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Donkerturkoois"
+              ],
+              "colourName": {
+                "value": "Ocean Teal"
+              },
+              "fabricComposition": {
+                "value": "100% Cotton"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Aire NL"
+              },
+              "productCare": {
+                "value": "Wassen op 40 graden. Koud drogen."
+              },
+              "productManufacturingOrigin": {
+                "value": "Portugal"
+              },
+              "productType": {
+                "value": "handdoek set"
+              },
+              "room": [
+                "Badkamer"
+              ],
+              "style": [
+                "Everyday"
+              ],
+              "stylePattern": {
+                "value": "effen"
+              },
+              "toRelease": {
+                "value": "Released"
+              },
+              "towelSize": {
+                "value": "2 x Badlaken (100 x 150cm)"
+              },
+              "towelWeight": {
+                "value": "550 g/m2"
+              },
+              "yarnType": {
+                "value": "Katoen"
+              }
+            },
+            "dimensions": {
+              "height": {
+                "value": "100"
+              },
+              "metaTitle": {
+                "value": "Aire 2 x ongedraaid 550grams badlaken, azuurblauw"
+              },
+              "packagingDimensions": {
+                "value": "39 x 31 x 18cm"
+              },
+              "weight": {
+                "value": "2.4000"
+              },
+              "weightFrontend": {
+                "value": "2.4"
+              },
+              "width": {
+                "value": "150"
+              }
+            },
+            "price": {
+              "includingTax": 4500
+            },
+            "sku": "TWLAIR036TEA-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Wit"
+              ],
+              "colourName": {
+                "value": "White"
+              },
+              "fabricComposition": {
+                "value": "95% Polyester, 5% Coolmax"
+              },
+              "filling": {
+                "value": "Natural fillings"
+              },
+              "firmness": {
+                "value": "Middelstevig"
+              },
+              "guarantee": {
+                "value": "2 jaar"
+              },
+              "mainMaterials": [
+                "Polyester"
+              ],
+              "material": [
+                "Polyester"
+              ],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "mattressSupport": {
+                "value": "medium tot hard"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Oppala 1500 Pocket Pillow Top Memory foam Mattress NL"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "UK"
+              },
+              "productType": {
+                "value": "Matras"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "1500 veren, traagschuim, topdeklaag, 7 comfort lagen, stiksels aan de zijkanten, omdraaien niet nodig, middelstevig"
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "200"
+              },
+              "height": {
+                "value": "24"
+              },
+              "metaTitle": {
+                "value": "Oppala 1500 Pocket kingsize matras met topdeklaag 160 x 200cm, wit"
+              },
+              "packagingDimensions": {
+                "value": "24 x 160 x 200cm"
+              },
+              "weight": {
+                "value": "56.0000"
+              },
+              "weightFrontend": {
+                "value": "56"
+              },
+              "width": {
+                "value": "160"
+              }
+            },
+            "price": {
+              "includingTax": 64900
+            },
+            "sku": "MATWIL15160L-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Niet nodig"
+              },
+              "colour": [
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "Royal Blue"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% polyester"
+              },
+              "mainMaterials": [
+                "Fluweel"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Lux Velvet Floor Cushion"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productFilling": {
+                "value": "Polystyreen parels"
+              },
+              "productType": {
+                "value": "Poef"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "60"
+              },
+              "height": {
+                "value": "30"
+              },
+              "metaTitle": {
+                "value": "Lux fluwelen vloerkussen, violetblauw fluweel"
+              },
+              "packagingDimensions": {
+                "value": "Parcel H30 x W60 x D60cm"
+              },
+              "weight": {
+                "value": "4.0000"
+              },
+              "width": {
+                "value": "60"
+              }
+            },
+            "price": {
+              "includingTax": 8900
+            },
+            "sku": "OTOLUX022BLU-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Niet nodig"
+              },
+              "colour": [
+                "Meerkleurig"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% PET Yarn"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [],
+              "parentName": {
+                "value": "Pryia Handcrafted Cocoon Bean Bag, Braided Weave "
+              },
+              "productCare": {
+                "value": "Veeg met een vochtige doek."
+              },
+              "productFilling": {
+                "value": "Polystyreen parels"
+              },
+              "productType": {
+                "value": "Poef"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "specialFeatures": {
+                "value": "Handgemaakt en waterafstotend voor buitengebruik. Vanwege het handgemaakte karakter van dit product is elk item anders. De variaties in afwerking horen bij het karakter en uiterlijk van het product."
+              },
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "80"
+              },
+              "height": {
+                "value": "45"
+              },
+              "metaTitle": {
+                "value": "Pryia poef, blauwgroen en vermiljoenrood"
+              },
+              "packagingDimensions": {
+                "value": "1:45 x 80 x 80 cm"
+              },
+              "weight": {
+                "value": "5.0000"
+              },
+              "width": {
+                "value": "80"
+              }
+            },
+            "price": {
+              "includingTax": 17900
+            },
+            "sku": "OTOPRY002MUL-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Grey Stripes"
+              },
+              "fabricComposition": {
+                "value": "Bekaert 7"
+              },
+              "filling": {
+                "value": "Natural fillings"
+              },
+              "finish": {
+                "value": "Niet beschikbaar"
+              },
+              "firmness": {
+                "value": "Stevig"
+              },
+              "guarantee": {
+                "value": "2 jaar"
+              },
+              "mainMaterials": [
+                "Wol"
+              ],
+              "material": [
+                "Polyester",
+                "Katoen"
+              ],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Kavaro 2000 Pocket Natural NL"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "UK"
+              },
+              "productType": {
+                "value": "Matras"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "3000 veren, 10 comfort lagen, katoen, wol, zijde, kasjmier, omdraaien, stevig"
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "200"
+              },
+              "height": {
+                "value": "33"
+              },
+              "metaTitle": {
+                "value": "Kavaro 3000 pocket natural kingsize matras 160 x 200cm, grijze streep"
+              },
+              "packagingDimensions": {
+                "value": "24 x 160 x 200cm"
+              },
+              "weight": {
+                "value": "81.0000"
+              },
+              "weightFrontend": {
+                "value": "81"
+              },
+              "width": {
+                "value": "160"
+              }
+            },
+            "price": {
+              "includingTax": 94900
+            },
+            "sku": "MATMAL15160L-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, montage is deels nodig"
+              },
+              "colour": [
+                "Grijs",
+                "Donker hout"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Eiken",
+                "Hout"
+              ],
+              "material": [
+                "Massief eiken",
+                "Eikenfineer",
+                "MDF"
+              ],
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "media Unit"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "storage": {
+                "value": "1"
+              },
+              "style": [
+                "Retro"
+              ],
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Jenson%20Media%20Unit/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "48"
+              },
+              "height": {
+                "value": "50"
+              },
+              "metaTitle": {
+                "value": "Jenson mediameubel, donker eiken en grijs"
+              },
+              "packagingDimensions": {
+                "value": "H45 x W59 x D131cm "
+              },
+              "weight": {
+                "value": "37.0000"
+              },
+              "weightFrontend": {
+                "value": "37 kg"
+              },
+              "width": {
+                "value": "120"
+              }
+            },
+            "price": {
+              "includingTax": 49900
+            },
+            "sku": "AVUJNS061GRY-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Grijs",
+                "Licht hout"
+              ],
+              "colourName": {
+                "value": "Oak And Grey"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Eiken",
+                "Metaal",
+                "Hout"
+              ],
+              "material": [
+                "Polywood",
+                "Melamine",
+                "MDF"
+              ],
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Ladekast"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "40"
+              },
+              "height": {
+                "value": "100"
+              },
+              "metaTitle": {
+                "value": "Lincoln ladekast, eiken en grijs"
+              },
+              "weight": {
+                "value": "70.0000"
+              },
+              "width": {
+                "value": "110"
+              }
+            },
+            "price": {
+              "includingTax": 47900
+            },
+            "sku": "CODLIN002GRY-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Dark Stain Oak And Grey"
+              },
+              "mainMaterials": [
+                "Eiken",
+                "Hout"
+              ],
+              "material": [
+                "Gehard glas",
+                "Massief eiken"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Aveiro Media Unit, Oak"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "media Unit"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Modern"
+              ],
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Aveiro%20Media%20Unit/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "42"
+              },
+              "height": {
+                "value": "48"
+              },
+              "metaTitle": {
+                "value": "Aveiro mediameubel, donkergebeitst eikenhout en grijs"
+              },
+              "packagingDimensions": {
+                "value": "48 x 54 x 161 cm"
+              },
+              "weight": {
+                "value": "43.0000"
+              },
+              "weightFrontend": {
+                "value": "43 kg"
+              },
+              "width": {
+                "value": "150"
+              }
+            },
+            "price": {
+              "includingTax": 44900
+            },
+            "sku": "TVUAVO030GRY-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, montage is deels nodig"
+              },
+              "colour": [
+                "Zwart"
+              ],
+              "colourName": {
+                "value": "Black And Mango Wood"
+              },
+              "finish": {
+                "value": "Donkergebeitst"
+              },
+              "mainMaterials": [
+                "Mangohout"
+              ],
+              "material": [
+                "Staal met poedercoating",
+                "Mangohout"
+              ],
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Kapstok"
+              },
+              "room": [
+                "Gang"
+              ],
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "39"
+              },
+              "height": {
+                "value": "180"
+              },
+              "metaTitle": {
+                "value": "Layne groot halmeubel, zwart en mangohout"
+              },
+              "packagingDimensions": {
+                "value": "1:81 x 130 x 50cm "
+              },
+              "weight": {
+                "value": "51.0000"
+              },
+              "width": {
+                "value": "110"
+              }
+            },
+            "price": {
+              "includingTax": 49900
+            },
+            "sku": "STOLYN006BLA-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Wit"
+              ],
+              "fabricComposition": {
+                "value": "Gewatteerde, gebreide bovenzijde uit 100% polyester"
+              },
+              "filling": {
+                "value": "Hypoallergene, zacht gewatteerde bovenzijde. 2,5 cm verkoelend traagschuim, 2,5 cm MadeFlex: verend, verkoelend gelschuim. 20 cm ondersteunende schuimbasis."
+              },
+              "firmness": {
+                "value": "Stevig"
+              },
+              "foamType": {
+                "value": "Zachtschuim (polyurethaan)"
+              },
+              "guarantee": {
+                "value": "10 jaar"
+              },
+              "mainMaterials": [],
+              "material": [],
+              "mattressSize": {
+                "value": "Superkingsize (180 x 200 cm)"
+              },
+              "mattressSupport": {
+                "value": "hard"
+              },
+              "parentName": {
+                "value": "The Memory One Mattress, Which? Best Buy 2018 NL"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "UK"
+              },
+              "productType": {
+                "value": "Matras"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "Orthopedisch traagschuim helpt het lichaamsgewicht te ondersteunen en verlicht spierpijn. Stevige, ondersteunende basis."
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "200"
+              },
+              "height": {
+                "value": "25"
+              },
+              "metaTitle": {
+                "value": "The Memory Foam One, superkingsize matras "
+              },
+              "packagingDimensions": {
+                "value": "1: H190 x W37 x D37cm"
+              },
+              "width": {
+                "value": "180"
+              }
+            },
+            "price": {
+              "includingTax": 79900
+            },
+            "sku": "MATTOM012WHI-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Pavilion Grey"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Edwin Euro Kingsize Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bedden"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "style": [
+                "Retro"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "232"
+              },
+              "height": {
+                "value": "107"
+              },
+              "metaTitle": {
+                "value": "Edwin kingsizebed, paviljoengrijs"
+              },
+              "packagingDimensions": {
+                "value": "Parcel 1:\tH17 x W96.5\tx L177cm  Parcel 2:\tH24 x W28 x L216cm  Parcel 3: H22\tx W28 x L174cm  "
+              },
+              "weight": {
+                "value": "59.0000"
+              },
+              "weightFrontend": {
+                "value": "59 kg"
+              },
+              "width": {
+                "value": "181"
+              }
+            },
+            "price": {
+              "includingTax": 54900
+            },
+            "sku": "BEDEDW003GRY-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Cool Grey"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Stof",
+                "Hout"
+              ],
+              "material": [
+                "Massief eiken",
+                "Massief berkenhout",
+                "Samengestelde / gemixte materialen"
+              ],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Roscoe Euro  King Size Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bedden"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "slatHeight": {
+                "value": "31cm"
+              },
+              "style": [
+                "Retro"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "215"
+              },
+              "height": {
+                "value": "114"
+              },
+              "metaTitle": {
+                "value": "Roscoe kingsizebed, cool grijs"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 23 x 122 x 181 cm  <br>Pakket 2: 13 x 24 x 208 cm"
+              },
+              "weight": {
+                "value": "44.0000"
+              },
+              "width": {
+                "value": "180"
+              }
+            },
+            "price": {
+              "includingTax": 54900
+            },
+            "sku": "BEDROS010GRY-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Wit",
+                "Grijs"
+              ],
+              "fabricComposition": {
+                "value": "Gewatteerde, gebreide bovenzijde uit 100% polyester"
+              },
+              "filling": {
+                "value": "Hypoallergene, zacht gewatteerde bovenzijde. 2,5 cm ademend, natuurlijk katoen. 2,5 cm verkoelend traagschuim, 2,5 cm MadeFlex: verend, verkoelend gelschuim. 1800 minipocketveren. 2,5 cm Visco traagschuim. 14 cm ondersteunende schuimbasis."
+              },
+              "firmness": {
+                "value": "Middelstevig"
+              },
+              "guarantee": {
+                "value": "10 jaar"
+              },
+              "mainMaterials": [
+                "Katoen"
+              ],
+              "material": [],
+              "mattressSize": {
+                "value": "EU eenpersoons (90 x 200 cm)"
+              },
+              "mattressSupport": {
+                "value": "medium tot hard"
+              },
+              "parentName": {
+                "value": "The Natural One Mattress NL"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "UK"
+              },
+              "productType": {
+                "value": "Matras"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "Natuurlijk katoen helpt bij vochtcontrole en verspreidt warmte. Luchtdoorlatende pocketveren voor minder beweging. Sterke, ondersteunende basis voor een steviger gevoel. Drukverlagend en verlicht rugklachten en gewrichtspijn. Omdraaien niet nodig."
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "190"
+              },
+              "height": {
+                "value": "25"
+              },
+              "metaTitle": {
+                "value": "The Natural One, eenpersoonsmatras"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 100 cm  x 37 cm x 37 cm"
+              },
+              "width": {
+                "value": "90"
+              }
+            },
+            "price": {
+              "includingTax": 54900
+            },
+            "sku": "MATTNO005WHI-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Roze"
+              ],
+              "colourName": {
+                "value": "Old Rose Velvet"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Schuim"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "legFinish": {
+                "value": "Donker gebeitst afgewerkt met koperen kapjes"
+              },
+              "mainMaterials": [
+                "Fluweel"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Margot Seating NL"
+              },
+              "productType": {
+                "value": "Fauteuil"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "73"
+              },
+              "height": {
+                "value": "72"
+              },
+              "metaTitle": {
+                "value": "Margot fauteuil, oudroze fluweel"
+              },
+              "packagingDimensions": {
+                "value": "55 x 62 x 76cm"
+              },
+              "size": {
+                "value": "Fauteuils"
+              },
+              "weight": {
+                "value": "8.0000"
+              },
+              "weightFrontend": {
+                "value": "8 Kg"
+              },
+              "width": {
+                "value": "77"
+              }
+            },
+            "price": {
+              "includingTax": 54900
+            },
+            "sku": "CHAMGT005PNK-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Bruin"
+              ],
+              "colourName": {
+                "value": "Antique Cognac Leather"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "Anilineleer"
+              },
+              "filling": {
+                "value": "Schuim"
+              },
+              "foamSpecification": {
+                "value": "35 kg/cbm"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Leer"
+              ],
+              "material": [
+                "Gedekverfd leer",
+                "Bewerkt hout"
+              ],
+              "numberOfSeats": {
+                "value": "1-zits"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "NEVADA Leather Armchair"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Fauteuil"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Retro"
+              ],
+              "suspension": {
+                "value": "springveren / singelbanden"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "42 x 13 x 84 cm"
+              },
+              "depth": {
+                "value": "84"
+              },
+              "height": {
+                "value": "78"
+              },
+              "metaTitle": {
+                "value": "Nevada fauteuil, antiekcognac leer"
+              },
+              "packagingDimensions": {
+                "value": "65 x 82 x 88 cm"
+              },
+              "productSeatDimensions": {
+                "value": "44 x 53 x 53 "
+              },
+              "seatDimensions": {
+                "value": "44 x 53 x 53 cm"
+              },
+              "weight": {
+                "value": "28.0000"
+              },
+              "weightFrontend": {
+                "value": "28 kg"
+              },
+              "width": {
+                "value": "79"
+              }
+            },
+            "price": {
+              "includingTax": 64900
+            },
+            "sku": "SOFNEV001BRO-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "capacity": {
+                "value": "25 liter"
+              },
+              "colour": [
+                "Donkerblauw",
+                "Beige"
+              ],
+              "colourName": {
+                "value": "Beige And White"
+              },
+              "finish": {
+                "value": "Gewaxte afwerking"
+              },
+              "mainMaterials": [
+                "Katoen",
+                "Stof"
+              ],
+              "material": [
+                "Katoen",
+                "Stof"
+              ],
+              "productType": {
+                "value": "Tas"
+              },
+              "room": [],
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "additionalDimensions": {
+                "value": "Opening van tas 27 cm Hoogte: uitgestrekt 57 cm, van onderkant naar handgreep 49 cm"
+              },
+              "depth": {
+                "value": "15"
+              },
+              "fillWeightKg": {
+                "value": "0.8400"
+              },
+              "height": {
+                "value": "42"
+              },
+              "metaTitle": {
+                "value": "Lismore rugzak van gewaxed canvas, steengrijs"
+              },
+              "packagingDimensions": {
+                "value": "H53 x W50 x D25 cm "
+              },
+              "weight": {
+                "value": "0.5000"
+              },
+              "width": {
+                "value": "30"
+              }
+            },
+            "price": {
+              "includingTax": 8900
+            },
+            "sku": "ACCLIS003MUL-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "bedSize": {
+                "value": "Eenpersoons"
+              },
+              "childAge": {
+                "value": "6-12 jaar"
+              },
+              "colour": [
+                "Wit"
+              ],
+              "colourName": {
+                "value": "White"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Hout"
+              ],
+              "material": [
+                "Bewerkt hout"
+              ],
+              "mattressIncluded": {
+                "value": "Nee"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Rubix Cabin Station"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "hoogslaper"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "storage": {
+                "value": "1"
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "199"
+              },
+              "height": {
+                "value": "115"
+              },
+              "metaTitle": {
+                "value": "Rubix hoogslaper met opbergsysteem, wit"
+              },
+              "storageDimensions": {
+                "value": "Cabinet 1: H73 x W86 x D44cm<br> Cabinet 2: H73 x W95 x D44cm<br> Pull Out Desk: H73 x W47 x D90cm<br>"
+              },
+              "weight": {
+                "value": "255.0000"
+              },
+              "weightFrontend": {
+                "value": "255 kg"
+              },
+              "width": {
+                "value": "110"
+              }
+            },
+            "price": {
+              "includingTax": 64900
+            },
+            "sku": "BEDRBX003ZOK-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Bruin"
+              ],
+              "colourName": {
+                "value": "Dark Stain Oak"
+              },
+              "finish": {
+                "value": "Donkergebeitst eikenhout"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Eiken",
+                "Hout"
+              ],
+              "material": [
+                "Massief eiken",
+                "Eikenfineer"
+              ],
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Ladekast"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "storage": {
+                "value": "1"
+              },
+              "style": [
+                "Retro"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "50"
+              },
+              "height": {
+                "value": "95"
+              },
+              "metaTitle": {
+                "value": "Ada ladekast met 5 lades, donkergebeitst eiken"
+              },
+              "packagingDimensions": {
+                "value": "H94 x W63.5 x D109cm"
+              },
+              "weight": {
+                "value": "70.0000"
+              },
+              "width": {
+                "value": "95"
+              }
+            },
+            "price": {
+              "includingTax": 89900
+            },
+            "sku": "CODADA006DOK-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Licht hout"
+              ],
+              "colourName": {
+                "value": "Oak"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [],
+              "material": [
+                "Eiken",
+                "Bewerkt hout"
+              ],
+              "mattressSize": {
+                "value": "EU tweepersoons (140 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Fonteyn Euro Double Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bedden"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "Dit bed is van hout. Enige afwijking in de kleur en afwerking is normaal."
+              },
+              "style": [],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "additionalDimensions": {
+                "value": "Imballaggio, 2 colli. Box 1 : 161 x 90 x 16 cm,  Box2 : 199.5 x 34.5 x 28 cm"
+              },
+              "depth": {
+                "value": "215"
+              },
+              "height": {
+                "value": "98"
+              },
+              "metaTitle": {
+                "value": "Fonteyn tweepersoonsbed 140 x 200cm, eiken"
+              },
+              "packagingDimensions": {
+                "value": "Box 1 : 161 x 90 x 16 cm  Box2 : 199.5 x 34.5 x 28 cm"
+              },
+              "weight": {
+                "value": "63.0000"
+              },
+              "weightFrontend": {
+                "value": "63kg"
+              },
+              "width": {
+                "value": "150"
+              }
+            },
+            "price": {
+              "includingTax": 74900
+            },
+            "sku": "BEDFON032ZOK-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Neutraal"
+              ],
+              "colourName": {
+                "value": "Biscuit Beige"
+              },
+              "fabricComposition": {
+                "value": "52% Viscose 18% Polyester 15% Katoen 15% Linnen"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [
+                "Bewerkt hout",
+                "Samengestelde / gemixte materialen"
+              ],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Finlay 160cm X 200cm Euro King Size Bed With Storage"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productFrameFinish": {
+                "value": "Massief hout,Multiplex"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bedden"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "specialFeatures": {
+                "value": "De opbergruimte onder het bed heeft een eenvoudig open- en sluitsysteem"
+              },
+              "storage": {
+                "value": "1"
+              },
+              "style": [
+                "Klassiek"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "217"
+              },
+              "height": {
+                "value": "120"
+              },
+              "metaTitle": {
+                "value": "Finlay kingsize bed van 160 x 200cm met bergruimte, biscuitbeige"
+              },
+              "packagingDimensions": {
+                "value": "Colis 1 - 200 x 30 x 40 cm <br>  Colis 2 - 203 x 10 x 154 cm <br>  Colis 3 - 170 x 13.5 x 122 cm"
+              },
+              "weight": {
+                "value": "89.0000"
+              },
+              "weightFrontend": {
+                "value": "89 kg"
+              },
+              "width": {
+                "value": "173"
+              }
+            },
+            "price": {
+              "includingTax": 69900
+            },
+            "sku": "BEDFNLY27BEI-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Bruin"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "Aniline leer"
+              },
+              "filling": {
+                "value": "schuim"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Leer"
+              ],
+              "material": [],
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "hoekbank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Modern"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "227"
+              },
+              "height": {
+                "value": "78"
+              },
+              "metaTitle": {
+                "value": "Monterosso hoekbank met hoek rechts, walnootbruin leer"
+              },
+              "packagingDimensions": {
+                "value": "1: 63 x 155 x 100cm <br> 2. 63 x 161 x 100cm  <br> 3. 63 x 229 x 100cm "
+              },
+              "productSeatDimensions": {
+                "value": "46 x 265 x 60/120/191 cm"
+              },
+              "weight": {
+                "value": "142.0000"
+              },
+              "width": {
+                "value": "344"
+              }
+            },
+            "price": {
+              "includingTax": 289900
+            },
+            "sku": "SOFMNT022BRO-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "80% gemonteerd. Voorwiel, pedalen, stuur, stuurpen en zadel moeten nog gemonteerd worden."
+              },
+              "assemblyPocess": {
+                "value": "80% assembled. Front wheel, pedals, handlebar to stem and saddle need to be assembled. We strongly recommend you take your bike to a bike store to be assembled by a professional mechanic. "
+              },
+              "bikeBottomBracket": {
+                "value": "103.0000"
+              },
+              "bikeHandlebarType": {
+                "value": "Stuurlegering"
+              },
+              "bikeHandlebarWidth": {
+                "value": "470.0000"
+              },
+              "bikeRiderHeight": {
+                "value": "5'4 - 5'9ft (163 - 175 cm)"
+              },
+              "bikeRiderHeightFiler": {
+                "value": "173,170,168,163"
+              },
+              "bikeSpokes": {
+                "value": "Roestvrij staal"
+              },
+              "bikesSafety": {
+                "value": "Voldoet aan VK/EU-normen"
+              },
+              "brakeType": {
+                "value": "Aluminium remhoef"
+              },
+              "care": {
+                "value": "Het is belangrijk om je fiets elke maand of om de 15-20 ritjes te poetsen en los vuil te verwijderen met een droge doek. Gebruik gewoon zeepsop of een veilig schoonmaakproduct van erkende fietsenwinkels."
+              },
+              "colour": [
+                "Goud",
+                "Zwart"
+              ],
+              "colourName": {
+                "value": "Matt Black"
+              },
+              "finish": {
+                "value": "Glans"
+              },
+              "forkMaterial": {
+                "value": "Staal met hoge sterkte"
+              },
+              "guarantee": {
+                "value": "1 jaar - voor vork en frame"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Staal"
+              ],
+              "material": [
+                "Staal"
+              ],
+              "numberOfSeats": {
+                "value": "1-zits"
+              },
+              "pedalMaterial": {
+                "value": "Legering"
+              },
+              "productFrameFinish": {
+                "value": "Mat"
+              },
+              "productType": {
+                "value": "Fiets"
+              },
+              "room": [
+                "Tuin"
+              ],
+              "specialFeatures": {
+                "value": "geprinte handleiding beschikbaar op aanvraag"
+              },
+              "style": [
+                "Industrieel",
+                "Everyday"
+              ],
+              "toRelease": {
+                "value": "Released"
+              },
+              "wheelDimensions": {
+                "value": "70 x 2.5"
+              }
+            },
+            "dimensions": {
+              "bikeRimDiameterMm": {
+                "value": "700.0000"
+              },
+              "bikeTyreWidthMm": {
+                "value": "25.0000"
+              },
+              "frameDimensions": {
+                "value": "52.0000"
+              },
+              "metaTitle": {
+                "value": "Colwyn singlespeed stadsfiets, matzwart en goud, voor fietser 163 - 175 cm"
+              },
+              "weight": {
+                "value": "11.0000"
+              }
+            },
+            "price": {
+              "includingTax": 49900
+            },
+            "sku": "BIKCWN002BLA-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "80% gemonteerd. Voorwiel, pedalen, stuur, stuurpen en zadel moeten nog gemonteerd worden."
+              },
+              "assemblyPocess": {
+                "value": "80% assembled. Front wheel, pedals, handlebar to stem and saddle need to be assembled. We strongly recommend you take your bike to a bike store to be assembled by a professional mechanic "
+              },
+              "bikeBottomBracket": {
+                "value": "118.0000"
+              },
+              "bikeHandlebarType": {
+                "value": "Stuurlegering"
+              },
+              "bikeHandlebarWidth": {
+                "value": "525.0000"
+              },
+              "bikeRiderHeight": {
+                "value": "4'9-5'6 (145 - 168 cm)"
+              },
+              "bikeRiderHeightFiler": {
+                "value": "168,165,163,160,157,155,152"
+              },
+              "bikeSpokes": {
+                "value": "Roestvrij staal"
+              },
+              "bikerGearType": {
+                "value": "Shimano-versnelling"
+              },
+              "bikesSafety": {
+                "value": "Voldoet aan VK/EU-normen"
+              },
+              "brakeType": {
+                "value": "Aluminium remhoef"
+              },
+              "colour": [
+                "Koper",
+                "Zwart"
+              ],
+              "colourName": {
+                "value": "Copper"
+              },
+              "finish": {
+                "value": "Glans"
+              },
+              "forkMaterial": {
+                "value": "Staal met hoge sterkte"
+              },
+              "guarantee": {
+                "value": "1 jaar - voor vork en frame"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Staal"
+              ],
+              "material": [
+                "Staal"
+              ],
+              "numberOfSeats": {
+                "value": "1-zits"
+              },
+              "pedalMaterial": {
+                "value": "Legering"
+              },
+              "productType": {
+                "value": "Fiets"
+              },
+              "room": [
+                "Tuin"
+              ],
+              "specialFeatures": {
+                "value": "geprinte handleiding beschikbaar op aanvraag"
+              },
+              "style": [
+                "Scandinavisch",
+                "Everyday"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "bikeTyreOuterDiameterMm": {
+                "value": "700.0000"
+              },
+              "bikeTyreWidthMm": {
+                "value": "40.0000"
+              },
+              "frameDimensions": {
+                "value": "43.0000"
+              },
+              "metaTitle": {
+                "value": "Monmouth 7-speed stadsfiets, koper met zwarte wielen, voor fietser 145 - 168 cm"
+              },
+              "weight": {
+                "value": "15.0000"
+              }
+            },
+            "price": {
+              "includingTax": 69900
+            },
+            "sku": "BIKMTH002COP-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assemblyPocess": {
+                "value": "80% assembled. Front wheel, pedals, handlebar to stem and saddle need to be assembled. We strongly recommend you take your bike to a bike store to be assembled by a professional mechanic. "
+              },
+              "bikeBottomBracket": {
+                "value": "118.0000"
+              },
+              "bikeHandlebarType": {
+                "value": "Stuurlegering"
+              },
+              "bikeHandlebarWidth": {
+                "value": "525.0000"
+              },
+              "bikeRiderHeight": {
+                "value": "4'9-5'6 (145 - 168 cm)"
+              },
+              "bikeRiderHeightFiler": {
+                "value": "168,165,163,160,157,155,152"
+              },
+              "bikeSpokes": {
+                "value": "Roestvrij staal"
+              },
+              "bikesSafety": {
+                "value": "Voldoet aan VK/EU-normen"
+              },
+              "brakeType": {
+                "value": "Aluminium remhoef"
+              },
+              "colour": [
+                "Koper",
+                "Zwart"
+              ],
+              "colourName": {
+                "value": "Matt Black"
+              },
+              "finish": {
+                "value": "Mat"
+              },
+              "forkMaterial": {
+                "value": "Staal met hoge sterkte"
+              },
+              "guarantee": {
+                "value": "1 jaar - voor vork en frame"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Staal"
+              ],
+              "material": [
+                "Staal"
+              ],
+              "numberOfSeats": {
+                "value": "1-zits"
+              },
+              "productType": {
+                "value": "Fiets"
+              },
+              "room": [
+                "Tuin"
+              ],
+              "specialFeatures": {
+                "value": "geprinte handleiding beschikbaar op aanvraag"
+              },
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "frameDimensions": {
+                "value": "43.0000"
+              },
+              "metaTitle": {
+                "value": "Tenby 7-speed stadsfiets, matzwart en koper, voor fietser 145 - 168 cm"
+              },
+              "weight": {
+                "value": "11.0000"
+              }
+            },
+            "price": {
+              "includingTax": 59900
+            },
+            "sku": "BIKTBY001MUL-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "colour": [
+                "Groen"
+              ],
+              "colourName": {
+                "value": "Green"
+              },
+              "legMaterial": {
+                "value": "Metaal"
+              },
+              "mainMaterials": [
+                "Metaal"
+              ],
+              "material": [
+                "IJzer met poedercoating"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Tega Chairs Set of 2"
+              },
+              "productCare": {
+                "value": "Afdekken of opbergen bij regen"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Eetstoel"
+              },
+              "room": [
+                "Eetkamer",
+                "Keuken"
+              ],
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "metaTitle": {
+                "value": "2 x Tega tuinstoelen, groen"
+              },
+              "packagingDimensions": {
+                "value": "65 x 60 x 75 cm"
+              },
+              "weight": {
+                "value": "19.0000"
+              }
+            },
+            "price": {
+              "includingTax": 18900
+            },
+            "sku": "CHATEG002GRE-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Bruin"
+              ],
+              "colourName": {
+                "value": "Pecan Brown Premium Leather"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "Aniline Leather"
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Leer"
+              ],
+              "material": [],
+              "numberOfSeats": {
+                "value": "2,5-zits"
+              },
+              "parentName": {
+                "value": "Ashwell Large 2 Seater Sofa"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Retro"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "72 x 21 x 90 cm"
+              },
+              "depth": {
+                "value": "91"
+              },
+              "height": {
+                "value": "91"
+              },
+              "metaTitle": {
+                "value": "Ashwell grote 2-zitsbank, pecanbruin leer"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 75 x 182 X 93 cm"
+              },
+              "productSeatDimensions": {
+                "value": "52 x 148 x 55 cm"
+              },
+              "weight": {
+                "value": "60.0000"
+              },
+              "width": {
+                "value": "180"
+              }
+            },
+            "price": {
+              "includingTax": 169900
+            },
+            "sku": "SOFASH003BRO-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Geel"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% polyester"
+              },
+              "filling": {
+                "value": "Schuim"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "legMaterial": {
+                "value": "Berken hout"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [],
+              "numberOfSeats": {
+                "value": "3-zits"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Chou Sofa Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Slaapbank"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "88/110"
+              },
+              "height": {
+                "value": "82"
+              },
+              "mattressDimensions": {
+                "value": "L180 x W108 cm"
+              },
+              "metaTitle": {
+                "value": "Chou slaapbank, botergeel"
+              },
+              "packagingDimensions": {
+                "value": "27 x 194 x 116 cm"
+              },
+              "productSeatDimensions": {
+                "value": "43 x 190 x 55  cm"
+              },
+              "seatDimensions": {
+                "value": "42 x 180 x 56 cm"
+              },
+              "sofabedMatDimensionsLwd": {
+                "value": "190 x 110 x 43 cm"
+              },
+              "sofabedMattressDimensions": {
+                "value": "190 x 110 x 25 cm"
+              },
+              "weight": {
+                "value": "35.0000"
+              },
+              "width": {
+                "value": "210"
+              }
+            },
+            "price": {
+              "includingTax": 29900
+            },
+            "sku": "SOFCHO014YEL-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Roze"
+              ],
+              "colourName": {
+                "value": "Blush Pink"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Fluweel",
+                "Stof"
+              ],
+              "material": [],
+              "parentName": {
+                "value": "Evadine 2 Seater Sofa "
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "78 x 14 x 27 cm"
+              },
+              "depth": {
+                "value": "88"
+              },
+              "height": {
+                "value": "77"
+              },
+              "metaTitle": {
+                "value": "Evadine 2-zitsbank, lichtroze fluweel"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1 : 64 x 163 x 88 cm"
+              },
+              "productSeatDimensions": {
+                "value": "51 x 133 x 60 cm"
+              },
+              "weight": {
+                "value": "28.0000"
+              },
+              "width": {
+                "value": "160"
+              }
+            },
+            "price": {
+              "includingTax": 64900
+            },
+            "sku": "SOFEVA001PNK-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Roze"
+              ],
+              "colourName": {
+                "value": "Blush Pink"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Fluweel",
+                "Stof"
+              ],
+              "material": [],
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "78 x 14 x 27 cm"
+              },
+              "depth": {
+                "value": "88"
+              },
+              "height": {
+                "value": "77"
+              },
+              "metaTitle": {
+                "value": "Evadine 3-zitsbank, lichtroze fluweel"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 65 x  206 x 87 cm "
+              },
+              "productSeatDimensions": {
+                "value": "51 x 177 x 60 cm"
+              },
+              "weight": {
+                "value": "32.0000"
+              },
+              "width": {
+                "value": "204"
+              }
+            },
+            "price": {
+              "includingTax": 74900
+            },
+            "sku": "SOFEVA003PNK-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Fluweel",
+                "Stof"
+              ],
+              "material": [],
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "78 x 14 x 27 cm"
+              },
+              "depth": {
+                "value": "88"
+              },
+              "height": {
+                "value": "77"
+              },
+              "metaTitle": {
+                "value": "Evadine 3-zitsbank, waterblauw fluweel"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 65 x  206 x 87 cm "
+              },
+              "productSeatDimensions": {
+                "value": "51 x 177 x 60 cm"
+              },
+              "weight": {
+                "value": "32.0000"
+              },
+              "width": {
+                "value": "204"
+              }
+            },
+            "price": {
+              "includingTax": 74900
+            },
+            "sku": "SOFEVA004BLU-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% polyester "
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "legMaterial": {
+                "value": "Berken hout"
+              },
+              "mainMaterials": [],
+              "material": [],
+              "parentName": {
+                "value": "Sale Buy Kengo - Nisco Resource Line"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Slaapbank"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "91"
+              },
+              "height": {
+                "value": "80"
+              },
+              "metaTitle": {
+                "value": "Kengo slaapbank, groenblauw"
+              },
+              "packagingDimensions": {
+                "value": "Parcel 1:H x W x D"
+              },
+              "productSeatDimensions": {
+                "value": "40 x 181 x 55 cm"
+              },
+              "sofabedMatDimensionsLwd": {
+                "value": "181 x 109 x 22 cm"
+              },
+              "weight": {
+                "value": "25.0000"
+              },
+              "width": {
+                "value": "181"
+              }
+            },
+            "price": {
+              "includingTax": 37900
+            },
+            "sku": "SOFKEN004BLU-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Anthracite Grey"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Zitting - schuim (28-35 kg/m3) Rugleuning - schuim (25 kg/cbm)"
+              },
+              "foamSpecification": {
+                "value": "35kg/cbm"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [
+                "Staal",
+                "Bewerkt hout",
+                "Grenen"
+              ],
+              "numberOfSeats": {
+                "value": "3-zits"
+              },
+              "packageId": {
+                "value": "13044"
+              },
+              "parentName": {
+                "value": "MENDINI 3 Seat Sofa"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "specialFeatures": {
+                "value": "Bijpassende kussens: 2 inbegrepen"
+              },
+              "style": [
+                "Modern"
+              ],
+              "suspension": {
+                "value": "singelbanden"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "additionalDimensions": {
+                "value": "Verpakkingsafmetingen: 227 x 90 x 54 cm"
+              },
+              "armDimensions": {
+                "value": "58 x 14 x 89 cm"
+              },
+              "depth": {
+                "value": "92"
+              },
+              "height": {
+                "value": "85"
+              },
+              "metaTitle": {
+                "value": "Mendini 3-zitsbank in antracietgrijs"
+              },
+              "packagingDimensions": {
+                "value": "227 x 90 x 54 cm"
+              },
+              "productSeatDimensions": {
+                "value": "49 x 196 x 60 "
+              },
+              "seatDimensions": {
+                "value": "H49 x W196 x D60 cm"
+              },
+              "weight": {
+                "value": "47.0000"
+              },
+              "weightFrontend": {
+                "value": "47Kg "
+              },
+              "width": {
+                "value": "224"
+              }
+            },
+            "price": {
+              "includingTax": 89900
+            },
+            "sku": "SOFMDI006ANT-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Geel"
+              ],
+              "colourName": {
+                "value": "Yolk Yellow"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Foam"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [],
+              "numberOfSeats": {
+                "value": "3-zits"
+              },
+              "parentName": {
+                "value": "Rana 3 Seater Sofa"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "suspension": {
+                "value": "springveren / singelbanden"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "67 x 14 x 52 cm"
+              },
+              "depth": {
+                "value": "87"
+              },
+              "height": {
+                "value": "84"
+              },
+              "metaTitle": {
+                "value": "Rana 3-zitsbank, zinkgeel"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1:66 x 199 x 88 cm"
+              },
+              "productSeatDimensions": {
+                "value": "44 x 164 x 56 cm"
+              },
+              "weight": {
+                "value": "38.0000"
+              },
+              "width": {
+                "value": "196"
+              }
+            },
+            "price": {
+              "includingTax": 74900
+            },
+            "sku": "SOFRAN001YEL-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "Rattan Grey"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Rotan"
+              ],
+              "material": [
+                "Polyester",
+                "Polyrotan"
+              ],
+              "maximumLoad": {
+                "value": "300 kg"
+              },
+              "numberOfSeats": {
+                "value": "3-zits"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Jonah Outdoor 3 Seater Sofa"
+              },
+              "productCare": {
+                "value": "Afdekken of opbergen bij regen"
+              },
+              "productFrameFinish": {
+                "value": "Rotan hout"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bank"
+              },
+              "room": [
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "88"
+              },
+              "height": {
+                "value": "81"
+              },
+              "metaTitle": {
+                "value": "Jonah 3-zitsbank voor buiten, mild grijs"
+              },
+              "packagingDimensions": {
+                "value": "62 x 88 x 199cm "
+              },
+              "productSeatDimensions": {
+                "value": "46 x 165 x 58"
+              },
+              "seatDimensions": {
+                "value": "46 x 165 x 58cm"
+              },
+              "weight": {
+                "value": "26.8000"
+              },
+              "weightFrontend": {
+                "value": "27kg"
+              },
+              "width": {
+                "value": "197"
+              }
+            },
+            "price": {
+              "includingTax": 69900
+            },
+            "sku": "SOFJNH143GRY-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% polyester"
+              },
+              "filling": {
+                "value": "Schuim"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "legMaterial": {
+                "value": "Berken hout"
+              },
+              "mainMaterials": [
+                "Stof"
+              ],
+              "material": [],
+              "numberOfSeats": {
+                "value": "3-zits"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Chou Sofa Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Slaapbank"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "88/110"
+              },
+              "height": {
+                "value": "82"
+              },
+              "mattressDimensions": {
+                "value": "L180 x W108 cm"
+              },
+              "metaTitle": {
+                "value": "Chou slaapbank, sorbetblauw"
+              },
+              "packagingDimensions": {
+                "value": "27 x 194 x 116 cm"
+              },
+              "productSeatDimensions": {
+                "value": "43 x 190 x 55  cm"
+              },
+              "seatDimensions": {
+                "value": "42 x 180 x 56 cm"
+              },
+              "sofabedMatDimensionsLwd": {
+                "value": "190 x 110 x 43 cm"
+              },
+              "sofabedMattressDimensions": {
+                "value": "190 x 110 x 25 cm"
+              },
+              "weight": {
+                "value": "35.0000"
+              },
+              "width": {
+                "value": "210"
+              }
+            },
+            "price": {
+              "includingTax": 29900
+            },
+            "sku": "SOFCHO013BLU-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Blauw"
+              ],
+              "colourName": {
+                "value": "Aegean Blue"
+              },
+              "fabricComposition": {
+                "value": "100% polyster"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Stof",
+                "Hout"
+              ],
+              "material": [
+                "Massief eiken",
+                "Berken hardhout",
+                "Samengestelde / gemixte materialen"
+              ],
+              "mattressSize": {
+                "value": "EU kingsize (160 x 200 cm)"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Roscoe Euro  King Size Bed"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Bedden"
+              },
+              "room": [
+                "Slaapkamer"
+              ],
+              "slatHeight": {
+                "value": "31cm"
+              },
+              "style": [
+                "Retro"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "215"
+              },
+              "height": {
+                "value": "114"
+              },
+              "metaTitle": {
+                "value": "Roscoe kingsizebed, Egeïsch blauw"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 23 x 122 x 181 cm<br> Pakket 2: 13 x 24 x 208 cm"
+              },
+              "weight": {
+                "value": "44.0000"
+              },
+              "width": {
+                "value": "180"
+              }
+            },
+            "price": {
+              "includingTax": 54900
+            },
+            "sku": "BEDROS004BLU-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Roze"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% Polyester"
+              },
+              "filling": {
+                "value": "Foam and Fibre"
+              },
+              "foamSpecification": {
+                "value": "28Kg/cbm"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Fluweel",
+                "Stof"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Fauteuil"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Klassiek"
+              ],
+              "suspension": {
+                "value": "Springveren"
+              },
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Jasper%20Accent%20Chair/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "75"
+              },
+              "height": {
+                "value": "79"
+              },
+              "legDimensions": {
+                "value": "22 cm"
+              },
+              "legHeight": {
+                "value": "22.0000"
+              },
+              "metaTitle": {
+                "value": "Jasper fauteuil, lichtroze fluweel"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: 65 x 77 x 60 cm "
+              },
+              "productSeatDimensions": {
+                "value": "45 x 62 x 53"
+              },
+              "seatDimensions": {
+                "value": "H45 x B62 x D53 cm"
+              },
+              "weight": {
+                "value": "14.0000"
+              },
+              "weightFrontend": {
+                "value": "14Kg"
+              },
+              "width": {
+                "value": "62"
+              }
+            },
+            "price": {
+              "includingTax": 34900
+            },
+            "sku": "CHAJAS005PNK-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Niet nodig"
+              },
+              "colour": [
+                "Zwart",
+                "Beige"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "mainMaterials": [
+                "Leer",
+                "Metaal"
+              ],
+              "material": [
+                "Staal met poedercoating",
+                "Leer"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Kendal Barstool"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "barkrukken"
+              },
+              "room": [
+                "Keuken"
+              ],
+              "style": [
+                "Industrieel"
+              ],
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "57"
+              },
+              "height": {
+                "value": "106"
+              },
+              "metaTitle": {
+                "value": "Kendal barkruk, bruin en zwart"
+              },
+              "productSeatDimensions": {
+                "value": "H 77,5cm"
+              },
+              "weight": {
+                "value": "10.0000"
+              },
+              "width": {
+                "value": "52"
+              }
+            },
+            "price": {
+              "includingTax": 18900
+            },
+            "sku": "CHAKEN004BLA-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "backHeight": {
+                "value": "34 cm"
+              },
+              "colour": [
+                "Grijs",
+                "Donker hout"
+              ],
+              "colourName": {
+                "value": "Marl And Hail Grey With Walnut Legs"
+              },
+              "finish": {
+                "value": "Mat"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Stof",
+                "Hout"
+              ],
+              "material": [
+                "Massief eiken",
+                "Grenen",
+                "Samengestelde / gemixte materialen"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "2 X Lule High Back Carver Dining Chairs"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Fauteuil"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Scandinavisch"
+              ],
+              "stylePattern": {
+                "value": "effen"
+              },
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Set%20of%202%20Lule%20High%20Back%20Carver%20Dining%20Chairs/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "61"
+              },
+              "height": {
+                "value": "83"
+              },
+              "legHeight": {
+                "value": "39.5000"
+              },
+              "metaTitle": {
+                "value": "Set van 2 Lule eetkamerstoelen, mergel- en hagelgrijs met poten van walnotenhout"
+              },
+              "packagingDimensions": {
+                "value": "55 x 65 x 57cm"
+              },
+              "productSeatDimensions": {
+                "value": "H 48 x B 52 x T 47 cm "
+              },
+              "weight": {
+                "value": "11.0000"
+              },
+              "weightFrontend": {
+                "value": "11 kg"
+              },
+              "width": {
+                "value": "60"
+              }
+            },
+            "price": {
+              "includingTax": 27900
+            },
+            "sku": "CHALLE004WLT-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Groen"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "coverType": {
+                "value": "Niet afneembaar"
+              },
+              "fabricComposition": {
+                "value": "100% polyester"
+              },
+              "filling": {
+                "value": "Schuim"
+              },
+              "foamType": {
+                "value": "Polyethyleenschuim"
+              },
+              "mainMaterials": [
+                "Fluweel",
+                "Stof"
+              ],
+              "material": [],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Moby Accent Chair"
+              },
+              "productCare": {
+                "value": "Alleen professionele schoonmaak"
+              },
+              "productType": {
+                "value": "Fauteuil"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [],
+              "suspension": {
+                "value": "singelbanden"
+              },
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Moby%20Accent%20Chair/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "armDimensions": {
+                "value": "57 x 10 x 50 cm"
+              },
+              "depth": {
+                "value": "76"
+              },
+              "height": {
+                "value": "87"
+              },
+              "legDimensions": {
+                "value": "27 cm"
+              },
+              "legHeight": {
+                "value": "27.0000"
+              },
+              "metaTitle": {
+                "value": "Moby fauteuil, dennengroen fluweel"
+              },
+              "packagingDimensions": {
+                "value": "64 x 75 x 78 cm"
+              },
+              "productSeatDimensions": {
+                "value": "44 x 51 x 52 cm"
+              },
+              "seatDimensions": {
+                "value": "44 x 51 x 52 cm"
+              },
+              "weight": {
+                "value": "13.0000"
+              },
+              "weightFrontend": {
+                "value": "13 kg"
+              },
+              "width": {
+                "value": "73"
+              }
+            },
+            "price": {
+              "includingTax": 49900
+            },
+            "sku": "CHAMBY010GRN-ME"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Licht hout",
+                "Donker hout"
+              ],
+              "colourName": {
+                "value": "Walnut And Oak"
+              },
+              "drawerRunnerType": {
+                "value": "Houten"
+              },
+              "finish": {
+                "value": "Mat"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Eiken",
+                "Walnotenhout",
+                "Hout"
+              ],
+              "material": [
+                "Walnotenfineer",
+                "Massief eiken",
+                "MDF"
+              ],
+              "maximumLoad": {
+                "value": "75 kg"
+              },
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Darcey Desk"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bureau"
+              },
+              "room": [
+                "Kantoor"
+              ],
+              "style": [],
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Darcey%20Desk/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "60.1"
+              },
+              "height": {
+                "value": "72.6"
+              },
+              "legHeight": {
+                "value": "63.4000"
+              },
+              "metaTitle": {
+                "value": "Darcey Desk, Walnut and Oak"
+              },
+              "packagingDimensions": {
+                "value": "30.5 x 140 x 75 cm"
+              },
+              "weight": {
+                "value": "41.0000"
+              },
+              "weightFrontend": {
+                "value": "38"
+              },
+              "width": {
+                "value": "130.1"
+              }
+            },
+            "price": {
+              "includingTax": 49900
+            },
+            "sku": "DSKDCY008ZOK-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Ja, volledige montage nodig"
+              },
+              "colour": [
+                "Koper"
+              ],
+              "colourName": {
+                "value": "Copper And Glass"
+              },
+              "finish": {
+                "value": "Glans"
+              },
+              "instructionsIncluded": {
+                "value": "1"
+              },
+              "mainMaterials": [
+                "Koper",
+                "Metaal",
+                "Glas"
+              ],
+              "material": [
+                "Gehard glas",
+                "Metaal"
+              ],
+              "packageId": {
+                "value": "11000"
+              },
+              "parentName": {
+                "value": "Patrizia Desk"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productManufacturingOrigin": {
+                "value": "Far East"
+              },
+              "productType": {
+                "value": "Bureau"
+              },
+              "room": [
+                "Kantoor"
+              ],
+              "style": [
+                "Modern"
+              ],
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Patrizia%20Desk/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "depth": {
+                "value": "70"
+              },
+              "height": {
+                "value": "76"
+              },
+              "legHeight": {
+                "value": "75.0000"
+              },
+              "metaTitle": {
+                "value": "Patrizia bureau, koper en glas"
+              },
+              "packagingDimensions": {
+                "value": "Pakket 1: L141 x B81 x H8 cm  Pakket 2: L67 x B40 x H80cm"
+              },
+              "weight": {
+                "value": "27.0000"
+              },
+              "weightFrontend": {
+                "value": "27 kg"
+              },
+              "width": {
+                "value": "130"
+              }
+            },
+            "price": {
+              "includingTax": 34900
+            },
+            "sku": "DSKPTZ001ZCU-UK"
+          }
+        },
+        {
+          "node": {
+            "details": {
+              "assembly": {
+                "value": "Alleen het monteren van de poten"
+              },
+              "colour": [
+                "Geel",
+                "Grijs"
+              ],
+              "colourName": {
+                "value": "No colour"
+              },
+              "mainMaterials": [],
+              "material": [
+                "IJzer met poedercoating",
+                "MDF"
+              ],
+              "parentName": {
+                "value": "Nyla Nesting Tables"
+              },
+              "productCare": {
+                "value": "Veeg met een droge doek."
+              },
+              "productType": {
+                "value": "Nest van de tabellen"
+              },
+              "room": [
+                "Slaapkamer",
+                "Woonkamer"
+              ],
+              "style": [
+                "Modern"
+              ],
+              "threedModelAssets": {
+                "value": "s3://made-3d-models/Nyla%20Nesting%20Tables/"
+              },
+              "toRelease": {
+                "value": "Released"
+              }
+            },
+            "dimensions": {
+              "additionalDimensions": {
+                "value": "45 x 55 x 55 / 40 x 35 x 35 cm "
+              },
+              "depth": {
+                "value": "55"
+              },
+              "height": {
+                "value": "45"
+              },
+              "metaTitle": {
+                "value": "Nyla bijzettafelset, mosterdgeel en grijs"
+              },
+              "packagingDimensions": {
+                "value": "25 x 68 x 68 cm"
+              },
+              "weight": {
+                "value": "7.0000"
+              },
+              "weightFrontend": {
+                "value": "7 kg"
+              },
+              "width": {
+                "value": "55"
+              }
+            },
+            "price": {
+              "includingTax": 12900
+            },
+            "sku": "STBNYL005YEL-UK"
+          }
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "eyJzb3J0SW5kZXgiOjMxMCwiX2lkIjoiTkwgU1RCTllMMDA1WUVMLVVLIn0=",
+        "hasNextPage": true,
+        "pageSize": 50
+      }
+    }
+  }
+}
