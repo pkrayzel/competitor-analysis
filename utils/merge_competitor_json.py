@@ -8,8 +8,8 @@ COMPETITORS = [
     "sofa",
     "vtonen",
     "westwingnow",
-    # "bolia",
-    # "fonq"
+    "bolia",
+    "fonq"
 ]
 
 
