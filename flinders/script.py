@@ -5,26 +5,26 @@ import json
 
 
 CATEGORIES_URL = {
-        # "2_seat_sofas": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
-        #     ]
-        # },
-        # "3_seat_sofas": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-banken-3-zitsbanken"
-        #     ]
-        # },
-        # "corner_sofa": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-banken-hoekbanken"
-        #     ]
-        # },
-        # "arm_chairs": {
-        #     "urls": [
-        #         "https://www.flinders.nl/wonen-stoelen-fauteuils"
-        #     ]
-        # },
+        "2_seat_sofas": {
+            "urls": [
+                "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
+            ]
+        },
+        "3_seat_sofas": {
+            "urls": [
+                "https://www.flinders.nl/wonen-banken-3-zitsbanken"
+            ]
+        },
+        "corner_sofa": {
+            "urls": [
+                "https://www.flinders.nl/wonen-banken-hoekbanken"
+            ]
+        },
+        "arm_chairs": {
+            "urls": [
+                "https://www.flinders.nl/wonen-stoelen-fauteuils"
+            ]
+        },
         # "dining_chairs": {
         #     "urls": [
         #         "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen",
@@ -100,6 +100,9 @@ def get_products_from_listing_page(category, config):
         soup = BeautifulSoup(content, 'html.parser')
 
         products_ = soup.find_all("li", class_="item type-configurable")
+        products_2 = soup.find_all("li", class_="item type-bundle")
+
+        products_.extend(products_2)
 
         for item in products_:
             try:
