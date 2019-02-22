@@ -7,13 +7,13 @@ import json
 PREFIX_URL = "https://www.fonq.nl"
 
 CATEGORIES_URL = {
-        # "2_seat_sofas": {
-        #     "urls": [
-        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/",
-        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
-        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
-        #     ]
-        # },
+        "2_seat_sofas": {
+            "urls": [
+                "https://www.fonq.nl/producten/categorie-2_zitsbank/",
+                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
+                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
+            ]
+        },
         # "3_seat_sofas": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-3_zitsbank/",
@@ -260,8 +260,8 @@ CATEGORIES_URL = {
         #
         #     ]
         # },
-        "table_lights": {
-            "urls": [
+        # "table_lights": {
+        #     "urls": [
                 # "https://www.fonq.nl/producten/categorie-tafellampen/",
                 # "https://www.fonq.nl/producten/categorie-tafellampen/?p=2",
                 # "https://www.fonq.nl/producten/categorie-tafellampen/?p=3",
@@ -287,18 +287,18 @@ CATEGORIES_URL = {
                 # "https://www.fonq.nl/producten/categorie-tafellampen/?p=23",
                 # "https://www.fonq.nl/producten/categorie-tafellampen/?p=24",
                 # "https://www.fonq.nl/producten/categorie-tafellampen/?p=25",
-                "https://www.fonq.nl/producten/categorie-tafellampen/?p=26",
-                "https://www.fonq.nl/producten/categorie-tafellampen/?p=27",
-                "https://www.fonq.nl/producten/categorie-tafellampen/?p=28",
-                "https://www.fonq.nl/producten/categorie-tafellampen/?p=29",
-
-            ]
-        },
+                # "https://www.fonq.nl/producten/categorie-tafellampen/?p=26",
+                # "https://www.fonq.nl/producten/categorie-tafellampen/?p=27",
+                # "https://www.fonq.nl/producten/categorie-tafellampen/?p=28",
+                # "https://www.fonq.nl/producten/categorie-tafellampen/?p=29",
+            #
+            # ]
+        # },
 }
 
 
 def get_products_from_listing_page(category, config):
-
+    result = []
     for url in config["urls"]:
         print(f"scraping url: {url}...")
         response = requests.get(url)
@@ -314,22 +314,16 @@ def get_products_from_listing_page(category, config):
                 detail_url = detail_link["href"]
                 title = detail_link.get_text()
 
-                price = item.find("div", class_="product-price").get_text().strip().replace('€ ', '')
-
-                product_id = detail_url.split('/')[-2]
+                # product_id = detail_url.split('/')[-2]
 
                 product_item = {
-                    "product_id": product_id,
                     "detail_url": PREFIX_URL + detail_url,
                     "title": title.strip(),
-                    "price": price,
-                    "category": category,
-                    "competitor": "fonq"
                 }
-                yield product_item
+                result.append(product_item)
             except Exception as e:
                 print(f"Exception while getting data from listing page category: {category} - {e}")
-
+    return result
 
 def store_detail_page_to_file(category, product_id, file_content):
     tmp_file = open(f'tmp_output/{category}_{product_id}.txt', 'w')
@@ -389,14 +383,18 @@ def parse_product(product_item, category):
 
 
 def main():
+    start_time = time.time()
     for category, config in CATEGORIES_URL.items():
         print(f"====== {category} ======")
 
         products = get_products_from_listing_page(category, config)
 
-        for p in products:
-            parse_product(p, category)
-
+        with open('output.json', 'w') as output:
+            json.dump(products, output, indent=4)
+        # for p in products:
+        #     parse_product(p, category)
+    end_time = time.time()
+    print(f"difference: {end_time-start_time} seconds")
 
 if __name__ == "__main__":
   main()
