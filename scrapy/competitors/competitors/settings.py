@@ -91,3 +91,8 @@ DEFAULT_REQUEST_HEADERS = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+AWS_ACCESS_KEY_ID = "AKIAIL4OHFIFQU3JGQSQ"
+AWS_SECRET_ACCESS_KEY = "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"
+FEED_FORMAT = "csv"
+FEED_URI = "s3://made-competitor-analysis/%(name)s/%(time)s.csv"

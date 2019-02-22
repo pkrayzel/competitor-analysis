@@ -9,9 +9,25 @@ class FonqSpider(scrapy.Spider):
     name = 'fonq'
 
     start_urls = [
+        # 2 seat sofas
         'https://www.fonq.nl/producten/categorie-2_zitsbank/',
         'https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2',
         'https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3',
+         # 3 seat sofas
+        "https://www.fonq.nl/producten/categorie-3_zitsbank/",
+        "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=2",
+        "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=3",
+        "https://www.fonq.nl/producten/categorie-3_zitsbank/?p=4"
+        # corner_sofa
+        "https://www.fonq.nl/producten/categorie-hoekbank/",
+        "https://www.fonq.nl/producten/categorie-hoekbank/?p=2"
+         # sofa bed
+        "https://www.fonq.nl/producten/categorie-slaapbanken/",
+        "https://www.fonq.nl/producten/categorie-slaapbank/?p=2",
+        "https://www.fonq.nl/producten/categorie-slaapbank/?p=3",
+        "https://www.fonq.nl/producten/categorie-slaapbank/?p=4",
+        "https://www.fonq.nl/producten/categorie-slaapbank/?p=5",
+
     ]
 
     def parse(self, response):

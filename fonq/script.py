@@ -7,13 +7,13 @@ import json
 PREFIX_URL = "https://www.fonq.nl"
 
 CATEGORIES_URL = {
-        "2_seat_sofas": {
-            "urls": [
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/",
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
-                "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
-            ]
-        },
+        # "2_seat_sofas": {
+        #     "urls": [
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/",
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=2",
+        #         "https://www.fonq.nl/producten/categorie-2_zitsbank/?p=3"
+        #     ]
+        # },
         # "3_seat_sofas": {
         #     "urls": [
         #         "https://www.fonq.nl/producten/categorie-3_zitsbank/",
