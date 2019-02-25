@@ -23,4 +23,4 @@ RUN chmod +x /opt/competitors/run.sh
 
 WORKDIR /opt/competitors
 
-CMD touch /var/log/cron.log && cron && env > /root/env.sh && tail -f /var/log/cron.log
+ENTRYPOINT []

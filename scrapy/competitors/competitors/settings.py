@@ -13,7 +13,6 @@ BOT_NAME = 'competitors'
 
 SPIDER_MODULES = ['competitors.spiders']
 NEWSPIDER_MODULE = 'competitors.spiders'
-DOWNLOAD_DELAY = 1
 
 RETRY_TIMES = 10
 RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 404, 408]

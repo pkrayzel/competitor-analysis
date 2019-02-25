@@ -75,8 +75,6 @@ class FlindersSpider(scrapy.Spider):
 
     @staticmethod
     def parse_product_detail(response):
-        brand_name = response.css('h1.branded-name::text')
-
         result = {
             'page_url': response.url
         }
@@ -84,7 +82,7 @@ class FlindersSpider(scrapy.Spider):
         FlindersSpider.parse_title(response, result)
         FlindersSpider.parse_price(response, result)
         FlindersSpider.parse_categories(response, result)
-        # FlindersSpider.parse_technical_details(response, result)
+        FlindersSpider.parse_technical_details(response, result)
 
         yield result
 
@@ -150,20 +148,17 @@ class FlindersSpider(scrapy.Spider):
 
             for row in rows:
                 # there are three different label styles (span, strong and span+strong (explanation)
-                label = row.xpath('./td/span/text()').get()
+                label = row.xpath('th//text()').get()
 
                 if not label or label == '\n':
-                    label = row.xpath('./td/strong/text()').get()
-                if not label or label == '\n':
-                    label = row.xpath('./td/span/strong/text()').get()
+                    logger.error(f"Label is missing for product: {response.url}")
 
-                value = row.xpath('./td[2]/text()').get()
+                value = row.xpath('td//text()').get()
 
                 if label and value:
-                    label = label.replace('\n', '').replace(' ', '_').replace('/', '_').lower()
                     result[label] = value
 
         except Exception as e:
-            logging.warning(f"Exception when parsing categories: {e}")
+            logging.warning(f"Exception when parsing tech. specification: {e}")
 
 
