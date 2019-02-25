@@ -13,16 +13,20 @@ BOT_NAME = 'competitors'
 
 SPIDER_MODULES = ['competitors.spiders']
 NEWSPIDER_MODULE = 'competitors.spiders'
-DOWNLOAD_DELAY = 0.5
+DOWNLOAD_DELAY = 1
 
-RETRY_TIMES = 3
+RETRY_TIMES = 10
 RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 404, 408]
-
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
+
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
+    'random_useragent.RandomUserAgentMiddleware': 400
+}
+
+USER_AGENT_LIST = "/Users/pkrayzel/Desktop/user_agents.txt"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -92,7 +96,5 @@ DEFAULT_REQUEST_HEADERS = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-AWS_ACCESS_KEY_ID = "AKIAIL4OHFIFQU3JGQSQ"
-AWS_SECRET_ACCESS_KEY = "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"
-FEED_FORMAT = "csv"
-FEED_URI = "s3://made-competitor-analysis/%(name)s/%(time)s.csv"
+# FEED_FORMAT = "csv"
+# FEED_URI = "s3://made-competitor-analysis/%(name)s/%(category)s/%(time)s.csv"
