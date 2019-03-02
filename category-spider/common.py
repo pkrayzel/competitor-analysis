@@ -4,8 +4,9 @@ import math
 
 class Competitor:
 
-    def __init__(self, name, products_per_page=100):
+    def __init__(self, name, country, products_per_page=100):
         self.name = name
+        self.country = country
         self.products_per_page = products_per_page
 
     def get_categories_urls(self):
@@ -14,6 +15,7 @@ class Competitor:
     def parse_category_details(self, response):
         products_count = self.parse_products_count(response)
         return {
+            'country': response.meta['country'],
             'competitor': response.meta['competitor'],
             'category': response.meta['category'],
             'products_count': products_count,
@@ -50,9 +52,11 @@ class FonqCompetitor(Competitor):
 
     def __init__(self):
         self.name = 'fonq'
+        self.country = 'nl'
         self.products_per_page = 48
         super().__init__(
             name=self.name,
+            country=self.country,
             products_per_page=self.products_per_page
         )
 
@@ -87,6 +91,7 @@ class FlindersCompetitor(Competitor):
 
     def __init__(self):
         self.name = 'flinders'
+        self.country = 'nl'
         self.products_per_page = 100
         super().__init__(
             name=self.name,
@@ -103,4 +108,3 @@ class FlindersCompetitor(Competitor):
         except Exception as e:
             logging.warning(f"Exception when parsing total count: {e}")
         return 0
-

@@ -1,12 +1,17 @@
 import logging
-from dao import StorageClient
+from dao import FileStorageClient, DataStorageClient
 import json
 
 logger = logging.getLogger('category-output')
 logger.setLevel(logging.INFO)
 
 
-client = StorageClient()
+file_client = FileStorageClient()
+data_client = DataStorageClient()
+
+TABLE_NAMES = {
+    "made-dev-competitor-analysis": "competitor_analysis_overall_dev",
+}
 
 
 def handler(event, context):
@@ -17,14 +22,13 @@ def handler(event, context):
 
         bucket_name = s3['bucket']['name']
         key = s3['object']['key']
-        content = client.get(
+        file_content = file_client.get(
             bucket_name=bucket_name,
             file_key=key
         )
 
-        data = json.load(content)
+        data = json.load(file_content)
 
-        logger.info(data)
-        logger.info(f"Number of items: {len(data)}")
+        data_client.store_items(TABLE_NAMES[bucket_name], data)
 
     return event

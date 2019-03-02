@@ -29,6 +29,7 @@ class CategorySpider(scrapy.Spider):
         for competitor in COMPETITORS:
             for category, value in competitor.get_categories_urls().items():
                 yield scrapy.Request(value['url'], meta={
+                    'country': competitor.country,
                     'competitor': competitor.name,
                     'category': category
                 })

@@ -1,0 +1,38 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-1",
+      "eventTime": "2019-03-02T20:59:02.981Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "AWS:AROAJ4GODATLH6MJREGCW:category-spider-dev-category-spider"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "54.242.237.14"
+      },
+      "responseElements": {
+        "x-amz-request-id": "DEB30050E91ED973",
+        "x-amz-id-2": "yeTfsb96hIFHbHghP6LQwELXrJTqfXBkvQLzSFYJPA7aDRt4fHhrTb2wHeDWWaGz8YHVfdEXITA="
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "945fbf3b-52de-4585-b5f5-50ff8e93f6a6",
+        "bucket": {
+          "name": "made-dev-competitor-analysis",
+          "ownerIdentity": {
+            "principalId": "A61JXPXP2LQPN"
+          },
+          "arn": "arn:aws:s3:::made-dev-competitor-analysis"
+        },
+        "object": {
+          "key": "netherlands/201903022058.json",
+          "size": 3860,
+          "eTag": "9aa20d90928858efe31492a77d414011",
+          "sequencer": "005C7AEE96E9778F98"
+        }
+      }
+    }
+  ]
+}

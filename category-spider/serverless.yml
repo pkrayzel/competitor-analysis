@@ -40,7 +40,7 @@ functions:
     - Effect: Allow
       Action:
         - dynamodb:BatchWriteItem
-      Resource: arn:aws:dynamodb:*:*:table/*
+      Resource: arn:aws:dynamodb:*:*:table/competitor_analysis_*
 
 custom:
   pythonRequirements:
@@ -50,3 +50,23 @@ custom:
 plugins:
   - serverless-python-requirements
   - serverless-iam-roles-per-function
+
+resources:
+  Resources:
+    DynamoDbTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: competitor_analysis_overall_${opt:stage, 'dev'}
+        AttributeDefinitions:
+          - AttributeName: country_competitor_category
+            AttributeType: S
+          - AttributeName: timestamp
+            AttributeType: S
+        KeySchema:
+          - AttributeName: country_competitor_category
+            KeyType: HASH
+          - AttributeName: timestamp
+            KeyType: RANGE
+        ProvisionedThroughput:
+          ReadCapacityUnits: 3
+          WriteCapacityUnits: 3
