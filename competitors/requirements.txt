@@ -1,5 +1,0 @@
-botocore==1.12.101
-graphqlclient==0.2.4
-Scrapy==1.6.0
-Twisted==18.9.0
-scrapy-random-useragent==0.2

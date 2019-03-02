@@ -1,0 +1,23 @@
+service: category-spider
+
+provider:
+  name: aws
+  runtime: python3.7
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+       - s3:PutObject
+       - s3:Get*
+       - s3:List*
+      Resource: "arn:aws:s3:::made-competitor-analysis/*"
+
+functions:
+  category-spider:
+    handler: handler.handler
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+
+plugins:
+  - serverless-python-requirements
