@@ -95,6 +95,7 @@ class FlindersCompetitor(Competitor):
         self.products_per_page = 100
         super().__init__(
             name=self.name,
+            country=self.country,
             products_per_page=self.products_per_page
         )
 

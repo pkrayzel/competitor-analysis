@@ -55,7 +55,7 @@ class DataStorageClient:
                         "S": key,
                     },
                     "timestamp": {
-                        "N": str(int(time.mktime(date.timetuple())) * 1000)
+                        "S": str(int(time.mktime(date.timetuple())) * 1000)
                     },
                     "country": {
                         "S": item['country']
