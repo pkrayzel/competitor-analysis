@@ -3,21 +3,50 @@ service: category-spider
 provider:
   name: aws
   runtime: python3.7
-  iamRoleStatements:
+  memorySize: 512   # MB ram
+  timeout: 60       # seconds
+
+# https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d
+functions:
+  category-spider:
+    handler: category_spider.handler
+    events:
+      - schedule:
+          rate: rate(24 hours)
+          input:
+            bucket_name: made-${self:custom.bucket_name}-competitor-analysis
+    iamRoleStatements:
     - Effect: "Allow"
       Action:
        - s3:PutObject
        - s3:Get*
        - s3:List*
-      Resource: "arn:aws:s3:::made-competitor-analysis/*"
+      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
 
-functions:
-  category-spider:
-    handler: handler.handler
+  category-output:
+    handler: category_output.handler
+    events:
+      - s3:
+          bucket: ${self:custom.bucket_name}
+          event: s3:ObjectCreated:*
+          rules:
+            - suffix: .json
+    iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - s3:Get*
+        - s3:List*
+      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
+    - Effect: Allow
+      Action:
+        - dynamodb:BatchWriteItem
+      Resource: arn:aws:dynamodb:*:*:table/*
 
 custom:
   pythonRequirements:
     dockerizePip: true
+  bucket_name: made-${opt:stage, 'dev'}-competitor-analysis
 
 plugins:
   - serverless-python-requirements
+  - serverless-iam-roles-per-function
