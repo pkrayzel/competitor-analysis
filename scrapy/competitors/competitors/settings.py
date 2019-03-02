@@ -25,7 +25,7 @@ DOWNLOADER_MIDDLEWARES = {
     'random_useragent.RandomUserAgentMiddleware': 400
 }
 
-USER_AGENT_LIST = "/Users/pkrayzel/Desktop/user_agents.txt"
+USER_AGENT_LIST = "user_agents.txt"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
