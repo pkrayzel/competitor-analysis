@@ -12,7 +12,7 @@ data_client = DataStorageClient()
 
 S3_TO_DYNAMO_CONFIGURATION = {
     "made-dev-competitor-analysis": {
-        "category-overall-info": ConverterOverall("competitor_analysis_overall_dev")
+        "category-overall-info": ConverterOverall("competitor_category_overall_info_dev")
     }
 }
 

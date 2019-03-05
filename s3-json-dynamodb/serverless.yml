@@ -25,7 +25,7 @@ functions:
     - Effect: Allow
       Action:
         - dynamodb:BatchWriteItem
-      Resource: arn:aws:dynamodb:*:*:table/competitor_analysis_*
+      Resource: arn:aws:dynamodb:*:*:table/competitor*
 
 custom:
   bucket_name: made-${opt:stage, 'dev'}-competitor-analysis
@@ -38,7 +38,7 @@ resources:
     DynamoDbTable:
       Type: AWS::DynamoDB::Table
       Properties:
-        TableName: competitor_analysis_overall_${opt:stage, 'dev'}
+        TableName: competitor_category_overall_info_${opt:stage, 'dev'}
         AttributeDefinitions:
           - AttributeName: country_competitor_category
             AttributeType: S
@@ -50,5 +50,5 @@ resources:
           - AttributeName: timestamp
             KeyType: RANGE
         ProvisionedThroughput:
-          ReadCapacityUnits: 3
-          WriteCapacityUnits: 3
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
