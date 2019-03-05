@@ -23,25 +23,6 @@ functions:
        - s3:List*
       Resource: arn:aws:s3:::${self:custom.bucket_name}/*
 
-  category-output:
-    handler: category_output.handler
-    events:
-      - s3:
-          bucket: ${self:custom.bucket_name}
-          event: s3:ObjectCreated:*
-          rules:
-            - suffix: .json
-    iamRoleStatements:
-    - Effect: Allow
-      Action:
-        - s3:Get*
-        - s3:List*
-      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
-    - Effect: Allow
-      Action:
-        - dynamodb:BatchWriteItem
-      Resource: arn:aws:dynamodb:*:*:table/competitor_analysis_*
-
 custom:
   pythonRequirements:
     dockerizePip: true
@@ -50,23 +31,3 @@ custom:
 plugins:
   - serverless-python-requirements
   - serverless-iam-roles-per-function
-
-resources:
-  Resources:
-    DynamoDbTable:
-      Type: AWS::DynamoDB::Table
-      Properties:
-        TableName: competitor_analysis_overall_${opt:stage, 'dev'}
-        AttributeDefinitions:
-          - AttributeName: country_competitor_category
-            AttributeType: S
-          - AttributeName: timestamp
-            AttributeType: S
-        KeySchema:
-          - AttributeName: country_competitor_category
-            KeyType: HASH
-          - AttributeName: timestamp
-            KeyType: RANGE
-        ProvisionedThroughput:
-          ReadCapacityUnits: 3
-          WriteCapacityUnits: 3
