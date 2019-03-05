@@ -11,8 +11,21 @@ file_client = FileStorageClient()
 data_client = DataStorageClient()
 
 S3_TO_DYNAMO_CONFIGURATION = {
-    "made-dev-competitor-analysis": ConverterOverall("competitor_analysis_overall_dev")
+    "made-dev-competitor-analysis": {
+        "category-overall-info": ConverterOverall("competitor_analysis_overall_dev")
+    }
 }
+
+
+def get_converter(bucket_name, key):
+    bucket_converters_map = S3_TO_DYNAMO_CONFIGURATION.get(bucket_name)
+
+    if not bucket_converters_map:
+        return None
+
+    for key_prefix, value in bucket_converters_map.items():
+        if key.startswith(key_prefix):
+            return value
 
 
 def handler(event, context):
@@ -30,7 +43,7 @@ def handler(event, context):
 
         data = json.load(file_content)
 
-        converter = S3_TO_DYNAMO_CONFIGURATION.get(bucket_name)
+        converter = get_converter(bucket_name, key)
 
         if converter:
             data_client.store_items(items=data,

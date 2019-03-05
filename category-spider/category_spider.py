@@ -53,7 +53,7 @@ def handler(event, context):
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
         'FEED_FORMAT': 'json',
-        'FEED_URI': f's3://{bucket_name}/netherlands/{date_string}.json'
+        'FEED_URI': f's3://{bucket_name}/category-overall-info/{date_string}.json'
     })
 
     process.crawl(CategorySpider)
