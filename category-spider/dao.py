@@ -28,6 +28,7 @@ class DataStorageClient:
         logger.info(f"Number of items to store in table {converter.table_name}: {len(items)}")
 
         table_name = f"{converter.table_name}_{environment}"
+        print(f"table name: {table_name}")
         response = self.client.batch_write_item(
             RequestItems={
                 table_name: converter.convert_json_items_to_put_requests(items)

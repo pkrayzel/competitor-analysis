@@ -15,13 +15,8 @@ S3_TO_DYNAMO_CONFIGURATION = {
 }
 
 
-def get_converter(bucket_name, key):
-    bucket_converters_map = S3_TO_DYNAMO_CONFIGURATION.get(bucket_name)
-
-    if not bucket_converters_map:
-        return None
-
-    for key_prefix, value in bucket_converters_map.items():
+def get_converter(key):
+    for key_prefix, value in S3_TO_DYNAMO_CONFIGURATION.items():
         if key.startswith(key_prefix):
             return value
 
@@ -34,7 +29,7 @@ def handler(event, context):
 
         bucket_name = s3['bucket']['name']
 
-        environment = bucket_name.replace('made-', '').replace('competitor-analysis', '')
+        environment = bucket_name.replace('made-', '').replace('-competitor-analysis', '')
 
         key = s3['object']['key']
         file_content = file_client.get(
@@ -44,7 +39,7 @@ def handler(event, context):
 
         data = json.load(file_content)
 
-        converter = get_converter(bucket_name, key)
+        converter = get_converter(key)
 
         if converter:
             data_client.store_items(items=data,
