@@ -24,12 +24,13 @@ class DataStorageClient:
     def __init__(self, endpoint_url=None):
         self.client = boto3.client('dynamodb', endpoint_url=endpoint_url)
 
-    def store_items(self, items, converter):
+    def store_items(self, items, converter, environment):
         logger.info(f"Number of items to store in table {converter.table_name}: {len(items)}")
 
+        table_name = f"{converter.table_name}_{environment}"
         response = self.client.batch_write_item(
             RequestItems={
-                converter.table_name: converter.convert_json_items_to_put_requests(items)
+                table_name: converter.convert_json_items_to_put_requests(items)
             },
             ReturnConsumedCapacity='TOTAL',
             ReturnItemCollectionMetrics='SIZE'

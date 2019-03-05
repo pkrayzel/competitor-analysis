@@ -11,9 +11,7 @@ file_client = FileStorageClient()
 data_client = DataStorageClient()
 
 S3_TO_DYNAMO_CONFIGURATION = {
-    "made-dev-competitor-analysis": {
-        "category-overall-info": ConverterOverall("competitor_category_overall_info_dev")
-    }
+    "category-overall-info": ConverterOverall("competitor_category_overall_info")
 }
 
 
@@ -35,6 +33,9 @@ def handler(event, context):
         s3 = record['s3']
 
         bucket_name = s3['bucket']['name']
+
+        environment = bucket_name.replace('made-', '').replace('competitor-analysis', '')
+
         key = s3['object']['key']
         file_content = file_client.get(
             bucket_name=bucket_name,
@@ -47,7 +48,8 @@ def handler(event, context):
 
         if converter:
             data_client.store_items(items=data,
-                                    converter=converter)
+                                    converter=converter,
+                                    environment=environment)
         else:
             logger.warning(f"Received file: {key} in bucket: {bucket_name} which is not configured. Ignoring.")
 
