@@ -16,13 +16,18 @@ class Competitor:
 
     def parse_category_details(self, response):
         products_count = self.parse_products_count(response)
+        links = self.parse_products_links_from_category_page(response)
         return {
             'country': response.meta['country'],
             'competitor': response.meta['competitor'],
             'category': response.meta['category'],
+            'category_url': response.meta['category_url'],
             'products_count': products_count,
             'pages_count': self.get_pages_count(products_count),
-            'category_url': response.url
+            'page_url': response.url,
+            'page_number': response.meta['page_number'],
+            'links_count': len(links),
+            'product_links': links
         }
 
     def parse_products_count(self, response):

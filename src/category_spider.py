@@ -18,13 +18,36 @@ class CategorySpider(scrapy.Spider):
     def start_requests(self):
         for competitor in COMPETITORS:
             for category, value in competitor.get_categories_urls().items():
-                yield scrapy.Request(value['url'], meta={
-                    'country': competitor.country,
-                    'competitor': competitor.name,
-                    'category': category
-                })
+                category_url = value['url']
+                yield scrapy.Request(url=category_url,
+                                     meta={
+                                         'country': competitor.country,
+                                         'competitor': competitor.name,
+                                         'category': category,
+                                         'category_url': category_url,
+                                         'page_number': 1
+                                     },
+                                     callback=self.parse_first_page)
 
-    def parse(self, response):
+    def parse_first_page(self, response):
+        competitor = find_competitor(response.meta['competitor'])
+        category_details = competitor.parse_category_details(response)
+        # yield the first page result
+        yield category_details
+
+        for i in range(1, category_details["pages_count"]):
+            url = f"{response.url}?p={i}"
+            yield scrapy.Request(url=url,
+                                 meta={
+                                     'country': category_details["country"],
+                                     'competitor': category_details["competitor"],
+                                     'category': category_details["category"],
+                                     'category_url': category_details["category_url"],
+                                     'page_number': i,
+                                 },
+                                 callback=self.parse_next_pages)
+
+    def parse_next_pages(self, response):
         competitor = find_competitor(response.meta['competitor'])
         yield competitor.parse_category_details(response)
 
