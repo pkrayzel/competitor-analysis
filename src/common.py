@@ -118,6 +118,14 @@ class Converter:
     def __init__(self, table_name):
         self.table_name = table_name
 
+    @staticmethod
+    def convert_dynamodb_item_to_json(item):
+        result = {}
+        for key, value in item.items():
+            for v in value.values():
+                result[key] = v
+        return result
+
     def convert_json_items_to_put_requests(self, items):
         result = []
         for item in items:

@@ -1,0 +1,58 @@
+{
+  "Records": [
+    {
+      "eventID": "784feb5f3cc8b1fdad5c4f3503d08eb1",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551820747.0,
+        "Keys": {
+          "country_competitor_category": {
+            "S": "nl_flinders_beds"
+          },
+          "timestamp": {
+            "S": "1551817144000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-05"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"
+          },
+          "pages_count": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "flinders"
+          },
+          "country_competitor_category": {
+            "S": "nl_flinders_beds"
+          },
+          "products_count": {
+            "N": "22"
+          },
+          "time": {
+            "S": "21-19-04"
+          },
+          "category": {
+            "S": "beds"
+          },
+          "timestamp": {
+            "S": "1551817144000"
+          }
+        },
+        "SequenceNumber": "1900000000003496386071",
+        "SizeBytes": 295,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-05T21:06:06.980"
+    }
+  ]
+}
