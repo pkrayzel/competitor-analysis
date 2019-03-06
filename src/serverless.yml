@@ -13,8 +13,6 @@ functions:
     events:
       - schedule:
           rate: rate(24 hours)
-          input:
-            bucket_name: ${self:custom.bucket_name}
     iamRoleStatements:
     - Effect: "Allow"
       Action:
@@ -22,6 +20,9 @@ functions:
        - s3:Get*
        - s3:List*
       Resource: arn:aws:s3:::${self:custom.bucket_name}/*
+    environment:
+      ENV: ${opt:stage, 'dev'}
+      BUCKET_NAME: ${self:custom.bucket_name}
 
   s3-json-to-dynamodb:
     handler: s3_json_to_dynamodb.handler
@@ -41,6 +42,8 @@ functions:
       Action:
         - dynamodb:BatchWriteItem
       Resource: arn:aws:dynamodb:*:*:table/competitor*
+    environment:
+      ENV: ${opt:stage, 'dev'}
 
   product-pages-spider:
     handler: product_pages_spider.handler
@@ -60,6 +63,9 @@ functions:
         - dynamodb:Describe*
         - dynamodb:Get*
       Resource: arn:aws:dynamodb:*:*:table/competitor*
+    environment:
+      ENV: ${opt:stage, 'dev'}
+      BUCKET_NAME: ${self:custom.bucket_name}
 
 custom:
   pythonRequirements:

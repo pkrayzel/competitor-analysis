@@ -1,20 +1,10 @@
+import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
 
 from datetime import datetime
 
-import common
-
-COMPETITORS = [
-    common.FonqCompetitor(),
-    common.FlindersCompetitor()
-]
-
-
-def find_competitor(name):
-    for c in COMPETITORS:
-        if c.name == name:
-            return c
+from common import find_competitor, COMPETITORS
 
 
 class CategorySpider(scrapy.Spider):
@@ -47,7 +37,8 @@ class CategorySpider(scrapy.Spider):
 
 
 def handler(event, context):
-    bucket_name = event['bucket_name']
+    bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
+
     date_string = datetime.now().strftime('%Y%m%d%H%M')
 
     process = CrawlerProcess({

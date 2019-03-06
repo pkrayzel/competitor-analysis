@@ -1,8 +1,11 @@
+import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 
 from common import Converter
+
+from common import find_competitor
 
 
 class ProductPagesSpider(scrapy.Spider):
@@ -20,16 +23,25 @@ class ProductPagesSpider(scrapy.Spider):
 
     def start_requests(self):
         for item in self.items:
-            yield scrapy.Request(item["category_url"],
-                                 meta={
-                                     'country': item["country"],
-                                     'competitor': item["competitor"],
-                                     'category': item["category"]
-                                 })
+            # we need to build url for each page
+            pages_count = int(item["pages_count"])
+
+            for i in range(1, pages_count + 1):
+                url = f'{item["category_url"]}?p={i}'
+
+                yield scrapy.Request(url,
+                                     meta={
+                                         'country': item["country"],
+                                         'competitor': item["competitor"],
+                                         'category': item["category"],
+                                         'products_count': int(item["products_count"]),
+                                         'pages_count': pages_count,
+                                         'page_number': i,
+                                     })
 
     def parse(self, response):
-        print(response.url)
-        pass
+        competitor = find_competitor(response.meta['competitor'])
+        yield competitor.parse_products_links(response)
 
     def closed(self, reason):
         stats = self.crawler.stats.get_stats()
@@ -39,7 +51,7 @@ class ProductPagesSpider(scrapy.Spider):
         self.logger.info(f"Total scraping time: {difference} seconds")
 
 def handler(event, context):
-    bucket_name = "made-dev-competitor-analysis"
+    bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
     date_string = datetime.now().strftime('%Y%m%d%H%M')
 
     process = CrawlerProcess({

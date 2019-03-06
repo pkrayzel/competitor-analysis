@@ -31,6 +31,23 @@ class Competitor:
     def get_pages_count(self, products_count):
         return math.ceil(products_count / self.products_per_page)
 
+    def parse_products_links(self, response):
+        links = self.parse_products_links_from_category_page(response)
+
+        return {
+            'country': response.meta['country'],
+            'competitor': response.meta['competitor'],
+            'category': response.meta['category'],
+            'products_count': response.meta['products_count'],
+            'page_number': response.meta['page_number'],
+            'links_count': len(links),
+            'pages_count': response.meta['pages_count'],
+            'product_links': links
+        }
+
+    def parse_products_links_from_category_page(self, response):
+        raise NotImplemented("Must be implemented in child class")
+
 
 class FonqCompetitor(Competitor):
 
@@ -73,6 +90,10 @@ class FonqCompetitor(Competitor):
             logging.warning(f"Exception when parsing total count: {e}")
         return 0
 
+    def parse_products_links_from_category_page(self, response):
+        links = response.css('div.product-body').xpath('a[1]//@href').extract()
+        return list(map(lambda l: f"https://www.fonq.nl{l}", links))
+
 
 class FlindersCompetitor(Competitor):
 
@@ -111,6 +132,9 @@ class FlindersCompetitor(Competitor):
         except Exception as e:
             logging.warning(f"Exception when parsing total count: {e}")
         return 0
+
+    def parse_products_links_from_category_page(self, response):
+        return response.css('div.item-container').xpath('a//@href').extract()
 
 
 class Converter:
@@ -179,3 +203,15 @@ class ConverterOverall(Converter):
 
     def key_attribute_value(self, item):
         return f"{item['country']}_{item['competitor']}_{item['category']}"
+
+
+COMPETITORS = [
+    FonqCompetitor(),
+    FlindersCompetitor()
+]
+
+
+def find_competitor(name):
+    for c in COMPETITORS:
+        if c.name == name:
+            return c
