@@ -4,7 +4,7 @@ from scrapy.crawler import CrawlerProcess
 
 from datetime import datetime
 
-from common import find_competitor, COMPETITORS
+from competitor import find_competitor, COMPETITORS
 
 
 class CategorySpider(scrapy.Spider):

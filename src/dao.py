@@ -1,5 +1,6 @@
 import boto3
 import logging
+import math
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -21,6 +22,8 @@ class FileStorageClient:
 
 class DataStorageClient:
 
+    BATCH_REQUEST_LIMIT = 25
+
     def __init__(self, endpoint_url=None):
         self.client = boto3.client('dynamodb', endpoint_url=endpoint_url)
 
@@ -28,12 +31,25 @@ class DataStorageClient:
         logger.info(f"Number of items to store in table {converter.table_name}: {len(items)}")
 
         table_name = f"{converter.table_name}_{environment}"
-        print(f"table name: {table_name}")
-        response = self.client.batch_write_item(
+
+        request_count = math.ceil(len(items) / DataStorageClient.BATCH_REQUEST_LIMIT)
+
+        logger.info(f"Will be stored in following number of requests: {request_count}")
+        for i in range(request_count):
+            start = i * DataStorageClient.BATCH_REQUEST_LIMIT
+            end = (i + 1) * DataStorageClient.BATCH_REQUEST_LIMIT
+
+            items_page = items[start:end]
+            logger.info(f"Sending page number {i} of items [{start}:{end}] to dynamodb...")
+            self._store_items_batch(table_name, converter, items_page)
+            logger.info("Successfully stored.")
+
+
+    def _store_items_batch(self, table_name, converter, items):
+        self.client.batch_write_item(
             RequestItems={
                 table_name: converter.convert_json_items_to_put_requests(items)
             },
             ReturnConsumedCapacity='TOTAL',
             ReturnItemCollectionMetrics='SIZE'
         )
-        logger.info(f'DynamoDB response: {response}')

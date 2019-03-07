@@ -1,6 +1,7 @@
+import os
 import logging
 from dao import FileStorageClient, DataStorageClient
-from common import ConverterOverall
+from converter import ConverterOverall
 import json
 
 logger = logging.getLogger('category-output')
@@ -22,14 +23,14 @@ def get_converter(key):
 
 
 def handler(event, context):
+    environment = os.getenv('ENV', 'dev')
+
     logger.info(f"event: {event}")
 
     for record in event.get('Records', []):
         s3 = record['s3']
 
         bucket_name = s3['bucket']['name']
-
-        environment = bucket_name.replace('made-', '').replace('-competitor-analysis', '')
 
         key = s3['object']['key']
         file_content = file_client.get(

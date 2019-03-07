@@ -20,6 +20,12 @@ functions:
        - s3:Get*
        - s3:List*
       Resource: arn:aws:s3:::${self:custom.bucket_name}/*
+    - Effect: Allow
+      Action:
+        - dynamodb:List*
+        - dynamodb:Describe*
+        - dynamodb:Get*
+      Resource: arn:aws:dynamodb:*:*:table/competitor*
     environment:
       ENV: ${opt:stage, 'dev'}
       BUCKET_NAME: ${self:custom.bucket_name}
@@ -45,28 +51,6 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
 
-  product-pages-spider:
-    handler: product_pages_spider.handler
-    events:
-      - stream:
-          type: dynamodb
-          batchSize: 1
-          startingPosition: LATEST
-          arn:
-            Fn::GetAtt:
-              - DynamoDbTable
-              - StreamArn
-    iamRoleStatements:
-    - Effect: Allow
-      Action:
-        - dynamodb:List*
-        - dynamodb:Describe*
-        - dynamodb:Get*
-      Resource: arn:aws:dynamodb:*:*:table/competitor*
-    environment:
-      ENV: ${opt:stage, 'dev'}
-      BUCKET_NAME: ${self:custom.bucket_name}
-
 custom:
   pythonRequirements:
     dockerizePip: true
@@ -83,12 +67,12 @@ resources:
       Properties:
         TableName: competitor_category_overall_info_${opt:stage, 'dev'}
         AttributeDefinitions:
-          - AttributeName: country_competitor_category
+          - AttributeName: country_competitor_category_page_number
             AttributeType: S
           - AttributeName: timestamp
             AttributeType: S
         KeySchema:
-          - AttributeName: country_competitor_category
+          - AttributeName: country_competitor_category_page_number
             KeyType: HASH
           - AttributeName: timestamp
             KeyType: RANGE
