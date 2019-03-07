@@ -1,0 +1,2033 @@
+{
+  "Records": [
+    {
+      "eventID": "0c7978d8096f48ea3706471aa0675dfe",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_corner_sofa_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-hoekbank/"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-hoekbank/"
+          },
+          "pages_count": {
+            "N": "3"
+          },
+          "products_count": {
+            "N": "106"
+          },
+          "product_links_count": {
+            "N": "48"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_corner_sofa_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "corner_sofa"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-abel-hoekbank-rechts/242526/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-bean-hoekbank-rechts/193279/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-bean-hoekbank-links/190358/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-oskar-hoekbank-rechts/242498/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/sofatime-abby-grijs-hoekbank-links/288650/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/intex-opblaasbare-hoekbank/149440/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/sofatime-abby-hoekbank-rechts/272895/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239515/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-5-zits-chaise-longue-links/272770/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x3-rechts/329734/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239511/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x1-rechts/328405/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239514/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239510/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239513/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x5-links/329743/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-5-zits-chaise-longue-rechts/272765/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-sara-hoekbank-4-zits/215370/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ceriel-hoekbank-rechts/231822/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239517/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239516/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/sofatime-daan-hoekbank-links/290473/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-elvenes-hoekbank-grijs-stof/337645/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-5-zits-chaise-longue-links/272769/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x1-links/329727/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-aberdeen-hoekbank-zwart-kunstleer/273476/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/sofatime-abby-velvet-hoekbank-links/290472/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x4-rechts/328407/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-hoekbank-links/245085/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-olivia-hoekbank-links/242508/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-stockholm-hoekbank-zwart-echt-leer/260656/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-oliver-hoekbank-3-zits/215325/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-stockholm-hoekbank-grijs-stof/251216/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-oslo-hoekbank-bruin-stof/273462/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-aberdeen-hoekbank-grijs-stof/273463/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-hoekbank-x1-links/328408/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-logan-hoekbank-4-zits/242504/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-olivia-hoekbank-rechts/242531/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-jimi-hoekbank-links/242658/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-omni-hoekbank-4-zits/215410/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-morris-hoekbank-4-zits/215350/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-west-houston-hoekbank/244092/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-oskar-hoekbank-links/242623/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-jimi-hoekbank-rechts/242631/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-thomas-hoekbank-rechts-4-zits/299221/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-oliver-hoekbank-4-zits/215344/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-sem-hoekbank-4-zits/215324/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-youp-hoekbank/242666/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "100000000000281995228",
+        "SizeBytes": 3681,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "69286b292495e11e702c31d30fa9320b",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_beds_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-tweepersoonsbedden/?ms_fk_model=Tweepersoons&templateid=1452"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-tweepersoonsbedden/?ms_fk_model=Tweepersoons&templateid=1452"
+          },
+          "pages_count": {
+            "N": "1"
+          },
+          "products_count": {
+            "N": "9"
+          },
+          "product_links_count": {
+            "N": "9"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_beds_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "beds"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fontana-ledikant/159335/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fresh-450-ledikant/159323/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fresh-400-ledikant/159121/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-arillo-ledikant/159415/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-new-orleans-ledikant-180-x-200-cm/192832/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-driftwood-ledikant/192917/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-driftwood-hoofdbord/192941/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/loof-basket-ledikant/167560/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/loof-frame-ledikant/167503/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "200000000000281995280",
+        "SizeBytes": 1104,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "198c7bd23c1e0041f334ddfe0fa6a30e",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_2_seat_sofas_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
+          },
+          "pages_count": {
+            "N": "1"
+          },
+          "products_count": {
+            "N": "15"
+          },
+          "product_links_count": {
+            "N": "15"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_2_seat_sofas_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "flinders"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "2_seat_sofas"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-velvet-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-chester-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-25-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jean-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-bank-25-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-daley-25zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-bor-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-etcetera-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-mags-2-5zits-bank-combinatie-1"
+              },
+              {
+                "S": "https://www.flinders.nl/jaey-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-25-rancho-castanya"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-cella-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-nouveau-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-mariposa-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/riviera-maison-crescent-avenue-bank-2-5-zits"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "300000000000281995281",
+        "SizeBytes": 1256,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "9aa606a3d0dd6fe09bc817dad01e4c50",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_dining_chairs_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-eetkamerstoel/"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-eetkamerstoel/"
+          },
+          "pages_count": {
+            "N": "44"
+          },
+          "products_count": {
+            "N": "2096"
+          },
+          "product_links_count": {
+            "N": "48"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_dining_chairs_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "dining_chairs"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/vitra-eames-dsr-stoel-nieuwe-hoogte/137540/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-omg-velvet-stoel/242366/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/hay-soft-edge-10-eetkamerstoel/223802/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/new-routz-tampe-eetkamerstoel/242316/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-brit-armstoel/223138/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lucas-eetkamerstoel/239456/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lucas-kuipstoel/290212/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lucas-kuipstoel/290214/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lucas-kuipstoel/274487/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lucas-kuipstoel/290213/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ziggy-eetkamerstoel/290168/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-jane-eetkamerstoel/290180/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-omg-stoel/106487/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-jake-worn-stoel/149032/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ingrid-eetkamerstoel/231848/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/hay-soft-edge-12-eetkamerstoel/223797/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-back-to-school-stoel/45896/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-amira-eetkamerstoel/243328/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-jake-worn-stoel/148991/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-amira-eetkamerstoel/243443/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-ralf-stoel/135318/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/hay-about-a-chair-aac22-stoel/77902/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-maxime-eetkamerstoel/274529/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-franky-stoel/144069/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-doulton-stoel/137004/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ziggy-eetkamerstoel/290169/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-alexander-eetkamerstoel/274527/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-franky-stoel/144085/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-albert-kuip-stoel/190447/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-bliss-stoel/206192/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-hampton-classic-stoel/190428/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/43998/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-joanne-eetkamerstoel/290153/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-doris-eetkamerstoel/290137/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-francis-eetkamerstoel/290162/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-morgan-eetkamerstoel/290173/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-jane-eetkamerstoel/290178/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-april-eetkamerstoel/290191/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/52082/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/52081/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-omg-stoel/106482/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-omg-stoel/106603/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ingrid-eetkamerstoel/231849/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/52076/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-omg-ll-stoel/136995/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-bliss-stoel/206221/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/144036/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-ridge-rib-stoel/144005/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "400000000000281995282",
+        "SizeBytes": 3339,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "58af1159146571188eea98c8df949379",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_3_seat_sofas_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.flinders.nl/wonen-banken-3-zitsbanken"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.flinders.nl/wonen-banken-3-zitsbanken"
+          },
+          "pages_count": {
+            "N": "1"
+          },
+          "products_count": {
+            "N": "67"
+          },
+          "product_links_count": {
+            "N": "67"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_3_seat_sofas_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "flinders"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "3_seat_sofas"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-classic-bank-3zits"
+              },
+              {
+                "S": "https://www.flinders.nl/hk-living-couch-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-bloq-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-lounge-bank-XL-3-zits-1-arm-met-hoekopstelling"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-lounge-bank-3-zits-1-arm-met-poef"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/hkliving-retro-bank-3zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-bloq-bank-3-zits-1-arm-chaise-longue"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-outline-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-bank-3-zits-1-arm-dormeuse"
+              },
+              {
+                "S": "https://www.flinders.nl/fest-amsterdam-edge-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-connect-bank-driezitter-met-poef"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-outline-bank-3-zits-met-chaise-longue-links"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-nouveau-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-byen-bank-3zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-lounge-bank-compact-3-zits-1-zits-0-arm-hoekopstelling"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-rest-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-3-rancho-castanya"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-bloq-3-zits-1-arm-schakelbank"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-connect-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/kartell-largo-velluto-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-3-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/kartell-largo-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-byen-lounge-bank-3-zits-1-arm-dormeuse"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-can-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-rebel-bank-3zits"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-hackney-sofa-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jaey-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-bank-3-zits-1-arm-chaise-longue"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-byen-bank-3-zits-1-arm-chaise-longue"
+              },
+              {
+                "S": "https://www.flinders.nl/fest-amsterdam-dunbar-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/fest-amsterdam-ace-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/kartell-plastics-duo-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-develius-3zits-met-chaiselongue-rechts"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-compose-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-heelz-bank-3-zits-1-arm-chaise-longue"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-soft-modular-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-outline-bank-3-zits-met-chaise-longue-rechts"
+              },
+              {
+                "S": "https://www.flinders.nl/studio-henk-giuseppe-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-heelz-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-etcetera-3-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/menu-godot-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-oslo-sofa-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-daley-3zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-heelz-bank-3-zits-1-arm-schakelbank"
+              },
+              {
+                "S": "https://www.flinders.nl/normann-copenhagen-swell-bank-3-zitter"
+              },
+              {
+                "S": "https://www.flinders.nl/riviera-maison-central-park-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-mariposa-3-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-heelz-bank-3-zits-1-arm-dormeuse"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-cella-3-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/fest-amsterdam-juno-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-cloud-ln3-2-bank-driezitter"
+              },
+              {
+                "S": "https://www.flinders.nl/menu-tailor-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/normann-copenhagen-rope-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/fest-amsterdam-kate-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-develius-3zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-thea-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-develius-3zits-met-chaiselongue-links"
+              },
+              {
+                "S": "https://www.flinders.nl/menu-septembre-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-alcove-driezitter-sofa"
+              },
+              {
+                "S": "https://www.flinders.nl/magis-brut-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-lune-bank-3-zits-met-chaise-longue"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-lune-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-lissoni-sofa-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-series-3300-bank-3-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-isole-bank-3-zits-met-leuning"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "500000000000281995283",
+        "SizeBytes": 4497,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "d09c9cf34a1ef1010eeb72b9dbcfd35e",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_3_seat_sofas_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-3_zitsbank/"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-3_zitsbank/"
+          },
+          "pages_count": {
+            "N": "4"
+          },
+          "products_count": {
+            "N": "177"
+          },
+          "product_links_count": {
+            "N": "48"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_3_seat_sofas_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "3_seat_sofas"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330602/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330608/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330604/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330603/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330605/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-studio-bank-3-zits/330606/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-zits/272739/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-classic-bank-3-5-zits/202362/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-zits/154846/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-bean-bankstel-3-5-zits/272731/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239515/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239511/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239514/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-classic-bank-2-5-zits/272740/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239510/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-rib-bank-element/239513/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-3-zits-bank-met-knopen-zwart/281394/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lise-bank-3-zits/274535/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-james-3-zits-bank/239521/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-bank-3-zits/163960/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-gilmour-bank-3-zits/215413/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/laforma-vinny-bank-3-zits-mosterd-gele-stof-metalen-poten/290356/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-3-zitsbank-x1/328406/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/cose-interior-ravenna-3-zits-bank/353898/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-fiep-bankstel-links/266141/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-fiep-bankstel-links/266137/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-motala-3-zits-bank-bruin-stof/273312/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-jaey-bank-3-zits/157000/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-classic-bank-2-5-zits/272743/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-jolie-bank-3-zits/242540/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-3-zits-bank-met-knopen-grijs-stof/273231/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-arvika-3-zits-bank-grijs/273250/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kare-design-bank-3-zits-loft-salt-pepper-grijs/285276/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kare-design-milchbar-honey-3-zits-bank-b233-cm-honing-geel-fluweel/285288/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-3-zitsbank-x4/328404/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/4x6-sofa-3-zitsbank-x1/329733/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-bjorn-bank-3-zits/215390/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-king-bank/213009/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-sara-bank-3-zits/215354/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-sara-bank-3-zits/215355/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-flynn-bank-3-zits/242521/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/i-sofa-flynn-bank-3-zits/242574/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-dragon-3-zitsbank/109884/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/chesterfield-original-brighton-3-zits-antiek-rood/250403/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-kuopio-3-zits-bank-groen-stof/261241/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-lokka-3-zits-bank-grijs/273240/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-bergen-3-zits-bank-bruin-kunstleer/273271/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beliani-visby-3-zits-bank-grijs-stof/273284/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "600000000000281995284",
+        "SizeBytes": 3659,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "19802fd6f35045da750f8b6ba9f5bf1a",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_corner_sofa_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.flinders.nl/wonen-stoelen-fauteuils"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.flinders.nl/wonen-stoelen-fauteuils"
+          },
+          "pages_count": {
+            "N": "3"
+          },
+          "products_count": {
+            "N": "298"
+          },
+          "product_links_count": {
+            "N": "100"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_corner_sofa_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "flinders"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "corner_sofa"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-met-ottoman-santos-palisander"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-vogue-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/pols-potten-chair-peggy-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/pols-potten-chair-charles-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-bar-velvet-fauteuill"
+              },
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/woood-sara-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/and-tradition-fly-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-lcw-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jesse-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-flower-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/studio-henk-co-fauteuil-met-zwart-frame"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-fauteuil-walnoot-zwart-pigment"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-kate-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-lazy-sack-lounge-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/umage-a-conversation-piece-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hkliving-rattan-lounge-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/livingstone-design-oamaru-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-feston-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/pols-potten-charmy-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/carl-hansen-mg501-cuba-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/bepure-rodeo-classic-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/bubble-club-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-smoker-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jean-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/outlet-visu-loungestoel-zwart"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-cover-lounge-chair-met-eiken-onderstel"
+              },
+              {
+                "S": "https://www.flinders.nl/kartell-cara-fancy-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/functionals-miller-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/outlet-miller-fauteuil-zwart-frame-naturel-leer"
+              },
+              {
+                "S": "https://www.flinders.nl/outlet-c0ee753891ff42c1637ae5255a4be997"
+              },
+              {
+                "S": "https://www.flinders.nl/design-house-stockholm-day-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-pavillion-av5-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/"
+              },
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-velvet-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-lounge-chair-met-ottoman-klassieke-afmetingen-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-egg-chair-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/hkliving-rattan-egg-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/umage-the-reader-fauteuil-eiken"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-nosto-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-bar-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/carl-hansen-ch07-shell-stoel"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-doulton-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-grand-repos-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-visu-loungechair-hout"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-ridge-lounge-rib-loungestoel-met-armleuningen"
+              },
+              {
+                "S": "https://www.flinders.nl/gubi-beetle-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/warm-nordic-fried-egg-sheepskin-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-ea-124-bureaustoel"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-swan-chair-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/woood-bryan-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-enzo-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-don-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/pastoe-fm06-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-x-bang-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/carl-hansen-ch25-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-juno-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/warm-nordic-fried-egg-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-about-a-lounge-chair-high-aal91-stoel"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-adwin-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-met-ottoman-fauteuil-nieuwe-afmetingen-walnotenhout"
+              },
+              {
+                "S": "https://www.flinders.nl/pastoe-fm03-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-visu-loungechair-stof"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-statement-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-byen-love-seat-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hkliving-rattan-ball-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-fiber-wood-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/warm-nordic-lean-back-fauteuil-eiken"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-met-ottoman-sneeuwwit"
+              },
+              {
+                "S": "https://www.flinders.nl/moooi-zio-lounge-chair"
+              },
+              {
+                "S": "https://www.flinders.nl/livingstone-design-hatuma-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-uchiwa-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-about-a-lounge-chair-low-aal83-stoel"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-grand-repos-loungestoel-met-ottoman"
+              },
+              {
+                "S": "https://www.flinders.nl/moooi-nest-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/ox-denmarq-trifolium-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/moooi-nut-loungestoel-met-white-washed-onderstel"
+              },
+              {
+                "S": "https://www.flinders.nl/muuto-outline-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-about-a-lounge-chair-high-aal93-stoel"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-fauteuil-santos-palisander"
+              },
+              {
+                "S": "https://www.flinders.nl/fritz-hansen-PK22-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/andtradition-little-petra-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-about-a-lounge-chair-high-soft-aal92-stoel"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-repos-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/studio-henk-co-fauteuil-met-wit-frame"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-enzo-fauteuil-draaibaar"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jaey-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-sling-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/normann-copenhagen-hyg-low-swivel-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-ea-116-bureaustoel"
+              },
+              {
+                "S": "https://www.flinders.nl/puik-dost-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-tumbler-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-lcm-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/pols-potten-roundy-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-ea-216-loungestoel"
+              },
+              {
+                "S": "https://www.flinders.nl/gelderland-7400-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-eames-lounge-chair-fauteuil-sneeuwwit"
+              },
+              {
+                "S": "https://www.flinders.nl/pols-potten-ppno-2-fauteuil"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-dapper-fauteuil-met-zwart-onderstel"
+              },
+              {
+                "S": "https://www.flinders.nl/moooi-cocktail-loungestoel"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "700000000000281995285",
+        "SizeBytes": 5994,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "93b145b82a0193d1c13bb55d7b2f5f1b",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_beds_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"
+          },
+          "pages_count": {
+            "N": "1"
+          },
+          "products_count": {
+            "N": "22"
+          },
+          "product_links_count": {
+            "N": "22"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_beds_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "flinders"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "beds"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.flinders.nl/loof-basket-bed-met-hoofdbord-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/loof-basket-bed-met-hoofdbord-160x200"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-connect-bed-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-connect-bed-160x200"
+              },
+              {
+                "S": "https://www.flinders.nl/loof-frame-bed-met-hoofdbord-160x200"
+              },
+              {
+                "S": "https://www.flinders.nl/loof-frame-bed-met-hoofdbord-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/loof-pure-bed-met-hoofdbord-160x200"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-lacquered-bed-met-hoofdbord-160x210"
+              },
+              {
+                "S": "https://www.flinders.nl/loof-pure-bed-met-hoofdbord-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-lacquered-bed-met-hoofdbord-180x210"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-bed-met-hoofdbord-160x210"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-siebenschlafer-bed-met-hoofdbord-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-bed-180x210"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-bed-met-hoofdbord-180x210"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-siebenschlafer-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/mdf-italia-aluminium-bed-160x210"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-siebenschlafer-met-hoofdbord-200x200"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-siebenschlafer-200x200"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-tagedieb-bed-200x200"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-tagedieb-bed-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-tagedieb-bed-met-hoofdbord-180x200"
+              },
+              {
+                "S": "https://www.flinders.nl/nils-holger-moormann-tagedieb-bed-met-hoofdbord-200x200"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "800000000000281995286",
+        "SizeBytes": 1916,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "be0740acdea244ddab1072badd5a9664",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_arm_chairs_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-fauteuil/"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-fauteuil/"
+          },
+          "pages_count": {
+            "N": "14"
+          },
+          "products_count": {
+            "N": "648"
+          },
+          "product_links_count": {
+            "N": "48"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_arm_chairs_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "arm_chairs"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-bar-fauteuil/197178/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-bon-lounge-fauteuil/193986/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-daryl-fauteuil/290148/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-bar-fauteuil/118540/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-bon-lounge-fauteuil/193975/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/hkliving-rotan-egg-stoel/120081/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-sara-fauteuil/220543/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-kate-fauteuil_loveseat/231793/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-rico-fauteuil/239447/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-kate-fauteuil_loveseat/231791/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-lynn-fauteuil/167774/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-bar-fauteuil/118517/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-kate-fauteuil_loveseat/231792/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-rodeo-loveseat/154921/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-otis-fauteuil/163887/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-sara-fauteuil/262963/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-flower-loungestoel/213006/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-daryl-fauteuil/290146/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riverdale-chelsea-stoel/240348/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/hkliving-rotan-egg-bohemian-stoel/223842/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ronnie-fauteuil/239437/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-halifax-fauteuil/199960/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-vogue-fauteuil/262972/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-bar-fauteuil/281193/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/malagoon-vlinderstoel/214874/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-knut-fauteuil/159154/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riverdale-leeds-stoel/240355/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-penelope-fauteuil/250156/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/new-routz-rope-fauteuil/242387/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-vogue-fauteuil/262973/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/dutchbone-don-fauteuil/118528/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riverdale-chelsea-chaise-longue/240366/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bepurehome-vogue-fauteuil/262971/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-halifax-fauteuil/199983/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-jim-fauteuil/214808/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-fly-vlinderstoel/243230/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-lazy-sack-fauteuil/190616/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-rico-fauteuil/239446/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-penelope-fauteuil/250144/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ronnie-fauteuil/239436/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/house-doctor-colony-loungestoel/244641/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/house-doctor-oluf-loungestoel/244667/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/lanterfant-loungestoel-cleo-oker-relaxstoel-stalen-frame/296920/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-ruby-fauteuil/290183/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/woood-lois-stoel/262961/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-wakasan-fauteuil/266153/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/zuiver-pattern-x-bang-fauteuil/232906/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/moos-penelope-fauteuil/274502/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "900000000000281995287",
+        "SizeBytes": 3352,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    },
+    {
+      "eventID": "40629ddb933e5eb109d15751975e4805",
+      "eventName": "INSERT",
+      "eventVersion": "1.1",
+      "eventSource": "aws:dynamodb",
+      "awsRegion": "us-east-1",
+      "dynamodb": {
+        "ApproximateCreationDateTime": 1551987902.0,
+        "Keys": {
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_boxspring_beds_1"
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "NewImage": {
+          "date": {
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.fonq.nl/producten/categorie-bedden/?ms_fk_model=Tweepersoons&templateid=1452"
+          },
+          "country": {
+            "S": "nl"
+          },
+          "category_url": {
+            "S": "https://www.fonq.nl/producten/categorie-bedden/?ms_fk_model=Tweepersoons&templateid=1452"
+          },
+          "pages_count": {
+            "N": "2"
+          },
+          "products_count": {
+            "N": "59"
+          },
+          "product_links_count": {
+            "N": "48"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_fonq_boxspring_beds_1"
+          },
+          "page_number": {
+            "N": "1"
+          },
+          "competitor": {
+            "S": "fonq"
+          },
+          "time": {
+            "S": "19-45-01"
+          },
+          "category": {
+            "S": "boxspring_beds"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.fonq.nl/product/kave-home-kail-slaapbank/171370/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-lugo-vlakke-box-140-x-200-cm/156775/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/kave-home-kaleido-slaapbank/171353/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-ideal-losse-boxspring/123451/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-140-x-200-cm/220326/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-lugo-vlakke-box-160-x-200-cm/156772/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4700-boxspring/291530/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-lugo-vlakke-box-140-x-200-cm/156805/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-ideal-losse-boxspring/123031/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-ideal-losse-boxspring/123210/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fontana-ledikant/159335/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fresh-450-ledikant/159323/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-lugo-vlakke-box-180-x-200-cm/156938/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-fresh-400-ledikant/159121/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/beter-bed-arillo-ledikant/159415/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-180-x-200-cm/220324/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-160-x-200-cm/220366/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-160-x-200-cm/220369/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-180-x-200-cm/220342/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-140-x-200-cm/220378/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-180-x-200-cm/220364/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-160-x-200-cm/220371/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-180-x-200-cm/220373/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-140-x-200-cm/220383/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-140-x-200-cm/220313/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4500-boxspring/290446/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-3850-boxspring/290447/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-3800-boxspring/290448/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4550-boxspring/290461/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4600-boxspring/290525/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4700-boxspring/291520/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/caresse-4750-boxspring/291521/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-140-x-200-cm/220329/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-160-x-200-cm/220367/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-160-x-200-cm/220387/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-180-x-200-cm/220350/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-160-x-200-cm/220345/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-180-x-200-cm/220349/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-new-orleans-ledikant-180-x-200-cm/192832/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-driftwood-ledikant/192917/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-180-x-200-cm/220344/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-140-x-200-cm/220335/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-140-x-200-cm/220352/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-160-x-200-cm/220321/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-140-x-200-cm/220379/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-urban-boxspring-160-x-200-cm/220355/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/riviera-maison-driftwood-hoofdbord/192941/"
+              },
+              {
+                "S": "https://www.fonq.nl/product/bedmen-city-boxspring-180-x-200-cm/220360/"
+              }
+            ]
+          },
+          "timestamp": {
+            "S": "1551987901000"
+          }
+        },
+        "SequenceNumber": "1000000000000281995288",
+        "SizeBytes": 3805,
+        "StreamViewType": "NEW_IMAGE"
+      },
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
+    }
+  ]
+}

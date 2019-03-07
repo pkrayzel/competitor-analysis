@@ -61,6 +61,7 @@ functions:
             Fn::GetAtt:
               - CategoryOverallTable
               - StreamArn
+    timeout: 900 # 15 minutes for scraping
     iamRoleStatements:
     - Effect: Allow
       Action:

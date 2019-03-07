@@ -10,15 +10,15 @@ class Converter:
     @staticmethod
     def convert_dynamodb_item_to_json(item):
         result = {}
+
         for item_name, item_value in item.items():
             # item_value can have structure:
             # {"S": "ddd"}
             # {"L": [ { "S": "SSS" }, ...]
-            for data_type, value in item_name.items():
+            for data_type, value in item_value.items():
 
-                if "L":
-                    # list of items - "S": value
-                    result[item_name] = [v for d, v in value]
+                if data_type == "L":
+                    result[item_name] = [v["S"] for v in value]
                 else:
                     result[item_name] = value
 

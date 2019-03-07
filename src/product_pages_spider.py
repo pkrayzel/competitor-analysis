@@ -1,3 +1,4 @@
+from uuid import uuid4
 import os
 import logging
 import aws_lambda_logging
@@ -16,6 +17,12 @@ class ProductPagesSpider(scrapy.Spider):
 
     name = 'product-pages'
 
+    custom_settings = {
+        "DOWNLOAD_DELAY": 2,
+        "RETRY_TIMES": 5,
+        "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
+    }
+
     def __init__(self, items=None):
         self.items = items
 
@@ -31,7 +38,8 @@ class ProductPagesSpider(scrapy.Spider):
                                          'country': item["country"],
                                          'competitor': item["competitor"],
                                          'category': item["category"],
-                                         'product_link': link,
+                                         'category_url': item["category_url"],
+                                         'page_url': link,
                                          'page_number': int(item["page_number"]),
                                          'product_number': i,
                                      })
@@ -54,14 +62,14 @@ def handler(event, context):
         return { "result": "error", "message": "wrong input data" }
 
     bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
-    date_string = datetime.now().strftime('%Y%m%d%H%M')
+    date_string = datetime.now().strftime('%Y%m%d')
 
-    print(event)
+    logging.info(f"Incoming event: {event}")
 
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
         'FEED_FORMAT': 'json',
-        'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}.json'
+        'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{str(uuid4())}.json'
     })
 
     items = []
@@ -72,9 +80,8 @@ def handler(event, context):
 
         items.append(json_item)
 
-    print(items)
-    # process.crawl(ProductPagesSpider, items=items)
-    # process.start()
+    process.crawl(ProductPagesSpider, items=items)
+    process.start()
 
     return {
         "result": "success"

@@ -56,6 +56,26 @@ class Competitor:
             'product_links': links
         }
 
+    def parse_product_detail(self, response):
+        price = self.parse_product_price(response)
+        title = self.parse_product_title(response)
+        technical_details = self.parse_technical_details(response)
+
+        return {
+            'country': response.meta['country'],
+            'competitor': response.meta['competitor'],
+            'category': response.meta['category'],
+            'category_url': response.meta['category_url'],
+            'page_url': response.url,
+            'product_number': response.meta['product_number'],
+            'page_number': response.meta['page_number'],
+            'product_info': {
+                'price': float(price),
+                'title': title,
+                'technical_details': technical_details
+            }
+        }
+
     def get_pages_count(self, products_count):
         return math.ceil(products_count / self.products_per_page)
 
@@ -70,6 +90,15 @@ class Competitor:
         raise NotImplementedError("Must be implemented in child class")
 
     def parse_products_links_from_category_page(self, response):
+        raise NotImplemented("Must be implemented in child class")
+
+    def parse_product_price(self, response):
+        raise NotImplemented("Must be implemented in child class")
+
+    def parse_product_title(self, response):
+        raise NotImplemented("Must be implemented in child class")
+
+    def parse_technical_details(self, response):
         raise NotImplemented("Must be implemented in child class")
 
 
@@ -121,6 +150,49 @@ class FonqCompetitor(Competitor):
     def construct_next_page_for_category(self, category_url, page_number):
         return f'{category_url}?p={page_number}'
 
+    def parse_product_price(self, response):
+        price = 0
+        try:
+            price = response.css('div.price').xpath('span/text()').get()
+            if price:
+                # price is in format "1.123,43,-"
+                price = price.replace(',-', '').replace('.-', '').replace(' ', '').replace('.', '').replace(',', '.')
+                price = float(price)
+        except Exception as e:
+            logging.warning(f"Fonq - exception when parsing price: {e}")
+
+        return price
+
+    def parse_product_title(self, response):
+        title = ""
+        try:
+            title = response.css('li.active ::text').get()
+        except Exception as e:
+            logging.warning(f"Fonq - exception when parsing title: {e}")
+        return title
+
+    def parse_technical_details(self, response):
+        result = {}
+
+        try:
+            # technical specification
+            rows = response.xpath('//table //tr')
+            for row in rows:
+                # there are three different label styles (span, strong and span+strong (explanation)
+                label = row.xpath('./td/span/text()').get()
+                if not label or label == '\n':
+                    label = row.xpath('./td/strong/text()').get()
+                if not label or label == '\n':
+                    label = row.xpath('./td/span/strong/text()').get()
+                value = row.xpath('./td[2]/text()').get()
+                if label and value:
+                    label = label.replace('\n', '').replace(' ', '_').replace('/', '_').lower()
+                    result[label] = value
+        except Exception as e:
+            logging.warning(f"Fonq - exception when parsing tech. details: {e}")
+
+        return result
+
 
 class FlindersCompetitor(Competitor):
 
@@ -166,9 +238,60 @@ class FlindersCompetitor(Competitor):
     def construct_next_page_for_category(self, category_url, page_number):
         return f'{category_url}?p={page_number}'
 
+    def parse_product_price(self, response):
+        price = 0
+        try:
+            price = response.css('span.price ::text').get()
+            if price:
+                # price is in format "1.123,43,-"
+                price = price.replace('€', '').replace('\xa0', '').replace('.', '').replace(',', '.')
+                price = float(price)
+        except Exception as e:
+            logging.warning(f"Exception when parsing price: {e}")
+        return price
+
+    def parse_product_title(self, response):
+        title = ""
+        try:
+            brand_name = response.css('h1::text').get()
+            if brand_name:
+                brand_name = brand_name.strip().replace('\r', '').replace('\n', '')
+
+            detail_title = response.css('h1 span::text').get()
+            title = f"{brand_name} {detail_title}"
+        except Exception as e:
+            logging.warning(f"Flinders - exception when parsing title: {e}")
+        return title
+
+    def parse_technical_details(self, response):
+        result = {}
+        try:
+            # technical specification
+            rows = response.xpath('//section[@id="content-specs"] //table //tr')
+
+            for row in rows:
+                # there are three different label styles (span, strong and span+strong (explanation)
+                label = row.xpath('th//text()').get()
+
+                if not label or label == '\n':
+                    logging.error(f"Label is missing for product: {response.url}")
+
+                value = row.xpath('td//text()').get()
+
+                if label and value:
+                    label = label.replace('\n', '').replace(' ', '_').replace('/', '_').lower()
+                    result[label] = value
+
+        except Exception as e:
+            logging.warning(f"Flinders - exception when parsing tech. specification: {e}")
+
+        return result
+
+
+
 
 COMPETITORS = [
-    # FonqCompetitor(),
+    FonqCompetitor(),
     FlindersCompetitor()
 ]
 

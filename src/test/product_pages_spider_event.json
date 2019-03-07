@@ -1,112 +1,116 @@
 {
   "Records": [
     {
-      "eventID": "784feb5f3cc8b1fdad5c4f3503d08eb1",
+      "eventID": "198c7bd23c1e0041f334ddfe0fa6a30e",
       "eventName": "INSERT",
       "eventVersion": "1.1",
       "eventSource": "aws:dynamodb",
       "awsRegion": "us-east-1",
       "dynamodb": {
-        "ApproximateCreationDateTime": 1551820747.0,
+        "ApproximateCreationDateTime": 1551987902.0,
         "Keys": {
-          "country_competitor_category": {
-            "S": "nl_flinders_beds"
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_2_seat_sofas_1"
           },
           "timestamp": {
-            "S": "1551817144000"
+            "S": "1551987901000"
           }
         },
         "NewImage": {
           "date": {
-            "S": "2019-03-05"
+            "S": "2019-03-07"
+          },
+          "page_url": {
+            "S": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
           },
           "country": {
             "S": "nl"
           },
           "category_url": {
-            "S": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"
+            "S": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken"
           },
           "pages_count": {
+            "N": "1"
+          },
+          "products_count": {
+            "N": "15"
+          },
+          "product_links_count": {
+            "N": "15"
+          },
+          "country_competitor_category_page_number": {
+            "S": "nl_flinders_2_seat_sofas_1"
+          },
+          "page_number": {
             "N": "1"
           },
           "competitor": {
             "S": "flinders"
           },
-          "country_competitor_category": {
-            "S": "nl_flinders_beds"
-          },
-          "products_count": {
-            "N": "22"
-          },
           "time": {
-            "S": "21-19-04"
+            "S": "19-45-01"
           },
           "category": {
-            "S": "beds"
+            "S": "2_seat_sofas"
+          },
+          "product_links": {
+            "L": [
+              {
+                "S": "https://www.flinders.nl/be-pure-rodeo-velvet-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/dutchbone-chester-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-25-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-jean-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/design-on-stock-aikon-bank-25-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-daley-25zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/zuiver-bor-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-etcetera-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/hay-mags-2-5zits-bank-combinatie-1"
+              },
+              {
+                "S": "https://www.flinders.nl/jaey-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/montis-axel-25-rancho-castanya"
+              },
+              {
+                "S": "https://www.flinders.nl/eyye-cella-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/bepurehome-nouveau-bank-2-5-zits"
+              },
+              {
+                "S": "https://www.flinders.nl/vitra-mariposa-2-5-zits-bank"
+              },
+              {
+                "S": "https://www.flinders.nl/riviera-maison-crescent-avenue-bank-2-5-zits"
+              }
+            ]
           },
           "timestamp": {
-            "S": "1551817144000"
+            "S": "1551987901000"
           }
         },
-        "SequenceNumber": "1900000000003496386071",
-        "SizeBytes": 295,
+        "SequenceNumber": "300000000000281995281",
+        "SizeBytes": 1256,
         "StreamViewType": "NEW_IMAGE"
       },
-      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-05T21:06:06.980"
-    },
-    {
-      "eventID": "784feb5f3cc8b1fdad5c4f3503d08eb1",
-      "eventName": "INSERT",
-      "eventVersion": "1.1",
-      "eventSource": "aws:dynamodb",
-      "awsRegion": "us-east-1",
-      "dynamodb": {
-        "ApproximateCreationDateTime": 1551820747.0,
-        "Keys": {
-          "country_competitor_category": {
-            "S": "nl_flinders_beds"
-          },
-          "timestamp": {
-            "S": "1551817144000"
-          }
-        },
-        "NewImage": {
-          "date": {
-            "S": "2019-03-05"
-          },
-          "country": {
-            "S": "nl"
-          },
-          "category_url": {
-            "S": "https://www.fonq.nl/producten/categorie-vloerlampen/"
-          },
-          "pages_count": {
-            "N": "26"
-          },
-          "competitor": {
-            "S": "fonq"
-          },
-          "country_competitor_category": {
-            "S": "nl_fonq_floor_lights"
-          },
-          "products_count": {
-            "N": "1231"
-          },
-          "time": {
-            "S": "21-19-04"
-          },
-          "category": {
-            "S": "beds"
-          },
-          "timestamp": {
-            "S": "1551817144000"
-          }
-        },
-        "SequenceNumber": "1900000000003496386071",
-        "SizeBytes": 295,
-        "StreamViewType": "NEW_IMAGE"
-      },
-      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-05T21:06:06.980"
+      "eventSourceARN": "arn:aws:dynamodb:us-east-1:166058053690:table/competitor_category_overall_info_dev/stream/2019-03-07T19:39:49.227"
     }
   ]
 }
