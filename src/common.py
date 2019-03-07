@@ -30,7 +30,7 @@ class Competitor:
     def get_next_pages_for_category(self, category_details):
         result = []
 
-        for i in range(1, category_details["pages_count"]):
+        for i in range(2, category_details["pages_count"] + 1):
 
             url = self.construct_next_page_for_category(category_details["category_url"], i)
             meta = {
