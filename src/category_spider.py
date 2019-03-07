@@ -35,19 +35,12 @@ class CategorySpider(scrapy.Spider):
         # yield the first page result
         yield category_details
 
-        for i in range(1, category_details["pages_count"]):
-            url = f"{response.url}?p={i}"
-            yield scrapy.Request(url=url,
-                                 meta={
-                                     'country': category_details["country"],
-                                     'competitor': category_details["competitor"],
-                                     'category': category_details["category"],
-                                     'category_url': category_details["category_url"],
-                                     'page_number': i,
-                                 },
-                                 callback=self.parse_next_pages)
+        next_pages = competitor.get_next_pages_for_category(category_details)
 
-    def parse_next_pages(self, response):
+        for (url, meta) in next_pages:
+            yield scrapy.Request(url=url, meta=meta, callback=self.parse_next_page)
+
+    def parse_next_page(self, response):
         competitor = find_competitor(response.meta['competitor'])
         yield competitor.parse_category_details(response)
 
