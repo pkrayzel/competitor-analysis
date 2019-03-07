@@ -13,6 +13,7 @@ functions:
     events:
       - schedule:
           rate: rate(24 hours)
+    timeout: 300
     iamRoleStatements:
     - Effect: "Allow"
       Action:
