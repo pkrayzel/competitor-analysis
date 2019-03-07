@@ -10,9 +10,18 @@ class Converter:
     @staticmethod
     def convert_dynamodb_item_to_json(item):
         result = {}
-        for key, value in item.items():
-            for v in value.values():
-                result[key] = v
+        for item_name, item_value in item.items():
+            # item_value can have structure:
+            # {"S": "ddd"}
+            # {"L": [ { "S": "SSS" }, ...]
+            for data_type, value in item_name.items():
+
+                if "L":
+                    # list of items - "S": value
+                    result[item_name] = [v for d, v in value]
+                else:
+                    result[item_name] = value
+
         return result
 
     def convert_json_items_to_put_requests(self, items):
@@ -57,7 +66,6 @@ class Converter:
             data_type = "N"
         elif type(value) == list:
             return Converter.convert_list(value)
-
         return {
             data_type: str(value)
         }
@@ -65,7 +73,6 @@ class Converter:
     @staticmethod
     def convert_list(value):
         items = [Converter.convert_value(item) for item in value]
-
         return {
             "L": items
         }

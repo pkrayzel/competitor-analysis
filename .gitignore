@@ -4,6 +4,7 @@ env/
 build/
 develop-eggs/
 dist/
+src/dist
 downloads/
 eggs/
 .eggs/

@@ -1,3 +1,5 @@
+import aws_lambda_logging
+import logging
 import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
@@ -6,14 +8,13 @@ from datetime import datetime
 
 from competitor import find_competitor, COMPETITORS
 
+aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
+logging.getLogger('urllib3').setLevel(logging.CRITICAL)
+
 
 class CategorySpider(scrapy.Spider):
 
     name = 'category'
-
-    custom_setting = {
-        "LOG_LEVEL": "INFO"
-    }
 
     def start_requests(self):
         for competitor in COMPETITORS:
@@ -58,6 +59,7 @@ def handler(event, context):
     date_string = datetime.now().strftime('%Y%m%d%H%M')
 
     process = CrawlerProcess({
+        "LOG_LEVEL": "ERROR",
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
         'FEED_FORMAT': 'json',
         'FEED_URI': f's3://{bucket_name}/category-overall-info/{date_string}.json'

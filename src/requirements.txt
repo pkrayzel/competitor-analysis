@@ -1,1 +1,2 @@
 Scrapy==1.6.0
+aws-lambda-logging==0.1.1

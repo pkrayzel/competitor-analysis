@@ -27,7 +27,7 @@
           "arn": "arn:aws:s3:::made-dev-competitor-analysis"
         },
         "object": {
-          "key": "category-overall-info/201903071229.json",
+          "key": "category-overall-info/201903072132.json",
           "size": 3860,
           "eTag": "9aa20d90928858efe31492a77d414011",
           "sequencer": "005C7AEE96E9778F98"

@@ -1,11 +1,12 @@
 import os
 import logging
+import aws_lambda_logging
 from dao import FileStorageClient, DataStorageClient
 from converter import ConverterOverall
 import json
 
-logger = logging.getLogger('category-output')
-logger.setLevel(logging.INFO)
+aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
+logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
 file_client = FileStorageClient()
@@ -25,9 +26,13 @@ def get_converter(key):
 def handler(event, context):
     environment = os.getenv('ENV', 'dev')
 
-    logger.info(f"event: {event}")
+    if "Records" not in event:
+        logging.error("Wrong input event - expecting 'Records' with S3 notification event.")
+        return { "result": "error", "message": "wrong input data" }
 
-    for record in event.get('Records', []):
+    logging.info(f"event: {event}")
+
+    for record in event['Records']:
         s3 = record['s3']
 
         bucket_name = s3['bucket']['name']
@@ -47,6 +52,6 @@ def handler(event, context):
                                     converter=converter,
                                     environment=environment)
         else:
-            logger.warning(f"Received file: {key} in bucket: {bucket_name} which is not configured. Ignoring.")
+            logging.warning(f"Received file: {key} in bucket: {bucket_name} which is not configured. Ignoring.")
 
     return event

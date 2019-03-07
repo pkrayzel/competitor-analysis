@@ -3,8 +3,8 @@ service: competitor-analysis
 provider:
   name: aws
   runtime: python3.7
-  memorySize: 512   # MB ram
-  timeout: 60       # seconds
+  memorySize: 512    # MB ram
+  timeout: 180       # seconds
 
 # https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d
 functions:
@@ -52,9 +52,31 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
 
+  product-pages-spider:
+    handler: product_pages_spider.handler
+    events:
+      - stream:
+          type: dynamodb
+          arn:
+            Fn::GetAtt:
+              - CategoryOverallTable
+              - StreamArn
+    iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - s3:*
+      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
+    - Effect: Allow
+      Action:
+        - dynamodb:*
+      Resource: arn:aws:dynamodb:*:*:table/competitor*
+    environment:
+      ENV: ${opt:stage, 'dev'}
+
 custom:
   pythonRequirements:
     dockerizePip: true
+    slim: true
   bucket_name: made-${opt:stage, 'dev'}-competitor-analysis
 
 plugins:
@@ -63,7 +85,7 @@ plugins:
 
 resources:
   Resources:
-    DynamoDbTable:
+    CategoryOverallTable:
       Type: AWS::DynamoDB::Table
       Properties:
         TableName: competitor_category_overall_info_${opt:stage, 'dev'}
