@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 import logging
 import aws_lambda_logging
 import scrapy
@@ -8,6 +9,7 @@ from datetime import datetime
 
 from competitors import find_competitor
 from validators import product_pages_validator
+
 
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
@@ -62,7 +64,7 @@ def main(item):
         bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
         date_string = datetime.now().strftime('%Y-%m-%d')
 
-        key = f'{item["country"]}-{item["competitor"]}-{item["category"]}-{item["page_number"]}'
+        key = f'{item["country"]}_{item["competitor"]}_{item["category"]}_{item["page_number"]}'
 
         process = CrawlerProcess({
             'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
@@ -96,5 +98,9 @@ def handler(event, context):
     items = event["Records"]
     item = json.loads(items[0]["body"])
 
-    return main(item)
+    main(item)
 
+    # in order to avoid ReactorNotRestartable
+    # when running on Lambda - we need to kill the process
+    # otherwise it can reuse the same process
+    sys.exit(0)

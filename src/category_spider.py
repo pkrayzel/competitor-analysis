@@ -1,6 +1,7 @@
 import aws_lambda_logging
 import logging
 import os
+import sys
 import scrapy
 from scrapy.crawler import CrawlerProcess
 
@@ -8,7 +9,6 @@ from datetime import datetime
 
 from competitors import find_competitor
 from validators import category_spider_validator
-
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
@@ -81,6 +81,7 @@ def main(competitors):
         process.start()
 
     except Exception as e:
+        print(e)
         error_message = f"Error for {competitors}: - {e}"
         logging.error(error_message)
         error_messages.append(error_message)
@@ -101,4 +102,9 @@ def handler(event, context):
             "error_message": f"Wrong input - {event_validator.errors}"
         }
 
-    return main(event["competitors"])
+    main(event["competitors"])
+
+    # in order to avoid ReactorNotRestartable
+    # when running on Lambda - we need to kill the process
+    # otherwise it can reuse the same process
+    sys.exit(0)
