@@ -1,15 +1,15 @@
 import json
 import os
-import sys
 import logging
 import aws_lambda_logging
 import scrapy
-from scrapy.crawler import CrawlerProcess
+from twisted.internet import reactor, defer
+from scrapy.crawler import CrawlerRunner
+
 from datetime import datetime
 
 from competitors import find_competitor
 from validators import product_pages_validator
-
 
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
@@ -66,14 +66,19 @@ def main(item):
 
         key = f'{item["country"]}_{item["competitor"]}_{item["category"]}_{item["page_number"]}'
 
-        process = CrawlerProcess({
+        runner = CrawlerRunner({
             'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
             'FEED_FORMAT': 'json',
             'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{key}.json'
         })
 
-        process.crawl(ProductPagesSpider, item=item)
-        process.start()
+        @defer.inlineCallbacks
+        def crawl(item):
+            yield runner.crawl(ProductPagesSpider, item=item)
+            reactor.stop()
+
+        crawl(item)
+        reactor.run()  # t
 
         return {
             "result": "success"
@@ -92,15 +97,10 @@ def handler(event, context):
     if not is_valid:
         return {
             "result": "error",
-            "error_message": f"Wrong input - {event_validator.errors}"
+            "error_message": f"Wrong input - {product_pages_validator.errors}"
         }
 
     items = event["Records"]
     item = json.loads(items[0]["body"])
 
-    main(item)
-
-    # in order to avoid ReactorNotRestartable
-    # when running on Lambda - we need to kill the process
-    # otherwise it can reuse the same process
-    sys.exit(0)
+    return main(item)
