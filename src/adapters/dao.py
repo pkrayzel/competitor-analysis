@@ -58,15 +58,16 @@ class DataStorageClient:
 
 class QueueClient:
 
-    def __init__(self, endpoint_url=None):
-        self.client = boto3.client('sqs', endpoint_url=endpoint_url)
+    def __init__(self, queue_name, endpoint_url=None):
+        sqs = boto3.resource('sqs', endpoint_url=endpoint_url)
+        self.queue = sqs.get_queue_by_name(QueueName=queue_name)
 
-    def store_items(self, items, queue_url):
-        logger.info(f"Number of items to send to SQS queue {queue_url}: {len(items)}")
+    def store_items(self, items):
+        logger.info(f"Number of items to send to SQS queue: {len(items)}")
 
-        for item in items:
-            self.client.send_message(
-                QueueUrl=queue_url,
+        for i, item in enumerate(items):
+            logger.info(f"Sending item: {i+1}...")
+            self.queue.send_message(
                 DelaySeconds=1,
                 MessageBody=json.dumps(item)
             )

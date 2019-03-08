@@ -1,21 +1,20 @@
 import os
 import logging
 import aws_lambda_logging
-from dao import FileStorageClient, QueueClient
+from adapters.dao import FileStorageClient, QueueClient
 import json
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
-file_client = FileStorageClient()
-queue_client = QueueClient()
-
-
 def main(event):
-    try:
-        queue_url = os.getenv('QUEUE_URL', '')
+    queue_name = os.getenv('QUEUE_NAME', 'competitor-analysis-products-queue-dev')
 
+    file_client = FileStorageClient()
+    queue_client = QueueClient(queue_name=queue_name)
+
+    try:
         if "Records" not in event:
             logging.error("Wrong input event - expecting 'Records' with S3 notification event.")
             return {"result": "error", "message": "wrong input data"}
@@ -35,8 +34,7 @@ def main(event):
 
             data = json.load(file_content)
 
-            queue_client.store_items(items=data,
-                                     queue_url=queue_url)
+            queue_client.store_items(items=data)
 
         return {
             "result": "success"

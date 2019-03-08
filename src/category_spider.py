@@ -1,39 +1,17 @@
 import aws_lambda_logging
-from cerberus import Validator
 import logging
 import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
 
-
 from datetime import datetime
 
-from competitor import find_competitor
+from competitors import find_competitor
+from validators import category_spider_validator
+
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
-
-
-event_validator = Validator({
-    "competitors": {
-        "type": "list",
-        "minlength": 1,
-        "required": True,
-        "schema": {
-            "type": "dict",
-            "schema": {
-                "name": {
-                    "type": "string",
-                    "required": True
-                },
-                "country": {
-                    "type": "string",
-                    "required": True
-                },
-            }
-        }
-    },
-})
 
 
 class CategorySpider(scrapy.Spider):
@@ -115,7 +93,7 @@ def main(competitors):
 
 
 def handler(event, context):
-    is_valid = event_validator.validate(event)
+    is_valid = category_spider_validator.validate(event)
 
     if not is_valid:
         return {

@@ -1,5 +1,4 @@
 import json
-from cerberus import Validator
 import os
 import logging
 import aws_lambda_logging
@@ -7,34 +6,12 @@ import scrapy
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 
-from competitor import find_competitor
+from competitors import find_competitor
+from validators import product_pages_validator
+
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
-
-
-event_validator = Validator({
-    "Records": {
-        "type": "list",
-        "minlength": 1,
-        "maxlength": 1,
-        "required": True,
-        "schema": {
-            "type": "dict",
-            "schema": {
-                "messageId": { "type": "string", "required": True },
-                "receiptHandle": { "type": "string", "required": True },
-                "body": { "type": "string", "required": True },
-                "attributes": { "type": "dict", "required": True },
-                "messageAttributes": { "type": "dict", "required": True },
-                "md5OfBody": { "type": "string", "required": True },
-                "eventSource": { "type": "string", "required": True },
-                "eventSourceARN": { "type": "string", "required": True },
-                "awsRegion": { "type": "string", "required": True },
-            }
-        }
-    },
-})
 
 
 class ProductPagesSpider(scrapy.Spider):
@@ -65,7 +42,7 @@ class ProductPagesSpider(scrapy.Spider):
                                  })
 
     def parse(self, response):
-        competitor = find_competitor(response.meta['competitor'])
+        competitor = find_competitor(name=response.meta['competitor'], country=response.meta['country'])
         yield competitor.parse_product_detail(response)
 
     def closed(self, reason):
@@ -108,7 +85,7 @@ def main(item):
 
 
 def handler(event, context):
-    is_valid = event_validator.validate(event)
+    is_valid = product_pages_validator.validate(event)
 
     if not is_valid:
         return {
