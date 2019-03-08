@@ -2,9 +2,12 @@ import json
 import os
 import logging
 import aws_lambda_logging
+
 import scrapy
-from twisted.internet import reactor, defer
 from scrapy.crawler import CrawlerRunner
+from multiprocessing import Process, Pipe
+from twisted.internet import reactor
+
 
 from datetime import datetime
 
@@ -55,7 +58,8 @@ class ProductPagesSpider(scrapy.Spider):
         self.logger.info(f"Total scraping time: {difference} seconds")
 
 
-def main(item):
+def scrape_product_links(item, conn):
+    error = None
     try:
         logging.info(f'Running product pages scraping for competitor: {item["competitor"]}, '
                      f'country: {item["country"]}, category: {item["category"]},'
@@ -72,23 +76,39 @@ def main(item):
             'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{key}.json'
         })
 
-        @defer.inlineCallbacks
-        def crawl():
-            yield runner.crawl(ProductPagesSpider, item=item)
-
-        crawl()
-        if not reactor.running:
-            reactor.run()
-
-        return {
-            "result": "success"
-        }
+        deferred = runner.crawl(ProductPagesSpider, item=item)
+        deferred.addBoth(lambda _: reactor.stop())
+        reactor.run()
 
     except Exception as e:
+        logging.error(f"Error {e}")
+        error = e
+
+    conn.send([error])
+    conn.close()
+
+
+def main(item):
+    # create a pipe for communication
+    parent_conn, child_conn = Pipe()
+
+    # create the process, pass instance and connection
+    process = Process(target=scrape_product_links, args=(item, child_conn,))
+
+    process.start()
+    process.join()
+
+    error = parent_conn.recv()[0]
+
+    if error:
         return {
             "result": "error",
-            "error_message": e
+            "error_message": error
         }
+
+    return {
+            "result": "success"
+    }
 
 
 def handler(event, context):
