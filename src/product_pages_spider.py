@@ -14,24 +14,26 @@ logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
 event_validator = Validator({
-    "type": "object",
-    "properties": {
-        "Records": {
-            "type": "array",
-            "minItems": 1,
-            "maxItems": 1,
-            "items": {
-                "type": "object",
-                "properties": {
-                    "body": {"type": "string"},
-                },
-                "required": ["body"]
-            },
-        },
+    "Records": {
+        "type": "list",
+        "minlength": 1,
+        "maxlength": 1,
+        "required": True,
+        "schema": {
+            "type": "dict",
+            "schema": {
+                "messageId": { "type": "string", "required": True },
+                "receiptHandle": { "type": "string", "required": True },
+                "body": { "type": "string", "required": True },
+                "attributes": { "type": "dict", "required": True },
+                "messageAttributes": { "type": "dict", "required": True },
+                "md5OfBody": { "type": "string", "required": True },
+                "eventSource": { "type": "string", "required": True },
+                "eventSourceARN": { "type": "string", "required": True },
+                "awsRegion": { "type": "string", "required": True },
+            }
+        }
     },
-    "required": [
-        "Records"
-    ]
 })
 
 

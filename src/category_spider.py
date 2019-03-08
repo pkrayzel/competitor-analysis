@@ -15,24 +15,24 @@ logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
 event_validator = Validator({
-    "type": "object",
-    "properties": {
-        "competitors": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-                "type": "object",
-                "properties": {
-                    "name": {"type": "string"},
-                    "country": {"type": "string"},
+    "competitors": {
+        "type": "list",
+        "minlength": 1,
+        "required": True,
+        "schema": {
+            "type": "dict",
+            "schema": {
+                "name": {
+                    "type": "string",
+                    "required": True
                 },
-                "required": ["name", "country"]
-            },
-        },
+                "country": {
+                    "type": "string",
+                    "required": True
+                },
+            }
+        }
     },
-    "required": [
-        "competitors"
-    ]
 })
 
 
