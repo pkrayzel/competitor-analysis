@@ -57,6 +57,7 @@ functions:
     events:
       - stream:
           type: dynamodb
+          batchSize: 1
           arn:
             Fn::GetAtt:
               - CategoryOverallTable

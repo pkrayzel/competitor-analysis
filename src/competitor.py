@@ -151,13 +151,14 @@ class FonqCompetitor(Competitor):
         return f'{category_url}?p={page_number}'
 
     def parse_product_price(self, response):
-        price = 0
         try:
             price = response.css('div.price').xpath('span/text()').get()
             if price:
                 # price is in format "1.123,43,-"
                 price = price.replace(',-', '').replace('.-', '').replace(' ', '').replace('.', '').replace(',', '.')
                 price = float(price)
+            else:
+                price = 0
         except Exception as e:
             logging.warning(f"Fonq - exception when parsing price: {e}")
 
@@ -239,13 +240,14 @@ class FlindersCompetitor(Competitor):
         return f'{category_url}?p={page_number}'
 
     def parse_product_price(self, response):
-        price = 0
         try:
             price = response.css('span.price ::text').get()
             if price:
                 # price is in format "1.123,43,-"
                 price = price.replace('€', '').replace('\xa0', '').replace('.', '').replace(',', '.')
                 price = float(price)
+            else:
+                price = 0
         except Exception as e:
             logging.warning(f"Exception when parsing price: {e}")
         return price
@@ -286,8 +288,6 @@ class FlindersCompetitor(Competitor):
             logging.warning(f"Flinders - exception when parsing tech. specification: {e}")
 
         return result
-
-
 
 
 COMPETITORS = [

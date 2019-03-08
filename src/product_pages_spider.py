@@ -23,26 +23,24 @@ class ProductPagesSpider(scrapy.Spider):
         "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
     }
 
-    def __init__(self, items=None):
-        self.items = items
+    def __init__(self, item=None):
+        self.item = item
 
     def start_requests(self):
         # in case there's more dynamodb records
-        for item in self.items:
+        # for each product link
+        for i, link in enumerate(self.item["product_links"]):
 
-            # for each product link
-            for i, link in enumerate(item["product_links"]):
-
-                yield scrapy.Request(link,
-                                     meta={
-                                         'country': item["country"],
-                                         'competitor': item["competitor"],
-                                         'category': item["category"],
-                                         'category_url': item["category_url"],
-                                         'page_url': link,
-                                         'page_number': int(item["page_number"]),
-                                         'product_number': i,
-                                     })
+            yield scrapy.Request(link,
+                                 meta={
+                                     'country': self.item["country"],
+                                     'competitor': self.item["competitor"],
+                                     'category': self.item["category"],
+                                     'category_url': self.item["category_url"],
+                                     'page_url': link,
+                                     'page_number': int(self.item["page_number"]),
+                                     'product_number': i,
+                                 })
 
     def parse(self, response):
         competitor = find_competitor(response.meta['competitor'])
@@ -61,6 +59,12 @@ def handler(event, context):
         logging.error("Wrong input event - expecting 'Records' with DynamoDB stream event.")
         return { "result": "error", "message": "wrong input data" }
 
+    items = event["Records"]
+
+    if len(items) > 1:
+        logging.error("Too many records in input event - expecting just one record.")
+        return {"result": "error", "message": "wrong input data - too many records"}
+
     bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
     date_string = datetime.now().strftime('%Y%m%d')
 
@@ -68,19 +72,14 @@ def handler(event, context):
 
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-        'FEED_FORMAT': 'json',
-        'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{str(uuid4())}.json'
+        'FEED_FORMAT': 'jl',
+        'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{str(uuid4())}.jl'
     })
 
-    items = []
+    dynamodb_item = items[0]["dynamodb"]["NewImage"]
+    json_item = Converter.convert_dynamodb_item_to_json(dynamodb_item)
 
-    for item in event["Records"]:
-        dynamodb_item = item["dynamodb"]["NewImage"]
-        json_item = Converter.convert_dynamodb_item_to_json(dynamodb_item)
-
-        items.append(json_item)
-
-    process.crawl(ProductPagesSpider, items=items)
+    process.crawl(ProductPagesSpider, item=json_item)
     process.start()
 
     return {
