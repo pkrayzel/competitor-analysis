@@ -291,7 +291,7 @@ class FlindersCompetitor(Competitor):
 
 
 COMPETITORS = [
-    # FonqCompetitor(),
+    FonqCompetitor(),
     FlindersCompetitor()
 ]
 

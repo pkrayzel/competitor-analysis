@@ -1,3 +1,4 @@
+import json
 from uuid import uuid4
 import os
 import logging
@@ -6,7 +7,6 @@ import scrapy
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime
 
-from converter import Converter
 from competitor import find_competitor
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
@@ -54,45 +54,49 @@ class ProductPagesSpider(scrapy.Spider):
         self.logger.info(f"Total scraping time: {difference} seconds")
 
 
-def scrape_products(items):
+def main(event):
     try:
+        if "Records" not in event:
+            logging.error("Wrong input event - expecting 'Records' with DynamoDB stream event.")
+            return {"result": "error", "message": "wrong input data"}
+
+        items = event["Records"]
+
+        if len(items) > 1:
+            logging.error("Too many records in input event - expecting just one record.")
+            return {"result": "error", "message": "wrong input data - too many records"}
+
+        logging.info(f"Incoming event: {event}")
+
         bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
-        date_string = datetime.now().strftime('%Y%m%d')
+        date_string = datetime.now().strftime('%Y-%m-%d')
+
+        item = json.loads(items[0]["body"])
+
+        key = f'{item["country"]}-{item["competitor"]}-{item["category"]}-{item["page_number"]}'
 
         process = CrawlerProcess({
             'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-            'FEED_FORMAT': 'jl',
-            'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{str(uuid4())}.jl'
+            'FEED_FORMAT': 'json',
+            'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{key}.json'
         })
 
-        dynamodb_item = items[0]["dynamodb"]["NewImage"]
-        json_item = Converter.convert_dynamodb_item_to_json(dynamodb_item)
-
-        process.crawl(ProductPagesSpider, item=json_item)
+        process.crawl(ProductPagesSpider, item=item)
         process.start()
 
+        return {
+            "result": "success"
+        }
+
     except Exception as e:
-        raise Exception(f"{str(type(e).__name__)}: {str(e)}")
+        return {
+            "result": "error",
+            "error_message": f"{str(type(e).__name__)}: {str(e)}"
+        }
 
 
 def handler(event, context):
-    if "Records" not in event:
-        logging.error("Wrong input event - expecting 'Records' with DynamoDB stream event.")
-        return { "result": "error", "message": "wrong input data" }
-
-    items = event["Records"]
-
-    if len(items) > 1:
-        logging.error("Too many records in input event - expecting just one record.")
-        return {"result": "error", "message": "wrong input data - too many records"}
-
-    logging.info(f"Incoming event: {event}")
-
-    scrape_products(items)
-
-    return {
-        "result": "success"
-    }
+    return main(event)
 
 if __name__ == "__main__":
     handler('', '')

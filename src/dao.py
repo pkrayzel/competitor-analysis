@@ -1,6 +1,7 @@
 import boto3
 import logging
 import math
+import json
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -53,3 +54,19 @@ class DataStorageClient:
             ReturnConsumedCapacity='TOTAL',
             ReturnItemCollectionMetrics='SIZE'
         )
+
+
+class QueueClient:
+
+    def __init__(self, endpoint_url=None):
+        self.client = boto3.client('sqs', endpoint_url=endpoint_url)
+
+    def store_items(self, items, queue_url):
+        logger.info(f"Number of items to send to SQS queue {queue_url}: {len(items)}")
+
+        for item in items:
+            self.client.send_message(
+                QueueUrl=queue_url,
+                DelaySeconds=1,
+                MessageBody=json.dumps(item)
+            )

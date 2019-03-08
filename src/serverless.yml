@@ -31,13 +31,14 @@ functions:
       ENV: ${opt:stage, 'dev'}
       BUCKET_NAME: ${self:custom.bucket_name}
 
-  s3-json-to-dynamodb:
-    handler: s3_json_to_dynamodb.handler
+  s3-json-to-sqs:
+    handler: s3_json_to_sqs.handler
     events:
       - s3:
           bucket: ${self:custom.bucket_name}
           event: s3:ObjectCreated:*
           rules:
+            - prefix: category-overall-info/
             - suffix: .json
     iamRoleStatements:
     - Effect: Allow
@@ -47,21 +48,22 @@ functions:
       Resource: arn:aws:s3:::${self:custom.bucket_name}/*
     - Effect: Allow
       Action:
-        - dynamodb:BatchWriteItem
-      Resource: arn:aws:dynamodb:*:*:table/competitor*
+        - sqs:*
+      Resource: arn:aws:sqs:*:*:competitor-analysis-*
     environment:
       ENV: ${opt:stage, 'dev'}
+      QUEUE_URL:
+        Ref: ProductDetailsQueue
 
-  empty:
-    handler: empty.handler
+  product-pages-spider:
+    handler: product_pages_spider.handler
     events:
-      - stream:
-          type: dynamodb
+      - sqs:
           batchSize: 1
           arn:
             Fn::GetAtt:
-              - CategoryOverallTable
-              - StreamArn
+              - ProductDetailsQueue
+              - Arn
     iamRoleStatements:
       - Effect: Allow
         Action:
@@ -69,31 +71,8 @@ functions:
         Resource: arn:aws:s3:::${self:custom.bucket_name}/*
       - Effect: Allow
         Action:
-          - dynamodb:*
-        Resource: arn:aws:dynamodb:*:*:table/competitor*
-    environment:
-      ENV: ${opt:stage, 'dev'}
-
-  product-pages-spider:
-    handler: product_pages_spider.handler
-#    events:
-#      - stream:
-#          type: dynamodb
-#          batchSize: 1
-#          arn:
-#            Fn::GetAtt:
-#              - CategoryOverallTable
-#              - StreamArn
-    timeout: 900 # 15 minutes for scraping
-    iamRoleStatements:
-    - Effect: Allow
-      Action:
-        - s3:*
-      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
-    - Effect: Allow
-      Action:
-        - dynamodb:*
-      Resource: arn:aws:dynamodb:*:*:table/competitor*
+          - sqs:*
+        Resource: arn:aws:sqs:*:*:competitor-analysis-*
     environment:
       ENV: ${opt:stage, 'dev'}
 
@@ -109,22 +88,8 @@ plugins:
 
 resources:
   Resources:
-    CategoryOverallTable:
-      Type: AWS::DynamoDB::Table
+    ProductDetailsQueue:
+      Type: "AWS::SQS::Queue"
       Properties:
-        TableName: competitor_category_overall_info_${opt:stage, 'dev'}
-        AttributeDefinitions:
-          - AttributeName: country_competitor_category_page_number
-            AttributeType: S
-          - AttributeName: timestamp
-            AttributeType: S
-        KeySchema:
-          - AttributeName: country_competitor_category_page_number
-            KeyType: HASH
-          - AttributeName: timestamp
-            KeyType: RANGE
-        ProvisionedThroughput:
-          ReadCapacityUnits: 1
-          WriteCapacityUnits: 1
-        StreamSpecification:
-          StreamViewType: NEW_IMAGE
+        VisibilityTimeout: 1000
+        QueueName: competitor-analysis-products-queue-${opt:stage, 'dev'}
