@@ -73,12 +73,12 @@ def main(item):
         })
 
         @defer.inlineCallbacks
-        def crawl(item):
+        def crawl():
             yield runner.crawl(ProductPagesSpider, item=item)
             reactor.stop()
 
-        crawl(item)
-        reactor.run()  # t
+        crawl()
+        reactor.run()
 
         return {
             "result": "success"
