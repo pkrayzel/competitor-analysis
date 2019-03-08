@@ -1,6 +1,5 @@
 import aws_lambda_logging
-import jsonschema
-from jsonschema import validate
+from cerberus import Validator
 import logging
 import os
 import scrapy
@@ -15,7 +14,7 @@ aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
-EVENT_SCHEMA = {
+event_validator = Validator({
     "type": "object",
     "properties": {
         "competitors": {
@@ -34,7 +33,7 @@ EVENT_SCHEMA = {
     "required": [
         "competitors"
     ]
-}
+})
 
 
 class CategorySpider(scrapy.Spider):
@@ -116,12 +115,12 @@ def main(competitors):
 
 
 def handler(event, context):
-    try:
-        validate(instance=event, schema=EVENT_SCHEMA)
-    except jsonschema.exceptions.ValidationError as e:
+    is_valid = event_validator.validate(event)
+
+    if not is_valid:
         return {
             "result": "error",
-            "error_message": f"Wrong input - {e}"
+            "error_message": f"Wrong input - {event_validator.errors}"
         }
 
     return main(event["competitors"])

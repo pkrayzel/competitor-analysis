@@ -1,5 +1,5 @@
 import json
-from jsonschema import validate
+from cerberus import Validator
 import os
 import logging
 import aws_lambda_logging
@@ -13,7 +13,7 @@ aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
-EVENT_SCHEMA = {
+event_validator = Validator({
     "type": "object",
     "properties": {
         "Records": {
@@ -32,7 +32,7 @@ EVENT_SCHEMA = {
     "required": [
         "Records"
     ]
-}
+})
 
 
 class ProductPagesSpider(scrapy.Spider):
@@ -106,16 +106,16 @@ def main(item):
 
 
 def handler(event, context):
-    try:
-        validate(instance=event, schema=EVENT_SCHEMA)
+    is_valid = event_validator.validate(event)
 
-        items = event["Records"]
-        item = json.loads(items[0]["body"])
-
-        return main(item)
-
-    except Exception as e:
+    if not is_valid:
         return {
             "result": "error",
-            "error_message": f"Wrong input - {e}"
+            "error_message": f"Wrong input - {event_validator.errors}"
         }
+
+    items = event["Records"]
+    item = json.loads(items[0]["body"])
+
+    return main(item)
+
