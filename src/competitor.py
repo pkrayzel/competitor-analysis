@@ -296,7 +296,7 @@ COMPETITORS = [
 ]
 
 
-def find_competitor(name):
+def find_competitor(name, country):
     for c in COMPETITORS:
-        if c.name == name:
+        if c.name == name and c.country == country:
             return c

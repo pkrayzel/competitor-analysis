@@ -1,5 +1,5 @@
 import json
-from uuid import uuid4
+from jsonschema import validate
 import os
 import logging
 import aws_lambda_logging
@@ -13,13 +13,35 @@ aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
 
 
+EVENT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "Records": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 1,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "body": {"type": "string"},
+                },
+                "required": ["body"]
+            },
+        },
+    },
+    "required": [
+        "Records"
+    ]
+}
+
+
 class ProductPagesSpider(scrapy.Spider):
 
     name = 'product-pages'
 
     custom_settings = {
         "DOWNLOAD_DELAY": 2,
-        "RETRY_TIMES": 5,
+        "RETRY_TIMES": 10,
         "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
     }
 
@@ -27,8 +49,6 @@ class ProductPagesSpider(scrapy.Spider):
         self.item = item
 
     def start_requests(self):
-        # in case there's more dynamodb records
-        # for each product link
         for i, link in enumerate(self.item["product_links"]):
 
             yield scrapy.Request(link,
@@ -54,24 +74,14 @@ class ProductPagesSpider(scrapy.Spider):
         self.logger.info(f"Total scraping time: {difference} seconds")
 
 
-def main(event):
+def main(item):
     try:
-        if "Records" not in event:
-            logging.error("Wrong input event - expecting 'Records' with DynamoDB stream event.")
-            return {"result": "error", "message": "wrong input data"}
-
-        items = event["Records"]
-
-        if len(items) > 1:
-            logging.error("Too many records in input event - expecting just one record.")
-            return {"result": "error", "message": "wrong input data - too many records"}
-
-        logging.info(f"Incoming event: {event}")
+        logging.info(f'Running product pages scraping for competitor: {item["competitor"]}, '
+                     f'country: {item["country"]}, category: {item["category"]},'
+                     f'page_number: {item["page_number"]}.')
 
         bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
         date_string = datetime.now().strftime('%Y-%m-%d')
-
-        item = json.loads(items[0]["body"])
 
         key = f'{item["country"]}-{item["competitor"]}-{item["category"]}-{item["page_number"]}'
 
@@ -91,12 +101,21 @@ def main(event):
     except Exception as e:
         return {
             "result": "error",
-            "error_message": f"{str(type(e).__name__)}: {str(e)}"
+            "error_message": e
         }
 
 
 def handler(event, context):
-    return main(event)
+    try:
+        validate(instance=event, schema=EVENT_SCHEMA)
 
-if __name__ == "__main__":
-    handler('', '')
+        items = event["Records"]
+        item = json.loads(items[0]["body"])
+
+        return main(item)
+
+    except Exception as e:
+        return {
+            "result": "error",
+            "error_message": f"Wrong input - {e}"
+        }

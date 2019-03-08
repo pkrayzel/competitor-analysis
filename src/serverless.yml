@@ -57,6 +57,7 @@ functions:
 
   product-pages-spider:
     handler: product_pages_spider.handler
+    timeout: 900
     events:
       - sqs:
           batchSize: 1
