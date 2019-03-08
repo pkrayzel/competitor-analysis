@@ -17,6 +17,9 @@ if __name__ == '__main__':
 
     with open(file_name, 'r') as f:
         data = json.load(f)
+
+        print(f"Total amount of category-pages: {len(data)}")
+
         for item in data:
             results[item["category"]]["product_links_count"] += item["product_links_count"]
             results[item["category"]]["products_count"] = item["products_count"]
