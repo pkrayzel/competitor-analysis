@@ -2,9 +2,7 @@ import aws_lambda_logging
 import logging
 import os
 import scrapy
-from scrapy import crawler
-from multiprocessing import Process, Queue
-from twisted.internet import reactor
+from scrapy.crawler import CrawlerProcess
 
 
 from datetime import datetime
@@ -23,18 +21,18 @@ class CategorySpider(scrapy.Spider):
         self.competitor_name = competitor_name
 
     def start_requests(self):
-        competitor = find_competitor(self.competitor_name)
-        for category, value in competitor.get_categories_urls().items():
-            category_url = value['url']
-            yield scrapy.Request(url=category_url,
-                                 meta={
-                                     'country': competitor.country,
-                                     'competitor': competitor.name,
-                                     'category': category,
-                                     'category_url': category_url,
-                                     'page_number': 1
-                                 },
-                                 callback=self.parse_first_page)
+        for competitor in COMPETITORS:
+            for category, value in competitor.get_categories_urls().items():
+                category_url = value['url']
+                yield scrapy.Request(url=category_url,
+                                     meta={
+                                         'country': competitor.country,
+                                         'competitor': competitor.name,
+                                         'category': category,
+                                         'category_url': category_url,
+                                         'page_number': 1
+                                     },
+                                     callback=self.parse_first_page)
 
     def parse_first_page(self, response):
         competitor = find_competitor(response.meta['competitor'])
@@ -85,28 +83,36 @@ def run_spider(bucket_name, date_string, competitor_name, competitor_country):
 
 
 def main():
-    bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
+    try:
+        bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
 
-    date_string = datetime.now().strftime('%Y-%m-%d')
-    error_count = 0
-    for competitor in COMPETITORS:
-        try:
-            run_spider(bucket_name=bucket_name,
-                       date_string=date_string,
-                       competitor_name=competitor.name,
-                       competitor_country=competitor.country)
-        except Exception as e:
-            logging.error(f"Exception during scraping {competitor.name} - {e}")
-            error_count += 1
+        date_string = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
+        error_messages = []
+
+        process = CrawlerProcess({
+            "LOG_LEVEL": "ERROR",
+            'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
+            'FEED_FORMAT': 'json',
+            'FEED_URI': f's3://{bucket_name}/category-overall-info/{date_string}.json'
+        })
+
+        process.crawl(CategorySpider)
+        process.start()
+    except Exception as e:
+        error_message = f"Error for {competitor.name}: - {e}"
+        logging.error(error_message)
+        error_messages.append(error_message)
 
     return {
         "result": "success",
-        "error_count": error_count
+        "error_count": len(error_messages),
+        "error_messages": error_messages
     }
 
 
 def handler(event, context):
     return main()
+
 
 if __name__ == "__main__":
     handler('', '')
