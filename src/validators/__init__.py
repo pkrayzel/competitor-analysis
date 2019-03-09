@@ -45,3 +45,8 @@ product_pages_validator = Validator({
         }
     },
 })
+
+
+json_to_csv_validator = Validator({
+    "date": {"type": "string", "required": True}
+})

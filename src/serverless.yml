@@ -3,16 +3,14 @@ service: competitor-analysis
 provider:
   name: aws
   runtime: python3.7
-  memorySize: 512    # MB ram
+  memorySize: 128    # MB ram
   timeout: 180       # seconds
 
 # https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d
 functions:
   category-spider:
     handler: category_spider.handler
-#    events:
-#      - schedule:
-#          rate: rate(24 hours)
+    memorySize: 512
     timeout: 300
     iamRoleStatements:
     - Effect: "Allow"
@@ -33,7 +31,6 @@ functions:
 
   s3-json-to-sqs:
     handler: s3_json_to_sqs.handler
-    memorySize: 128    # MB ram
     timeout: 60       # seconds
     events:
       - s3:
@@ -77,6 +74,18 @@ functions:
         Resource: arn:aws:sqs:*:*:competitor-analysis-*
     environment:
       ENV: ${opt:stage, 'dev'}
+
+  json-to-csv:
+    handler: json_to_csv.handler
+    timeout: 60
+    iamRoleStatements:
+      - Effect: Allow
+        Action:
+          - s3:*
+        Resource: arn:aws:s3:::${self:custom.bucket_name}/*
+    environment:
+      ENV: ${opt:stage, 'dev'}
+      LOCAL_DIRECTORY: /tmp
 
 custom:
   pythonRequirements:

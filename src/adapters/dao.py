@@ -20,6 +20,14 @@ class FileStorageClient:
         )
         return response['Body']
 
+    def upload(self, bucket_name, file_key, file_content):
+        logger.info(f'Uploading file {file_key} into bucket {bucket_name}...')
+        self.client.put_object(
+            Bucket=bucket_name,
+            Key=file_key,
+            Body=file_content
+        )
+
 
 class DataStorageClient:
 

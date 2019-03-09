@@ -78,6 +78,14 @@ class Competitor:
     def get_pages_count(self, products_count):
         return math.ceil(products_count / self.products_per_page)
 
+    def convert_to_csv_item(self, product_page_item):
+        result = dict(country=product_page_item["country"],
+                      competitor=product_page_item["competitor"],
+                      category=product_page_item["category"],
+                      price=product_page_item["product_info"]["price"],
+                      title=product_page_item["product_info"]["title"])
+        return result
+
     # following methods must be implemented by each competitor subclass
     def parse_products_count(self, response):
         raise NotImplemented("Must be implemented in child class")
