@@ -10,11 +10,11 @@ logger.setLevel(logging.INFO)
 class FileStorageClient:
 
     def __init__(self, endpoint_url=None):
-        self.client = boto3.client('s3', endpoint_url=endpoint_url)
+        self.resource = boto3.resource('s3', endpoint_url=endpoint_url)
 
     def get(self, bucket_name, file_key):
         logger.info(f'Getting file content for the file: {file_key} from the bucket: {bucket_name}')
-        response = self.client.get_object(
+        response = self.resource.meta.client.get_object(
             Bucket=bucket_name,
             Key=file_key
         )
@@ -22,11 +22,35 @@ class FileStorageClient:
 
     def upload(self, bucket_name, file_key, file_content):
         logger.info(f'Uploading file {file_key} into bucket {bucket_name}...')
-        self.client.put_object(
+        self.resource.meta.client.put_object(
             Bucket=bucket_name,
             Key=file_key,
             Body=file_content
         )
+
+    def _get_all_file_keys_for_prefix(self, bucket_name, prefix):
+        paginator = self.resource.meta.client.get_paginator('list_objects_v2')
+        operation_parameters = dict(Bucket=bucket_name, Prefix=prefix)
+        page_iterator = paginator.paginate(**operation_parameters)
+
+        for page in page_iterator:
+            if page["KeyCount"] > 0:
+                for item in page["Contents"]:
+                    yield item["Key"]
+
+    def download_directory(self, bucket_name, directory_prefix, local_directory):
+        keys = self._get_all_file_keys_for_prefix(bucket_name, directory_prefix)
+
+        count = 0
+        for k in keys:
+            logging.info(f"Downloading file: {k}...")
+
+            local_file_name = local_directory + k.replace('/', '_')
+            print(local_file_name)
+            self.resource.Bucket(bucket_name).download_file(k, local_file_name)
+            count += 1
+
+        logging.info(f"Downloaded {count} files.")
 
 
 class DataStorageClient:
