@@ -17,8 +17,7 @@ file_client = FileStorageClient()
 
 def main(date_string):
     bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
-    # directory = os.getenv('LOCAL_DIRECTORY', 'temp')
-    directory = "temp"
+    directory = os.getenv('LOCAL_DIRECTORY', 'temp')
     logging.info(f"Getting all category-product-pages files from bucket: {bucket_name} for date: {date_string}")
 
     local_dir = f"{directory}/{date_string}"
