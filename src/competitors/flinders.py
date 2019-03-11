@@ -1,5 +1,6 @@
 import logging
 from competitors.common import Competitor
+from domain.model import ProductInformation
 
 
 class FlindersCompetitor(Competitor):
@@ -95,3 +96,39 @@ class FlindersCompetitor(Competitor):
             logging.warning(f"Flinders - exception when parsing tech. specification: {e}")
 
         return result
+
+    def convert_to_product_information(self, product_page_item):
+        result = ProductInformation()
+
+        product_details = product_page_item["product_info"]
+        result.price = product_details.get("price", 0.0)
+        result.title = product_details.get("title", "")
+
+        technical_details = product_details["technical_details"]
+
+        width, depth, height = self._get_dimensions_from_technical_details(technical_details)
+
+        result.width = width
+        result.height = height
+        result.depth = depth
+
+        result.seat_height = int(technical_details.get("zithoogte", 0))
+
+        result.material = technical_details.get("materiaal", "")
+        result.color = technical_details.get("kleur", "")
+
+        return result
+
+
+    def _get_dimensions_from_technical_details(self, technical_details):
+        """
+        "afmetingen": "(b) 190 x (d) 86 x (h) 85 cm",   # dimensions
+        :param dimensions:
+        :return:
+        """
+        dimensions = technical_details.get("afmetingen")
+        if dimensions:
+            width, depth, height = [int(s) for s in dimensions.split() if s.isdigit()]
+            return width, depth, height
+
+        return 0, 0, 0

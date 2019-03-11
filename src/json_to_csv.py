@@ -36,7 +36,9 @@ def main(date_string):
     with open(output_file_name, 'w', newline='') as csv_file:
 
         writer = csv.DictWriter(csv_file,
-                                fieldnames=["country", "competitor", "category", "price", "title"])
+                                fieldnames=["country", "competitor", "category", "price",
+                                            "title", "width", "height", "depth",
+                                            "seat_height", "material", "color"])
         writer.writeheader()
 
         for f in os.listdir(local_dir):
@@ -80,3 +82,7 @@ def handler(event, context):
         }
 
     return main(event["date"])
+
+
+if __name__ == '__main__':
+    handler({"date": "2019-03-09"}, "")

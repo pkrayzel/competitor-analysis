@@ -79,11 +79,19 @@ class Competitor:
         return math.ceil(products_count / self.products_per_page)
 
     def convert_to_csv_item(self, product_page_item):
+        product_information = self.convert_to_product_information(product_page_item)
         result = dict(country=product_page_item["country"],
                       competitor=product_page_item["competitor"],
                       category=product_page_item["category"],
-                      price=product_page_item["product_info"]["price"],
-                      title=product_page_item["product_info"]["title"])
+                      price=product_information.price,
+                      title=product_information.title,
+                      width=product_information.width,
+                      depth=product_information.depth,
+                      height=product_information.height,
+                      seat_height=product_information.seat_height,
+                      material=product_information.material,
+                      color=product_information.color,
+                      )
         return result
 
     # following methods must be implemented by each competitor subclass
@@ -99,12 +107,8 @@ class Competitor:
     def parse_products_links_from_category_page(self, response):
         raise NotImplemented("Must be implemented in child class")
 
-    def parse_product_price(self, response):
-        raise NotImplemented("Must be implemented in child class")
-
-    def parse_product_title(self, response):
-        raise NotImplemented("Must be implemented in child class")
-
     def parse_technical_details(self, response):
         raise NotImplemented("Must be implemented in child class")
 
+    def convert_to_product_information(self, product_page_item):
+        raise NotImplemented("Must be implemented in child class")

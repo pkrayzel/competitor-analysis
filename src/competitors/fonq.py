@@ -1,5 +1,6 @@
 import logging
 from competitors.common import Competitor
+from domain.model import ProductInformation
 
 
 class FonqCompetitor(Competitor):
@@ -87,10 +88,34 @@ class FonqCompetitor(Competitor):
                     label = row.xpath('./td/span/strong/text()').get()
                 value = row.xpath('./td[2]/text()').get()
                 if label and value:
-                    label = label.replace('\n', '').replace(' ', '_').replace('/', '_').lower()
+                    label = label.replace('\n', '').replace(' ', '_').replace('/', '_').replace(':', '').lower()
                     result[label] = value
         except Exception as e:
             logging.warning(f"Fonq - exception when parsing tech. details: {e}")
 
         return result
 
+    def convert_to_product_information(self, product_page_item):
+        result = ProductInformation()
+
+        product_details = product_page_item["product_info"]
+        result.price = product_details.get("price", 0.0)
+        result.title = product_details.get("title", "")
+
+        technical_details = product_details["technical_details"]
+
+        result.width = self._get_dimension_field(technical_details, "breedte")
+        result.height = self._get_dimension_field(technical_details, "hoogte")
+        result.depth = self._get_dimension_field(technical_details, "diepte")
+
+        result.seat_height = self._get_dimension_field(technical_details, "zithoogte")
+
+        result.material = technical_details.get("materiaal", "")
+        result.color = technical_details.get("kleur", "")
+
+        return result
+
+    def _get_dimension_field(self, technical_details, label):
+        value = technical_details.get(label, "0.0 cm")
+        value = value.replace(' cm', '')
+        return float(value)
