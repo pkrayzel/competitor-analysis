@@ -49,6 +49,8 @@ class BoliaCompetitor(Competitor):
         # because of the javascript
         self.driver.get(response.url)
 
+        logging.info(f"Parsing category details for category: {response.meta['category']}")
+
         self._wait_for_element_in_driver("absolute pin cursor-pointer")
 
         self.loaded_content = BeautifulSoup(self.driver.page_source, 'html.parser')
@@ -117,6 +119,8 @@ class BoliaCompetitor(Competitor):
     def parse_product_detail(self, response):
         # we need to render this through browser
         # because of the javascript
+        logging.info(f"Parsing product detail for category: {response.meta['category']} and product num: {response.meta['product_number']}")
+
         self.driver.get(response.url)
         self.loaded_content = BeautifulSoup(self.driver.page_source, 'html.parser')
 
