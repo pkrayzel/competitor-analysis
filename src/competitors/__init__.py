@@ -3,8 +3,8 @@ from competitors.flinders import FlindersCompetitor
 from competitors.bolia import BoliaCompetitor
 
 COMPETITORS = [
-    # FlindersCompetitor(),
-    # FonqCompetitor(),
+    FlindersCompetitor(),
+    FonqCompetitor(),
     BoliaCompetitor()
 ]
 
