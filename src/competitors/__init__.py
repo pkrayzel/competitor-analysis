@@ -3,7 +3,7 @@ from competitors.flinders import FlindersCompetitor
 
 COMPETITORS = [
     FlindersCompetitor(),
-    FonqCompetitor()
+    FonqCompetitor(),
 ]
 
 

@@ -16,15 +16,11 @@ functions:
     - Effect: "Allow"
       Action:
        - s3:PutObject
-       - s3:Get*
-       - s3:List*
-      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
-    - Effect: Allow
+      Resource: arn:aws:s3:::${self:custom.bucket_name}
+    - Effect: "Allow"
       Action:
-        - dynamodb:List*
-        - dynamodb:Describe*
-        - dynamodb:Get*
-      Resource: arn:aws:dynamodb:*:*:table/competitor*
+       - s3:PutObject
+      Resource: arn:aws:s3:::${self:custom.bucket_name}/*
     environment:
       ENV: ${opt:stage, 'dev'}
       BUCKET_NAME: ${self:custom.bucket_name}
@@ -40,14 +36,20 @@ functions:
             - prefix: category-overall-info/
             - suffix: .json
     iamRoleStatements:
-    - Effect: Allow
+    - Effect: "Allow"
       Action:
-        - s3:Get*
-        - s3:List*
+       - s3:Get*
+       - s3:List*
+      Resource: arn:aws:s3:::${self:custom.bucket_name}
+    - Effect: "Allow"
+      Action:
+       - s3:Get*
+       - s3:List*
       Resource: arn:aws:s3:::${self:custom.bucket_name}/*
     - Effect: Allow
       Action:
-        - sqs:*
+        - sqs:GetQueueUrl
+        - sqs:SendMessage
       Resource: arn:aws:sqs:*:*:competitor-analysis-*
     environment:
       ENV: ${opt:stage, 'dev'}
@@ -64,14 +66,22 @@ functions:
               - ProductDetailsQueue
               - Arn
     iamRoleStatements:
-      - Effect: Allow
+      - Effect: "Allow"
         Action:
-          - s3:*
+         - s3:PutObject
+        Resource: arn:aws:s3:::${self:custom.bucket_name}
+      - Effect: "Allow"
+        Action:
+         - s3:PutObject
         Resource: arn:aws:s3:::${self:custom.bucket_name}/*
       - Effect: Allow
         Action:
-          - sqs:*
+          - sqs:ChangeMessageVisibility
+          - sqs:DeleteMessage
+          - sqs:GetQueueAttributes
+          - sqs:ReceiveMessage
         Resource: arn:aws:sqs:*:*:competitor-analysis-*
+
     environment:
       ENV: ${opt:stage, 'dev'}
 
@@ -81,6 +91,13 @@ functions:
     iamRoleStatements:
       - Effect: Allow
         Action:
+          - s3:PutObject
+          - s3:Get*
+          - s3:List*
+        Resource: arn:aws:s3:::${self:custom.bucket_name}
+      - Effect: Allow
+        Action:
+          - s3:PutObject
           - s3:Get*
           - s3:List*
         Resource: arn:aws:s3:::${self:custom.bucket_name}/*
