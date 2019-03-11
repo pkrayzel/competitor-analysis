@@ -2,6 +2,7 @@ import logging
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
+import os
 
 from competitors.common import Competitor
 from domain.model import ProductInformation
@@ -26,7 +27,8 @@ class BoliaCompetitor(Competitor):
         self.name = 'bolia'
         self.country = 'nl'
         self.products_per_page = 50
-        self.driver = webdriver.PhantomJS()
+        local_directory = os.getenv("LOCAL_DIRECTORY", "temp")
+        self.driver = webdriver.PhantomJS(service_log_path=f'{local_directory}/ghostdriver.log')
         super().__init__(
             name=self.name,
             country=self.country,
@@ -54,8 +56,8 @@ class BoliaCompetitor(Competitor):
         # but we want to split it to multiple
         # pages anyway - 50 should be a good number
         for i in range(1, pages_count + 1):
-            start = i * self.products_per_page
-            end = (i + 1) * self.products_per_page
+            start = (i - 1) * self.products_per_page
+            end = i * self.products_per_page
             product_links_subset = product_links[start:end]
             yield {
                 'country': response.meta['country'],

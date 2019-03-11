@@ -24,6 +24,7 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
       BUCKET_NAME: ${self:custom.bucket_name}
+      LOCAL_DIRECTORY: /tmp
 
   s3-json-to-sqs:
     handler: s3_json_to_sqs.handler
@@ -81,9 +82,9 @@ functions:
           - sqs:GetQueueAttributes
           - sqs:ReceiveMessage
         Resource: arn:aws:sqs:*:*:competitor-analysis-*
-
     environment:
       ENV: ${opt:stage, 'dev'}
+      LOCAL_DIRECTORY: /tmp
 
   json-to-csv:
     handler: json_to_csv.handler

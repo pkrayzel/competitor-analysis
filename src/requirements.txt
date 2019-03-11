@@ -1,4 +1,5 @@
 Scrapy==1.6.0
 aws-lambda-logging==0.1.1
 cerberus==1.2
-awscli==1.16.121
+selenium==3.141.0
+bs4==0.0.1
