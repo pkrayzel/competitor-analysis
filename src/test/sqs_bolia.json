@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "messageId": "cea85b2b-124f-4b7c-b5a4-844792af00ec",
+      "receiptHandle": "AQEBMOgD3MNeN5Jlcq5SOmhcucRNYiMNWO4quKOvVdGdg5axYXcatSMh7G9NvJL4cnyRWES2smMJbtNsa9UWC7U0uNGg5yLuqknMu57utSpd9gU3OvRw51daFnGmGyW6/ptlhqI0o9dpJ0tk/wFdcyXyF6vKcgBsqSJKTFCtwpF5dIqCR4rl+Onj1vASlvRQpv/jlsCo2j+Ns1Aks3IZukPO8fHud1sityPzD23zHatDrRQaGAhQEWWWzPqNaomodfnM4a99ZxDcDN45gftmqVA3myZt/gACLBo1snKq9lbbf23tCJT0dkyTajIc7IbSA+iFkPfEXqf579xvQAUXG45GfoQNK5qxuSXmR0RGJ55YVWIbJyZ2pSx1uGWmSTpQcy6U4QiCXNKXMKsEZtoQ31/v0cu5f4YXVhMXNtAYYObmk60=",
+      "body": "{\"country\": \"nl\",\"competitor\": \"bolia\",\"category\": \"wall_lights\",\"category_url\": \"https://www.bolia.com/nl-nl/accessoires/lampen/wandlampen/?Material=Glas&Material=Marmer&Material=Staal\",\"page_url\": \"https://www.bolia.com/nl-nl/accessoires/lampen/wandlampen/?Material=Glas&Material=Marmer&Material=Staal\",\"pages_count\": 1,\"page_number\": 1,\"products_count\": 18, \"product_links_count\": 18, \"product_links\": [\"https://www.bolia.com/nl-nl/producten/20-096-01_3\", \"https://www.bolia.com/nl-nl/producten/20-096-02_3\", \"https://www.bolia.com/nl-nl/producten/20-120-02_6893458\", \"https://www.bolia.com/nl-nl/producten/20-090-04_4699\", \"https://www.bolia.com/nl-nl/producten/20-107-07_11118590\", \"https://www.bolia.com/nl-nl/producten/20-090-06_4699\", \"https://www.bolia.com/nl-nl/producten/20-090-07_50\", \"https://www.bolia.com/nl-nl/producten/20-090-05_4699\", \"https://www.bolia.com/nl-nl/producten/20-004-13_4642\", \"https://www.bolia.com/nl-nl/producten/20-065-04_0\", \"https://www.bolia.com/nl-nl/producten/20-063-02_0\", \"https://www.bolia.com/nl-nl/producten/20-065-03_0\", \"https://www.bolia.com/nl-nl/producten/20-098-03_0\", \"https://www.bolia.com/nl-nl/producten/20-120-02_11119550\", \"https://www.bolia.com/nl-nl/producten/20-107-07_11118591\", \"https://www.bolia.com/nl-nl/producten/20-098-02_0\", \"https://www.bolia.com/nl-nl/producten/20-098-01_0\", \"https://www.bolia.com/nl-nl/producten/20-090-02_0\"]}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1552057067729",
+        "SenderId": "AROAJBXB46XGRYKEYABLA:competitor-analysis-dev-s3-json-to-sqs",
+        "ApproximateFirstReceiveTimestamp": "1552057069048"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "c9a678cb039504b207201af6851dcf71",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:166058053690:competitor-analysis-products-queue-dev",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}

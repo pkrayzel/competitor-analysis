@@ -4,12 +4,13 @@ import os
 import scrapy
 from twisted.internet import reactor, defer
 from scrapy.crawler import CrawlerRunner
-
+import types
 
 from datetime import datetime
 
 from competitors import find_competitor
 from validators import category_spider_validator
+
 
 aws_lambda_logging.setup(level='INFO', boto_level='CRITICAL')
 logging.getLogger('urllib3').setLevel(logging.CRITICAL)
@@ -41,8 +42,15 @@ class CategorySpider(scrapy.Spider):
     def parse_first_page(self, response):
         competitor = find_competitor(name=response.meta['competitor'], country=response.meta['country'])
         category_details = competitor.parse_category_details(response)
-        # yield the first page result
-        yield category_details
+
+        # for some competitors we might return multiple pages from the first page
+        # - no pagination from them, so we made that happen on purpose
+        if isinstance(category_details, types.GeneratorType):
+            for item in category_details:
+                yield item
+        # otherwise just yield the first page result
+        else:
+            yield category_details
 
         next_pages = competitor.get_next_pages_for_category(category_details)
 
@@ -74,7 +82,7 @@ def main(competitors):
         runner = CrawlerRunner({
             'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
             'FEED_FORMAT': 'json',
-            'FEED_URI': f's3://{bucket_name}/category-overall-info/{date_string}/{key}-s.json'
+            'FEED_URI': f's3://{bucket_name}/category-overall-info/{date_string}/{key}.json'
         })
 
         @defer.inlineCallbacks

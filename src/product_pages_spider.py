@@ -24,7 +24,7 @@ class ProductPagesSpider(scrapy.Spider):
     name = 'product-pages'
 
     custom_settings = {
-        "DOWNLOAD_DELAY": 2,
+        "DOWNLOAD_DELAY": 0,
         "RETRY_TIMES": 10,
         "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
     }

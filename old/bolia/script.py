@@ -4,8 +4,6 @@ import time
 import json
 
 
-BOLIA_URL_PREFIX = "https://www.bolia.com"
-
 
 CATEGORIES_URL = {
         "2_seat_sofas": {
