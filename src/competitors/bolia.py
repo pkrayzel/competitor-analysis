@@ -1,8 +1,9 @@
 import logging
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
 from bs4 import BeautifulSoup
 import time
-import os
 
 from competitors.common import Competitor
 from domain.model import ProductInformation
@@ -27,14 +28,16 @@ class BoliaCompetitor(Competitor):
         self.name = 'bolia'
         self.country = 'nl'
         self.products_per_page = 50
-        local_directory = os.getenv("LOCAL_DIRECTORY", "temp")
-        phantomjs_path = os.getenv("PHANTOMJS_EXEC_PATH", "../bin/phantomjs-2.1.1-macosx")
 
-        os.system("ls -la")
-        self.driver = webdriver.PhantomJS(
-            service_log_path=f'{local_directory}/ghostdriver.log',
-            executable_path=f"{os.getcwd()}/{phantomjs_path}"
-        )
+        options = Options()
+        options.binary_location = '/opt/headless-chromium'
+        options.add_argument('--headless')
+        options.add_argument('--no-sandbox')
+        options.add_argument('--single-process')
+        options.add_argument('--disable-dev-shm-usage')
+
+        self.driver = webdriver.Chrome('/opt/chromedriver', chrome_options=options)
+
         super().__init__(
             name=self.name,
             country=self.country,

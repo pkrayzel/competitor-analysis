@@ -26,6 +26,9 @@ functions:
       BUCKET_NAME: ${self:custom.bucket_name}
       LOCAL_DIRECTORY: /tmp
       PHANTOMJS_EXEC_PATH: bin/phantomjs-2.1.1-linux-x86_64
+    layers:
+      - ${cf:selenium-layer-dev.SeleniumLayerExport}
+      - ${cf:selenium-layer-dev.ChromedriverLayerExport}
 
   s3-json-to-sqs:
     handler: s3_json_to_sqs.handler
@@ -88,6 +91,9 @@ functions:
       ENV: ${opt:stage, 'dev'}
       LOCAL_DIRECTORY: /tmp
       PHANTOMJS_EXEC_PATH: bin/phantomjs-2.1.1-linux-x86_64
+    layers:
+      - ${cf:selenium-layer-dev.SeleniumLayerExport}
+      - ${cf:selenium-layer-dev.ChromedriverLayerExport}
 
   json-to-csv:
     handler: json_to_csv.handler
