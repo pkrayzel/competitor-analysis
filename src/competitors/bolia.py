@@ -11,16 +11,16 @@ from domain.model import ProductInformation
 class BoliaCompetitor(Competitor):
 
     CATEGORIES_URL = {
-        # "2_seat_sofas": {"url": "https://www.bolia.com/nl-nl/banken/alle-banken/?Model=2-zitsbank&Model=2%C2%BD-zitsbank&size=10000"},
-        # "3_seat_sofas": {"url": "https://www.bolia.com/nl-nl/banken/alle-banken/?Category=Banken&Model=3-zitsbank&size=1000"},
-        # "corner_sofa": {"url": "https://www.bolia.com/nl-nl/banken/hoekbanken/?size=1000"},
-        # "sofa_beds": {"url": "https://www.bolia.com/nl-nl/banken/slaapbanken/?Category=Slaapbanken&Chaise%20OE=Zonder%20chaise%20longue%20en%20open%20end&size=1000"},
-        # "arm_chairs": {"url": "https://www.bolia.com/nl-nl/meubels/woonkamer/fauteuils/?Category=Fauteuils&size=1000"},
-        # "dining_chairs": {"url": "https://www.bolia.com/nl-nl/meubels/eetkamer/eetkamerstoelen/?Category=Eetkamerstoelen&size=1000"},
-        # "pendant_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/hanglampen/?Family=Arita&Family=Ball&Family=Balloon&Family=Bell-A&Family=Bulb&Family=Cover&Family=Cyla&Family=Flachmann&Family=Glasblase&Family=Grape&Family=In%20Circles&Family=LED%20bulb&Family=Leaves&Family=Maiko&Family=Orb&Family=Pica&Family=Piper&Family=Pop&Family=Rotate&Family=Slice&Family=Squeeze&Family=Vetro"},
+        "2_seat_sofas": {"url": "https://www.bolia.com/nl-nl/banken/alle-banken/?Model=2-zitsbank&Model=2%C2%BD-zitsbank&size=10000"},
+        "3_seat_sofas": {"url": "https://www.bolia.com/nl-nl/banken/alle-banken/?Category=Banken&Model=3-zitsbank&size=1000"},
+        "corner_sofa": {"url": "https://www.bolia.com/nl-nl/banken/hoekbanken/?size=1000"},
+        "sofa_beds": {"url": "https://www.bolia.com/nl-nl/banken/slaapbanken/?Category=Slaapbanken&Chaise%20OE=Zonder%20chaise%20longue%20en%20open%20end&size=1000"},
+        "arm_chairs": {"url": "https://www.bolia.com/nl-nl/meubels/woonkamer/fauteuils/?Category=Fauteuils&size=1000"},
+        "dining_chairs": {"url": "https://www.bolia.com/nl-nl/meubels/eetkamer/eetkamerstoelen/?Category=Eetkamerstoelen&size=1000"},
+        "pendant_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/hanglampen/?Family=Arita&Family=Ball&Family=Balloon&Family=Bell-A&Family=Bulb&Family=Cover&Family=Cyla&Family=Flachmann&Family=Glasblase&Family=Grape&Family=In%20Circles&Family=LED%20bulb&Family=Leaves&Family=Maiko&Family=Orb&Family=Pica&Family=Piper&Family=Pop&Family=Rotate&Family=Slice&Family=Squeeze&Family=Vetro"},
         "wall_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/wandlampen/?Material=Glas&Material=Marmer&Material=Staal"},
-        # "floor_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/vloerlampen/?Material=Acryl&Material=Glas&Material=Marmer&Material=Staal"},
-        # "table_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"},
+        "floor_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/vloerlampen/?Material=Acryl&Material=Glas&Material=Marmer&Material=Staal"},
+        "table_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"},
     }
 
     def __init__(self):
@@ -29,7 +29,7 @@ class BoliaCompetitor(Competitor):
         self.products_per_page = 50
         local_directory = os.getenv("LOCAL_DIRECTORY", "temp")
         phantomjs_path = os.getenv("PHANTOMJS_EXEC_PATH", "../bin/phantomjs-2.1.1-macosx")
-        
+
         os.system("ls -la")
         self.driver = webdriver.PhantomJS(
             service_log_path=f'{local_directory}/ghostdriver.log',

@@ -56,6 +56,7 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
       QUEUE_NAME: ${self:custom.queue_name}
+      PHANTOMJS_EXEC_PATH: bin/phantomjs-2.1.1-linux-x86_64
 
   product-pages-spider:
     handler: product_pages_spider.handler
@@ -86,6 +87,7 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
       LOCAL_DIRECTORY: /tmp
+      PHANTOMJS_EXEC_PATH: bin/phantomjs-2.1.1-linux-x86_64
 
   json-to-csv:
     handler: json_to_csv.handler
@@ -106,6 +108,7 @@ functions:
     environment:
       ENV: ${opt:stage, 'dev'}
       LOCAL_DIRECTORY: /tmp
+      PHANTOMJS_EXEC_PATH: bin/phantomjs-2.1.1-linux-x86_64
 
 custom:
   pythonRequirements:
