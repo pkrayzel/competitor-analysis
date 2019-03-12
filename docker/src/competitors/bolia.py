@@ -22,12 +22,12 @@ class BoliaCompetitor(Competitor):
         "table_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"},
     }
 
-    def __init__(self, web):
+    def __init__(self, web_client):
         self.name = 'bolia'
         self.country = 'nl'
         self.products_per_page = 50
 
-        self.driver = web
+        self.web_client = web_client
 
         super().__init__(
             name=self.name,
@@ -41,18 +41,21 @@ class BoliaCompetitor(Competitor):
     def parse_category_details(self, response):
         # we need to render this through browser
         # because of the javascript
-        self.driver.get(response.url)
+        self.web_client.render_url(response.url)
 
         logging.info(f"Parsing category details for category: {response.meta['category']}")
 
-        self._wait_for_element_in_driver("absolute pin cursor-pointer")
+        self._wait_for_element_in_web_client("absolute pin cursor-pointer")
 
-        self.loaded_content = BeautifulSoup(self.driver.page_source, 'html.parser')
+        self.loaded_content = BeautifulSoup(self.web_client.get_rendered_content(), 'html.parser')
 
         products_count = self.parse_products_count(response)
         product_links = self.parse_products_links_from_category_page(response)
 
         pages_count = self.get_pages_count(products_count)
+
+        logging.info(f"There should be {products_count} product for category: {response.meta['category']} "
+                     f"- found {len(product_links)} product links.")
 
         # bolia doesn't have pagination
         # but we want to split it to multiple
@@ -74,12 +77,12 @@ class BoliaCompetitor(Competitor):
                 'product_links': product_links_subset
             }
 
-    def _wait_for_element_in_driver(self, search_text, timeout=45, interval=1):
+    def _wait_for_element_in_web_client(self, search_text, timeout=45, interval=1):
         interrupts = int(timeout / interval)
 
         for i in range(interrupts):
             logging.info(f"Waiting for page to be rendered - attempt {i}...")
-            if search_text in self.driver.page_source:
+            if search_text in self.web_client.get_rendered_content():
                 logging.info(f"Found control text {search_text} in page source...")
                 return True
 
@@ -115,8 +118,8 @@ class BoliaCompetitor(Competitor):
         # because of the javascript
         logging.info(f"Parsing product detail for category: {response.meta['category']} and product num: {response.meta['product_number']}")
 
-        self.driver.get(response.url)
-        self.loaded_content = BeautifulSoup(self.driver.page_source, 'html.parser')
+        self.web_client.render_url(response.url)
+        self.loaded_content = BeautifulSoup(self.web_client.get_rendered_content(), 'html.parser')
 
         price = self.parse_product_price(response)
         title = self.parse_product_title(response)

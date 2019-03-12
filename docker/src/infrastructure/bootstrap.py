@@ -29,7 +29,7 @@ def bootstrap():
         competitors_map = dict(
             nl_fonq=competitors.FonqCompetitor(),
             nl_flinders=competitors.FlindersCompetitor(),
-            nl_bolia=competitors.BoliaCompetitor(web=web_client)
+            nl_bolia=competitors.BoliaCompetitor(web_client=web_client)
         )
 
         binder.bind("competitors_map", competitors_map)

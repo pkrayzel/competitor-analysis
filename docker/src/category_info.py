@@ -8,7 +8,7 @@ def main():
     handler = CategoryInfoHandler()
     handler({
         "country": "nl",
-        "name": "flinders"
+        "name": "bolia"
     })
 
 
