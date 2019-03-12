@@ -18,7 +18,7 @@ class FileStorageClient:
         logging.info(f"Opening file {file_name}.")
         file_content = open(file_name, 'rb').read()
 
-        logging.info(f"Saving file in s3 bucket with file_key {s3_file_key}.")
+        logging.info(f"Saving file in s3 bucket with file_key s3://{self.bucket_name}/{s3_file_key}.")
         self._upload(file_key=s3_file_key, file_content=file_content)
 
     def get(self, file_key):

@@ -2,9 +2,12 @@ import json
 import logging
 import inject
 import time
+import csv
+import os
 
 from spiders.category_info import run_category_info
 from spiders.product_details import run_product_details
+from competitors import find_competitor
 
 
 class CategoryInfoHandler:
@@ -87,4 +90,53 @@ class ProductDetailsHandler:
 
 class ProductDetailsConversionHandler:
 
-    pass
+    @inject.params(file_storage_client='file_storage_client')
+    def __init__(self, file_storage_client):
+        self.file_storage_client = file_storage_client
+
+    def __call__(self, date_string):
+        logging.info(f"Product details conversion to CSV called for date: {date_string}")
+
+        local_dir = f"{date_string}"
+
+        self.file_storage_client.download_directory(directory_prefix=f"category-product-pages/{date_string}/",
+                                                    local_directory=f"{local_dir}/")
+
+        count = 0
+        output_file_name = f"product-data_{date_string}_data.csv"
+
+        with open(output_file_name, 'w', newline='') as csv_file:
+
+            writer = csv.DictWriter(csv_file,
+                                    fieldnames=["country", "competitor", "category", "price",
+                                                "title", "width", "height", "depth",
+                                                "seat_height", "material", "color"])
+            writer.writeheader()
+
+            for f in os.listdir(local_dir):
+
+                if ".json" not in f:
+                    continue
+
+                names = f.split("_")
+
+                competitor = find_competitor(country=names[0], name=names[1])
+
+                with open(local_dir + "/" + f, 'r') as json_file:
+                    logging.info(f"Opening file: {f} and parsing it to json...")
+                    data = json.load(json_file)
+
+                    logging.info(f"Converting all items to csv for file: {f}...")
+                    count += len(data)
+                    for d in data:
+                        item = competitor.convert_to_csv_item(d)
+                        writer.writerow(item)
+
+                    logging.info(f"File {f} successfully converted to csv - {len(data)} items written...")
+
+            logging.info(f"Finished conversion of all json files - total number of records written: {count}")
+
+        self.file_storage_client.upload_local_file(output_file_name)
+
+        logging.info(f"Removing the temporary local directory: {local_dir}")
+        os.system(f"rm -rf {local_dir}")
