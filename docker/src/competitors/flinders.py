@@ -1,6 +1,7 @@
 import logging
 from competitors.common import Competitor
 from domain.model import ProductInformation
+from collections import defaultdict
 
 
 class FlindersCompetitor(Competitor):
@@ -8,15 +9,15 @@ class FlindersCompetitor(Competitor):
     PRODUCTS_PER_PAGE = 100
 
     CATEGORIES_URL = {
-        # "2_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken" },
-        # "3_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-3-zitsbanken" },
-        # "corner_sofa": {"url": "https://www.flinders.nl/wonen-stoelen-fauteuils" },
-        # "dining_chairs": {"url": "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen" },
-        # "beds": { "url": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"},
-        # "rugs": {"url": "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden" },
-        # "pendant_lights": {"url": "https://www.flinders.nl/wonen-hanglampen" },
-        # "wall_lights": {"url": "https://www.flinders.nl/wonen-wandlampen" },
-        # "floor_lights": {"url": "https://www.flinders.nl/wonen-vloerlampen" },
+        "2_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken" },
+        "3_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-3-zitsbanken" },
+        "corner_sofa": {"url": "https://www.flinders.nl/wonen-stoelen-fauteuils" },
+        "dining_chairs": {"url": "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen" },
+        "beds": { "url": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"},
+        "rugs": {"url": "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden" },
+        "pendant_lights": {"url": "https://www.flinders.nl/wonen-hanglampen" },
+        "wall_lights": {"url": "https://www.flinders.nl/wonen-wandlampen" },
+        "floor_lights": {"url": "https://www.flinders.nl/wonen-vloerlampen" },
         "table_lights": {"url": "https://www.flinders.nl/wonen-tafellampen" },
     }
 
@@ -106,11 +107,12 @@ class FlindersCompetitor(Competitor):
 
         technical_details = product_details["technical_details"]
 
-        width, depth, height = self._get_dimensions_from_technical_details(technical_details)
+        dimensions = self._get_dimensions_from_technical_details(technical_details)
 
-        result.width = width
-        result.height = height
-        result.depth = depth
+        result.width = dimensions["width"]
+        result.height = dimensions["height"]
+        result.depth = dimensions["depth"]
+        result.diameter = dimensions["diameter"]
 
         result.seat_height = float(technical_details.get("zithoogte", 0.0))
 
@@ -119,10 +121,9 @@ class FlindersCompetitor(Competitor):
 
         return result
 
-
     def _get_dimensions_from_technical_details(self, technical_details):
         """
-        "afmetingen": "(b) 190 x (d) 86 x (h) 85 cm",   # dimensions
+        "afmetingen": "(b) 190 x (d) 86 x (h) 85 cm"
         "afmetingen": "(b) 18 x (d) 38 cm"
         "afmetingen": "(b) 53.00 x (d) 6.50 x (h) 55.00 cm"
         ...
@@ -130,12 +131,42 @@ class FlindersCompetitor(Competitor):
         :param dimensions:
         :return:
         """
-        dimensions = technical_details.get("afmetingen")
-        try:
-            if dimensions:
-                width, depth, height = [float(s) for s in dimensions.split() if s.isdigit()]
-                return width, depth, height
-        except Exception as e:
-            logging.error(f"Error while parsing dimensions for flinders - {technical_details} - {e}")
+        result = defaultdict(lambda: 0.0)
 
-        return 0, 0, 0
+        dimensions = technical_details.get("afmetingen")
+        if not dimensions:
+            return result
+
+        # "(b) 190 x (d) 86 x (h) 85 cm" -> "(b)190x(d)86x(h)85"
+        # "(b) 18 x (d) 38 cm" -> "(b)18x(d)38"
+        # "(b) 53.00 x (d) 6.50 x (h) 55.00 cm" -> "(b)53.00x(d)6.50x(h)55.00"
+        dimensions = dimensions.replace('cm', '').replace(' ', '')
+
+        # "(b)190x(d)86x(h)85" -> ["(b)190", "(d)86", "(h)85"]
+        # "(b)18x(d)38" -> ["(b)18", "(d)38"]
+        # "(b)53.00x(d)6.50x(h)55.00" -> ["(b)53.00", "(d)6.50", "(h)55.00"]
+        values = dimensions.split('x')
+
+        for v in values:
+
+            if v.startswith("(d)"):
+                result["depth"] = self._convert_value_to_float_safely(v.replace('(d)', ''))
+            elif v.startswith("(b)"):
+                result["width"] = self._convert_value_to_float_safely(v.replace('(b)', ''))
+            elif v.startswith("(h)"):
+                result["height"] = self._convert_value_to_float_safely(v.replace('(h)', ''))
+            elif v.startswith("(Ø)"):
+                result["diameter"] = self._convert_value_to_float_safely(v.replace('(Ø)', ''))
+            elif v.startswith("(l)"):
+                result["length"] = self._convert_value_to_float_safely(v.replace('(l)', ''))
+            else:
+                logging.warning(f"Unexpected item received: {technical_details} - value {v}")
+
+        return result
+
+    def _convert_value_to_float_safely(self, text):
+        try:
+            return float(text)
+        except Exception as e:
+            logging.warning(f"Can't convert text to float - {text}")
+        return 0.0

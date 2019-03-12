@@ -13,6 +13,7 @@ class ProductInformation:
     width: float = 0.0          # cm
     height: float = 0.0         # cm
     depth: float = 0.0          # cm
+    diameter: float = 0.0          # cm
     seat_height: float = 0.0    # cm
 
     # other
