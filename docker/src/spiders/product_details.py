@@ -3,23 +3,23 @@ from scrapy.crawler import CrawlerRunner
 from multiprocessing import Process, Queue
 from twisted.internet import reactor
 
-
 from datetime import datetime
+import logging
+
+from competitors import find_competitor
 
 
-
-class ProductPagesSpider(scrapy.Spider):
+class ProductDetailsSpider(scrapy.Spider):
 
     name = 'product-details'
 
-    custom_settings = {
-        "DOWNLOAD_DELAY": 0,
-        "RETRY_TIMES": 10,
-        "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
-    }
-
     def __init__(self, item=None):
         self.item = item
+
+        competitor = find_competitor(name=self.item['competitor'],
+                                     country=self.item['country'])
+
+        self.custom_settings = competitor.get_custom_settings()
 
     def start_requests(self):
         for i, link in enumerate(self.item["product_links"]):
@@ -32,10 +32,16 @@ class ProductPagesSpider(scrapy.Spider):
                                      'category_url': self.item["category_url"],
                                      'page_url': link,
                                      'page_number': int(self.item["page_number"]),
+                                     'page_products_count': len(self.item["product_links"]),
                                      'product_number': i,
                                  })
 
     def parse(self, response):
+        logging.info(f"Parsing product details for competitor: {response.meta['competitor']}, "
+                     f"country: {response.meta['country']}, "
+                     f"page number: {response.meta['page_number']} "
+                     f"and product number: {response.meta['product_number']}"
+                     f"/{response.meta['page_products_count']}")
         competitor = find_competitor(name=response.meta['competitor'], country=response.meta['country'])
         yield competitor.parse_product_detail(response)
 
@@ -60,7 +66,7 @@ def run_product_details(item):
                 'FEED_FORMAT': 'json',
                 'FEED_URI': file_name
             })
-            deferred = runner.crawl(ProductPagesSpider, item=item)
+            deferred = runner.crawl(ProductDetailsSpider, item=item)
             deferred.addBoth(lambda _: reactor.stop())
             reactor.run()
             q.put(None)

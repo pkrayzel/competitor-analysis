@@ -50,9 +50,8 @@ class ProductDetailsHandler:
         self.file_storage_client = file_storage_client
         self.queue_client = queue_client
 
-
     def __call__(self):
-        logging.info('Starting product detail handler')
+        logging.info('Starting product details handler')
 
         no_message_counter = 0
         max_not_found_counter = 20

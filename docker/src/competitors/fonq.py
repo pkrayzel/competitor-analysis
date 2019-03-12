@@ -33,6 +33,11 @@ class FonqCompetitor(Competitor):
             products_per_page=self.products_per_page
         )
 
+    def get_competitor_specific_settings(self):
+        return {
+            "DOWNLOAD_DELAY": 2,
+        }
+
     def get_categories_urls(self):
         return self.CATEGORIES_URL
 

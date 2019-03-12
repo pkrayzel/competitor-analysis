@@ -41,7 +41,7 @@ def configure_logging(env):
                     'level': select_level('urllib3', 'WARN', env),
                 },
                 'scrapy': {
-                    'level': select_level('scrapy', 'WARN', env),
+                    'level': select_level('scrapy', 'DEBUG', env),
                 },
 
             },

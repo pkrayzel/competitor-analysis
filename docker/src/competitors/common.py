@@ -8,6 +8,21 @@ class Competitor:
         self.country = country
         self.products_per_page = products_per_page
 
+    def get_custom_settings(self):
+        # common settings for all competitors
+        result = {
+            "RETRY_TIMES": 10,
+            "RETRY_HTTP_CODES": [500, 502, 503, 504, 400, 403, 404, 408]
+        }
+
+        # specific settings that can be overriden for specific competitor
+        specific = self.get_competitor_specific_settings()
+
+        for key, value in specific.items():
+            result[key] = value
+
+        return result
+
     def parse_category_details(self, response):
         products_count = self.parse_products_count(response)
         product_links = self.parse_products_links_from_category_page(response)
@@ -94,6 +109,9 @@ class Competitor:
                       color=product_information.color,
                       )
         return result
+
+    def get_competitor_specific_settings(self):
+        return {}
 
     # following methods must be implemented by each competitor subclass
     def parse_products_count(self, response):
