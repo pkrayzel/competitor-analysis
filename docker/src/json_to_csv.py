@@ -27,7 +27,7 @@ def convert_files_to_csv(date_string):
                                    local_directory=f"{local_dir}/")
 
     count = 0
-    output_file_name = f"{directory}/output.csv"
+    output_file_name = f"output.csv"
 
     with open(output_file_name, 'w', newline='') as csv_file:
 
@@ -43,8 +43,9 @@ def convert_files_to_csv(date_string):
                 continue
 
             names = f.split("_")
+            print(names)
+            competitor = find_competitor(country=names[0], name=names[1])
 
-            competitor = find_competitor(country=names[2], name=names[3])
 
             with open(local_dir + "/" + f, 'r') as json_file:
                 logging.info(f"Opening a file: {f}")

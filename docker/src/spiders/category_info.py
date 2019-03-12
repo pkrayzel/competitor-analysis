@@ -1,28 +1,19 @@
-import json
-import os
-import logging
-import scrapy
-from scrapy.crawler import CrawlerProcess
-import types
-
 from datetime import datetime
+import types
+import logging
+
+import scrapy
+from scrapy.crawler import CrawlerRunner
+
+from multiprocessing import Process, Queue
+from twisted.internet import reactor
 
 from competitors import find_competitor
-from adapters import dao
 
 
-FORMAT = '%(asctime)-15s %(message)s'
-logging.basicConfig(format=FORMAT)
-logging.getLogger('botocore').setLevel(logging.CRITICAL)
-logging.getLogger('boto3').setLevel(logging.CRITICAL)
-logging.getLogger('urllib3').setLevel(logging.CRITICAL)
-logging.getLogger('scrapy').setLevel(logging.CRITICAL)
+class CategoryInfoSpider(scrapy.Spider):
 
-
-
-class CategorySpider(scrapy.Spider):
-
-    name = 'category'
+    name = 'category-info'
 
     def __init__(self, competitors):
         self.competitors = competitors
@@ -30,6 +21,7 @@ class CategorySpider(scrapy.Spider):
     def start_requests(self):
         for c in self.competitors:
             competitor = find_competitor(name=c["name"], country=c["country"])
+
             logging.info(f"Will scrape competitor: {competitor.name}")
 
             for category, value in competitor.get_categories_urls().items():
@@ -45,7 +37,8 @@ class CategorySpider(scrapy.Spider):
                                      callback=self.parse_first_page)
 
     def parse_first_page(self, response):
-        logging.info(f"Parsing first page for competitor: {response.meta['competitor']}")
+        logging.info(
+            f"Parsing first page for competitor: {response.meta['competitor']} and category: {response.meta['category']}")
         competitor = find_competitor(name=response.meta['competitor'], country=response.meta['country'])
         category_details = competitor.parse_category_details(response)
 
@@ -64,6 +57,8 @@ class CategorySpider(scrapy.Spider):
             yield scrapy.Request(url=url, meta=meta, callback=self.parse_next_page)
 
     def parse_next_page(self, response):
+        logging.info(f"Parsing next pages ({response.meta['page_number']}/{response.meta['pages_count']}) "
+                     f"for competitor: {response.meta['competitor']} and category: {response.meta['category']}")
         competitor = find_competitor(name=response.meta['competitor'], country=response.meta['country'])
         yield competitor.parse_category_details(response)
 
@@ -75,47 +70,29 @@ class CategorySpider(scrapy.Spider):
         logging.info(f"Total scraping time: {difference} seconds")
 
 
-def run_category_spider(competitor):
-    bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
-
+def run_category_info(competitor):
     date_string = datetime.now().strftime('%Y-%m-%d')
 
-    competitor_key = f'{competitor["country"]}_{competitor["name"]}'
-    s3_file_key = f"category-overall-info/{date_string}/{competitor_key}.json"
+    file_name = f'category-overall-info_{date_string}_{competitor["country"]}_{competitor["name"]}.json'
 
-    process = CrawlerProcess({
-        "LOG_LEVEL": "INFO",
-        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-        'FEED_FORMAT': 'json',
-        'FEED_URI': f's3://{bucket_name}/{s3_file_key}'
-    })
+    def f(q):
+        try:
+            runner = CrawlerRunner({
+                'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
+                'FEED_FORMAT': 'json',
+                'FEED_URI': file_name
+            })
+            deferred = runner.crawl(CategoryInfoSpider, competitors=[competitor])
+            deferred.addBoth(lambda _: reactor.stop())
+            reactor.run()
+            q.put(None)
+        except Exception as e:
+            q.put(e)
 
-    process.crawl(CategorySpider, competitors=[competitor])
-    process.start()
+    q = Queue()
+    p = Process(target=f, args=(q,))
+    p.start()
+    q.get()
+    p.join()
 
-    # bucket name, file key
-    return bucket_name, s3_file_key
-
-
-def parse_json_to_sqs(bucket_name, s3_file_key):
-    logging.info(f"Will parse json file and store it in SQS - bucket: {bucket_name}, file key: {s3_file_key}")
-    queue_name = os.getenv('QUEUE_NAME', 'competitor-analysis-products-queue-dev')
-
-    file_client = dao.FileStorageClient()
-    queue_client = dao.QueueClient(queue_name=queue_name)
-
-    file_content = file_client.get(
-        bucket_name=bucket_name,
-        file_key=s3_file_key
-    )
-
-    data = json.load(file_content)
-
-    queue_client.store_items(items=data)
-
-
-if __name__ == "__main__":
-    # bucket_name, s3_file_key = run_category_spider({"country": "nl", "name": "flinders"})
-    bucket_name, s3_file_key = run_category_spider({"country": "nl", "name": "bolia"})
-
-    parse_json_to_sqs(bucket_name, s3_file_key)
+    return file_name

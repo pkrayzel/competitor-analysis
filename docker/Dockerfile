@@ -13,7 +13,7 @@ RUN apk --update --no-cache add \
     && rm -rf /var/cache/apk/*
 
 ADD ./requirements.txt /tmp/requirements.txt
-RUN pip install -r /tmp/requirements.txt \
+RUN pip install -r /tmp/requirements.txt
 
 ADD ./src /src
 

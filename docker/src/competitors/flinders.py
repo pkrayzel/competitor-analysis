@@ -112,7 +112,7 @@ class FlindersCompetitor(Competitor):
         result.height = height
         result.depth = depth
 
-        result.seat_height = int(technical_details.get("zithoogte", 0))
+        result.seat_height = float(technical_details.get("zithoogte", 0.0))
 
         result.material = technical_details.get("materiaal", "")
         result.color = technical_details.get("kleur", "")
@@ -123,12 +123,19 @@ class FlindersCompetitor(Competitor):
     def _get_dimensions_from_technical_details(self, technical_details):
         """
         "afmetingen": "(b) 190 x (d) 86 x (h) 85 cm",   # dimensions
+        "afmetingen": "(b) 18 x (d) 38 cm"
+        "afmetingen": "(b) 53.00 x (d) 6.50 x (h) 55.00 cm"
+        ...
+        width, depth, height = [float(s) for s in dimensions.split() if s.isdigit()]
         :param dimensions:
         :return:
         """
         dimensions = technical_details.get("afmetingen")
-        if dimensions:
-            width, depth, height = [int(s) for s in dimensions.split() if s.isdigit()]
-            return width, depth, height
+        try:
+            if dimensions:
+                width, depth, height = [float(s) for s in dimensions.split() if s.isdigit()]
+                return width, depth, height
+        except Exception as e:
+            logging.error(f"Error while parsing dimensions for flinders - {technical_details} - {e}")
 
         return 0, 0, 0

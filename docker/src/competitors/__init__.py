@@ -1,15 +1,22 @@
+import inject
+
 from competitors.fonq import FonqCompetitor
 from competitors.flinders import FlindersCompetitor
 from competitors.bolia import BoliaCompetitor
 
-COMPETITORS = [
-    FlindersCompetitor(),
-    FonqCompetitor(),
-    BoliaCompetitor()
-]
+
+class CompetitorNotFoundException(Exception):
+
+    pass
 
 
-def find_competitor(name, country):
-    for c in COMPETITORS:
-        if c.name == name and c.country == country:
-            return c
+@inject.params(competitors_map='competitors_map')
+def find_competitor(country, name, competitors_map):
+    key=f"{country}_{name}"
+
+    result = competitors_map.get(key)
+
+    if not result:
+        raise CompetitorNotFoundException(f"Competitor not found for country: {country}, name: {name}")
+
+    return result

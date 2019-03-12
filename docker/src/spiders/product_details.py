@@ -1,7 +1,3 @@
-import os
-import logging
-import time
-import json
 import scrapy
 from scrapy.crawler import CrawlerRunner
 from multiprocessing import Process, Queue
@@ -10,18 +6,11 @@ from twisted.internet import reactor
 
 from datetime import datetime
 
-from competitors import find_competitor
-from adapters import dao
-
-
-logging.getLogger('urllib3').setLevel(logging.CRITICAL)
-logging.getLogger('botocore').setLevel(logging.CRITICAL)
-logging.getLogger('boto3').setLevel(logging.CRITICAL)
 
 
 class ProductPagesSpider(scrapy.Spider):
 
-    name = 'product-pages'
+    name = 'product-details'
 
     custom_settings = {
         "DOWNLOAD_DELAY": 0,
@@ -58,21 +47,18 @@ class ProductPagesSpider(scrapy.Spider):
         self.logger.info(f"Total scraping time: {difference} seconds")
 
 
-def scrape_product_links(item):
-    bucket_name = os.getenv('BUCKET_NAME', 'made-dev-competitor-analysis')
+def run_product_details(item):
     date_string = datetime.now().strftime('%Y-%m-%d')
 
     key = f'{item["country"]}_{item["competitor"]}_{item["category"]}_{item["page_number"]}'
-
-    logging.info(f'Will scrape product links for {key}')
+    file_name = f"category-product-pages_{date_string}_{key}.json"
 
     def f(q):
         try:
             runner = CrawlerRunner({
-                'LOG_LEVEL': 'ERROR',
                 'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
                 'FEED_FORMAT': 'json',
-                'FEED_URI': f's3://{bucket_name}/category-product-pages/{date_string}/{key}.json'
+                'FEED_URI': file_name
             })
             deferred = runner.crawl(ProductPagesSpider, item=item)
             deferred.addBoth(lambda _: reactor.stop())
@@ -84,32 +70,7 @@ def scrape_product_links(item):
     q = Queue()
     p = Process(target=f, args=(q,))
     p.start()
-    result = q.get()
+    q.get()
     p.join()
 
-    if result is not None:
-        raise result
-
-
-def consume_from_sqs():
-    logging.info('Running SQS reader')
-
-    queue_name = os.getenv('QUEUE_NAME', 'competitor-analysis-products-queue-dev')
-    queue_client = dao.QueueClient(queue_name=queue_name)
-
-    while True:
-        message, receipt_handle = queue_client.receive_message()
-
-        if message:
-            item = json.loads(message)
-            scrape_product_links(item)
-
-            queue_client.delete_message(receipt_handle)
-            logging.info("Consumed product links...")
-        else:
-            logging.info("No SQS messages found - sleeping for 30 seconds")
-            time.sleep(30)
-
-
-if __name__ == "__main__":
-    consume_from_sqs()
+    return file_name

@@ -35,7 +35,8 @@ class Competitor:
                 'competitor': category_details["competitor"],
                 'category': category_details["category"],
                 'category_url': category_details["category_url"],
-                'page_number': i
+                'page_number': i,
+                'pages_count': category_details["pages_count"]
             }
             result.append((url, meta))
 

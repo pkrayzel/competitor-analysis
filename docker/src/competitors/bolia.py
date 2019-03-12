@@ -1,7 +1,5 @@
 import logging
 
-from selenium import webdriver
-
 from bs4 import BeautifulSoup
 import time
 
@@ -24,17 +22,12 @@ class BoliaCompetitor(Competitor):
         "table_lights": {"url": "https://www.bolia.com/nl-nl/accessoires/lampen/tafellampen/?Material=Beton&Material=Glas&Material=Marmer&Material=Staal"},
     }
 
-    def __init__(self):
+    def __init__(self, web):
         self.name = 'bolia'
         self.country = 'nl'
         self.products_per_page = 50
 
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--headless')
-        chrome_options.add_argument('--disable-gpu')
-        self.driver = webdriver.Chrome(chrome_options=chrome_options)
-        self.driver.implicitly_wait(10)
+        self.driver = web
 
         super().__init__(
             name=self.name,
@@ -200,9 +193,9 @@ class BoliaCompetitor(Competitor):
 
         technical_details = product_details["technical_details"]
 
-        result.width = self._get_dimension_field(technical_details, "breedte")
-        result.height = self._get_dimension_field(technical_details, "hoogte")
-        result.depth = self._get_dimension_field(technical_details, "diepte")
+        result.width = self._get_dimension_field_multiple(technical_details, "breedte")
+        result.height = self._get_dimension_field_multiple(technical_details, "hoogte")
+        result.depth = self._get_dimension_field_multiple(technical_details, "diepte")
 
         result.seat_height = self._get_dimension_field_multiple(technical_details, "zithoogte")
 
@@ -211,16 +204,12 @@ class BoliaCompetitor(Competitor):
 
         return result
 
-    def _get_dimension_field(self, technical_details, label):
-        value = technical_details.get(label, "0.0 cm")
-        value = value.replace(' cm', '')
-        return float(value)
-
     def _get_dimension_field_multiple(self, technical_details, label):
         value = technical_details.get(label, "0.0/0.00  cm")
-        value = value.replace('cm', '').replace(' ', '')
+        value = value.replace('cm', '').replace(' ', '').replace(',', '.')
 
         if "/" in value:
             value = value.split('/')[0]
+            value = value.replace(',', '.')
 
         return float(value)
