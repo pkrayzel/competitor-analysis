@@ -1,15 +1,20 @@
 from infrastructure import bootstrap
-from services.handlers import CategoryInfoHandler
+from services.handlers import CategoryInfoHandler, CategoryInfoSendToQueueHandler
 
 
 def main():
     bootstrap.bootstrap()
 
+    # scraping handler
     handler = CategoryInfoHandler()
-    handler({
+    file_name = handler({
         "country": "nl",
-        "name": "bolia"
+        "name": "flinders"
     })
+
+    # send messages to SQS
+    handler = CategoryInfoSendToQueueHandler()
+    handler(file_name)
 
 
 if __name__ == "__main__":

@@ -1,6 +1,7 @@
 import logging
 import json
 import os
+import math
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -44,6 +45,8 @@ class FileStorageClient:
 
 class QueueClient:
 
+    BATCH_REQUEST_LIMIT = 10
+
     def __init__(self, resource, queue_name):
         self.resource = resource
         self.queue_name = queue_name
@@ -70,12 +73,37 @@ class QueueClient:
             ReceiptHandle=receipt_handle
         )
 
-    def store_items(self, items):
-        logger.debug(f"Number of items to send to SQS queue {self.queue_name} - {len(items)}")
+    def send_messages(self, messages):
+        logger.info(f"Number of messages to send to SQS queue {self.queue_name} - {len(messages)}")
 
-        for i, item in enumerate(items):
-            logger.info(f"Sending item: {i+1}...")
-            self.queue.send_message(
-                DelaySeconds=1,
+        request_count = math.ceil(len(messages) / self.BATCH_REQUEST_LIMIT)
+
+        logger.info(f"Messages will be sent in following number of requests: {request_count}")
+        for i in range(request_count):
+            start = i * self.BATCH_REQUEST_LIMIT
+            end = (i + 1) * self.BATCH_REQUEST_LIMIT
+
+            messages_page = messages[start:end]
+
+            logger.info(f"Sending {i+1}. batch of messages[{start}:{end}] to SQS...")
+            self._send_messages_batch(messages_page)
+            logger.info("Successfully delivered.")
+
+
+    def _send_messages_batch(self, messages):
+        response = self.resource.meta.client.send_message_batch(
+            QueueUrl=self.queue.url,
+            Entries=[dict(
+                Id=f"{item['country']}-{item['competitor']}-{item['category']}-{item['page_number']}",
                 MessageBody=json.dumps(item)
-            )
+            ) for item in messages]
+        )
+        successful = response.get("Successful", [])
+        failed = response.get("Failed", [])
+
+        logger.info(f"Number of successfully sent messages in batch: {len(successful)}")
+
+        if len(failed) > 0:
+            logger.error(f"Number of failed messages in batch: {len(failed)}")
+            for f in failed:
+                logger.error(f)

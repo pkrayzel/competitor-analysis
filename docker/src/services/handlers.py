@@ -13,10 +13,8 @@ from competitors import find_competitor
 class CategoryInfoHandler:
 
     @inject.params(file_storage_client='file_storage_client')
-    @inject.params(queue_client='queue_client')
-    def __init__(self, file_storage_client, queue_client):
+    def __init__(self, file_storage_client):
         self.file_storage_client = file_storage_client
-        self.queue_client = queue_client
 
     def __call__(self, competitor):
         start_time = time.time()
@@ -31,18 +29,33 @@ class CategoryInfoHandler:
 
         try:
             self.file_storage_client.upload_local_file(file_name)
-
-            with open(file_name, 'r') as f:
-                logging.info(f"Parsing file content to json...")
-                data = json.load(f)
-
-            logging.info(f"Sending {len(data)} items to SQS one by one...")
-            self.queue_client.store_items(items=data)
-
         except Exception as e:
             logging.error(f"Error happened during processing file: {file_name} - {e}")
         end_time = time.time()
+
         logging.info(f"CategoryInfo handler finished processing in: {end_time-start_time} seconds")
+        return file_name
+
+
+class CategoryInfoSendToQueueHandler:
+
+    @inject.params(queue_client='queue_client')
+    def __init__(self, queue_client):
+        self.queue_client = queue_client
+
+    def __call__(self, file_name):
+        start_time = time.time()
+        logging.info(f"Category information send to queue handler is running for file_name: {file_name}")
+
+        with open(file_name, 'r') as file_:
+            logging.info(f"Parsing file {file_name} to JSON")
+            data = json.load(file_)
+
+        self.queue_client.send_messages(data)
+
+        end_time = time.time()
+        logging.info(f"CategoryInfo handler finished processing in: {end_time-start_time} seconds")
+
 
 
 class ProductDetailsHandler:
