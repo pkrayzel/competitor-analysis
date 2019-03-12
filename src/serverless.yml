@@ -63,6 +63,7 @@ functions:
 
   product-pages-spider:
     handler: product_pages_spider.handler
+    memorySize: 512
     timeout: 900
     events:
       - sqs:

@@ -6,6 +6,7 @@ sys.path.append("../src")
 
 from competitors.flinders import FlindersCompetitor
 from competitors.fonq import FonqCompetitor
+from competitors.bolia import BoliaCompetitor
 
 
 @pytest.mark.parametrize("example", [
@@ -71,7 +72,6 @@ from competitors.fonq import FonqCompetitor
         },
         "competitor": FonqCompetitor()
     },
-
     {
         "json_item": {"country": "nl", "competitor": "bolia", "category": "2_seat_sofas",
                       "category_url": "https://www.bolia.com/nl-nl/banken/alle-banken/?Model=2-zitsbank&Model=2%C2%BD-zitsbank&size=10000",
