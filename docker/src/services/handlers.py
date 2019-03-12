@@ -54,7 +54,7 @@ class ProductDetailsHandler:
         logging.info('Starting product details handler')
 
         no_message_counter = 0
-        max_not_found_counter = 20
+        max_not_found_counter = 10
 
         while no_message_counter < max_not_found_counter:
             logging.info('Getting a message from SQS... ')
@@ -79,8 +79,8 @@ class ProductDetailsHandler:
 
             else:
                 no_message_counter += 1
-                logging.info("No new SQS message found - sleeping for 30 seconds and increasing counter")
-                time.sleep(30)
+                logging.info(f"No new SQS message found - sleeping for 5 seconds and increasing counter ({no_message_counter})")
+                time.sleep(5)
 
         logging.info(f"No new messages were found {max_not_found_counter} times in a row. Exiting the job now.")
 

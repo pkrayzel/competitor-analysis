@@ -8,15 +8,15 @@ class FlindersCompetitor(Competitor):
     PRODUCTS_PER_PAGE = 100
 
     CATEGORIES_URL = {
-        "2_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken" },
-        "3_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-3-zitsbanken" },
-        "corner_sofa": {"url": "https://www.flinders.nl/wonen-stoelen-fauteuils" },
-        "dining_chairs": {"url": "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen" },
-        "beds": { "url": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"},
-        "rugs": {"url": "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden" },
-        "pendant_lights": {"url": "https://www.flinders.nl/wonen-hanglampen" },
-        "wall_lights": {"url": "https://www.flinders.nl/wonen-wandlampen" },
-        "floor_lights": {"url": "https://www.flinders.nl/wonen-vloerlampen" },
+        # "2_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-2-5-zitsbanken" },
+        # "3_seat_sofas": {"url": "https://www.flinders.nl/wonen-banken-3-zitsbanken" },
+        # "corner_sofa": {"url": "https://www.flinders.nl/wonen-stoelen-fauteuils" },
+        # "dining_chairs": {"url": "https://www.flinders.nl/wonen-stoelen-eetkamerstoelen" },
+        # "beds": { "url": "https://www.flinders.nl/wonen-slaapkamer-tweepersoonsbedden"},
+        # "rugs": {"url": "https://www.flinders.nl/wonen-woonaccessoires-vloerkleden" },
+        # "pendant_lights": {"url": "https://www.flinders.nl/wonen-hanglampen" },
+        # "wall_lights": {"url": "https://www.flinders.nl/wonen-wandlampen" },
+        # "floor_lights": {"url": "https://www.flinders.nl/wonen-vloerlampen" },
         "table_lights": {"url": "https://www.flinders.nl/wonen-tafellampen" },
     }
 
