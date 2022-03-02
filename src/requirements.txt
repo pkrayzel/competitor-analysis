@@ -1,4 +1,4 @@
-Scrapy==1.6.0
+Scrapy==1.8.2
 aws-lambda-logging==0.1.1
 cerberus==1.2
 selenium==3.141.0
